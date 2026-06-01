@@ -1,0 +1,756 @@
+year,country,url
+2005-01-01,Algeria,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/agmyb05.pdf
+2006-01-01,Algeria,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-ag.pdf
+2007-01-01,Algeria,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-ag.pdf
+2008-01-01,Algeria,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-ag.pdf
+2009-01-01,Algeria,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-ag.pdf
+2010-01-01,Algeria,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-ag.pdf
+2011-01-01,Algeria,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-ag.pdf
+2012-01-01,Algeria,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-ag.pdf
+2013-01-01,Algeria,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-ag.pdf
+2014-01-01,Algeria,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-ag.pdf
+2015-01-01,Algeria,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-ag.pdf
+2016-01-01,Algeria,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-ag.pdf
+2018-01-01,Algeria,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-Algeria.pdf
+2019-01-01,Algeria,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-algeria.pdf
+2005-01-01,Angola,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/aomyb05.pdf
+2006-01-01,Angola,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-ao.pdf
+2007-01-01,Angola,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-ao.pdf
+2008-01-01,Angola,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-ao.pdf
+2009-01-01,Angola,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-ao.pdf
+2010-01-01,Angola,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-ao.pdf
+2011-01-01,Angola,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-ao.pdf
+2012-01-01,Angola,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-ao.pdf
+2013-01-01,Angola,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-ao.pdf
+2016-01-01,Angola,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-ang.pdf
+2018-01-01,Angola,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-ao.pdf
+2019-01-01,Angola,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-angola.pdf
+2021-01-01,Angola,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-angola.pdf
+2005-01-01,Bahrain,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/bamyb05.pdf
+2006-01-01,Bahrain,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-ba.pdf
+2007-01-01,Bahrain,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-ba.pdf
+2008-01-01,Bahrain,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-ba.pdf
+2009-01-01,Bahrain,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-ba.pdf
+2010-01-01,Bahrain,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-ba.pdf
+2011-01-01,Bahrain,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-ba.pdf
+2012-01-01,Bahrain,https://d9-wret.s3.us-west-2.amazonaws.com/assetss/palladium/production/mineral-pubs/country/2012/myb3-2012-ba.pdf
+2013-01-01,Bahrain,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-ba.pdf
+2014-01-01,Bahrain,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-ba.pdf
+2015-01-01,Bahrain,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-bah.pdf
+2016-01-01,Bahrain,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-ba.pdf
+2018-01-01,Bahrain,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-ba.pdf
+2019-01-01,Bahrain,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-bahrain.pdf
+2021-01-01,Bahrain,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-bahrain.pdf
+2014-01-01,Benin,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-bn.pdf
+2015-01-01,Benin,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2015/myb3-2015-bn.pdf
+2005-01-01,Botswana,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/bcmyb05.pdf
+2006-01-01,Botswana,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-bc.pdf
+2007-01-01,Botswana,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-bc.pdf
+2008-01-01,Botswana,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-bc.pdf
+2009-01-01,Botswana,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-bc.pdf
+2010-01-01,Botswana,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-bc.pdf
+2011-01-01,Botswana,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-bc.pdf
+2012-01-01,Botswana,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-bc.pdf
+2013-01-01,Botswana,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-bc.pdf
+2014-01-01,Botswana,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/palladium/production/mineral-pubs/country/2014/myb3-2014-bc.pdf
+2015-01-01,Botswana,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-botswana.pdf
+2016-01-01,Botswana,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-bc.pdf
+2018-01-01,Botswana,https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-botswana.pdf
+2019-01-01,Botswana,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-botswana.pdf
+2013-01-01,Burkina Faso,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-uv.pdf
+2016-01-01,Burkina Faso,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-uv-2.pdf
+2018-01-01,Burkina Faso,https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-burkina-faso.pdf
+2019-01-01,Burkina Faso,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-burkina-faso.pdf
+2005-01-01,Burundi,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/bymyb05.pdf
+2006-01-01,Burundi,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-by.pdf
+2007-01-01,Burundi,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-by.pdf
+2008-01-01,Burundi,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-by.pdf
+2009-01-01,Burundi,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-by.pdf
+2010-01-01,Burundi,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-by.pdf
+2011-01-01,Burundi,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-by.pdf
+2012-01-01,Burundi,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-by.pdf
+2013-01-01,Burundi,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-by.pdf
+2014-01-01,Burundi,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-by.pdf
+2015-01-01,Burundi,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-by.pdf
+2016-01-01,Burundi,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-by.pdf
+2018-01-01,Burundi,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-by.pdf
+2019-01-01,Burundi,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-burundi.pdf
+2013-01-01,Cameroon,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-cm.pdf
+2014-01-01,Cameroon,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-cm.pdf
+2015-01-01,Cameroon,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-cm.pdf
+2016-01-01,Cameroon,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-cm.pdf
+2018-01-01,Cameroon,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-cm.pdf
+2019-01-01,Cameroon,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-cameroon.pdf
+2021-01-01,Cameroon,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-cameroon.pdf
+2014-01-01,Central African Republic,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-ct.pdf
+2015-01-01,Central African Republic,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-ct.pdf
+2016-01-01,Central African Republic,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-ct.pdf
+2018-01-01,Central African Republic,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-ct.pdf
+2019-01-01,Central African Republic,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-central-african-republic.pdf
+2021-01-01,Central African Republic,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-central-african-republic.pdf
+2005-01-01,Chad,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/cdmyb05.pdf
+2006-01-01,Chad,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-cd.pdf
+2007-01-01,Chad,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-cd.pdf
+2008-01-01,Chad,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-cd.pdf
+2009-01-01,Chad,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-cd.pdf
+2010-01-01,Chad,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-cd.pdf
+2011-01-01,Chad,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-cd.pdf
+2012-01-01,Chad,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-cd.pdf
+2013-01-01,Chad,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-cd.pdf
+2014-01-01,Chad,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-cd.pdf
+2015-01-01,Chad,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-cd.pdf
+2016-01-01,Chad,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-cd.pdf
+2018-01-01,Chad,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-cd.pdf
+2019-01-01,Chad,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-chad.pdf
+2021-01-01,Chad,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-chad.pdf
+2005-01-01,Congo (Brazzaville),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/cfmyb05.pdf
+2006-01-01,Congo (Brazzaville),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-cf.pdf
+2007-01-01,Congo (Brazzaville),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-cf.pdf
+2008-01-01,Congo (Brazzaville),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-cf.pdf
+2009-01-01,Congo (Brazzaville),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-cf.pdf
+2010-01-01,Congo (Brazzaville),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-cf.pdf
+2011-01-01,Congo (Brazzaville),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-cf.pdf
+2012-01-01,Congo (Brazzaville),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-cf.pdf
+2013-01-01,Congo (Brazzaville),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-cf.pdf
+2014-01-01,Congo (Brazzaville),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-cf.pdf
+2015-01-01,Congo (Brazzaville),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-cf.pdf
+2016-01-01,Congo (Brazzaville),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-cf.pdf
+2018-01-01,Congo (Brazzaville),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-cf.pdf
+2019-01-01,Congo (Brazzaville),https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-congo-brazzaville.pdf
+2021-01-01,Congo (Brazzaville),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2020-21-congo-brazzaville.pdf
+2022-01-01,Congo (Brazzaville),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-congo-brazzaville.pdf
+2005-01-01,Congo (Kinshasa),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/cgmyb05.pdf
+2006-01-01,Congo (Kinshasa),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-cg.pdf
+2007-01-01,Congo (Kinshasa),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-cg.pdf
+2008-01-01,Congo (Kinshasa),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-cg.pdf
+2009-01-01,Congo (Kinshasa),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-cg.pdf
+2010-01-01,Congo (Kinshasa),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-cg.pdf
+2011-01-01,Congo (Kinshasa),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-cg.pdf
+2012-01-01,Congo (Kinshasa),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-cg.pdf
+2013-01-01,Congo (Kinshasa),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-cg.pdf
+2014-01-01,Congo (Kinshasa),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-cg.pdf
+2015-01-01,Congo (Kinshasa),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-congo-kinshasha.pdf
+2016-01-01,Congo (Kinshasa),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-Congo_Kinshasa.pdf
+2018-01-01,Congo (Kinshasa),https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-congo-kinshasa.pdf
+2019-01-01,Congo (Kinshasa),https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-congo-kinshasa.pdf
+2021-01-01,Congo (Kinshasa),https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-congo-kinshasa.pdf
+2022-01-01,Congo (Kinshasa),https://pubs.usgs.gov/myb/vol3/2022/myb3-2022-congo-kinshasa.pdf
+2011-01-01,Cote d'Ivoire (Ivory Coast),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-iv.pdf
+2012-01-01,Cote d'Ivoire (Ivory Coast),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-iv.pdf
+2016-01-01,Cote d'Ivoire (Ivory Coast),https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-iv.pdf
+2018-01-01,Cote d'Ivoire (Ivory Coast),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-Cote%20d%27Ivoire.pdf
+2019-01-01,Cote d'Ivoire (Ivory Coast),https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-cote-divoire.pdf
+2005-01-01,Djibouti,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/djmyb05.pdf
+2006-01-01,Djibouti,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-dj.pdf
+2007-01-01,Djibouti,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-dj.pdf
+2008-01-01,Djibouti,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-dj.pdf
+2009-01-01,Djibouti,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-dj.pdf
+2010-01-01,Djibouti,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-dj.pdf
+2011-01-01,Djibouti,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-dj.pdf
+2012-01-01,Djibouti,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-dj.pdf
+2013-01-01,Djibouti,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-dj.pdf
+2014-01-01,Djibouti,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-dj.pdf
+2015-01-01,Djibouti,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2015/myb3-2015-dj.pdf
+2016-01-01,Djibouti,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-dj.pdf
+2018-01-01,Djibouti,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-dj.pdf
+2019-01-01,Djibouti,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-djibouti.pdf
+2005-01-01,Egypt,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/egmyb05.pdf
+2006-01-01,Egypt,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-eg.pdf
+2007-01-01,Egypt,https://d9-wret.s3.us-west-2.amazonaws.com/asset/palladium/production/mineral-pubs/country/2007/myb3-2007-eg.pdf
+2008-01-01,Egypt,https://d9-wret.s3.us-west-2.amazonaws.com/asset/palladium/production/mineral-pubs/country/2008/myb3-2008-eg.pdf
+2009-01-01,Egypt,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-eg.pdf
+2010-01-01,Egypt,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-eg.pdf
+2011-01-01,Egypt,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-eg.pdf
+2012-01-01,Egypt,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-eg.pdf
+2013-01-01,Egypt,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-eg.pdf
+2014-01-01,Egypt,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-eg.pdf
+2015-01-01,Egypt,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-eg.pdf
+2016-01-01,Egypt,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-eg.pdf
+2018-01-01,Egypt,https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-egypt.pdf
+2019-01-01,Egypt,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-egypt.pdf
+2021-01-01,Egypt,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-egypt.pdf
+2005-01-01,Equatorial Guinea,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/ekmyb05.pdf
+2006-01-01,Equatorial Guinea,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-ek.pdf
+2007-01-01,Equatorial Guinea,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-ek.pdf
+2008-01-01,Equatorial Guinea,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-ek.pdf
+2009-01-01,Equatorial Guinea,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-ek.pdf
+2010-01-01,Equatorial Guinea,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-ek.pdf
+2011-01-01,Equatorial Guinea,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-ek.pdf
+2012-01-01,Equatorial Guinea,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-ek.pdf
+2013-01-01,Equatorial Guinea,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-ek.pdf
+2014-01-01,Equatorial Guinea,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-ek.pdf
+2015-01-01,Equatorial Guinea,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2015/myb3-2015-ek.pdf
+2016-01-01,Equatorial Guinea,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-ek.pdf
+2018-01-01,Equatorial Guinea,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-ek.pdf
+2019-01-01,Equatorial Guinea,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-equatorial-guinea.pdf
+2005-01-01,Eritrea,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/ermyb05.pdf
+2006-01-01,Eritrea,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-er.pdf
+2007-01-01,Eritrea,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-er.pdf
+2008-01-01,Eritrea,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-er.pdf
+2009-01-01,Eritrea,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-er.pdf
+2010-01-01,Eritrea,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-er.pdf
+2011-01-01,Eritrea,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-er.pdf
+2012-01-01,Eritrea,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-er.pdf
+2013-01-01,Eritrea,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-er.pdf
+2014-01-01,Eritrea,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-er.pdf
+2015-01-01,Eritrea,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-er.pdf
+2016-01-01,Eritrea,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-er.pdf
+2018-01-01,Eritrea,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-er.pdf
+2019-01-01,Eritrea,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-eritrea.pdf
+2005-01-01,Eswatini (formerly Swaziland),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/wzmyb05.pdf
+2014-01-01,Eswatini (formerly Swaziland),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-wz.pdf
+2015-01-01,Eswatini (formerly Swaziland),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2015/myb3-2015-wz.pdf
+2016-01-01,Eswatini (formerly Swaziland),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-wz.pdf
+2018-01-01,Eswatini (formerly Swaziland),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-wz.pdf
+2019-01-01,Eswatini (formerly Swaziland),https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-eswatini.pdf
+2005-01-01,Ethiopia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/etmyb05.pdf
+2006-01-01,Ethiopia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-et.pdf
+2007-01-01,Ethiopia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-et.pdf
+2008-01-01,Ethiopia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-et.pdf
+2009-01-01,Ethiopia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-et.pdf
+2010-01-01,Ethiopia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-et.pdf
+2011-01-01,Ethiopia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-et.pdf
+2012-01-01,Ethiopia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-et.pdf
+2013-01-01,Ethiopia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-et.pdf
+2014-01-01,Ethiopia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-et.pdf
+2015-01-01,Ethiopia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-et.pdf
+2016-01-01,Ethiopia,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-et.pdf
+2018-01-01,Ethiopia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-et.pdf
+2019-01-01,Ethiopia,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-ethiopia.pdf
+2005-01-01,Gabon,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/gbmyb05.pdf
+2006-01-01,Gabon,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-gb.pdf
+2007-01-01,Gabon,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-gb.pdf
+2008-01-01,Gabon,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-gb.pdf
+2009-01-01,Gabon,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-gb.pdf
+2010-01-01,Gabon,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-gb.pdf
+2011-01-01,Gabon,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-gb.pdf
+2012-01-01,Gabon,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-gb.pdf
+2013-01-01,Gabon,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-gb.pdf
+2014-01-01,Gabon,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-gb.pdf
+2015-01-01,Gabon,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-gb.pdf
+2016-01-01,Gabon,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-gb.pdf
+2018-01-01,Gabon,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-gb.pdf
+2019-01-01,Gabon,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-gabon.pdf
+2021-01-01,Gabon,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-gabon.pdf
+2005-01-01,Ghana,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/ghmyb05.pdf
+2006-01-01,Ghana,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-gh.pdf
+2007-01-01,Ghana,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-gh.pdf
+2008-01-01,Ghana,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-gh.pdf
+2009-01-01,Ghana,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-gh.pdf
+2010-01-01,Ghana,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-gh.pdf
+2011-01-01,Ghana,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-gh.pdf
+2012-01-01,Ghana,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-gh.pdf
+2013-01-01,Ghana,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-gh.pdf
+2014-01-01,Ghana,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-gh.pdf
+2015-01-01,Ghana,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-gh.pdf
+2016-01-01,Ghana,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-gh.pdf
+2018-01-01,Ghana,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-gh.pdf
+2019-01-01,Ghana,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-ghana.pdf
+2005-01-01,Guinea,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/gvmyb05.pdf
+2006-01-01,Guinea,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-gv.pdf
+2007-01-01,Guinea,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-gv.pdf
+2008-01-01,Guinea,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-gv.pdf
+2009-01-01,Guinea,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-gv.pdf
+2010-01-01,Guinea,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-gv.pdf
+2011-01-01,Guinea,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-gv.pdf
+2012-01-01,Guinea,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-gv.pdf
+2013-01-01,Guinea,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-gv.pdf
+2014-01-01,Guinea,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-gv.pdf
+2015-01-01,Guinea,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-gv.pdf
+2016-01-01,Guinea,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-gv.pdf
+2018-01-01,Guinea,https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-guinea.pdf
+2019-01-01,Guinea,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-guinea.pdf
+2005-01-01,Iran,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/irmyb05.pdf
+2006-01-01,Iran,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-ir.pdf
+2007-01-01,Iran,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-ir.pdf
+2008-01-01,Iran,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-ir.pdf
+2009-01-01,Iran,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-ir.pdf
+2010-01-01,Iran,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-ir.pdf
+2011-01-01,Iran,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-ir.pdf
+2012-01-01,Iran,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-ir.pdf
+2013-01-01,Iran,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-ir.pdf
+2014-01-01,Iran,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-ir.pdf
+2015-01-01,Iran,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2015/myb3-2015-ir.pdf
+2016-01-01,Iran,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-ir.pdf
+2018-01-01,Iran,https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-iran.pdf
+2019-01-01,Iran,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-iran.pdf
+2021-01-01,Iran,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-iran.pdf
+2022-01-01,Iran,https://pubs.usgs.gov/myb/vol3/2022/myb3-2022-iran.pdf
+2023-01-01,Iran,https://pubs.usgs.gov/myb/vol3/2023/myb3-2023-iran.pdf
+2005-01-01,Iraq,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/izmyb05.pdf
+2006-01-01,Iraq,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-iz.pdf
+2007-01-01,Iraq,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-iz.pdf
+2008-01-01,Iraq,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-iz.pdf
+2009-01-01,Iraq,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-iz.pdf
+2010-01-01,Iraq,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-iz.pdf
+2011-01-01,Iraq,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-iz.pdf
+2012-01-01,Iraq,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-iz.pdf
+2013-01-01,Iraq,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-iz.pdf
+2014-01-01,Iraq,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-iz.pdf
+2015-01-01,Iraq,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-iraq.pdf
+2016-01-01,Iraq,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-iz.pdf
+2018-01-01,Iraq,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-iz.pdf
+2019-01-01,Iraq,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-iraq.pdf
+2021-01-01,Iraq,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-iraq.pdf
+2005-01-01,Israel,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/ismyb05.pdf
+2006-01-01,Israel,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-is.pdf
+2007-01-01,Israel,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-is.pdf
+2008-01-01,Israel,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-is.pdf
+2009-01-01,Israel,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-is.pdf
+2010-01-01,Israel,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-is.pdf
+2011-01-01,Israel,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-is.pdf
+2012-01-01,Israel,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-is.pdf
+2013-01-01,Israel,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-is.pdf
+2014-01-01,Israel,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-is.pdf
+2015-01-01,Israel,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/atoms/files/myb3-2015-is.pdf
+2016-01-01,Israel,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-is.pdf
+2018-01-01,Israel,https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-israel.pdf
+2019-01-01,Israel,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-israel.pdf
+2021-01-01,Israel,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-israel.pdf
+2005-01-01,Jordan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/jomyb05.pdf
+2006-01-01,Jordan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-jo.pdf
+2007-01-01,Jordan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-jo.pdf
+2008-01-01,Jordan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-jo.pdf
+2009-01-01,Jordan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-jo.pdf
+2010-01-01,Jordan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-jo.pdf
+2011-01-01,Jordan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-jo.pdf
+2012-01-01,Jordan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-jo.pdf
+2013-01-01,Jordan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-jo.pdf
+2014-01-01,Jordan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-jo.pdf
+2015-01-01,Jordan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-jo.pdf
+2016-01-01,Jordan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-jo.pdf
+2018-01-01,Jordan,https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-jordan.pdf
+2019-01-01,Jordan,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-jordan.pdf
+2021-01-01,Jordan,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-jordan.pdf
+2005-01-01,Kenya,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/kemyb05.pdf
+2006-01-01,Kenya,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-ke.pdf
+2007-01-01,Kenya,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-ke.pdf
+2008-01-01,Kenya,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-ke.pdf
+2009-01-01,Kenya,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-ke.pdf
+2010-01-01,Kenya,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-ke.pdf
+2011-01-01,Kenya,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-ke.pdf
+2012-01-01,Kenya,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-ke.pdf
+2013-01-01,Kenya,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-ke.pdf
+2014-01-01,Kenya,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-ke.pdf
+2015-01-01,Kenya,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-kenya.pdf
+2016-01-01,Kenya,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-ke.pdf
+2018-01-01,Kenya,https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-kenya.pdf
+2019-01-01,Kenya,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2019-kenya.pdf
+2005-01-01,Kuwait,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/kumyb05.pdf
+2006-01-01,Kuwait,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-ku.pdf
+2007-01-01,Kuwait,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-ku.pdf
+2008-01-01,Kuwait,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-ku.pdf
+2009-01-01,Kuwait,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-ku.pdf
+2010-01-01,Kuwait,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-ku.pdf
+2011-01-01,Kuwait,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-ku.pdf
+2012-01-01,Kuwait,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-ku.pdf
+2013-01-01,Kuwait,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-ku.pdf
+2014-01-01,Kuwait,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-ku.pdf
+2015-01-01,Kuwait,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-ku.pdf
+2016-01-01,Kuwait,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-ku.pdf
+2018-01-01,Kuwait,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-20117-18-ku.pdf
+2019-01-01,Kuwait,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-kuwait.pdf
+2021-01-01,Kuwait,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-kuwait.pdf
+2005-01-01,Lebanon,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/lemyb05.pdf
+2006-01-01,Lebanon,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-le.pdf
+2007-01-01,Lebanon,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-le.pdf
+2008-01-01,Lebanon,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-le.pdf
+2009-01-01,Lebanon,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-le.pdf
+2010-01-01,Lebanon,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-le.pdf
+2011-01-01,Lebanon,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-le.pdf
+2012-01-01,Lebanon,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-le.pdf
+2013-01-01,Lebanon,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-le.pdf
+2014-01-01,Lebanon,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-le.pdf
+2015-01-01,Lebanon,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-lebanon.pdf
+2016-01-01,Lebanon,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-le.pdf
+2018-01-01,Lebanon,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-le.pdf
+2019-01-01,Lebanon,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-lebanon.pdf
+2021-01-01,Lebanon,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-lebanon.pdf
+2005-01-01,Lesotho,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/ltmyb05.pdf
+2014-01-01,Lesotho,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-lt.pdf
+2015-01-01,Lesotho,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2015/myb3-2015-lt.pdf
+2016-01-01,Lesotho,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-lt.pdf
+2018-01-01,Lesotho,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18_Lesotho.pdf
+2019-01-01,Lesotho,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-lesotho.pdf
+2005-01-01,Liberia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/limyb05.pdf
+2008-01-01,Liberia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-li.pdf
+2009-01-01,Liberia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-li.pdf
+2010-01-01,Liberia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-li.pdf
+2011-01-01,Liberia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-li.pdf
+2012-01-01,Liberia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-li.pdf
+2013-01-01,Liberia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-li.pdf
+2014-01-01,Liberia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-li.pdf
+2015-01-01,Liberia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-li.pdf
+2016-01-01,Liberia,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-li.pdf
+2018-01-01,Liberia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-li.pdf
+2019-01-01,Liberia,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-liberia.pdf
+2005-01-01,Libya,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/lymyb05.pdf
+2006-01-01,Libya,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-ly.pdf
+2007-01-01,Libya,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-ly.pdf
+2008-01-01,Libya,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-ly.pdf
+2009-01-01,Libya,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-ly.pdf
+2010-01-01,Libya,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-ly.pdf
+2011-01-01,Libya,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-ly.pdf
+2012-01-01,Libya,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-ly.pdf
+2013-01-01,Libya,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-ly.pdf
+2014-01-01,Libya,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-ly.pdf
+2015-01-01,Libya,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-ly.pdf
+2016-01-01,Libya,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-ly.pdf
+2018-01-01,Libya,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-ly.pdf
+2019-01-01,Libya,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-libya.pdf
+2021-01-01,Libya,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-libya.pdf
+2005-01-01,Madagascar,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/myb3-2005-ma.pdf
+2006-01-01,Madagascar,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-ma.pdf
+2007-01-01,Madagascar,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-ma.pdf
+2008-01-01,Madagascar,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-ma.pdf
+2009-01-01,Madagascar,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-ma.pdf
+2010-01-01,Madagascar,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-ma.pdf
+2011-01-01,Madagascar,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-ma.pdf
+2012-01-01,Madagascar,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-ma.pdf
+2013-01-01,Madagascar,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-ma.pdf
+2014-01-01,Madagascar,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-ma.pdf
+2015-01-01,Madagascar,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-ma.pdf
+2016-01-01,Madagascar,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-ma.pdf
+2018-01-01,Madagascar,https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-madagascar.pdf
+2019-01-01,Madagascar,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-madagascar.pdf
+2005-01-01,Malawi,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/mimyb05.pdf
+2006-01-01,Malawi,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-mi.pdf
+2007-01-01,Malawi,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-mi.pdf
+2008-01-01,Malawi,https://apps.usgs.gov/minerals-information-archives/myb3/updates/myb3-2008-malawi.pdf
+2009-01-01,Malawi,https://apps.usgs.gov/minerals-information-archives/myb3/updates/myb3-2009-malawi.pdf
+2010-01-01,Malawi,https://apps.usgs.gov/minerals-information-archives/myb3/updates/myb3-2010-malawi.pdf
+2011-01-01,Malawi,https://apps.usgs.gov/minerals-information-archives/myb3/updates/myb3-2011-malawi.pdf
+2012-01-01,Malawi,https://apps.usgs.gov/minerals-information-archives/myb3/updates/myb3-2012-malawi.pdf
+2013-01-01,Malawi,https://apps.usgs.gov/minerals-information-archives/myb3/updates/myb3-2013-malawi.pdf
+2014-01-01,Malawi,https://apps.usgs.gov/minerals-information-archives/myb3/updates/myb3-2014-malawi.pdf
+2015-01-01,Malawi,https://apps.usgs.gov/minerals-information-archives/myb3/updates/myb3-2015-malawi.pdf
+2016-01-01,Malawi,https://apps.usgs.gov/minerals-information-archives/myb3/updates/myb3-2016-malawi.pdf
+2018-01-01,Malawi,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-mi.pdf
+2019-01-01,Malawi,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-malawi.pdf
+2006-01-01,Mali,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-ml.pdf
+2018-01-01,Mali,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-ml.pdf
+2019-01-01,Mali,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-mali.pdf
+2008-01-01,Mauritania,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-mr.pdf
+2009-01-01,Mauritania,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-mr.pdf
+2010-01-01,Mauritania,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-mr.pdf
+2011-01-01,Mauritania,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-mr.pdf
+2012-01-01,Mauritania,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-mr.pdf
+2013-01-01,Mauritania,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-mr.pdf
+2014-01-01,Mauritania,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-mr.pdf
+2015-01-01,Mauritania,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-mr.pdf
+2016-01-01,Mauritania,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-mr.pdf
+2018-01-01,Mauritania,https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-mauritania.pdf
+2019-01-01,Mauritania,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-mauritania.pdf
+2014-01-01,Mauritius,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-mp.pdf
+2005-01-01,Morocco,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/momyb05.pdf
+2006-01-01,Morocco,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-mo-wi.pdf
+2007-01-01,Morocco,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-mo-wi.pdf
+2008-01-01,Morocco,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-mo-wi.pdf
+2009-01-01,Morocco,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-mo-wi.pdf
+2010-01-01,Morocco,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-mo-wi.pdf
+2011-01-01,Morocco,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-mo-wi.pdf
+2012-01-01,Morocco,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-mo-wi.pdf
+2013-01-01,Morocco,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-mo-wi.pdf
+2014-01-01,Morocco,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-mo-wi.pdf
+2015-01-01,Morocco,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-mo-wi.pdf
+2016-01-01,Morocco,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-mo-wi.pdf
+2018-01-01,Morocco,https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-morocco-western-sahara.pdf
+2019-01-01,Morocco,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-morocco-western-sahara.pdf
+2021-01-01,Morocco,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-morocco.pdf
+2005-01-01,Mozambique,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/mzmyb05.pdf
+2006-01-01,Mozambique,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-mz.pdf
+2007-01-01,Mozambique,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-mz.pdf
+2008-01-01,Mozambique,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-mz.pdf
+2009-01-01,Mozambique,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-mz.pdf
+2010-01-01,Mozambique,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-mz.pdf
+2011-01-01,Mozambique,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-mz.pdf
+2012-01-01,Mozambique,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-mz.pdf
+2013-01-01,Mozambique,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-mz.pdf
+2014-01-01,Mozambique,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-mz.pdf
+2015-01-01,Mozambique,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-mozambique.pdf
+2016-01-01,Mozambique,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-mz.pdf
+2018-01-01,Mozambique,https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-mozambique.pdf
+2019-01-01,Mozambique,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-mozambique.pdf
+2005-01-01,Namibia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/wamyb05.pdf
+2006-01-01,Namibia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-wa.pdf
+2007-01-01,Namibia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-wa.pdf
+2008-01-01,Namibia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-wa.pdf
+2009-01-01,Namibia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-wa.pdf
+2010-01-01,Namibia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-wa.pdf
+2011-01-01,Namibia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-wa.pdf
+2012-01-01,Namibia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-wa.pdf
+2013-01-01,Namibia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-wa.pdf
+2016-01-01,Namibia,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-wa.pdf
+2018-01-01,Namibia,https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-namibia.pdf
+2019-01-01,Namibia,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-namibia.pdf
+2021-01-01,Namibia,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-namibia.pdf
+2018-01-01,Niger,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-ng.pdf
+2019-01-01,Niger,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-niger.pdf
+2005-01-01,Nigeria,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/nimyb05.pdf
+2006-01-01,Nigeria,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-ni.pdf
+2007-01-01,Nigeria,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-ni.pdf
+2008-01-01,Nigeria,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-ni.pdf
+2009-01-01,Nigeria,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-ni.pdf
+2010-01-01,Nigeria,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-ni.pdf
+2011-01-01,Nigeria,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-ni.pdf
+2012-01-01,Nigeria,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-ni.pdf
+2013-01-01,Nigeria,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-ni.pdf
+2014-01-01,Nigeria,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-ni.pdf
+2015-01-01,Nigeria,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-ni.pdf
+2016-01-01,Nigeria,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-ni.pdf
+2018-01-01,Nigeria,https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-nigeria.pdf
+2019-01-01,Nigeria,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-nigeria.pdf
+2005-01-01,Oman,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/mumyb05.pdf
+2006-01-01,Oman,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-mu.pdf
+2007-01-01,Oman,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-mu.pdf
+2008-01-01,Oman,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-mu.pdf
+2009-01-01,Oman,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-mu.pdf
+2010-01-01,Oman,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-mu.pdf
+2011-01-01,Oman,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-mu.pdf
+2012-01-01,Oman,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-mu.pdf
+2013-01-01,Oman,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-mu.pdf
+2014-01-01,Oman,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-mu.pdf
+2015-01-01,Oman,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-mu.pdf
+2016-01-01,Oman,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-mu.pdf
+2018-01-01,Oman,https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-oman.pdf
+2019-01-01,Oman,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-oman.pdf
+2021-01-01,Oman,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-oman.pdf
+2005-01-01,Qatar,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/qamyb05.pdf
+2006-01-01,Qatar,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-qa.pdf
+2007-01-01,Qatar,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-qa.pdf
+2008-01-01,Qatar,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-qa.pdf
+2009-01-01,Qatar,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-qa.pdf
+2010-01-01,Qatar,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-qa.pdf
+2011-01-01,Qatar,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-qa.pdf
+2012-01-01,Qatar,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-qa.pdf
+2013-01-01,Qatar,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-qa.pdf
+2014-01-01,Qatar,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-qa.pdf
+2015-01-01,Qatar,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-qa.pdf
+2016-01-01,Qatar,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-qa.pdf
+2018-01-01,Qatar,https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-qatar.pdf
+2019-01-01,Qatar,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-qatar.pdf
+2021-01-01,Qatar,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-qatar.pdf
+2005-01-01,Rwanda,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/myb3-2005-rw.pdf
+2006-01-01,Rwanda,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-rw.pdf
+2007-01-01,Rwanda,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-rw.pdf
+2008-01-01,Rwanda,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-rw.pdf
+2009-01-01,Rwanda,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-rw.pdf
+2010-01-01,Rwanda,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-rw.pdf
+2011-01-01,Rwanda,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-rw.pdf
+2012-01-01,Rwanda,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-rw.pdf
+2013-01-01,Rwanda,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-rw.pdf
+2014-01-01,Rwanda,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-rw.pdf
+2015-01-01,Rwanda,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-rwanda.pdf
+2016-01-01,Rwanda,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-rw.pdf
+2018-01-01,Rwanda,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-rw.pdf
+2019-01-01,Rwanda,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2019-rwanda.pdf
+2005-01-01,Saudi Arabia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/samyb05.pdf
+2006-01-01,Saudi Arabia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-sa.pdf
+2007-01-01,Saudi Arabia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-sa.pdf
+2008-01-01,Saudi Arabia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-sa.pdf
+2009-01-01,Saudi Arabia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-sa.pdf
+2010-01-01,Saudi Arabia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-sa.pdf
+2011-01-01,Saudi Arabia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-sa.pdf
+2012-01-01,Saudi Arabia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-sa.pdf
+2013-01-01,Saudi Arabia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-sa.pdf
+2014-01-01,Saudi Arabia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-sa.pdf
+2015-01-01,Saudi Arabia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-saudi-arabia.pdf
+2016-01-01,Saudi Arabia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-sa.pdf
+2018-01-01,Saudi Arabia,https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-saudi-arabia.pdf
+2019-01-01,Saudi Arabia,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-saudi-arabia.pdf
+2021-01-01,Saudi Arabia,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-saudi-arabia.pdf
+2022-01-01,Saudi Arabia,https://pubs.usgs.gov/myb/vol3/2022/myb3-2022-saudi-arabia.pdf
+2023-01-01,Saudi Arabia,https://pubs.usgs.gov/myb/vol3/2023/myb3-2023-saudi-arabia.pdf
+2013-01-01,Senegal,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-sg.pdf
+2014-01-01,Senegal,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-sg.pdf
+2015-01-01,Senegal,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-sg.pdf
+2016-01-01,Senegal,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-sg.pdf
+2018-01-01,Senegal,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-sg.pdf
+2019-01-01,Senegal,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-senegal.pdf
+2014-01-01,Seychelles,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-se.pdf
+2005-01-01,Sierra Leone,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/slmyb05.pdf
+2008-01-01,Sierra Leone,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-sl.pdf
+2009-01-01,Sierra Leone,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-sl.pdf
+2010-01-01,Sierra Leone,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-sl.pdf
+2011-01-01,Sierra Leone,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-sl.pdf
+2012-01-01,Sierra Leone,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-sl.pdf
+2013-01-01,Sierra Leone,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-sl.pdf
+2014-01-01,Sierra Leone,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-sl.pdf
+2015-01-01,Sierra Leone,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-sl.pdf
+2016-01-01,Sierra Leone,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-sl.pdf
+2018-01-01,Sierra Leone,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-sl.pdf
+2019-01-01,Sierra Leone,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-sierra-leone.pdf
+2005-01-01,Somalia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/somyb05.pdf
+2006-01-01,Somalia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-so.pdf
+2007-01-01,Somalia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-so.pdf
+2008-01-01,Somalia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-so.pdf
+2009-01-01,Somalia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-so.pdf
+2010-01-01,Somalia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-so.pdf
+2011-01-01,Somalia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-so.pdf
+2012-01-01,Somalia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-so.pdf
+2013-01-01,Somalia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-so.pdf
+2014-01-01,Somalia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-so.pdf
+2015-01-01,Somalia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-so.pdf
+2016-01-01,Somalia,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-so.pdf
+2018-01-01,Somalia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-so.pdf
+2019-01-01,Somalia,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-somalia.pdf
+2005-01-01,South Africa,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/myb3-2005-sf.pdf
+2006-01-01,South Africa,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-sf.pdf
+2007-01-01,South Africa,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-sf.pdf
+2008-01-01,South Africa,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-sf.pdf
+2009-01-01,South Africa,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-sf.pdf
+2010-01-01,South Africa,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-sf.pdf
+2011-01-01,South Africa,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-sf.pdf
+2012-01-01,South Africa,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-sf.pdf
+2013-01-01,South Africa,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-sf.pdf
+2014-01-01,South Africa,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-sf.pdf
+2015-01-01,South Africa,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-sf.pdf
+2016-01-01,South Africa,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-sf.pdf
+2018-01-01,South Africa,https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-south-africa.pdf
+2019-01-01,South Africa,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-south-africa.pdf
+2021-01-01,South Africa,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-south-africa.pdf
+2022-01-01,South Africa,https://pubs.usgs.gov/myb/vol3/2022/myb3-2022-south-africa.pdf
+2011-01-01,South Sudan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-od.pdf
+2012-01-01,South Sudan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-od.pdf
+2013-01-01,South Sudan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-od.pdf
+2014-01-01,South Sudan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-od.pdf
+2015-01-01,South Sudan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-od.pdf
+2016-01-01,South Sudan,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-od.pdf
+2018-01-01,South Sudan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-od.pdf
+2019-01-01,South Sudan,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-south-sudan.pdf
+2005-01-01,Sudan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/sumyb05.pdf
+2006-01-01,Sudan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-su.pdf
+2007-01-01,Sudan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-su.pdf
+2008-01-01,Sudan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-su.pdf
+2009-01-01,Sudan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-su.pdf
+2010-01-01,Sudan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-su.pdf
+2011-01-01,Sudan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-su.pdf
+2012-01-01,Sudan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-su.pdf
+2013-01-01,Sudan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-su.pdf
+2014-01-01,Sudan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-su.pdf
+2015-01-01,Sudan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-su.pdf
+2016-01-01,Sudan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-su.pdf
+2018-01-01,Sudan,https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-sudan.pdf
+2019-01-01,Sudan,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-sudan.pdf
+2005-01-01,Syria,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/symyb05.pdf
+2006-01-01,Syria,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-sy.pdf
+2007-01-01,Syria,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-sy.pdf
+2008-01-01,Syria,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-sy.pdf
+2009-01-01,Syria,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-sy.pdf
+2010-01-01,Syria,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-sy.pdf
+2011-01-01,Syria,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-sy.pdf
+2012-01-01,Syria,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-sy.pdf
+2013-01-01,Syria,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-sy.pdf
+2014-01-01,Syria,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-sy.pdf
+2015-01-01,Syria,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-sy.pdf
+2016-01-01,Syria,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-sy.pdf
+2018-01-01,Syria,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-sy.pdf
+2019-01-01,Syria,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-syria.pdf
+2021-01-01,Syria,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-syria.pdf
+2005-01-01,Tanzania,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/tzmyb05.pdf
+2006-01-01,Tanzania,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-tz.pdf
+2007-01-01,Tanzania,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-tz.pdf
+2008-01-01,Tanzania,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-tz.pdf
+2009-01-01,Tanzania,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-tz.pdf
+2010-01-01,Tanzania,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-tz.pdf
+2011-01-01,Tanzania,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-tz.pdf
+2012-01-01,Tanzania,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-tz.pdf
+2013-01-01,Tanzania,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-tz.pdf
+2014-01-01,Tanzania,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-tz.pdf
+2015-01-01,Tanzania,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-tz.pdf
+2016-01-01,Tanzania,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-Tanzania.pdf
+2018-01-01,Tanzania,https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-tanzania.pdf
+2019-01-01,Tanzania,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2019-tanzania.pdf
+2014-01-01,Togo,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-to.pdf
+2015-01-01,Togo,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-to.pdf
+2016-01-01,Togo,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-to.pdf
+2018-01-01,Togo,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-to.pdf
+2019-01-01,Togo,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-togo.pdf
+2005-01-01,Tunisia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/tsmyb05.pdf
+2006-01-01,Tunisia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-ts.pdf
+2007-01-01,Tunisia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-ts.pdf
+2008-01-01,Tunisia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-ts.pdf
+2009-01-01,Tunisia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-ts.pdf
+2010-01-01,Tunisia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-ts.pdf
+2011-01-01,Tunisia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-ts.pdf
+2012-01-01,Tunisia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-ts.pdf
+2013-01-01,Tunisia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-ts.pdf
+2014-01-01,Tunisia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-ts.pdf
+2015-01-01,Tunisia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-tunisia-3.pdf
+2016-01-01,Tunisia,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-ts.pdf
+2018-01-01,Tunisia,https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-tunisia.pdf
+2019-01-01,Tunisia,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-tunisia.pdf
+2021-01-01,Tunisia,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-tunisia.pdf
+2005-01-01,Uganda,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/ugmyb05.pdf
+2006-01-01,Uganda,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-ug.pdf
+2007-01-01,Uganda,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-ug.pdf
+2008-01-01,Uganda,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-ug.pdf
+2009-01-01,Uganda,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-ug.pdf
+2010-01-01,Uganda,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-ug.pdf
+2011-01-01,Uganda,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-ug.pdf
+2012-01-01,Uganda,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-ug.pdf
+2013-01-01,Uganda,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-ug.pdf
+2014-01-01,Uganda,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-ug.pdf
+2015-01-01,Uganda,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-uganda.pdf
+2016-01-01,Uganda,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-ug.pdf
+2018-01-01,Uganda,https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-uganda.pdf
+2019-01-01,Uganda,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2019-uganda.pdf
+2005-01-01,United Arab Emirates,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/aemyb05.pdf
+2006-01-01,United Arab Emirates,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-ae.pdf
+2007-01-01,United Arab Emirates,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-ae.pdf
+2008-01-01,United Arab Emirates,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-ae.pdf
+2009-01-01,United Arab Emirates,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-ae.pdf
+2010-01-01,United Arab Emirates,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-ae.pdf
+2011-01-01,United Arab Emirates,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-ae.pdf
+2012-01-01,United Arab Emirates,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-ae.pdf
+2013-01-01,United Arab Emirates,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-ae.pdf
+2014-01-01,United Arab Emirates,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-ae.pdf
+2015-01-01,United Arab Emirates,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-uae.pdf
+2016-01-01,United Arab Emirates,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-ae.pdf
+2018-01-01,United Arab Emirates,https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-united-arab-emirates.pdf
+2019-01-01,United Arab Emirates,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-united-arab-emirates.pdf
+2021-01-01,United Arab Emirates,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-united-arab-emirates.pdf
+2005-01-01,Yemen,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/ymmyb05.pdf
+2006-01-01,Yemen,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-ym.pdf
+2007-01-01,Yemen,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-ym.pdf
+2008-01-01,Yemen,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-ym.pdf
+2009-01-01,Yemen,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-ym.pdf
+2010-01-01,Yemen,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-ym.pdf
+2011-01-01,Yemen,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-ym.pdf
+2012-01-01,Yemen,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-ym.pdf
+2013-01-01,Yemen,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-ym.pdf
+2014-01-01,Yemen,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-ym.pdf
+2015-01-01,Yemen,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-ym.pdf
+2016-01-01,Yemen,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-ym.pdf
+2018-01-01,Yemen,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-ym.pdf
+2019-01-01,Yemen,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-yemen.pdf
+2021-01-01,Yemen,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-yemen.pdf
+2005-01-01,Zambia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/zamyb05.pdf
+2006-01-01,Zambia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-za.pdf
+2007-01-01,Zambia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-za.pdf
+2008-01-01,Zambia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-za.pdf
+2009-01-01,Zambia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-za.pdf
+2010-01-01,Zambia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-za.pdf
+2011-01-01,Zambia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-za.pdf
+2012-01-01,Zambia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-za.pdf
+2013-01-01,Zambia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-za.pdf
+2014-01-01,Zambia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-za.pdf
+2015-01-01,Zambia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-zambia.pdf
+2016-01-01,Zambia,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-za.pdf
+2018-01-01,Zambia,https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-zambia.pdf
+2019-01-01,Zambia,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-zambia.pdf
+2021-01-01,Zambia,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-zambia.pdf
+2005-01-01,Zimbabwe,https://d9-wret.s3.us-west-2.amazonaws.com/palladium/production/mineral-pubs/country/2005/zimyb05.pdf
+2006-01-01,Zimbabwe,https://d9-wret.s3.us-west-2.amazonaws.com/palladium/production/mineral-pubs/country/2006/myb3-2006-zi.pdf
+2007-01-01,Zimbabwe,https://d9-wret.s3.us-west-2.amazonaws.com/palladium/production/mineral-pubs/country/2007/myb3-2007-zi.pdf
+2008-01-01,Zimbabwe,https://d9-wret.s3.us-west-2.amazonaws.com/palladium/production/mineral-pubs/country/2008/myb3-2008-zi.pdf
+2009-01-01,Zimbabwe,https://d9-wret.s3.us-west-2.amazonaws.com/palladium/production/mineral-pubs/country/2009/myb3-2009-zi.pdf
+2010-01-01,Zimbabwe,https://d9-wret.s3.us-west-2.amazonaws.com/palladium/production/mineral-pubs/country/2010/myb3-2010-zi.pdf
+2011-01-01,Zimbabwe,https://d9-wret.s3.us-west-2.amazonaws.com/palladium/production/mineral-pubs/country/2011/myb3-2011-zi.pdf
+2012-01-01,Zimbabwe,https://d9-wret.s3.us-west-2.amazonaws.com/palladium/production/mineral-pubs/country/2012/myb3-2012-zi.pdf
+2013-01-01,Zimbabwe,https://d9-wret.s3.us-west-2.amazonaws.com/palladium/production/mineral-pubs/country/2013/myb3-2013-zi.pdf
+2014-01-01,Zimbabwe,https://d9-wret.s3.us-west-2.amazonaws.com/palladium/production/mineral-pubs/country/2014/myb3-2014-zi.pdf
+2015-01-01,Zimbabwe,https://d9-wret.s3.us-west-2.amazonaws.com/palladium/production/atoms/files/myb3-2015-zi.pdf
+2016-01-01,Zimbabwe,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-zi.pdf
+2018-01-01,Zimbabwe,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-zi.pdf
+2019-01-01,Zimbabwe,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-zimbabwe.pdf
