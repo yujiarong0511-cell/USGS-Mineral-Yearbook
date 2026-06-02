@@ -1,0 +1,954 @@
+2026-06-02 17:48:57.602381
+Downloading 1/159 [Argentina in 2005 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/myb3-2005-ar.pdf]
+
+2026-06-02 17:48:58.675726
+Successfully saved to ../../data/original_report/usgs_southamerica/Argentina_2005.pdf. Execution time 1.07 seconds
+
+2026-06-02 17:49:02.073195
+Downloading 2/159 [Argentina in 2006 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-ar.pdf]
+
+2026-06-02 17:49:02.261051
+Successfully saved to ../../data/original_report/usgs_southamerica/Argentina_2006.pdf. Execution time 0.19 seconds
+
+2026-06-02 17:49:06.077660
+Downloading 3/159 [Argentina in 2007 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-ar.pdf]
+
+2026-06-02 17:49:06.371508
+Successfully saved to ../../data/original_report/usgs_southamerica/Argentina_2007.pdf. Execution time 0.29 seconds
+
+2026-06-02 17:49:09.701762
+Downloading 4/159 [Argentina in 2008 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-ar.pdf]
+
+2026-06-02 17:49:09.922123
+Successfully saved to ../../data/original_report/usgs_southamerica/Argentina_2008.pdf. Execution time 0.22 seconds
+
+2026-06-02 17:49:13.505751
+Downloading 5/159 [Argentina in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-ar.pdf]
+
+2026-06-02 17:49:13.692224
+Successfully saved to ../../data/original_report/usgs_southamerica/Argentina_2009.pdf. Execution time 0.19 seconds
+
+2026-06-02 17:49:15.902593
+Downloading 6/159 [Argentina in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-ar.pdf]
+
+2026-06-02 17:49:16.096568
+Successfully saved to ../../data/original_report/usgs_southamerica/Argentina_2010.pdf. Execution time 0.19 seconds
+
+2026-06-02 17:49:19.267735
+Downloading 7/159 [Argentina in 2011 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-ar.pdf]
+
+2026-06-02 17:49:19.470514
+Successfully saved to ../../data/original_report/usgs_southamerica/Argentina_2011.pdf. Execution time 0.20 seconds
+
+2026-06-02 17:49:23.330699
+Downloading 8/159 [Argentina in 2012 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-ar.pdf]
+
+2026-06-02 17:49:23.520445
+Successfully saved to ../../data/original_report/usgs_southamerica/Argentina_2012.pdf. Execution time 0.19 seconds
+
+2026-06-02 17:49:26.948675
+Downloading 9/159 [Argentina in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-ar.pdf]
+
+2026-06-02 17:49:27.108137
+Successfully saved to ../../data/original_report/usgs_southamerica/Argentina_2013.pdf. Execution time 0.16 seconds
+
+2026-06-02 17:49:30.255344
+Downloading 10/159 [Argentina in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-ar.pdf]
+
+2026-06-02 17:49:30.473564
+Successfully saved to ../../data/original_report/usgs_southamerica/Argentina_2014.pdf. Execution time 0.22 seconds
+
+2026-06-02 17:49:32.547162
+Downloading 11/159 [Argentina in 2015 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-ar.pdf]
+
+2026-06-02 17:49:32.762561
+Successfully saved to ../../data/original_report/usgs_southamerica/Argentina_2015.pdf. Execution time 0.22 seconds
+
+2026-06-02 17:49:36.746397
+Downloading 12/159 [Argentina in 2016 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-ar.pdf]
+
+2026-06-02 17:49:36.974677
+Successfully saved to ../../data/original_report/usgs_southamerica/Argentina_2016.pdf. Execution time 0.23 seconds
+
+2026-06-02 17:49:40.504817
+Downloading 13/159 [Argentina in 2018 from: https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-argentina.pdf]
+
+2026-06-02 17:49:42.224637
+Successfully saved to ../../data/original_report/usgs_southamerica/Argentina_2018.pdf. Execution time 1.72 seconds
+
+2026-06-02 17:49:45.144098
+Downloading 14/159 [Argentina in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-argentina.pdf]
+
+2026-06-02 17:49:46.044000
+Successfully saved to ../../data/original_report/usgs_southamerica/Argentina_2019.pdf. Execution time 0.90 seconds
+
+2026-06-02 17:49:48.741548
+Downloading 15/159 [Bolivia in 2005 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/blmyb05.pdf]
+
+2026-06-02 17:49:50.045064
+Successfully saved to ../../data/original_report/usgs_southamerica/Bolivia_2005.pdf. Execution time 1.30 seconds
+
+2026-06-02 17:49:53.998464
+Downloading 16/159 [Bolivia in 2006 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-bl.pdf]
+
+2026-06-02 17:49:54.192200
+Successfully saved to ../../data/original_report/usgs_southamerica/Bolivia_2006.pdf. Execution time 0.19 seconds
+
+2026-06-02 17:49:56.527568
+Downloading 17/159 [Bolivia in 2007 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-bl.pdf]
+
+2026-06-02 17:49:56.831776
+Successfully saved to ../../data/original_report/usgs_southamerica/Bolivia_2007.pdf. Execution time 0.30 seconds
+
+2026-06-02 17:49:59.310555
+Downloading 18/159 [Bolivia in 2008 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-bl.pdf]
+
+2026-06-02 17:49:59.547360
+Successfully saved to ../../data/original_report/usgs_southamerica/Bolivia_2008.pdf. Execution time 0.24 seconds
+
+2026-06-02 17:50:03.038260
+Downloading 19/159 [Bolivia in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-bl.pdf]
+
+2026-06-02 17:50:03.269257
+Successfully saved to ../../data/original_report/usgs_southamerica/Bolivia_2009.pdf. Execution time 0.23 seconds
+
+2026-06-02 17:50:05.945655
+Downloading 20/159 [Bolivia in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-bl.pdf]
+
+2026-06-02 17:50:06.186637
+Successfully saved to ../../data/original_report/usgs_southamerica/Bolivia_2010.pdf. Execution time 0.24 seconds
+
+2026-06-02 17:50:08.657642
+Downloading 21/159 [Bolivia in 2011 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-bl.pdf]
+
+2026-06-02 17:50:08.879126
+Successfully saved to ../../data/original_report/usgs_southamerica/Bolivia_2011.pdf. Execution time 0.22 seconds
+
+2026-06-02 17:50:11.341483
+Downloading 22/159 [Bolivia in 2012 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-bl.pdf]
+
+2026-06-02 17:50:11.559364
+Successfully saved to ../../data/original_report/usgs_southamerica/Bolivia_2012.pdf. Execution time 0.22 seconds
+
+2026-06-02 17:50:14.741639
+Downloading 23/159 [Bolivia in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-bl.pdf]
+
+2026-06-02 17:50:14.961689
+Successfully saved to ../../data/original_report/usgs_southamerica/Bolivia_2013.pdf. Execution time 0.22 seconds
+
+2026-06-02 17:50:18.732898
+Downloading 24/159 [Bolivia in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-bl.pdf]
+
+2026-06-02 17:50:18.942240
+Successfully saved to ../../data/original_report/usgs_southamerica/Bolivia_2014.pdf. Execution time 0.21 seconds
+
+2026-06-02 17:50:22.216532
+Downloading 25/159 [Bolivia in 2015 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-bolivia.pdf]
+
+2026-06-02 17:50:22.455609
+Successfully saved to ../../data/original_report/usgs_southamerica/Bolivia_2015.pdf. Execution time 0.24 seconds
+
+2026-06-02 17:50:25.831559
+Downloading 26/159 [Bolivia in 2016 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-bl.pdf]
+
+2026-06-02 17:50:26.144618
+Successfully saved to ../../data/original_report/usgs_southamerica/Bolivia_2016.pdf. Execution time 0.31 seconds
+
+2026-06-02 17:50:29.128500
+Downloading 27/159 [Bolivia in 2018 from: https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-bolivia.pdf]
+
+2026-06-02 17:50:30.130259
+Successfully saved to ../../data/original_report/usgs_southamerica/Bolivia_2018.pdf. Execution time 1.00 seconds
+
+2026-06-02 17:50:32.826750
+Downloading 28/159 [Bolivia in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-bolivia.pdf]
+
+2026-06-02 17:50:33.645207
+Successfully saved to ../../data/original_report/usgs_southamerica/Bolivia_2019.pdf. Execution time 0.82 seconds
+
+2026-06-02 17:50:36.633206
+Downloading 29/159 [Brazil in 2005 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/myb3-2005-br.pdf]
+
+2026-06-02 17:50:37.829456
+Successfully saved to ../../data/original_report/usgs_southamerica/Brazil_2005.pdf. Execution time 1.20 seconds
+
+2026-06-02 17:50:40.932163
+Downloading 30/159 [Brazil in 2006 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-br.pdf]
+
+2026-06-02 17:50:41.210731
+Successfully saved to ../../data/original_report/usgs_southamerica/Brazil_2006.pdf. Execution time 0.28 seconds
+
+2026-06-02 17:50:45.015210
+Downloading 31/159 [Brazil in 2007 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-br.pdf]
+
+2026-06-02 17:50:45.216470
+Successfully saved to ../../data/original_report/usgs_southamerica/Brazil_2007.pdf. Execution time 0.20 seconds
+
+2026-06-02 17:50:48.733335
+Downloading 32/159 [Brazil in 2008 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-br.pdf]
+
+2026-06-02 17:50:48.918967
+Successfully saved to ../../data/original_report/usgs_southamerica/Brazil_2008.pdf. Execution time 0.19 seconds
+
+2026-06-02 17:50:52.903038
+Downloading 33/159 [Brazil in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-br.pdf]
+
+2026-06-02 17:50:53.092522
+Successfully saved to ../../data/original_report/usgs_southamerica/Brazil_2009.pdf. Execution time 0.19 seconds
+
+2026-06-02 17:50:55.842746
+Downloading 34/159 [Brazil in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-br.pdf]
+
+2026-06-02 17:50:56.074015
+Successfully saved to ../../data/original_report/usgs_southamerica/Brazil_2010.pdf. Execution time 0.23 seconds
+
+2026-06-02 17:50:58.140943
+Downloading 35/159 [Brazil in 2011 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-br.pdf]
+
+2026-06-02 17:50:58.342759
+Successfully saved to ../../data/original_report/usgs_southamerica/Brazil_2011.pdf. Execution time 0.20 seconds
+
+2026-06-02 17:51:01.133038
+Downloading 36/159 [Brazil in 2012 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-br.pdf]
+
+2026-06-02 17:51:01.308015
+Successfully saved to ../../data/original_report/usgs_southamerica/Brazil_2012.pdf. Execution time 0.17 seconds
+
+2026-06-02 17:51:05.164210
+Downloading 37/159 [Brazil in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-br.pdf]
+
+2026-06-02 17:51:05.343636
+Successfully saved to ../../data/original_report/usgs_southamerica/Brazil_2013.pdf. Execution time 0.18 seconds
+
+2026-06-02 17:51:07.738024
+Downloading 38/159 [Brazil in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-br.pdf]
+
+2026-06-02 17:51:07.922135
+Successfully saved to ../../data/original_report/usgs_southamerica/Brazil_2014.pdf. Execution time 0.18 seconds
+
+2026-06-02 17:51:10.161417
+Downloading 39/159 [Brazil in 2015 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-br.pdf]
+
+2026-06-02 17:51:10.370236
+Successfully saved to ../../data/original_report/usgs_southamerica/Brazil_2015.pdf. Execution time 0.21 seconds
+
+2026-06-02 17:51:12.602777
+Downloading 40/159 [Brazil in 2016 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-br-2.pdf]
+
+2026-06-02 17:51:12.830654
+Successfully saved to ../../data/original_report/usgs_southamerica/Brazil_2016.pdf. Execution time 0.23 seconds
+
+2026-06-02 17:51:15.015126
+Downloading 41/159 [Brazil in 2018 from: https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-brazil.pdf]
+
+2026-06-02 17:51:16.227900
+Successfully saved to ../../data/original_report/usgs_southamerica/Brazil_2018.pdf. Execution time 1.21 seconds
+
+2026-06-02 17:51:18.705926
+Downloading 42/159 [Brazil in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-brazil.pdf]
+
+2026-06-02 17:51:20.038103
+Successfully saved to ../../data/original_report/usgs_southamerica/Brazil_2019.pdf. Execution time 1.33 seconds
+
+2026-06-02 17:51:23.569795
+Downloading 43/159 [Chile in 2005 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/cimyb05.pdf]
+
+2026-06-02 17:51:24.794523
+Successfully saved to ../../data/original_report/usgs_southamerica/Chile_2005.pdf. Execution time 1.22 seconds
+
+2026-06-02 17:51:27.913965
+Downloading 44/159 [Chile in 2006 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-ci.pdf]
+
+2026-06-02 17:51:28.246540
+Successfully saved to ../../data/original_report/usgs_southamerica/Chile_2006.pdf. Execution time 0.33 seconds
+
+2026-06-02 17:51:31.525157
+Downloading 45/159 [Chile in 2007 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-ci.pdf]
+
+2026-06-02 17:51:31.877925
+Successfully saved to ../../data/original_report/usgs_southamerica/Chile_2007.pdf. Execution time 0.35 seconds
+
+2026-06-02 17:51:34.824943
+Downloading 46/159 [Chile in 2008 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-ci.pdf]
+
+2026-06-02 17:51:35.045398
+Successfully saved to ../../data/original_report/usgs_southamerica/Chile_2008.pdf. Execution time 0.22 seconds
+
+2026-06-02 17:51:37.364930
+Downloading 47/159 [Chile in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-ci.pdf]
+
+2026-06-02 17:51:37.597420
+Successfully saved to ../../data/original_report/usgs_southamerica/Chile_2009.pdf. Execution time 0.23 seconds
+
+2026-06-02 17:51:40.260999
+Downloading 48/159 [Chile in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-ci.pdf]
+
+2026-06-02 17:51:40.457785
+Successfully saved to ../../data/original_report/usgs_southamerica/Chile_2010.pdf. Execution time 0.20 seconds
+
+2026-06-02 17:51:42.559018
+Downloading 49/159 [Chile in 2011 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-ci.pdf]
+
+2026-06-02 17:51:42.755143
+Successfully saved to ../../data/original_report/usgs_southamerica/Chile_2011.pdf. Execution time 0.20 seconds
+
+2026-06-02 17:51:46.538231
+Downloading 50/159 [Chile in 2012 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-ci.pdf]
+
+2026-06-02 17:51:46.751831
+Successfully saved to ../../data/original_report/usgs_southamerica/Chile_2012.pdf. Execution time 0.21 seconds
+
+2026-06-02 17:51:50.544287
+Downloading 51/159 [Chile in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-ci.pdf]
+
+2026-06-02 17:51:50.797069
+Successfully saved to ../../data/original_report/usgs_southamerica/Chile_2013.pdf. Execution time 0.25 seconds
+
+2026-06-02 17:51:54.136344
+Downloading 52/159 [Chile in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-ci.pdf]
+
+2026-06-02 17:51:54.368893
+Successfully saved to ../../data/original_report/usgs_southamerica/Chile_2014.pdf. Execution time 0.23 seconds
+
+2026-06-02 17:51:57.605383
+Downloading 53/159 [Chile in 2015 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-chile.pdf]
+
+2026-06-02 17:51:57.920975
+Successfully saved to ../../data/original_report/usgs_southamerica/Chile_2015.pdf. Execution time 0.32 seconds
+
+2026-06-02 17:52:00.828776
+Downloading 54/159 [Chile in 2016 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-ci.pdf]
+
+2026-06-02 17:52:01.053253
+Successfully saved to ../../data/original_report/usgs_southamerica/Chile_2016.pdf. Execution time 0.22 seconds
+
+2026-06-02 17:52:03.692764
+Downloading 55/159 [Chile in 2018 from: https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-chile.pdf]
+
+2026-06-02 17:52:04.597284
+Successfully saved to ../../data/original_report/usgs_southamerica/Chile_2018.pdf. Execution time 0.90 seconds
+
+2026-06-02 17:52:07.824139
+Downloading 56/159 [Chile in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-chile.pdf]
+
+2026-06-02 17:52:08.697303
+Successfully saved to ../../data/original_report/usgs_southamerica/Chile_2019.pdf. Execution time 0.87 seconds
+
+2026-06-02 17:52:12.139234
+Downloading 57/159 [Colombia in 2005 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/myb3-2005-co.pdf]
+
+2026-06-02 17:52:13.199965
+Successfully saved to ../../data/original_report/usgs_southamerica/Colombia_2005.pdf. Execution time 1.06 seconds
+
+2026-06-02 17:52:16.193903
+Downloading 58/159 [Colombia in 2006 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-co.pdf]
+
+2026-06-02 17:52:16.443443
+Successfully saved to ../../data/original_report/usgs_southamerica/Colombia_2006.pdf. Execution time 0.25 seconds
+
+2026-06-02 17:52:18.632153
+Downloading 59/159 [Colombia in 2007 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-co.pdf]
+
+2026-06-02 17:52:18.954437
+Successfully saved to ../../data/original_report/usgs_southamerica/Colombia_2007.pdf. Execution time 0.32 seconds
+
+2026-06-02 17:52:22.454948
+Downloading 60/159 [Colombia in 2008 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-co.pdf]
+
+2026-06-02 17:52:22.672030
+Successfully saved to ../../data/original_report/usgs_southamerica/Colombia_2008.pdf. Execution time 0.22 seconds
+
+2026-06-02 17:52:26.044639
+Downloading 61/159 [Colombia in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-co.pdf]
+
+2026-06-02 17:52:26.224613
+Successfully saved to ../../data/original_report/usgs_southamerica/Colombia_2009.pdf. Execution time 0.18 seconds
+
+2026-06-02 17:52:29.764554
+Downloading 62/159 [Colombia in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-co.pdf]
+
+2026-06-02 17:52:29.936231
+Successfully saved to ../../data/original_report/usgs_southamerica/Colombia_2010.pdf. Execution time 0.17 seconds
+
+2026-06-02 17:52:32.922448
+Downloading 63/159 [Colombia in 2011 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-co.pdf]
+
+2026-06-02 17:52:33.116682
+Successfully saved to ../../data/original_report/usgs_southamerica/Colombia_2011.pdf. Execution time 0.19 seconds
+
+2026-06-02 17:52:35.252917
+Downloading 64/159 [Colombia in 2012 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-co.pdf]
+
+2026-06-02 17:52:35.461323
+Successfully saved to ../../data/original_report/usgs_southamerica/Colombia_2012.pdf. Execution time 0.21 seconds
+
+2026-06-02 17:52:37.534092
+Downloading 65/159 [Colombia in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-co.pdf]
+
+2026-06-02 17:52:37.733274
+Successfully saved to ../../data/original_report/usgs_southamerica/Colombia_2013.pdf. Execution time 0.20 seconds
+
+2026-06-02 17:52:40.196563
+Downloading 66/159 [Colombia in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-co.pdf]
+
+2026-06-02 17:52:40.400967
+Successfully saved to ../../data/original_report/usgs_southamerica/Colombia_2014.pdf. Execution time 0.20 seconds
+
+2026-06-02 17:52:43.598950
+Downloading 67/159 [Colombia in 2015 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-colombia.pdf]
+
+2026-06-02 17:52:43.835858
+Successfully saved to ../../data/original_report/usgs_southamerica/Colombia_2015.pdf. Execution time 0.24 seconds
+
+2026-06-02 17:52:46.453677
+Downloading 68/159 [Colombia in 2016 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-co.pdf]
+
+2026-06-02 17:52:46.642498
+Successfully saved to ../../data/original_report/usgs_southamerica/Colombia_2016.pdf. Execution time 0.19 seconds
+
+2026-06-02 17:52:48.927214
+Downloading 69/159 [Colombia in 2018 from: https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-colombia.pdf]
+
+2026-06-02 17:52:49.788979
+Successfully saved to ../../data/original_report/usgs_southamerica/Colombia_2018.pdf. Execution time 0.86 seconds
+
+2026-06-02 17:52:52.231686
+Downloading 70/159 [Colombia in 2019 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2019-colombia.pdf]
+
+2026-06-02 17:52:52.475643
+Successfully saved to ../../data/original_report/usgs_southamerica/Colombia_2019.pdf. Execution time 0.24 seconds
+
+2026-06-02 17:52:55.900182
+Downloading 71/159 [Ecuador in 2005 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/ecmyb05.pdf]
+
+2026-06-02 17:52:56.140797
+Successfully saved to ../../data/original_report/usgs_southamerica/Ecuador_2005.pdf. Execution time 0.24 seconds
+
+2026-06-02 17:52:59.424419
+Downloading 72/159 [Ecuador in 2006 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-ec.pdf]
+
+2026-06-02 17:52:59.648889
+Successfully saved to ../../data/original_report/usgs_southamerica/Ecuador_2006.pdf. Execution time 0.22 seconds
+
+2026-06-02 17:53:01.977092
+Downloading 73/159 [Ecuador in 2007 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-ec.pdf]
+
+2026-06-02 17:53:02.225494
+Successfully saved to ../../data/original_report/usgs_southamerica/Ecuador_2007.pdf. Execution time 0.25 seconds
+
+2026-06-02 17:53:04.580912
+Downloading 74/159 [Ecuador in 2008 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-ec.pdf]
+
+2026-06-02 17:53:04.778231
+Successfully saved to ../../data/original_report/usgs_southamerica/Ecuador_2008.pdf. Execution time 0.20 seconds
+
+2026-06-02 17:53:06.813233
+Downloading 75/159 [Ecuador in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-ec.pdf]
+
+2026-06-02 17:53:06.998246
+Successfully saved to ../../data/original_report/usgs_southamerica/Ecuador_2009.pdf. Execution time 0.19 seconds
+
+2026-06-02 17:53:10.301591
+Downloading 76/159 [Ecuador in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-ec.pdf]
+
+2026-06-02 17:53:10.551724
+Successfully saved to ../../data/original_report/usgs_southamerica/Ecuador_2010.pdf. Execution time 0.25 seconds
+
+2026-06-02 17:53:14.128931
+Downloading 77/159 [Ecuador in 2011 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-ec.pdf]
+
+2026-06-02 17:53:14.375940
+Successfully saved to ../../data/original_report/usgs_southamerica/Ecuador_2011.pdf. Execution time 0.25 seconds
+
+2026-06-02 17:53:16.566018
+Downloading 78/159 [Ecuador in 2012 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-ec.pdf]
+
+2026-06-02 17:53:16.758236
+Successfully saved to ../../data/original_report/usgs_southamerica/Ecuador_2012.pdf. Execution time 0.19 seconds
+
+2026-06-02 17:53:19.930593
+Downloading 79/159 [Ecuador in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-ec.pdf]
+
+2026-06-02 17:53:20.129047
+Successfully saved to ../../data/original_report/usgs_southamerica/Ecuador_2013.pdf. Execution time 0.20 seconds
+
+2026-06-02 17:53:23.484656
+Downloading 80/159 [Ecuador in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-ec.pdf]
+
+2026-06-02 17:53:23.710734
+Successfully saved to ../../data/original_report/usgs_southamerica/Ecuador_2014.pdf. Execution time 0.23 seconds
+
+2026-06-02 17:53:27.017349
+Downloading 81/159 [Ecuador in 2015 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-ec.pdf]
+
+2026-06-02 17:53:27.229806
+Successfully saved to ../../data/original_report/usgs_southamerica/Ecuador_2015.pdf. Execution time 0.21 seconds
+
+2026-06-02 17:53:31.182269
+Downloading 82/159 [Ecuador in 2016 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-ec.pdf]
+
+2026-06-02 17:53:31.360936
+Successfully saved to ../../data/original_report/usgs_southamerica/Ecuador_2016.pdf. Execution time 0.18 seconds
+
+2026-06-02 17:53:34.936110
+Downloading 83/159 [Ecuador in 2018 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-ec.pdf]
+
+2026-06-02 17:53:35.135799
+Successfully saved to ../../data/original_report/usgs_southamerica/Ecuador_2018.pdf. Execution time 0.20 seconds
+
+2026-06-02 17:53:38.250971
+Downloading 84/159 [Ecuador in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-ecuador.pdf]
+
+2026-06-02 17:53:39.156776
+Successfully saved to ../../data/original_report/usgs_southamerica/Ecuador_2019.pdf. Execution time 0.91 seconds
+
+2026-06-02 17:53:42.205605
+Downloading 85/159 [French Guiana in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-fg.pdf]
+
+2026-06-02 17:53:43.457357
+Successfully saved to ../../data/original_report/usgs_southamerica/French Guiana_2013.pdf. Execution time 1.25 seconds
+
+2026-06-02 17:53:45.576089
+Downloading 86/159 [French Guiana in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-fg.pdf]
+
+2026-06-02 17:53:45.906221
+Successfully saved to ../../data/original_report/usgs_southamerica/French Guiana_2014.pdf. Execution time 0.33 seconds
+
+2026-06-02 17:53:49.722166
+Downloading 87/159 [French Guiana in 2015 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-french-guiana.pdf]
+
+2026-06-02 17:53:49.902168
+Successfully saved to ../../data/original_report/usgs_southamerica/French Guiana_2015.pdf. Execution time 0.18 seconds
+
+2026-06-02 17:53:53.283207
+Downloading 88/159 [French Guiana in 2016 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-fg.pdf]
+
+2026-06-02 17:53:53.507310
+Successfully saved to ../../data/original_report/usgs_southamerica/French Guiana_2016.pdf. Execution time 0.22 seconds
+
+2026-06-02 17:53:56.492070
+Downloading 89/159 [French Guiana in 2018 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-fg.pdf]
+
+2026-06-02 17:53:56.716664
+Successfully saved to ../../data/original_report/usgs_southamerica/French Guiana_2018.pdf. Execution time 0.22 seconds
+
+2026-06-02 17:54:00.272907
+Downloading 90/159 [French Guiana in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-french-guiana.pdf]
+
+2026-06-02 17:54:01.431173
+Successfully saved to ../../data/original_report/usgs_southamerica/French Guiana_2019.pdf. Execution time 1.16 seconds
+
+2026-06-02 17:54:04.173297
+Downloading 91/159 [Guyana in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-gy.pdf]
+
+2026-06-02 17:54:05.445147
+Successfully saved to ../../data/original_report/usgs_southamerica/Guyana_2013.pdf. Execution time 1.27 seconds
+
+2026-06-02 17:54:08.607215
+Downloading 92/159 [Guyana in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-gy.pdf]
+
+2026-06-02 17:54:08.925146
+Successfully saved to ../../data/original_report/usgs_southamerica/Guyana_2014.pdf. Execution time 0.32 seconds
+
+2026-06-02 17:54:12.062770
+Downloading 93/159 [Guyana in 2015 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-guyana.pdf]
+
+2026-06-02 17:54:12.261274
+Successfully saved to ../../data/original_report/usgs_southamerica/Guyana_2015.pdf. Execution time 0.20 seconds
+
+2026-06-02 17:54:15.008889
+Downloading 94/159 [Guyana in 2016 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-gy.pdf]
+
+2026-06-02 17:54:15.203044
+Successfully saved to ../../data/original_report/usgs_southamerica/Guyana_2016.pdf. Execution time 0.19 seconds
+
+2026-06-02 17:54:18.589533
+Downloading 95/159 [Guyana in 2018 from: https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-guyana.pdf]
+
+2026-06-02 17:54:19.377998
+Successfully saved to ../../data/original_report/usgs_southamerica/Guyana_2018.pdf. Execution time 0.79 seconds
+
+2026-06-02 17:54:23.027337
+Downloading 96/159 [Guyana in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-guyana.pdf]
+
+2026-06-02 17:54:23.900831
+Successfully saved to ../../data/original_report/usgs_southamerica/Guyana_2019.pdf. Execution time 0.87 seconds
+
+2026-06-02 17:54:27.631699
+Downloading 97/159 [Paraguay in 2005 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/myb3-2005-pa-uy.pdf]
+
+2026-06-02 17:54:28.783338
+Successfully saved to ../../data/original_report/usgs_southamerica/Paraguay_2005.pdf. Execution time 1.15 seconds
+
+2026-06-02 17:54:31.612453
+Downloading 98/159 [Paraguay in 2006 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-pa-uy.pdf]
+
+2026-06-02 17:54:31.836548
+Successfully saved to ../../data/original_report/usgs_southamerica/Paraguay_2006.pdf. Execution time 0.22 seconds
+
+2026-06-02 17:54:35.388909
+Downloading 99/159 [Paraguay in 2007 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-pa-uy.pdf]
+
+2026-06-02 17:54:35.708952
+Successfully saved to ../../data/original_report/usgs_southamerica/Paraguay_2007.pdf. Execution time 0.32 seconds
+
+2026-06-02 17:54:37.812599
+Downloading 100/159 [Paraguay in 2008 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-pa-uy.pdf]
+
+2026-06-02 17:54:38.025009
+Successfully saved to ../../data/original_report/usgs_southamerica/Paraguay_2008.pdf. Execution time 0.21 seconds
+
+2026-06-02 17:54:40.073784
+Downloading 101/159 [Paraguay in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-pa-uy.pdf]
+
+2026-06-02 17:54:40.283343
+Successfully saved to ../../data/original_report/usgs_southamerica/Paraguay_2009.pdf. Execution time 0.21 seconds
+
+2026-06-02 17:54:43.132512
+Downloading 102/159 [Paraguay in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-pa-uy.pdf]
+
+2026-06-02 17:54:43.372772
+Successfully saved to ../../data/original_report/usgs_southamerica/Paraguay_2010.pdf. Execution time 0.24 seconds
+
+2026-06-02 17:54:46.342003
+Downloading 103/159 [Paraguay in 2011 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-pa-uy.pdf]
+
+2026-06-02 17:54:46.564961
+Successfully saved to ../../data/original_report/usgs_southamerica/Paraguay_2011.pdf. Execution time 0.22 seconds
+
+2026-06-02 17:54:49.140174
+Downloading 104/159 [Paraguay in 2012 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-pa-uy.pdf]
+
+2026-06-02 17:54:49.371597
+Successfully saved to ../../data/original_report/usgs_southamerica/Paraguay_2012.pdf. Execution time 0.23 seconds
+
+2026-06-02 17:54:51.684475
+Downloading 105/159 [Paraguay in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-pa-uy.pdf]
+
+2026-06-02 17:54:51.915186
+Successfully saved to ../../data/original_report/usgs_southamerica/Paraguay_2013.pdf. Execution time 0.23 seconds
+
+2026-06-02 17:54:54.916861
+Downloading 106/159 [Paraguay in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-pa-uy.pdf]
+
+2026-06-02 17:54:55.145161
+Successfully saved to ../../data/original_report/usgs_southamerica/Paraguay_2014.pdf. Execution time 0.23 seconds
+
+2026-06-02 17:54:58.266595
+Downloading 107/159 [Paraguay in 2015 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-paraguay-uruguay.pdf]
+
+2026-06-02 17:54:58.525919
+Successfully saved to ../../data/original_report/usgs_southamerica/Paraguay_2015.pdf. Execution time 0.26 seconds
+
+2026-06-02 17:55:01.868323
+Downloading 108/159 [Paraguay in 2016 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-pa-uy.pdf]
+
+2026-06-02 17:55:02.072385
+Successfully saved to ../../data/original_report/usgs_southamerica/Paraguay_2016.pdf. Execution time 0.20 seconds
+
+2026-06-02 17:55:05.067719
+Downloading 109/159 [Paraguay in 2018 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-pa-uy.pdf]
+
+2026-06-02 17:55:05.283384
+Successfully saved to ../../data/original_report/usgs_southamerica/Paraguay_2018.pdf. Execution time 0.22 seconds
+
+2026-06-02 17:55:08.463467
+Downloading 110/159 [Paraguay in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-paraguay-uruguay.pdf]
+
+2026-06-02 17:55:09.334317
+Successfully saved to ../../data/original_report/usgs_southamerica/Paraguay_2019.pdf. Execution time 0.87 seconds
+
+2026-06-02 17:55:12.865700
+Downloading 111/159 [Peru in 2005 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/pemyb05.pdf]
+
+2026-06-02 17:55:14.081771
+Successfully saved to ../../data/original_report/usgs_southamerica/Peru_2005.pdf. Execution time 1.22 seconds
+
+2026-06-02 17:55:16.387966
+Downloading 112/159 [Peru in 2006 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-pe.pdf]
+
+2026-06-02 17:55:16.611843
+Successfully saved to ../../data/original_report/usgs_southamerica/Peru_2006.pdf. Execution time 0.22 seconds
+
+2026-06-02 17:55:20.142647
+Downloading 113/159 [Peru in 2007 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-pe.pdf]
+
+2026-06-02 17:55:20.472715
+Successfully saved to ../../data/original_report/usgs_southamerica/Peru_2007.pdf. Execution time 0.33 seconds
+
+2026-06-02 17:55:23.686096
+Downloading 114/159 [Peru in 2008 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-pe.pdf]
+
+2026-06-02 17:55:23.920476
+Successfully saved to ../../data/original_report/usgs_southamerica/Peru_2008.pdf. Execution time 0.23 seconds
+
+2026-06-02 17:55:27.455742
+Downloading 115/159 [Peru in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-pe.pdf]
+
+2026-06-02 17:55:27.689412
+Successfully saved to ../../data/original_report/usgs_southamerica/Peru_2009.pdf. Execution time 0.23 seconds
+
+2026-06-02 17:55:31.470116
+Downloading 116/159 [Peru in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-pe.pdf]
+
+2026-06-02 17:55:31.689271
+Successfully saved to ../../data/original_report/usgs_southamerica/Peru_2010.pdf. Execution time 0.22 seconds
+
+2026-06-02 17:55:34.191924
+Downloading 117/159 [Peru in 2011 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-pe.pdf]
+
+2026-06-02 17:55:34.414423
+Successfully saved to ../../data/original_report/usgs_southamerica/Peru_2011.pdf. Execution time 0.22 seconds
+
+2026-06-02 17:55:38.293157
+Downloading 118/159 [Peru in 2012 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-pe.pdf]
+
+2026-06-02 17:55:38.542784
+Successfully saved to ../../data/original_report/usgs_southamerica/Peru_2012.pdf. Execution time 0.25 seconds
+
+2026-06-02 17:55:42.040898
+Downloading 119/159 [Peru in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-pe.pdf]
+
+2026-06-02 17:55:42.276841
+Successfully saved to ../../data/original_report/usgs_southamerica/Peru_2013.pdf. Execution time 0.24 seconds
+
+2026-06-02 17:55:44.948966
+Downloading 120/159 [Peru in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-pe.pdf]
+
+2026-06-02 17:55:45.212941
+Successfully saved to ../../data/original_report/usgs_southamerica/Peru_2014.pdf. Execution time 0.26 seconds
+
+2026-06-02 17:55:49.125228
+Downloading 121/159 [Peru in 2015 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-pe.pdf]
+
+2026-06-02 17:55:49.368302
+Successfully saved to ../../data/original_report/usgs_southamerica/Peru_2015.pdf. Execution time 0.24 seconds
+
+2026-06-02 17:55:53.226462
+Downloading 122/159 [Peru in 2016 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-pe.pdf]
+
+2026-06-02 17:55:53.449840
+Successfully saved to ../../data/original_report/usgs_southamerica/Peru_2016.pdf. Execution time 0.22 seconds
+
+2026-06-02 17:55:57.237968
+Downloading 123/159 [Peru in 2018 from: https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-peru.pdf]
+
+2026-06-02 17:55:58.017585
+Successfully saved to ../../data/original_report/usgs_southamerica/Peru_2018.pdf. Execution time 0.78 seconds
+
+2026-06-02 17:56:00.311705
+Downloading 124/159 [Peru in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-peru.pdf]
+
+2026-06-02 17:56:01.637979
+Successfully saved to ../../data/original_report/usgs_southamerica/Peru_2019.pdf. Execution time 1.33 seconds
+
+2026-06-02 17:56:04.674759
+Downloading 125/159 [Suriname in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-ns.pdf]
+
+2026-06-02 17:56:05.867871
+Successfully saved to ../../data/original_report/usgs_southamerica/Suriname_2013.pdf. Execution time 1.19 seconds
+
+2026-06-02 17:56:09.513643
+Downloading 126/159 [Suriname in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-ns.pdf]
+
+2026-06-02 17:56:09.900398
+Successfully saved to ../../data/original_report/usgs_southamerica/Suriname_2014.pdf. Execution time 0.39 seconds
+
+2026-06-02 17:56:12.778219
+Downloading 127/159 [Suriname in 2015 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-suriname.pdf]
+
+2026-06-02 17:56:13.049296
+Successfully saved to ../../data/original_report/usgs_southamerica/Suriname_2015.pdf. Execution time 0.27 seconds
+
+2026-06-02 17:56:16.415422
+Downloading 128/159 [Suriname in 2016 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-ns.pdf]
+
+2026-06-02 17:56:16.666951
+Successfully saved to ../../data/original_report/usgs_southamerica/Suriname_2016.pdf. Execution time 0.25 seconds
+
+2026-06-02 17:56:20.418189
+Downloading 129/159 [Suriname in 2018 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-ns.pdf]
+
+2026-06-02 17:56:20.623397
+Successfully saved to ../../data/original_report/usgs_southamerica/Suriname_2018.pdf. Execution time 0.21 seconds
+
+2026-06-02 17:56:23.190983
+Downloading 130/159 [Suriname in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-suriname.pdf]
+
+2026-06-02 17:56:24.012804
+Successfully saved to ../../data/original_report/usgs_southamerica/Suriname_2019.pdf. Execution time 0.82 seconds
+
+2026-06-02 17:56:26.724321
+Downloading 131/159 [Uruguay in 2006 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-pa-uy.pdf]
+
+2026-06-02 17:56:27.802062
+Successfully saved to ../../data/original_report/usgs_southamerica/Uruguay_2006.pdf. Execution time 1.08 seconds
+
+2026-06-02 17:56:30.973922
+Downloading 132/159 [Uruguay in 2007 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-pa-uy.pdf]
+
+2026-06-02 17:56:31.253065
+Successfully saved to ../../data/original_report/usgs_southamerica/Uruguay_2007.pdf. Execution time 0.28 seconds
+
+2026-06-02 17:56:33.392076
+Downloading 133/159 [Uruguay in 2008 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-pa-uy.pdf]
+
+2026-06-02 17:56:33.609591
+Successfully saved to ../../data/original_report/usgs_southamerica/Uruguay_2008.pdf. Execution time 0.22 seconds
+
+2026-06-02 17:56:36.288151
+Downloading 134/159 [Uruguay in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-pa-uy.pdf]
+
+2026-06-02 17:56:36.466874
+Successfully saved to ../../data/original_report/usgs_southamerica/Uruguay_2009.pdf. Execution time 0.18 seconds
+
+2026-06-02 17:56:38.785421
+Downloading 135/159 [Uruguay in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-pa-uy.pdf]
+
+2026-06-02 17:56:38.953369
+Successfully saved to ../../data/original_report/usgs_southamerica/Uruguay_2010.pdf. Execution time 0.17 seconds
+
+2026-06-02 17:56:42.176969
+Downloading 136/159 [Uruguay in 2011 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-pa-uy.pdf]
+
+2026-06-02 17:56:42.375133
+Successfully saved to ../../data/original_report/usgs_southamerica/Uruguay_2011.pdf. Execution time 0.20 seconds
+
+2026-06-02 17:56:44.469133
+Downloading 137/159 [Uruguay in 2012 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-pa-uy.pdf]
+
+2026-06-02 17:56:44.671874
+Successfully saved to ../../data/original_report/usgs_southamerica/Uruguay_2012.pdf. Execution time 0.20 seconds
+
+2026-06-02 17:56:48.008305
+Downloading 138/159 [Uruguay in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-pa-uy.pdf]
+
+2026-06-02 17:56:48.180905
+Successfully saved to ../../data/original_report/usgs_southamerica/Uruguay_2013.pdf. Execution time 0.17 seconds
+
+2026-06-02 17:56:51.349685
+Downloading 139/159 [Uruguay in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-pa-uy.pdf]
+
+2026-06-02 17:56:51.518567
+Successfully saved to ../../data/original_report/usgs_southamerica/Uruguay_2014.pdf. Execution time 0.17 seconds
+
+2026-06-02 17:56:54.883911
+Downloading 140/159 [Uruguay in 2015 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-paraguay-uruguay.pdf]
+
+2026-06-02 17:56:55.024650
+Successfully saved to ../../data/original_report/usgs_southamerica/Uruguay_2015.pdf. Execution time 0.14 seconds
+
+2026-06-02 17:56:57.765331
+Downloading 141/159 [Uruguay in 2016 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-pa-uy.pdf]
+
+2026-06-02 17:56:57.926752
+Successfully saved to ../../data/original_report/usgs_southamerica/Uruguay_2016.pdf. Execution time 0.16 seconds
+
+2026-06-02 17:57:00.904017
+Downloading 142/159 [Uruguay in 2018 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-pa-uy.pdf]
+
+2026-06-02 17:57:01.051212
+Successfully saved to ../../data/original_report/usgs_southamerica/Uruguay_2018.pdf. Execution time 0.15 seconds
+
+2026-06-02 17:57:04.433408
+Downloading 143/159 [Uruguay in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-paraguay-uruguay.pdf]
+
+2026-06-02 17:57:05.309025
+Successfully saved to ../../data/original_report/usgs_southamerica/Uruguay_2019.pdf. Execution time 0.88 seconds
+
+2026-06-02 17:57:08.394911
+Downloading 144/159 [Venezuela in 2005 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/myb3-2005-ve.pdf]
+
+2026-06-02 17:57:09.629682
+Successfully saved to ../../data/original_report/usgs_southamerica/Venezuela_2005.pdf. Execution time 1.23 seconds
+
+2026-06-02 17:57:13.386623
+Downloading 145/159 [Venezuela in 2006 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-ve.pdf]
+
+2026-06-02 17:57:13.604654
+Successfully saved to ../../data/original_report/usgs_southamerica/Venezuela_2006.pdf. Execution time 0.22 seconds
+
+2026-06-02 17:57:17.039668
+Downloading 146/159 [Venezuela in 2007 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-ve.pdf]
+
+2026-06-02 17:57:17.412176
+Successfully saved to ../../data/original_report/usgs_southamerica/Venezuela_2007.pdf. Execution time 0.37 seconds
+
+2026-06-02 17:57:20.735583
+Downloading 147/159 [Venezuela in 2008 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-ve.pdf]
+
+2026-06-02 17:57:20.939733
+Successfully saved to ../../data/original_report/usgs_southamerica/Venezuela_2008.pdf. Execution time 0.20 seconds
+
+2026-06-02 17:57:23.759609
+Downloading 148/159 [Venezuela in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-ve.pdf]
+
+2026-06-02 17:57:24.025349
+Successfully saved to ../../data/original_report/usgs_southamerica/Venezuela_2009.pdf. Execution time 0.27 seconds
+
+2026-06-02 17:57:27.301751
+Downloading 149/159 [Venezuela in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-ve.pdf]
+
+2026-06-02 17:57:27.501619
+Successfully saved to ../../data/original_report/usgs_southamerica/Venezuela_2010.pdf. Execution time 0.20 seconds
+
+2026-06-02 17:57:31.308107
+Downloading 150/159 [Venezuela in 2011 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-ve.pdf]
+
+2026-06-02 17:57:31.565272
+Successfully saved to ../../data/original_report/usgs_southamerica/Venezuela_2011.pdf. Execution time 0.26 seconds
+
+2026-06-02 17:57:34.470565
+Downloading 151/159 [Venezuela in 2012 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-ve.pdf]
+
+2026-06-02 17:57:34.678399
+Successfully saved to ../../data/original_report/usgs_southamerica/Venezuela_2012.pdf. Execution time 0.21 seconds
+
+2026-06-02 17:57:38.147128
+Downloading 152/159 [Venezuela in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-ve.pdf]
+
+2026-06-02 17:57:38.350948
+Successfully saved to ../../data/original_report/usgs_southamerica/Venezuela_2013.pdf. Execution time 0.20 seconds
+
+2026-06-02 17:57:41.930100
+Downloading 153/159 [Venezuela in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-ve.pdf]
+
+2026-06-02 17:57:42.172438
+Successfully saved to ../../data/original_report/usgs_southamerica/Venezuela_2014.pdf. Execution time 0.24 seconds
+
+2026-06-02 17:57:44.244060
+Downloading 154/159 [Venezuela in 2015 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-venezuela.pdf]
+
+2026-06-02 17:57:44.441510
+Successfully saved to ../../data/original_report/usgs_southamerica/Venezuela_2015.pdf. Execution time 0.20 seconds
+
+2026-06-02 17:57:47.556764
+Downloading 155/159 [Venezuela in 2016 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-ve.pdf]
+
+2026-06-02 17:57:47.751170
+Successfully saved to ../../data/original_report/usgs_southamerica/Venezuela_2016.pdf. Execution time 0.19 seconds
+
+2026-06-02 17:57:51.307555
+Downloading 156/159 [Venezuela in 2018 from: https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-venezuela.pdf]
+
+2026-06-02 17:57:52.230639
+Successfully saved to ../../data/original_report/usgs_southamerica/Venezuela_2018.pdf. Execution time 0.92 seconds
+
+2026-06-02 17:57:55.807364
+Downloading 157/159 [Venezuela in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-venezuela.pdf]
+
+2026-06-02 17:57:56.648952
+Successfully saved to ../../data/original_report/usgs_southamerica/Venezuela_2019.pdf. Execution time 0.84 seconds
+
+2026-06-02 17:57:59.550918
+Downloading 158/159 [Venezuela in 2021 from: https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-venezuela.pdf]
+
+2026-06-02 17:58:00.919033
+Successfully saved to ../../data/original_report/usgs_southamerica/Venezuela_2021.pdf. Execution time 1.37 seconds
+
+2026-06-02 17:58:03.193604
+Downloading 159/159 [Venezuela in 2022 from: https://pubs.usgs.gov/myb/vol3/2022/myb3-2022-venezuela.pdf]
+
+2026-06-02 17:58:04.149924
+Successfully saved to ../../data/original_report/usgs_southamerica/Venezuela_2022.pdf. Execution time 0.96 seconds
+
