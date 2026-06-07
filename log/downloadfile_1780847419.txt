@@ -1,0 +1,324 @@
+2026-06-08 00:50:19.668703
+Downloading 1/54 [Canada in 2005 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/camyb05.pdf]
+
+2026-06-08 00:50:21.357052
+Successfully saved to ../../data/original_report/usgs_northamerica/Canada_2005.pdf. Execution time 1.69 seconds
+
+2026-06-08 00:50:24.444458
+Downloading 2/54 [Canada in 2006 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-ca.pdf]
+
+2026-06-08 00:50:24.770672
+Successfully saved to ../../data/original_report/usgs_northamerica/Canada_2006.pdf. Execution time 0.33 seconds
+
+2026-06-08 00:50:27.338260
+Downloading 3/54 [Canada in 2007 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-ca.pdf]
+
+2026-06-08 00:50:27.768572
+Successfully saved to ../../data/original_report/usgs_northamerica/Canada_2007.pdf. Execution time 0.43 seconds
+
+2026-06-08 00:50:30.299333
+Downloading 4/54 [Canada in 2008 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-ca.pdf]
+
+2026-06-08 00:50:30.638059
+Successfully saved to ../../data/original_report/usgs_northamerica/Canada_2008.pdf. Execution time 0.34 seconds
+
+2026-06-08 00:50:32.764388
+Downloading 5/54 [Canada in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-ca.pdf]
+
+2026-06-08 00:50:33.122453
+Successfully saved to ../../data/original_report/usgs_northamerica/Canada_2009.pdf. Execution time 0.36 seconds
+
+2026-06-08 00:50:36.591861
+Downloading 6/54 [Canada in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-ca.pdf]
+
+2026-06-08 00:50:36.956970
+Successfully saved to ../../data/original_report/usgs_northamerica/Canada_2010.pdf. Execution time 0.37 seconds
+
+2026-06-08 00:50:40.196342
+Downloading 7/54 [Canada in 2011 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-ca.pdf]
+
+2026-06-08 00:50:40.537767
+Successfully saved to ../../data/original_report/usgs_northamerica/Canada_2011.pdf. Execution time 0.34 seconds
+
+2026-06-08 00:50:43.909226
+Downloading 8/54 [Canada in 2012 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-ca.pdf]
+
+2026-06-08 00:50:44.282171
+Successfully saved to ../../data/original_report/usgs_northamerica/Canada_2012.pdf. Execution time 0.37 seconds
+
+2026-06-08 00:50:47.715231
+Downloading 9/54 [Canada in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-ca.pdf]
+
+2026-06-08 00:50:48.053368
+Successfully saved to ../../data/original_report/usgs_northamerica/Canada_2013.pdf. Execution time 0.34 seconds
+
+2026-06-08 00:50:50.423576
+Downloading 10/54 [Canada in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-ca.pdf]
+
+2026-06-08 00:50:50.766123
+Successfully saved to ../../data/original_report/usgs_northamerica/Canada_2014.pdf. Execution time 0.34 seconds
+
+2026-06-08 00:50:53.739425
+Downloading 11/54 [Canada in 2015 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-canada.pdf]
+
+2026-06-08 00:50:54.095884
+Successfully saved to ../../data/original_report/usgs_northamerica/Canada_2015.pdf. Execution time 0.36 seconds
+
+2026-06-08 00:50:56.107069
+Downloading 12/54 [Canada in 2016 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-ca.pdf]
+
+2026-06-08 00:50:56.512622
+Successfully saved to ../../data/original_report/usgs_northamerica/Canada_2016.pdf. Execution time 0.41 seconds
+
+2026-06-08 00:50:59.267454
+Downloading 13/54 [Canada in 2018 from: https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-canada.pdf]
+
+2026-06-08 00:51:01.291329
+Successfully saved to ../../data/original_report/usgs_northamerica/Canada_2018.pdf. Execution time 2.02 seconds
+
+2026-06-08 00:51:03.400508
+Downloading 14/54 [Canada in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-canada.pdf]
+
+2026-06-08 00:51:04.917250
+Successfully saved to ../../data/original_report/usgs_northamerica/Canada_2019.pdf. Execution time 1.52 seconds
+
+2026-06-08 00:51:08.272107
+Downloading 15/54 [Canada in 2021 from: https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-canada.pdf]
+
+2026-06-08 00:51:09.276906
+Successfully saved to ../../data/original_report/usgs_northamerica/Canada_2021.pdf. Execution time 1.00 seconds
+
+2026-06-08 00:51:11.326622
+Downloading 16/54 [Canada in 2022 from: https://pubs.usgs.gov/myb/vol3/2022/myb3-2022-canada.pdf]
+
+2026-06-08 00:51:12.865866
+Successfully saved to ../../data/original_report/usgs_northamerica/Canada_2022.pdf. Execution time 1.54 seconds
+
+2026-06-08 00:51:15.625408
+Downloading 17/54 [Cuba in 2005 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/cumyb05.pdf]
+
+2026-06-08 00:51:17.245143
+Successfully saved to ../../data/original_report/usgs_northamerica/Cuba_2005.pdf. Execution time 1.62 seconds
+
+2026-06-08 00:51:20.465256
+Downloading 18/54 [Cuba in 2006 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-cu.pdf]
+
+2026-06-08 00:51:20.779436
+Successfully saved to ../../data/original_report/usgs_northamerica/Cuba_2006.pdf. Execution time 0.31 seconds
+
+2026-06-08 00:51:24.429413
+Downloading 19/54 [Cuba in 2007 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-cu.pdf]
+
+2026-06-08 00:51:24.890072
+Successfully saved to ../../data/original_report/usgs_northamerica/Cuba_2007.pdf. Execution time 0.46 seconds
+
+2026-06-08 00:51:28.686669
+Downloading 20/54 [Cuba in 2008 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-cu.pdf]
+
+2026-06-08 00:51:29.078036
+Successfully saved to ../../data/original_report/usgs_northamerica/Cuba_2008.pdf. Execution time 0.39 seconds
+
+2026-06-08 00:51:31.306196
+Downloading 21/54 [Cuba in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-cu.pdf]
+
+2026-06-08 00:51:31.613142
+Successfully saved to ../../data/original_report/usgs_northamerica/Cuba_2009.pdf. Execution time 0.31 seconds
+
+2026-06-08 00:51:34.939277
+Downloading 22/54 [Cuba in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-cu.pdf]
+
+2026-06-08 00:51:35.248488
+Successfully saved to ../../data/original_report/usgs_northamerica/Cuba_2010.pdf. Execution time 0.31 seconds
+
+2026-06-08 00:51:38.954675
+Downloading 23/54 [Cuba in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-cu.pdf]
+
+2026-06-08 00:51:39.269656
+Successfully saved to ../../data/original_report/usgs_northamerica/Cuba_2013.pdf. Execution time 0.31 seconds
+
+2026-06-08 00:51:43.151843
+Downloading 24/54 [Cuba in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-cu.pdf]
+
+2026-06-08 00:51:43.473509
+Successfully saved to ../../data/original_report/usgs_northamerica/Cuba_2014.pdf. Execution time 0.32 seconds
+
+2026-06-08 00:51:47.347745
+Downloading 25/54 [Cuba in 2015 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-cuba.pdf]
+
+2026-06-08 00:51:47.670574
+Successfully saved to ../../data/original_report/usgs_northamerica/Cuba_2015.pdf. Execution time 0.32 seconds
+
+2026-06-08 00:51:50.382583
+Downloading 26/54 [Cuba in 2016 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-cu.pdf]
+
+2026-06-08 00:51:50.717519
+Successfully saved to ../../data/original_report/usgs_northamerica/Cuba_2016.pdf. Execution time 0.33 seconds
+
+2026-06-08 00:51:54.341030
+Downloading 27/54 [Cuba in 2018 from: https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-cuba.pdf]
+
+2026-06-08 00:51:56.186656
+Successfully saved to ../../data/original_report/usgs_northamerica/Cuba_2018.pdf. Execution time 1.85 seconds
+
+2026-06-08 00:51:59.012456
+Downloading 28/54 [Cuba in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-cuba.pdf]
+
+2026-06-08 00:52:00.517414
+Successfully saved to ../../data/original_report/usgs_northamerica/Cuba_2019.pdf. Execution time 1.50 seconds
+
+2026-06-08 00:52:04.108854
+Downloading 29/54 [Cuba in 2021 from: https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-cuba.pdf]
+
+2026-06-08 00:52:05.241267
+Successfully saved to ../../data/original_report/usgs_northamerica/Cuba_2021.pdf. Execution time 1.13 seconds
+
+2026-06-08 00:52:08.916471
+Downloading 30/54 [Cuba in 2022 from: https://pubs.usgs.gov/myb/vol3/2022/myb3-2022-cuba.pdf]
+
+2026-06-08 00:52:10.002480
+Successfully saved to ../../data/original_report/usgs_northamerica/Cuba_2022.pdf. Execution time 1.09 seconds
+
+2026-06-08 00:52:13.491598
+Downloading 31/54 [Cuba in 2023 from: https://pubs.usgs.gov/myb/vol3/2023/myb3-2023-cuba.pdf]
+
+2026-06-08 00:52:14.969025
+Successfully saved to ../../data/original_report/usgs_northamerica/Cuba_2023.pdf. Execution time 1.48 seconds
+
+2026-06-08 00:52:18.715083
+Downloading 32/54 [Dominican Republic and Haiti in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-dr-ha.pdf]
+
+2026-06-08 00:52:20.430033
+Successfully saved to ../../data/original_report/usgs_northamerica/Dominican Republic and Haiti_2009.pdf. Execution time 1.71 seconds
+
+2026-06-08 00:52:23.630760
+Downloading 33/54 [Dominican Republic and Haiti in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-dr-ha.pdf]
+
+2026-06-08 00:52:24.065123
+Successfully saved to ../../data/original_report/usgs_northamerica/Dominican Republic and Haiti_2010.pdf. Execution time 0.43 seconds
+
+2026-06-08 00:52:27.402143
+Downloading 34/54 [Dominican Republic and Haiti in 2011 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-dr-ha.pdf]
+
+2026-06-08 00:52:27.766650
+Successfully saved to ../../data/original_report/usgs_northamerica/Dominican Republic and Haiti_2011.pdf. Execution time 0.36 seconds
+
+2026-06-08 00:52:31.642129
+Downloading 35/54 [Guatemala in 2007 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-gt.pdf]
+
+2026-06-08 00:52:31.951375
+Successfully saved to ../../data/original_report/usgs_northamerica/Guatemala_2007.pdf. Execution time 0.31 seconds
+
+2026-06-08 00:52:35.089362
+Downloading 36/54 [Guatemala in 2008 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-gt.pdf]
+
+2026-06-08 00:52:35.452303
+Successfully saved to ../../data/original_report/usgs_northamerica/Guatemala_2008.pdf. Execution time 0.36 seconds
+
+2026-06-08 00:52:37.559108
+Downloading 37/54 [Guatemala in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-gt.pdf]
+
+2026-06-08 00:52:37.869600
+Successfully saved to ../../data/original_report/usgs_northamerica/Guatemala_2009.pdf. Execution time 0.31 seconds
+
+2026-06-08 00:52:41.286694
+Downloading 38/54 [Guatemala in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-gt.pdf]
+
+2026-06-08 00:52:41.629115
+Successfully saved to ../../data/original_report/usgs_northamerica/Guatemala_2010.pdf. Execution time 0.34 seconds
+
+2026-06-08 00:52:44.159518
+Downloading 39/54 [Mexico in 2005 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/myb3-2005-mx.pdf]
+
+2026-06-08 00:52:44.467345
+Successfully saved to ../../data/original_report/usgs_northamerica/Mexico_2005.pdf. Execution time 0.31 seconds
+
+2026-06-08 00:52:47.742532
+Downloading 40/54 [Mexico in 2006 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-mx.pdf]
+
+2026-06-08 00:52:48.067213
+Successfully saved to ../../data/original_report/usgs_northamerica/Mexico_2006.pdf. Execution time 0.32 seconds
+
+2026-06-08 00:52:51.015261
+Downloading 41/54 [Mexico in 2007 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-mx.pdf]
+
+2026-06-08 00:52:51.361220
+Successfully saved to ../../data/original_report/usgs_northamerica/Mexico_2007.pdf. Execution time 0.35 seconds
+
+2026-06-08 00:52:54.861373
+Downloading 42/54 [Mexico in 2008 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-mx.pdf]
+
+2026-06-08 00:52:55.229147
+Successfully saved to ../../data/original_report/usgs_northamerica/Mexico_2008.pdf. Execution time 0.37 seconds
+
+2026-06-08 00:52:57.437805
+Downloading 43/54 [Mexico in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-mx.pdf]
+
+2026-06-08 00:52:57.779890
+Successfully saved to ../../data/original_report/usgs_northamerica/Mexico_2009.pdf. Execution time 0.34 seconds
+
+2026-06-08 00:53:00.218456
+Downloading 44/54 [Mexico in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-mx.pdf]
+
+2026-06-08 00:53:00.579904
+Successfully saved to ../../data/original_report/usgs_northamerica/Mexico_2010.pdf. Execution time 0.36 seconds
+
+2026-06-08 00:53:02.733795
+Downloading 45/54 [Mexico in 2011 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-mx.pdf]
+
+2026-06-08 00:53:03.057347
+Successfully saved to ../../data/original_report/usgs_northamerica/Mexico_2011.pdf. Execution time 0.32 seconds
+
+2026-06-08 00:53:05.779270
+Downloading 46/54 [Mexico in 2012 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-mx.pdf]
+
+2026-06-08 00:53:06.116311
+Successfully saved to ../../data/original_report/usgs_northamerica/Mexico_2012.pdf. Execution time 0.34 seconds
+
+2026-06-08 00:53:09.842391
+Downloading 47/54 [Mexico in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-mx.pdf]
+
+2026-06-08 00:53:10.204792
+Successfully saved to ../../data/original_report/usgs_northamerica/Mexico_2013.pdf. Execution time 0.36 seconds
+
+2026-06-08 00:53:13.095849
+Downloading 48/54 [Mexico in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-mx.pdf]
+
+2026-06-08 00:53:13.429655
+Successfully saved to ../../data/original_report/usgs_northamerica/Mexico_2014.pdf. Execution time 0.33 seconds
+
+2026-06-08 00:53:16.796919
+Downloading 49/54 [Mexico in 2015 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-mx.pdf]
+
+2026-06-08 00:53:18.646170
+Successfully saved to ../../data/original_report/usgs_northamerica/Mexico_2015.pdf. Execution time 1.85 seconds
+
+2026-06-08 00:53:21.617189
+Downloading 50/54 [Mexico in 2016 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-mx.pdf]
+
+2026-06-08 00:53:23.426531
+Successfully saved to ../../data/original_report/usgs_northamerica/Mexico_2016.pdf. Execution time 1.81 seconds
+
+2026-06-08 00:53:25.496488
+Downloading 51/54 [Mexico in 2018 from: https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-mexico.pdf]
+
+2026-06-08 00:53:27.639752
+Successfully saved to ../../data/original_report/usgs_northamerica/Mexico_2018.pdf. Execution time 2.14 seconds
+
+2026-06-08 00:53:29.911308
+Downloading 52/54 [Mexico in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-mexico.pdf]
+
+2026-06-08 00:53:31.358694
+Successfully saved to ../../data/original_report/usgs_northamerica/Mexico_2019.pdf. Execution time 1.45 seconds
+
+2026-06-08 00:53:34.502301
+Downloading 53/54 [Mexico in 2021 from: https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-mexico.pdf]
+
+2026-06-08 00:53:35.979560
+Successfully saved to ../../data/original_report/usgs_northamerica/Mexico_2021.pdf. Execution time 1.48 seconds
+
+2026-06-08 00:53:38.513223
+Downloading 54/54 [Mexico in 2022 from: https://pubs.usgs.gov/myb/vol3/2022/myb3-2022-mexico.pdf]
+
+2026-06-08 00:53:40.006634
+Successfully saved to ../../data/original_report/usgs_northamerica/Mexico_2022.pdf. Execution time 1.49 seconds
+
