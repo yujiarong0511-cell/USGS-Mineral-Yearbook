@@ -1,0 +1,324 @@
+2026-06-15 00:14:07.200800
+PDF loaded. Processing 1/54 [Canada in 2005 from: ../../data/original_report/usgs_northamerica/Canada_2005.pdf]
+
+2026-06-15 00:14:08.608186
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Canada_2005_policy.txt. Execution time 1.41 seconds
+
+2026-06-15 00:14:08.654083
+PDF loaded. Processing 2/54 [Canada in 2006 from: ../../data/original_report/usgs_northamerica/Canada_2006.pdf]
+
+2026-06-15 00:14:09.223469
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Canada_2006_policy.txt. Execution time 0.57 seconds
+
+2026-06-15 00:14:09.278148
+PDF loaded. Processing 3/54 [Canada in 2007 from: ../../data/original_report/usgs_northamerica/Canada_2007.pdf]
+
+2026-06-15 00:14:09.434374
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Canada_2007_policy.txt. Execution time 0.16 seconds
+
+2026-06-15 00:14:09.473262
+PDF loaded. Processing 4/54 [Canada in 2008 from: ../../data/original_report/usgs_northamerica/Canada_2008.pdf]
+
+2026-06-15 00:14:09.598147
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Canada_2008_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:14:09.639391
+PDF loaded. Processing 5/54 [Canada in 2009 from: ../../data/original_report/usgs_northamerica/Canada_2009.pdf]
+
+2026-06-15 00:14:09.931105
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Canada_2009_policy.txt. Execution time 0.29 seconds
+
+2026-06-15 00:14:09.986193
+PDF loaded. Processing 6/54 [Canada in 2010 from: ../../data/original_report/usgs_northamerica/Canada_2010.pdf]
+
+2026-06-15 00:14:10.517686
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Canada_2010_policy.txt. Execution time 0.53 seconds
+
+2026-06-15 00:14:10.540909
+PDF loaded. Processing 7/54 [Canada in 2011 from: ../../data/original_report/usgs_northamerica/Canada_2011.pdf]
+
+2026-06-15 00:14:10.768433
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Canada_2011_policy.txt. Execution time 0.23 seconds
+
+2026-06-15 00:14:10.813381
+PDF loaded. Processing 8/54 [Canada in 2012 from: ../../data/original_report/usgs_northamerica/Canada_2012.pdf]
+
+2026-06-15 00:14:11.109842
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Canada_2012_policy.txt. Execution time 0.30 seconds
+
+2026-06-15 00:14:11.154442
+PDF loaded. Processing 9/54 [Canada in 2013 from: ../../data/original_report/usgs_northamerica/Canada_2013.pdf]
+
+2026-06-15 00:14:11.289729
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Canada_2013_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:14:11.314241
+PDF loaded. Processing 10/54 [Canada in 2014 from: ../../data/original_report/usgs_northamerica/Canada_2014.pdf]
+
+2026-06-15 00:14:11.901296
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Canada_2014_policy.txt. Execution time 0.59 seconds
+
+2026-06-15 00:14:11.925556
+PDF loaded. Processing 11/54 [Canada in 2015 from: ../../data/original_report/usgs_northamerica/Canada_2015.pdf]
+
+2026-06-15 00:14:12.291464
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Canada_2015_policy.txt. Execution time 0.37 seconds
+
+2026-06-15 00:14:12.343943
+PDF loaded. Processing 12/54 [Canada in 2016 from: ../../data/original_report/usgs_northamerica/Canada_2016.pdf]
+
+2026-06-15 00:14:12.723785
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Canada_2016_policy.txt. Execution time 0.38 seconds
+
+2026-06-15 00:14:12.794684
+PDF loaded. Processing 13/54 [Canada in 2018 from: ../../data/original_report/usgs_northamerica/Canada_2018.pdf]
+
+2026-06-15 00:14:13.235779
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Canada_2018_policy.txt. Execution time 0.44 seconds
+
+2026-06-15 00:14:13.292413
+PDF loaded. Processing 14/54 [Canada in 2019 from: ../../data/original_report/usgs_northamerica/Canada_2019.pdf]
+
+2026-06-15 00:14:13.736926
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Canada_2019_policy.txt. Execution time 0.44 seconds
+
+2026-06-15 00:14:13.786540
+PDF loaded. Processing 15/54 [Canada in 2021 from: ../../data/original_report/usgs_northamerica/Canada_2021.pdf]
+
+2026-06-15 00:14:14.260689
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Canada_2021_policy.txt. Execution time 0.47 seconds
+
+2026-06-15 00:14:14.281504
+PDF loaded. Processing 16/54 [Canada in 2022 from: ../../data/original_report/usgs_northamerica/Canada_2022.pdf]
+
+2026-06-15 00:14:14.593371
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Canada_2022_policy.txt. Execution time 0.31 seconds
+
+2026-06-15 00:14:14.637773
+PDF loaded. Processing 17/54 [Cuba in 2005 from: ../../data/original_report/usgs_northamerica/Cuba_2005.pdf]
+
+2026-06-15 00:14:14.887932
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Cuba_2005_policy.txt. Execution time 0.25 seconds
+
+2026-06-15 00:14:14.920117
+PDF loaded. Processing 18/54 [Cuba in 2006 from: ../../data/original_report/usgs_northamerica/Cuba_2006.pdf]
+
+2026-06-15 00:14:14.960062
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Cuba_2006_policy.txt. Execution time 0.04 seconds
+
+2026-06-15 00:14:14.995955
+PDF loaded. Processing 19/54 [Cuba in 2007 from: ../../data/original_report/usgs_northamerica/Cuba_2007.pdf]
+
+2026-06-15 00:14:15.052893
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Cuba_2007_policy.txt. Execution time 0.06 seconds
+
+2026-06-15 00:14:15.094394
+PDF loaded. Processing 20/54 [Cuba in 2008 from: ../../data/original_report/usgs_northamerica/Cuba_2008.pdf]
+
+2026-06-15 00:14:15.207328
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Cuba_2008_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:14:15.246496
+PDF loaded. Processing 21/54 [Cuba in 2009 from: ../../data/original_report/usgs_northamerica/Cuba_2009.pdf]
+
+2026-06-15 00:14:15.326375
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Cuba_2009_policy.txt. Execution time 0.08 seconds
+
+2026-06-15 00:14:15.364582
+PDF loaded. Processing 22/54 [Cuba in 2010 from: ../../data/original_report/usgs_northamerica/Cuba_2010.pdf]
+
+2026-06-15 00:14:15.438276
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Cuba_2010_policy.txt. Execution time 0.07 seconds
+
+2026-06-15 00:14:15.460442
+PDF loaded. Processing 23/54 [Cuba in 2013 from: ../../data/original_report/usgs_northamerica/Cuba_2013.pdf]
+
+2026-06-15 00:14:15.564039
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Cuba_2013_policy.txt. Execution time 0.10 seconds
+
+2026-06-15 00:14:15.598300
+PDF loaded. Processing 24/54 [Cuba in 2014 from: ../../data/original_report/usgs_northamerica/Cuba_2014.pdf]
+
+2026-06-15 00:14:15.761666
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Cuba_2014_policy.txt. Execution time 0.16 seconds
+
+2026-06-15 00:14:15.779001
+PDF loaded. Processing 25/54 [Cuba in 2015 from: ../../data/original_report/usgs_northamerica/Cuba_2015.pdf]
+
+2026-06-15 00:14:15.948623
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Cuba_2015_policy.txt. Execution time 0.17 seconds
+
+2026-06-15 00:14:15.985320
+PDF loaded. Processing 26/54 [Cuba in 2016 from: ../../data/original_report/usgs_northamerica/Cuba_2016.pdf]
+
+2026-06-15 00:14:16.140377
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Cuba_2016_policy.txt. Execution time 0.16 seconds
+
+2026-06-15 00:14:16.159099
+PDF loaded. Processing 27/54 [Cuba in 2018 from: ../../data/original_report/usgs_northamerica/Cuba_2018.pdf]
+
+2026-06-15 00:14:16.348733
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Cuba_2018_policy.txt. Execution time 0.19 seconds
+
+2026-06-15 00:14:16.389433
+PDF loaded. Processing 28/54 [Cuba in 2019 from: ../../data/original_report/usgs_northamerica/Cuba_2019.pdf]
+
+2026-06-15 00:14:16.577849
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Cuba_2019_policy.txt. Execution time 0.19 seconds
+
+2026-06-15 00:14:16.607712
+PDF loaded. Processing 29/54 [Cuba in 2021 from: ../../data/original_report/usgs_northamerica/Cuba_2021.pdf]
+
+2026-06-15 00:14:16.792364
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Cuba_2021_policy.txt. Execution time 0.18 seconds
+
+2026-06-15 00:14:16.817598
+PDF loaded. Processing 30/54 [Cuba in 2022 from: ../../data/original_report/usgs_northamerica/Cuba_2022.pdf]
+
+2026-06-15 00:14:16.965404
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Cuba_2022_policy.txt. Execution time 0.15 seconds
+
+2026-06-15 00:14:17.004552
+PDF loaded. Processing 31/54 [Cuba in 2023 from: ../../data/original_report/usgs_northamerica/Cuba_2023.pdf]
+
+2026-06-15 00:14:17.123234
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Cuba_2023_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:14:17.150037
+PDF loaded. Processing 32/54 [Dominican Republic and Haiti in 2009 from: ../../data/original_report/usgs_northamerica/Dominican Republic and Haiti_2009.pdf]
+
+2026-06-15 00:14:17.359347
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Dominican Republic and Haiti_2009_policy.txt. Execution time 0.21 seconds
+
+2026-06-15 00:14:17.388115
+PDF loaded. Processing 33/54 [Dominican Republic and Haiti in 2010 from: ../../data/original_report/usgs_northamerica/Dominican Republic and Haiti_2010.pdf]
+
+2026-06-15 00:14:17.511634
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Dominican Republic and Haiti_2010_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:14:17.548249
+PDF loaded. Processing 34/54 [Dominican Republic and Haiti in 2011 from: ../../data/original_report/usgs_northamerica/Dominican Republic and Haiti_2011.pdf]
+
+2026-06-15 00:14:17.668007
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Dominican Republic and Haiti_2011_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:14:17.688174
+PDF loaded. Processing 35/54 [Guatemala in 2007 from: ../../data/original_report/usgs_northamerica/Guatemala_2007.pdf]
+
+2026-06-15 00:14:17.728724
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Guatemala_2007_policy.txt. Execution time 0.04 seconds
+
+2026-06-15 00:14:17.771520
+PDF loaded. Processing 36/54 [Guatemala in 2008 from: ../../data/original_report/usgs_northamerica/Guatemala_2008.pdf]
+
+2026-06-15 00:14:17.841538
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Guatemala_2008_policy.txt. Execution time 0.07 seconds
+
+2026-06-15 00:14:17.879331
+PDF loaded. Processing 37/54 [Guatemala in 2009 from: ../../data/original_report/usgs_northamerica/Guatemala_2009.pdf]
+
+2026-06-15 00:14:18.051194
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Guatemala_2009_policy.txt. Execution time 0.17 seconds
+
+2026-06-15 00:14:18.075776
+PDF loaded. Processing 38/54 [Guatemala in 2010 from: ../../data/original_report/usgs_northamerica/Guatemala_2010.pdf]
+
+2026-06-15 00:14:18.224921
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Guatemala_2010_policy.txt. Execution time 0.15 seconds
+
+2026-06-15 00:14:18.266830
+PDF loaded. Processing 39/54 [Mexico in 2005 from: ../../data/original_report/usgs_northamerica/Mexico_2005.pdf]
+
+2026-06-15 00:14:18.618125
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Mexico_2005_policy.txt. Execution time 0.35 seconds
+
+2026-06-15 00:14:18.644242
+PDF loaded. Processing 40/54 [Mexico in 2006 from: ../../data/original_report/usgs_northamerica/Mexico_2006.pdf]
+
+2026-06-15 00:14:18.750386
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Mexico_2006_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:14:18.791899
+PDF loaded. Processing 41/54 [Mexico in 2007 from: ../../data/original_report/usgs_northamerica/Mexico_2007.pdf]
+
+2026-06-15 00:14:19.091600
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Mexico_2007_policy.txt. Execution time 0.30 seconds
+
+2026-06-15 00:14:19.108338
+PDF loaded. Processing 42/54 [Mexico in 2008 from: ../../data/original_report/usgs_northamerica/Mexico_2008.pdf]
+
+2026-06-15 00:14:19.334378
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Mexico_2008_policy.txt. Execution time 0.23 seconds
+
+2026-06-15 00:14:19.377182
+PDF loaded. Processing 43/54 [Mexico in 2009 from: ../../data/original_report/usgs_northamerica/Mexico_2009.pdf]
+
+2026-06-15 00:14:19.601163
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Mexico_2009_policy.txt. Execution time 0.22 seconds
+
+2026-06-15 00:14:19.649906
+PDF loaded. Processing 44/54 [Mexico in 2010 from: ../../data/original_report/usgs_northamerica/Mexico_2010.pdf]
+
+2026-06-15 00:14:19.918773
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Mexico_2010_policy.txt. Execution time 0.27 seconds
+
+2026-06-15 00:14:19.945979
+PDF loaded. Processing 45/54 [Mexico in 2011 from: ../../data/original_report/usgs_northamerica/Mexico_2011.pdf]
+
+2026-06-15 00:14:20.158854
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Mexico_2011_policy.txt. Execution time 0.21 seconds
+
+2026-06-15 00:14:20.205719
+PDF loaded. Processing 46/54 [Mexico in 2012 from: ../../data/original_report/usgs_northamerica/Mexico_2012.pdf]
+
+2026-06-15 00:14:20.441969
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Mexico_2012_policy.txt. Execution time 0.24 seconds
+
+2026-06-15 00:14:20.486770
+PDF loaded. Processing 47/54 [Mexico in 2013 from: ../../data/original_report/usgs_northamerica/Mexico_2013.pdf]
+
+2026-06-15 00:14:20.717477
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Mexico_2013_policy.txt. Execution time 0.23 seconds
+
+2026-06-15 00:14:20.746555
+PDF loaded. Processing 48/54 [Mexico in 2014 from: ../../data/original_report/usgs_northamerica/Mexico_2014.pdf]
+
+2026-06-15 00:14:21.049950
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Mexico_2014_policy.txt. Execution time 0.30 seconds
+
+2026-06-15 00:14:21.072584
+PDF loaded. Processing 49/54 [Mexico in 2015 from: ../../data/original_report/usgs_northamerica/Mexico_2015.pdf]
+
+2026-06-15 00:14:21.346564
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Mexico_2015_policy.txt. Execution time 0.27 seconds
+
+2026-06-15 00:14:21.392171
+PDF loaded. Processing 50/54 [Mexico in 2016 from: ../../data/original_report/usgs_northamerica/Mexico_2016.pdf]
+
+2026-06-15 00:14:21.716472
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Mexico_2016_policy.txt. Execution time 0.32 seconds
+
+2026-06-15 00:14:21.771125
+PDF loaded. Processing 51/54 [Mexico in 2018 from: ../../data/original_report/usgs_northamerica/Mexico_2018.pdf]
+
+2026-06-15 00:14:22.066650
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Mexico_2018_policy.txt. Execution time 0.30 seconds
+
+2026-06-15 00:14:22.113371
+PDF loaded. Processing 52/54 [Mexico in 2019 from: ../../data/original_report/usgs_northamerica/Mexico_2019.pdf]
+
+2026-06-15 00:14:22.388367
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Mexico_2019_policy.txt. Execution time 0.27 seconds
+
+2026-06-15 00:14:22.408881
+PDF loaded. Processing 53/54 [Mexico in 2021 from: ../../data/original_report/usgs_northamerica/Mexico_2021.pdf]
+
+2026-06-15 00:14:22.799704
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Mexico_2021_policy.txt. Execution time 0.39 seconds
+
+2026-06-15 00:14:22.831884
+PDF loaded. Processing 54/54 [Mexico in 2022 from: ../../data/original_report/usgs_northamerica/Mexico_2022.pdf]
+
+2026-06-15 00:14:23.101305
+Successfully saved to ../../data/policy_section_txt/usgs_northamerica/Mexico_2022_policy.txt. Execution time 0.27 seconds
+

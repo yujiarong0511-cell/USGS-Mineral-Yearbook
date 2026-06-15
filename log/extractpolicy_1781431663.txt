@@ -1,0 +1,489 @@
+2026-06-14 19:07:43.964162
+PDF loaded. Processing 1/159 [Argentina in 2005 from: ../../data/original_report/usgs_southamerica/Argentina_2005.pdf]
+
+2026-06-14 19:07:44.316305
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Argentina_2005_policy.txt. Execution time 0.35 seconds
+
+2026-06-14 19:07:44.319792
+PDF loaded. Processing 2/159 [Argentina in 2006 from: ../../data/original_report/usgs_southamerica/Argentina_2006.pdf]
+
+2026-06-14 19:07:44.504166
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Argentina_2006_policy.txt. Execution time 0.18 seconds
+
+2026-06-14 19:07:44.506073
+PDF loaded. Processing 3/159 [Argentina in 2007 from: ../../data/original_report/usgs_southamerica/Argentina_2007.pdf]
+
+2026-06-14 19:07:44.765240
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Argentina_2007_policy.txt. Execution time 0.26 seconds
+
+2026-06-14 19:07:44.768844
+PDF loaded. Processing 4/159 [Argentina in 2008 from: ../../data/original_report/usgs_southamerica/Argentina_2008.pdf]
+
+2026-06-14 19:07:44.918207
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Argentina_2008_policy.txt. Execution time 0.15 seconds
+
+2026-06-14 19:07:44.920540
+PDF loaded. Processing 5/159 [Argentina in 2009 from: ../../data/original_report/usgs_southamerica/Argentina_2009.pdf]
+
+2026-06-14 19:07:45.109582
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Argentina_2009_policy.txt. Execution time 0.19 seconds
+
+2026-06-14 19:07:45.110919
+PDF loaded. Processing 6/159 [Argentina in 2010 from: ../../data/original_report/usgs_southamerica/Argentina_2010.pdf]
+
+2026-06-14 19:07:45.299071
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Argentina_2010_policy.txt. Execution time 0.19 seconds
+
+2026-06-14 19:07:45.300330
+PDF loaded. Processing 7/159 [Argentina in 2011 from: ../../data/original_report/usgs_southamerica/Argentina_2011.pdf]
+
+2026-06-14 19:07:45.409575
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Argentina_2011_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 19:07:45.412073
+PDF loaded. Processing 8/159 [Argentina in 2012 from: ../../data/original_report/usgs_southamerica/Argentina_2012.pdf]
+
+2026-06-14 19:07:45.620486
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Argentina_2012_policy.txt. Execution time 0.21 seconds
+
+2026-06-14 19:07:45.622180
+PDF loaded. Processing 9/159 [Argentina in 2013 from: ../../data/original_report/usgs_southamerica/Argentina_2013.pdf]
+
+2026-06-14 19:07:45.868451
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Argentina_2013_policy.txt. Execution time 0.25 seconds
+
+2026-06-14 19:07:45.869973
+PDF loaded. Processing 10/159 [Argentina in 2014 from: ../../data/original_report/usgs_southamerica/Argentina_2014.pdf]
+
+2026-06-14 19:07:46.189264
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Argentina_2014_policy.txt. Execution time 0.32 seconds
+
+2026-06-14 19:07:46.191234
+PDF loaded. Processing 11/159 [Argentina in 2015 from: ../../data/original_report/usgs_southamerica/Argentina_2015.pdf]
+
+2026-06-14 19:07:46.441438
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Argentina_2015_policy.txt. Execution time 0.25 seconds
+
+2026-06-14 19:07:46.442906
+PDF loaded. Processing 12/159 [Argentina in 2016 from: ../../data/original_report/usgs_southamerica/Argentina_2016.pdf]
+
+2026-06-14 19:07:46.659439
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Argentina_2016_policy.txt. Execution time 0.22 seconds
+
+2026-06-14 19:07:46.661060
+PDF loaded. Processing 13/159 [Argentina in 2018 from: ../../data/original_report/usgs_southamerica/Argentina_2018.pdf]
+
+2026-06-14 19:07:46.851199
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Argentina_2018_policy.txt. Execution time 0.19 seconds
+
+2026-06-14 19:07:46.852354
+PDF loaded. Processing 14/159 [Argentina in 2019 from: ../../data/original_report/usgs_southamerica/Argentina_2019.pdf]
+
+2026-06-14 19:07:47.030546
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Argentina_2019_policy.txt. Execution time 0.18 seconds
+
+2026-06-14 19:07:47.032394
+PDF loaded. Processing 15/159 [Bolivia in 2005 from: ../../data/original_report/usgs_southamerica/Bolivia_2005.pdf]
+
+2026-06-14 19:07:47.365021
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Bolivia_2005_policy.txt. Execution time 0.33 seconds
+
+2026-06-14 19:07:47.366747
+PDF loaded. Processing 16/159 [Bolivia in 2006 from: ../../data/original_report/usgs_southamerica/Bolivia_2006.pdf]
+
+2026-06-14 19:07:47.555439
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Bolivia_2006_policy.txt. Execution time 0.19 seconds
+
+2026-06-14 19:07:47.556556
+PDF loaded. Processing 17/159 [Bolivia in 2007 from: ../../data/original_report/usgs_southamerica/Bolivia_2007.pdf]
+
+2026-06-14 19:07:47.701332
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Bolivia_2007_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 19:07:47.703432
+PDF loaded. Processing 18/159 [Bolivia in 2008 from: ../../data/original_report/usgs_southamerica/Bolivia_2008.pdf]
+
+2026-06-14 19:07:47.882298
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Bolivia_2008_policy.txt. Execution time 0.18 seconds
+
+2026-06-14 19:07:47.884171
+PDF loaded. Processing 19/159 [Bolivia in 2009 from: ../../data/original_report/usgs_southamerica/Bolivia_2009.pdf]
+
+2026-06-14 19:07:48.318448
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Bolivia_2009_policy.txt. Execution time 0.43 seconds
+
+2026-06-14 19:07:48.320766
+PDF loaded. Processing 20/159 [Bolivia in 2010 from: ../../data/original_report/usgs_southamerica/Bolivia_2010.pdf]
+
+2026-06-14 19:07:48.654021
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Bolivia_2010_policy.txt. Execution time 0.33 seconds
+
+2026-06-14 19:07:48.655794
+PDF loaded. Processing 21/159 [Bolivia in 2011 from: ../../data/original_report/usgs_southamerica/Bolivia_2011.pdf]
+
+2026-06-14 19:07:49.013643
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Bolivia_2011_policy.txt. Execution time 0.36 seconds
+
+2026-06-14 19:07:49.015501
+PDF loaded. Processing 22/159 [Bolivia in 2012 from: ../../data/original_report/usgs_southamerica/Bolivia_2012.pdf]
+
+2026-06-14 19:07:49.426828
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Bolivia_2012_policy.txt. Execution time 0.41 seconds
+
+2026-06-14 19:07:49.428869
+PDF loaded. Processing 23/159 [Bolivia in 2013 from: ../../data/original_report/usgs_southamerica/Bolivia_2013.pdf]
+
+2026-06-14 19:07:49.707629
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Bolivia_2013_policy.txt. Execution time 0.28 seconds
+
+2026-06-14 19:07:49.709888
+PDF loaded. Processing 24/159 [Bolivia in 2014 from: ../../data/original_report/usgs_southamerica/Bolivia_2014.pdf]
+
+2026-06-14 19:07:49.925442
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Bolivia_2014_policy.txt. Execution time 0.22 seconds
+
+2026-06-14 19:07:49.927815
+PDF loaded. Processing 25/159 [Bolivia in 2015 from: ../../data/original_report/usgs_southamerica/Bolivia_2015.pdf]
+
+2026-06-14 19:07:50.085352
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Bolivia_2015_policy.txt. Execution time 0.16 seconds
+
+2026-06-14 19:07:50.086782
+PDF loaded. Processing 26/159 [Bolivia in 2016 from: ../../data/original_report/usgs_southamerica/Bolivia_2016.pdf]
+
+2026-06-14 19:07:50.237621
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Bolivia_2016_policy.txt. Execution time 0.15 seconds
+
+2026-06-14 19:07:50.239076
+PDF loaded. Processing 27/159 [Bolivia in 2018 from: ../../data/original_report/usgs_southamerica/Bolivia_2018.pdf]
+
+2026-06-14 19:07:50.484411
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Bolivia_2018_policy.txt. Execution time 0.25 seconds
+
+2026-06-14 19:07:50.487575
+PDF loaded. Processing 28/159 [Bolivia in 2019 from: ../../data/original_report/usgs_southamerica/Bolivia_2019.pdf]
+
+2026-06-14 19:07:50.737846
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Bolivia_2019_policy.txt. Execution time 0.25 seconds
+
+2026-06-14 19:07:50.740525
+PDF loaded. Processing 29/159 [Brazil in 2005 from: ../../data/original_report/usgs_southamerica/Brazil_2005.pdf]
+
+2026-06-14 19:07:51.360508
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Brazil_2005_policy.txt. Execution time 0.62 seconds
+
+2026-06-14 19:07:51.363022
+PDF loaded. Processing 30/159 [Brazil in 2006 from: ../../data/original_report/usgs_southamerica/Brazil_2006.pdf]
+
+2026-06-14 19:07:51.777458
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Brazil_2006_policy.txt. Execution time 0.41 seconds
+
+2026-06-14 19:07:51.780184
+PDF loaded. Processing 31/159 [Brazil in 2007 from: ../../data/original_report/usgs_southamerica/Brazil_2007.pdf]
+
+2026-06-14 19:07:52.144697
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Brazil_2007_policy.txt. Execution time 0.36 seconds
+
+2026-06-14 19:07:52.148118
+PDF loaded. Processing 32/159 [Brazil in 2008 from: ../../data/original_report/usgs_southamerica/Brazil_2008.pdf]
+
+2026-06-14 19:07:52.470192
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Brazil_2008_policy.txt. Execution time 0.32 seconds
+
+2026-06-14 19:07:52.472782
+PDF loaded. Processing 33/159 [Brazil in 2009 from: ../../data/original_report/usgs_southamerica/Brazil_2009.pdf]
+
+2026-06-14 19:07:52.786246
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Brazil_2009_policy.txt. Execution time 0.31 seconds
+
+2026-06-14 19:07:52.787741
+PDF loaded. Processing 34/159 [Brazil in 2010 from: ../../data/original_report/usgs_southamerica/Brazil_2010.pdf]
+
+2026-06-14 19:07:53.133238
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Brazil_2010_policy.txt. Execution time 0.35 seconds
+
+2026-06-14 19:07:53.163929
+PDF loaded. Processing 35/159 [Brazil in 2011 from: ../../data/original_report/usgs_southamerica/Brazil_2011.pdf]
+
+2026-06-14 19:07:53.452390
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Brazil_2011_policy.txt. Execution time 0.29 seconds
+
+2026-06-14 19:07:53.477205
+PDF loaded. Processing 36/159 [Brazil in 2012 from: ../../data/original_report/usgs_southamerica/Brazil_2012.pdf]
+
+2026-06-14 19:07:53.760537
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Brazil_2012_policy.txt. Execution time 0.28 seconds
+
+2026-06-14 19:07:53.792915
+PDF loaded. Processing 37/159 [Brazil in 2013 from: ../../data/original_report/usgs_southamerica/Brazil_2013.pdf]
+
+2026-06-14 19:07:54.175131
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Brazil_2013_policy.txt. Execution time 0.38 seconds
+
+2026-06-14 19:07:54.211824
+PDF loaded. Processing 38/159 [Brazil in 2014 from: ../../data/original_report/usgs_southamerica/Brazil_2014.pdf]
+
+2026-06-14 19:07:54.507567
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Brazil_2014_policy.txt. Execution time 0.30 seconds
+
+2026-06-14 19:07:54.547110
+PDF loaded. Processing 39/159 [Brazil in 2015 from: ../../data/original_report/usgs_southamerica/Brazil_2015.pdf]
+
+2026-06-14 19:07:54.841980
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Brazil_2015_policy.txt. Execution time 0.29 seconds
+
+2026-06-14 19:07:54.862809
+PDF loaded. Processing 40/159 [Brazil in 2016 from: ../../data/original_report/usgs_southamerica/Brazil_2016.pdf]
+
+2026-06-14 19:07:55.134806
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Brazil_2016_policy.txt. Execution time 0.27 seconds
+
+2026-06-14 19:07:55.175935
+PDF loaded. Processing 41/159 [Brazil in 2018 from: ../../data/original_report/usgs_southamerica/Brazil_2018.pdf]
+
+2026-06-14 19:07:55.560482
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Brazil_2018_policy.txt. Execution time 0.38 seconds
+
+2026-06-14 19:07:55.612147
+PDF loaded. Processing 42/159 [Brazil in 2019 from: ../../data/original_report/usgs_southamerica/Brazil_2019.pdf]
+
+2026-06-14 19:07:56.029656
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Brazil_2019_policy.txt. Execution time 0.42 seconds
+
+2026-06-14 19:07:56.079262
+PDF loaded. Processing 43/159 [Chile in 2005 from: ../../data/original_report/usgs_southamerica/Chile_2005.pdf]
+
+2026-06-14 19:07:56.557149
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Chile_2005_policy.txt. Execution time 0.48 seconds
+
+2026-06-14 19:07:56.586198
+PDF loaded. Processing 44/159 [Chile in 2006 from: ../../data/original_report/usgs_southamerica/Chile_2006.pdf]
+
+2026-06-14 19:07:57.018965
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Chile_2006_policy.txt. Execution time 0.43 seconds
+
+2026-06-14 19:07:57.075253
+PDF loaded. Processing 45/159 [Chile in 2007 from: ../../data/original_report/usgs_southamerica/Chile_2007.pdf]
+
+2026-06-14 19:07:57.559117
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Chile_2007_policy.txt. Execution time 0.48 seconds
+
+2026-06-14 19:07:57.588451
+PDF loaded. Processing 46/159 [Chile in 2008 from: ../../data/original_report/usgs_southamerica/Chile_2008.pdf]
+
+2026-06-14 19:07:57.909587
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Chile_2008_policy.txt. Execution time 0.32 seconds
+
+2026-06-14 19:07:57.936372
+PDF loaded. Processing 47/159 [Chile in 2009 from: ../../data/original_report/usgs_southamerica/Chile_2009.pdf]
+
+2026-06-14 19:07:58.429095
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Chile_2009_policy.txt. Execution time 0.49 seconds
+
+2026-06-14 19:07:58.461556
+PDF loaded. Processing 48/159 [Chile in 2010 from: ../../data/original_report/usgs_southamerica/Chile_2010.pdf]
+
+2026-06-14 19:07:58.701787
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Chile_2010_policy.txt. Execution time 0.24 seconds
+
+2026-06-14 19:07:58.729245
+PDF loaded. Processing 49/159 [Chile in 2011 from: ../../data/original_report/usgs_southamerica/Chile_2011.pdf]
+
+2026-06-14 19:07:58.985389
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Chile_2011_policy.txt. Execution time 0.26 seconds
+
+2026-06-14 19:07:59.010204
+PDF loaded. Processing 50/159 [Chile in 2012 from: ../../data/original_report/usgs_southamerica/Chile_2012.pdf]
+
+2026-06-14 19:07:59.374430
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Chile_2012_policy.txt. Execution time 0.36 seconds
+
+2026-06-14 19:07:59.424280
+PDF loaded. Processing 51/159 [Chile in 2013 from: ../../data/original_report/usgs_southamerica/Chile_2013.pdf]
+
+2026-06-14 19:07:59.693766
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Chile_2013_policy.txt. Execution time 0.27 seconds
+
+2026-06-14 19:07:59.741158
+PDF loaded. Processing 52/159 [Chile in 2014 from: ../../data/original_report/usgs_southamerica/Chile_2014.pdf]
+
+2026-06-14 19:08:00.069530
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Chile_2014_policy.txt. Execution time 0.33 seconds
+
+2026-06-14 19:08:00.112301
+PDF loaded. Processing 53/159 [Chile in 2015 from: ../../data/original_report/usgs_southamerica/Chile_2015.pdf]
+
+2026-06-14 19:08:00.361463
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Chile_2015_policy.txt. Execution time 0.25 seconds
+
+2026-06-14 19:08:00.383256
+PDF loaded. Processing 54/159 [Chile in 2016 from: ../../data/original_report/usgs_southamerica/Chile_2016.pdf]
+
+2026-06-14 19:08:00.643417
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Chile_2016_policy.txt. Execution time 0.26 seconds
+
+2026-06-14 19:08:00.694146
+PDF loaded. Processing 55/159 [Chile in 2018 from: ../../data/original_report/usgs_southamerica/Chile_2018.pdf]
+
+2026-06-14 19:08:01.047599
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Chile_2018_policy.txt. Execution time 0.35 seconds
+
+2026-06-14 19:08:01.093866
+PDF loaded. Processing 56/159 [Chile in 2019 from: ../../data/original_report/usgs_southamerica/Chile_2019.pdf]
+
+2026-06-14 19:08:01.402375
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Chile_2019_policy.txt. Execution time 0.31 seconds
+
+2026-06-14 19:08:01.424553
+PDF loaded. Processing 57/159 [Colombia in 2005 from: ../../data/original_report/usgs_southamerica/Colombia_2005.pdf]
+
+2026-06-14 19:08:01.681903
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Colombia_2005_policy.txt. Execution time 0.26 seconds
+
+2026-06-14 19:08:01.701041
+PDF loaded. Processing 58/159 [Colombia in 2006 from: ../../data/original_report/usgs_southamerica/Colombia_2006.pdf]
+
+2026-06-14 19:08:01.874029
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Colombia_2006_policy.txt. Execution time 0.17 seconds
+
+2026-06-14 19:08:01.898724
+PDF loaded. Processing 59/159 [Colombia in 2007 from: ../../data/original_report/usgs_southamerica/Colombia_2007.pdf]
+
+2026-06-14 19:08:02.032718
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Colombia_2007_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 19:08:02.055316
+PDF loaded. Processing 60/159 [Colombia in 2008 from: ../../data/original_report/usgs_southamerica/Colombia_2008.pdf]
+
+2026-06-14 19:08:02.297259
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Colombia_2008_policy.txt. Execution time 0.24 seconds
+
+2026-06-14 19:08:02.335530
+PDF loaded. Processing 61/159 [Colombia in 2009 from: ../../data/original_report/usgs_southamerica/Colombia_2009.pdf]
+
+2026-06-14 19:08:02.491988
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Colombia_2009_policy.txt. Execution time 0.16 seconds
+
+2026-06-14 19:08:02.519278
+PDF loaded. Processing 62/159 [Colombia in 2010 from: ../../data/original_report/usgs_southamerica/Colombia_2010.pdf]
+
+2026-06-14 19:08:02.654085
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Colombia_2010_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 19:08:02.682005
+PDF loaded. Processing 63/159 [Colombia in 2011 from: ../../data/original_report/usgs_southamerica/Colombia_2011.pdf]
+
+2026-06-14 19:08:02.822031
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Colombia_2011_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 19:08:02.850140
+PDF loaded. Processing 64/159 [Colombia in 2012 from: ../../data/original_report/usgs_southamerica/Colombia_2012.pdf]
+
+2026-06-14 19:08:02.997088
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Colombia_2012_policy.txt. Execution time 0.15 seconds
+
+2026-06-14 19:08:03.033528
+PDF loaded. Processing 65/159 [Colombia in 2013 from: ../../data/original_report/usgs_southamerica/Colombia_2013.pdf]
+
+2026-06-14 19:08:03.281231
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Colombia_2013_policy.txt. Execution time 0.25 seconds
+
+2026-06-14 19:08:03.323617
+PDF loaded. Processing 66/159 [Colombia in 2014 from: ../../data/original_report/usgs_southamerica/Colombia_2014.pdf]
+
+2026-06-14 19:08:03.472840
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Colombia_2014_policy.txt. Execution time 0.15 seconds
+
+2026-06-14 19:08:03.504981
+PDF loaded. Processing 67/159 [Colombia in 2015 from: ../../data/original_report/usgs_southamerica/Colombia_2015.pdf]
+
+2026-06-14 19:08:03.659648
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Colombia_2015_policy.txt. Execution time 0.15 seconds
+
+2026-06-14 19:08:03.700617
+PDF loaded. Processing 68/159 [Colombia in 2016 from: ../../data/original_report/usgs_southamerica/Colombia_2016.pdf]
+
+2026-06-14 19:08:03.844166
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Colombia_2016_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 19:08:03.870072
+PDF loaded. Processing 69/159 [Colombia in 2018 from: ../../data/original_report/usgs_southamerica/Colombia_2018.pdf]
+
+2026-06-14 19:08:04.118096
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Colombia_2018_policy.txt. Execution time 0.25 seconds
+
+2026-06-14 19:08:04.135070
+PDF loaded. Processing 70/159 [Colombia in 2019 from: ../../data/original_report/usgs_southamerica/Colombia_2019.pdf]
+
+2026-06-14 19:08:04.300221
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Colombia_2019_policy.txt. Execution time 0.17 seconds
+
+2026-06-14 19:08:04.335131
+PDF loaded. Processing 71/159 [Ecuador in 2005 from: ../../data/original_report/usgs_southamerica/Ecuador_2005.pdf]
+
+2026-06-14 19:08:04.590581
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Ecuador_2005_policy.txt. Execution time 0.26 seconds
+
+2026-06-14 19:08:04.617700
+PDF loaded. Processing 72/159 [Ecuador in 2006 from: ../../data/original_report/usgs_southamerica/Ecuador_2006.pdf]
+
+2026-06-14 19:08:04.766886
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Ecuador_2006_policy.txt. Execution time 0.15 seconds
+
+2026-06-14 19:08:04.816311
+PDF loaded. Processing 73/159 [Ecuador in 2007 from: ../../data/original_report/usgs_southamerica/Ecuador_2007.pdf]
+
+2026-06-14 19:08:04.995256
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Ecuador_2007_policy.txt. Execution time 0.18 seconds
+
+2026-06-14 19:08:05.037541
+PDF loaded. Processing 74/159 [Ecuador in 2008 from: ../../data/original_report/usgs_southamerica/Ecuador_2008.pdf]
+
+2026-06-14 19:08:05.235495
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Ecuador_2008_policy.txt. Execution time 0.20 seconds
+
+2026-06-14 19:08:05.261455
+PDF loaded. Processing 75/159 [Ecuador in 2009 from: ../../data/original_report/usgs_southamerica/Ecuador_2009.pdf]
+
+2026-06-14 19:08:05.360906
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Ecuador_2009_policy.txt. Execution time 0.10 seconds
+
+2026-06-14 19:08:05.402846
+PDF loaded. Processing 76/159 [Ecuador in 2010 from: ../../data/original_report/usgs_southamerica/Ecuador_2010.pdf]
+
+2026-06-14 19:08:05.507719
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Ecuador_2010_policy.txt. Execution time 0.10 seconds
+
+2026-06-14 19:08:05.534962
+PDF loaded. Processing 77/159 [Ecuador in 2011 from: ../../data/original_report/usgs_southamerica/Ecuador_2011.pdf]
+
+2026-06-14 19:08:05.643508
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Ecuador_2011_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 19:08:05.690913
+PDF loaded. Processing 78/159 [Ecuador in 2012 from: ../../data/original_report/usgs_southamerica/Ecuador_2012.pdf]
+
+2026-06-14 19:08:05.845134
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Ecuador_2012_policy.txt. Execution time 0.15 seconds
+
+2026-06-14 19:08:05.874835
+PDF loaded. Processing 79/159 [Ecuador in 2013 from: ../../data/original_report/usgs_southamerica/Ecuador_2013.pdf]
+
+2026-06-14 19:08:05.978579
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Ecuador_2013_policy.txt. Execution time 0.10 seconds
+
+2026-06-14 19:08:06.018027
+PDF loaded. Processing 80/159 [Ecuador in 2014 from: ../../data/original_report/usgs_southamerica/Ecuador_2014.pdf]
+
+2026-06-14 19:08:06.138809
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Ecuador_2014_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 19:08:06.153892
+PDF loaded. Processing 81/159 [Ecuador in 2015 from: ../../data/original_report/usgs_southamerica/Ecuador_2015.pdf]
+
+2026-06-14 19:08:06.258869
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Ecuador_2015_policy.txt. Execution time 0.10 seconds
+
+2026-06-14 19:08:06.299093
+PDF loaded. Processing 82/159 [Ecuador in 2016 from: ../../data/original_report/usgs_southamerica/Ecuador_2016.pdf]
+

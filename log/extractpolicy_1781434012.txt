@@ -1,0 +1,207 @@
+2026-06-14 19:46:52.813405
+PDF loaded. Processing 1/433 [Afghanistan in 2005 from: ../../data/original_report/usgs_asia/Afghanistan_2005.pdf]
+
+2026-06-14 19:46:52.904486
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Afghanistan_2005_policy.txt. Execution time 0.09 seconds
+
+2026-06-14 19:46:52.905993
+PDF loaded. Processing 2/433 [Afghanistan in 2006 from: ../../data/original_report/usgs_asia/Afghanistan_2006.pdf]
+
+2026-06-14 19:46:52.977221
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Afghanistan_2006_policy.txt. Execution time 0.07 seconds
+
+2026-06-14 19:46:52.979674
+PDF loaded. Processing 3/433 [Afghanistan in 2007 from: ../../data/original_report/usgs_asia/Afghanistan_2007.pdf]
+
+2026-06-14 19:46:53.063127
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Afghanistan_2007_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 19:46:53.064895
+PDF loaded. Processing 4/433 [Afghanistan in 2008 from: ../../data/original_report/usgs_asia/Afghanistan_2008.pdf]
+
+2026-06-14 19:46:53.136072
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Afghanistan_2008_policy.txt. Execution time 0.07 seconds
+
+2026-06-14 19:46:53.137193
+PDF loaded. Processing 5/433 [Afghanistan in 2009 from: ../../data/original_report/usgs_asia/Afghanistan_2009.pdf]
+
+2026-06-14 19:46:53.220694
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Afghanistan_2009_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 19:46:53.222425
+PDF loaded. Processing 6/433 [Afghanistan in 2010 from: ../../data/original_report/usgs_asia/Afghanistan_2010.pdf]
+
+2026-06-14 19:46:53.382833
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Afghanistan_2010_policy.txt. Execution time 0.16 seconds
+
+2026-06-14 19:46:53.385041
+PDF loaded. Processing 7/433 [Afghanistan in 2011 from: ../../data/original_report/usgs_asia/Afghanistan_2011.pdf]
+
+2026-06-14 19:46:53.485948
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Afghanistan_2011_policy.txt. Execution time 0.10 seconds
+
+2026-06-14 19:46:53.487566
+PDF loaded. Processing 8/433 [Afghanistan in 2012 from: ../../data/original_report/usgs_asia/Afghanistan_2012.pdf]
+
+2026-06-14 19:46:53.602683
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Afghanistan_2012_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 19:46:53.604488
+PDF loaded. Processing 9/433 [Afghanistan in 2013 from: ../../data/original_report/usgs_asia/Afghanistan_2013.pdf]
+
+2026-06-14 19:46:53.920492
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Afghanistan_2013_policy.txt. Execution time 0.32 seconds
+
+2026-06-14 19:46:53.923126
+PDF loaded. Processing 10/433 [Afghanistan in 2014 from: ../../data/original_report/usgs_asia/Afghanistan_2014.pdf]
+
+2026-06-14 19:46:54.258523
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Afghanistan_2014_policy.txt. Execution time 0.34 seconds
+
+2026-06-14 19:46:54.261185
+PDF loaded. Processing 11/433 [Afghanistan in 2015 from: ../../data/original_report/usgs_asia/Afghanistan_2015.pdf]
+
+2026-06-14 19:46:54.472845
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Afghanistan_2015_policy.txt. Execution time 0.21 seconds
+
+2026-06-14 19:46:54.475141
+PDF loaded. Processing 12/433 [Afghanistan in 2016 from: ../../data/original_report/usgs_asia/Afghanistan_2016.pdf]
+
+2026-06-14 19:46:54.604958
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Afghanistan_2016_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 19:46:54.606103
+PDF loaded. Processing 13/433 [Afghanistan in 2018 from: ../../data/original_report/usgs_asia/Afghanistan_2018.pdf]
+
+2026-06-14 19:46:54.700003
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Afghanistan_2018_policy.txt. Execution time 0.09 seconds
+
+2026-06-14 19:46:54.703127
+PDF loaded. Processing 14/433 [Afghanistan in 2019 from: ../../data/original_report/usgs_asia/Afghanistan_2019.pdf]
+
+2026-06-14 19:46:54.833688
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Afghanistan_2019_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 19:46:54.835582
+PDF loaded. Processing 15/433 [Afghanistan in 2021 from: ../../data/original_report/usgs_asia/Afghanistan_2021.pdf]
+
+2026-06-14 19:46:55.056102
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Afghanistan_2021_policy.txt. Execution time 0.22 seconds
+
+2026-06-14 19:46:55.057629
+PDF loaded. Processing 16/433 [Australia in 2005 from: ../../data/original_report/usgs_asia/Australia_2005.pdf]
+
+2026-06-14 19:46:55.268665
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Australia_2005_policy.txt. Execution time 0.21 seconds
+
+2026-06-14 19:46:55.271087
+PDF loaded. Processing 17/433 [Australia in 2006 from: ../../data/original_report/usgs_asia/Australia_2006.pdf]
+
+2026-06-14 19:46:55.639418
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Australia_2006_policy.txt. Execution time 0.37 seconds
+
+2026-06-14 19:46:55.641105
+PDF loaded. Processing 18/433 [Australia in 2007 from: ../../data/original_report/usgs_asia/Australia_2007.pdf]
+
+2026-06-14 19:46:56.121534
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Australia_2007_policy.txt. Execution time 0.48 seconds
+
+2026-06-14 19:46:56.123663
+PDF loaded. Processing 19/433 [Australia in 2008 from: ../../data/original_report/usgs_asia/Australia_2008.pdf]
+
+2026-06-14 19:46:56.598614
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Australia_2008_policy.txt. Execution time 0.47 seconds
+
+2026-06-14 19:46:56.637947
+PDF loaded. Processing 20/433 [Australia in 2009 from: ../../data/original_report/usgs_asia/Australia_2009.pdf]
+
+2026-06-14 19:46:57.076483
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Australia_2009_policy.txt. Execution time 0.44 seconds
+
+2026-06-14 19:46:57.132260
+PDF loaded. Processing 21/433 [Australia in 2010 from: ../../data/original_report/usgs_asia/Australia_2010.pdf]
+
+2026-06-14 19:46:57.624837
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Australia_2010_policy.txt. Execution time 0.49 seconds
+
+2026-06-14 19:46:57.644520
+PDF loaded. Processing 22/433 [Australia in 2011 from: ../../data/original_report/usgs_asia/Australia_2011.pdf]
+
+2026-06-14 19:46:58.088120
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Australia_2011_policy.txt. Execution time 0.44 seconds
+
+2026-06-14 19:46:58.134867
+PDF loaded. Processing 23/433 [Australia in 2012 from: ../../data/original_report/usgs_asia/Australia_2012.pdf]
+
+2026-06-14 19:46:58.558822
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Australia_2012_policy.txt. Execution time 0.42 seconds
+
+2026-06-14 19:46:58.610051
+PDF loaded. Processing 24/433 [Australia in 2013 from: ../../data/original_report/usgs_asia/Australia_2013.pdf]
+
+2026-06-14 19:46:58.970698
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Australia_2013_policy.txt. Execution time 0.36 seconds
+
+2026-06-14 19:46:59.002080
+PDF loaded. Processing 25/433 [Australia in 2014 from: ../../data/original_report/usgs_asia/Australia_2014.pdf]
+
+2026-06-14 19:46:59.423662
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Australia_2014_policy.txt. Execution time 0.42 seconds
+
+2026-06-14 19:46:59.450663
+PDF loaded. Processing 26/433 [Australia in 2015 from: ../../data/original_report/usgs_asia/Australia_2015.pdf]
+
+2026-06-14 19:46:59.689807
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Australia_2015_policy.txt. Execution time 0.24 seconds
+
+2026-06-14 19:46:59.740139
+PDF loaded. Processing 27/433 [Australia in 2016 from: ../../data/original_report/usgs_asia/Australia_2016.pdf]
+
+2026-06-14 19:47:00.107973
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Australia_2016_policy.txt. Execution time 0.37 seconds
+
+2026-06-14 19:47:00.157955
+PDF loaded. Processing 28/433 [Australia in 2018 from: ../../data/original_report/usgs_asia/Australia_2018.pdf]
+
+2026-06-14 19:47:00.640209
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Australia_2018_policy.txt. Execution time 0.48 seconds
+
+2026-06-14 19:47:00.672926
+PDF loaded. Processing 29/433 [Australia in 2019 from: ../../data/original_report/usgs_asia/Australia_2019.pdf]
+
+2026-06-14 19:47:00.976757
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Australia_2019_policy.txt. Execution time 0.30 seconds
+
+2026-06-14 19:47:01.030798
+PDF loaded. Processing 30/433 [Australia in 2021 from: ../../data/original_report/usgs_asia/Australia_2021.pdf]
+
+2026-06-14 19:47:01.397130
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Australia_2021_policy.txt. Execution time 0.37 seconds
+
+2026-06-14 19:47:01.429354
+PDF loaded. Processing 31/433 [Australia in 2022 from: ../../data/original_report/usgs_asia/Australia_2022.pdf]
+
+2026-06-14 19:47:01.849755
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Australia_2022_policy.txt. Execution time 0.42 seconds
+
+2026-06-14 19:47:01.899445
+PDF loaded. Processing 32/433 [Australia in 2023 from: ../../data/original_report/usgs_asia/Australia_2023.pdf]
+
+2026-06-14 19:47:02.208437
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Australia_2023_policy.txt. Execution time 0.31 seconds
+
+2026-06-14 19:47:02.253731
+PDF loaded. Processing 33/433 [Bangladesh in 2005 from: ../../data/original_report/usgs_asia/Bangladesh_2005.pdf]
+
+2026-06-14 19:47:02.360317
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Bangladesh_2005_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 19:47:02.401897
+PDF loaded. Processing 34/433 [Bangladesh in 2006 from: ../../data/original_report/usgs_asia/Bangladesh_2006.pdf]
+
+2026-06-14 19:47:02.529416
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Bangladesh_2006_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 19:47:02.555447
+PDF loaded. Processing 35/433 [Bangladesh in 2007 from: ../../data/original_report/usgs_asia/Bangladesh_2007.pdf]
+

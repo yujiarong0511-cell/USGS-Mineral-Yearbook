@@ -1,0 +1,3948 @@
+2026-06-15 00:05:47.329704
+PDF loaded. Processing 1/658 [Albania in 2007 from: ../../data/original_report/usgs_europe/Albania_2007.pdf]
+
+2026-06-15 00:05:47.467608
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Albania_2007_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:05:47.511874
+PDF loaded. Processing 2/658 [Albania in 2008 from: ../../data/original_report/usgs_europe/Albania_2008.pdf]
+
+2026-06-15 00:05:47.627239
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Albania_2008_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:05:47.654825
+PDF loaded. Processing 3/658 [Albania in 2009 from: ../../data/original_report/usgs_europe/Albania_2009.pdf]
+
+2026-06-15 00:05:47.785628
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Albania_2009_policy.txt. Execution time 0.13 seconds
+
+2026-06-15 00:05:47.825356
+PDF loaded. Processing 4/658 [Albania in 2010 from: ../../data/original_report/usgs_europe/Albania_2010.pdf]
+
+2026-06-15 00:05:47.913496
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Albania_2010_policy.txt. Execution time 0.09 seconds
+
+2026-06-15 00:05:47.947188
+PDF loaded. Processing 5/658 [Albania in 2011 from: ../../data/original_report/usgs_europe/Albania_2011.pdf]
+
+2026-06-15 00:05:48.028878
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Albania_2011_policy.txt. Execution time 0.08 seconds
+
+2026-06-15 00:05:48.049188
+PDF loaded. Processing 6/658 [Albania in 2012 from: ../../data/original_report/usgs_europe/Albania_2012.pdf]
+
+2026-06-15 00:05:48.094315
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Albania_2012_policy.txt. Execution time 0.05 seconds
+
+2026-06-15 00:05:48.109490
+PDF loaded. Processing 7/658 [Albania in 2013 from: ../../data/original_report/usgs_europe/Albania_2013.pdf]
+
+2026-06-15 00:05:48.271135
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Albania_2013_policy.txt. Execution time 0.16 seconds
+
+2026-06-15 00:05:48.296482
+PDF loaded. Processing 8/658 [Albania in 2014 from: ../../data/original_report/usgs_europe/Albania_2014.pdf]
+
+2026-06-15 00:05:48.561042
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Albania_2014_policy.txt. Execution time 0.26 seconds
+
+2026-06-15 00:05:48.607038
+PDF loaded. Processing 9/658 [Albania in 2015 from: ../../data/original_report/usgs_europe/Albania_2015.pdf]
+
+2026-06-15 00:05:48.799596
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Albania_2015_policy.txt. Execution time 0.19 seconds
+
+2026-06-15 00:05:48.836593
+PDF loaded. Processing 10/658 [Albania in 2016 from: ../../data/original_report/usgs_europe/Albania_2016.pdf]
+
+2026-06-15 00:05:48.881779
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Albania_2016_policy.txt. Execution time 0.05 seconds
+
+2026-06-15 00:05:48.915202
+PDF loaded. Processing 11/658 [Albania in 2018 from: ../../data/original_report/usgs_europe/Albania_2018.pdf]
+
+2026-06-15 00:05:48.963455
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Albania_2018_policy.txt. Execution time 0.05 seconds
+
+2026-06-15 00:05:48.993914
+PDF loaded. Processing 12/658 [Albania in 2019 from: ../../data/original_report/usgs_europe/Albania_2019.pdf]
+
+2026-06-15 00:05:49.059035
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Albania_2019_policy.txt. Execution time 0.07 seconds
+
+2026-06-15 00:05:49.087227
+PDF loaded. Processing 13/658 [Albania in 2021 from: ../../data/original_report/usgs_europe/Albania_2021.pdf]
+
+2026-06-15 00:05:49.173151
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Albania_2021_policy.txt. Execution time 0.09 seconds
+
+2026-06-15 00:05:49.209305
+PDF loaded. Processing 14/658 [Armenia in 2007 from: ../../data/original_report/usgs_europe/Armenia_2007.pdf]
+
+2026-06-15 00:05:49.315576
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Armenia_2007_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:05:49.336536
+PDF loaded. Processing 15/658 [Armenia in 2009 from: ../../data/original_report/usgs_europe/Armenia_2009.pdf]
+
+2026-06-15 00:05:49.464395
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Armenia_2009_policy.txt. Execution time 0.13 seconds
+
+2026-06-15 00:05:49.500995
+PDF loaded. Processing 16/658 [Armenia in 2010 from: ../../data/original_report/usgs_europe/Armenia_2010.pdf]
+
+2026-06-15 00:05:49.614029
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Armenia_2010_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:05:49.638748
+PDF loaded. Processing 17/658 [Armenia in 2011 from: ../../data/original_report/usgs_europe/Armenia_2011.pdf]
+
+2026-06-15 00:05:49.760455
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Armenia_2011_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:05:49.794567
+PDF loaded. Processing 18/658 [Armenia in 2012 from: ../../data/original_report/usgs_europe/Armenia_2012.pdf]
+
+2026-06-15 00:05:49.977678
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Armenia_2012_policy.txt. Execution time 0.18 seconds
+
+2026-06-15 00:05:50.005529
+PDF loaded. Processing 19/658 [Armenia in 2013 from: ../../data/original_report/usgs_europe/Armenia_2013.pdf]
+
+2026-06-15 00:05:50.154421
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Armenia_2013_policy.txt. Execution time 0.15 seconds
+
+2026-06-15 00:05:50.189881
+PDF loaded. Processing 20/658 [Armenia in 2014 from: ../../data/original_report/usgs_europe/Armenia_2014.pdf]
+
+2026-06-15 00:05:50.365487
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Armenia_2014_policy.txt. Execution time 0.18 seconds
+
+2026-06-15 00:05:50.385843
+PDF loaded. Processing 21/658 [Armenia in 2015 from: ../../data/original_report/usgs_europe/Armenia_2015.pdf]
+
+2026-06-15 00:05:50.533578
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Armenia_2015_policy.txt. Execution time 0.15 seconds
+
+2026-06-15 00:05:50.571374
+PDF loaded. Processing 22/658 [Armenia in 2016 from: ../../data/original_report/usgs_europe/Armenia_2016.pdf]
+
+2026-06-15 00:05:50.714077
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Armenia_2016_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:05:50.731129
+PDF loaded. Processing 23/658 [Armenia in 2018 from: ../../data/original_report/usgs_europe/Armenia_2018.pdf]
+
+2026-06-15 00:05:50.863876
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Armenia_2018_policy.txt. Execution time 0.13 seconds
+
+2026-06-15 00:05:50.905706
+PDF loaded. Processing 24/658 [Armenia in 2019 from: ../../data/original_report/usgs_europe/Armenia_2019.pdf]
+
+2026-06-15 00:05:51.073257
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Armenia_2019_policy.txt. Execution time 0.17 seconds
+
+2026-06-15 00:05:51.095224
+PDF loaded. Processing 25/658 [Austria in 2005 from: ../../data/original_report/usgs_europe/Austria_2005.pdf]
+
+2026-06-15 00:05:51.197863
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Austria_2005_policy.txt. Execution time 0.10 seconds
+
+2026-06-15 00:05:51.238576
+PDF loaded. Processing 26/658 [Austria in 2006 from: ../../data/original_report/usgs_europe/Austria_2006.pdf]
+
+2026-06-15 00:05:51.322390
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Austria_2006_policy.txt. Execution time 0.08 seconds
+
+2026-06-15 00:05:51.349463
+PDF loaded. Processing 27/658 [Austria in 2007 from: ../../data/original_report/usgs_europe/Austria_2007.pdf]
+
+2026-06-15 00:05:51.440689
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Austria_2007_policy.txt. Execution time 0.09 seconds
+
+2026-06-15 00:05:51.484378
+PDF loaded. Processing 28/658 [Austria in 2008 from: ../../data/original_report/usgs_europe/Austria_2008.pdf]
+
+2026-06-15 00:05:51.568067
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Austria_2008_policy.txt. Execution time 0.08 seconds
+
+2026-06-15 00:05:51.595710
+PDF loaded. Processing 29/658 [Austria in 2009 from: ../../data/original_report/usgs_europe/Austria_2009.pdf]
+
+2026-06-15 00:05:51.745711
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Austria_2009_policy.txt. Execution time 0.15 seconds
+
+2026-06-15 00:05:51.766940
+PDF loaded. Processing 30/658 [Austria in 2010 from: ../../data/original_report/usgs_europe/Austria_2010.pdf]
+
+2026-06-15 00:05:52.047347
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Austria_2010_policy.txt. Execution time 0.28 seconds
+
+2026-06-15 00:05:52.075638
+PDF loaded. Processing 31/658 [Austria in 2011 from: ../../data/original_report/usgs_europe/Austria_2011.pdf]
+
+2026-06-15 00:05:52.265114
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Austria_2011_policy.txt. Execution time 0.19 seconds
+
+2026-06-15 00:05:52.284301
+PDF loaded. Processing 32/658 [Austria in 2012 from: ../../data/original_report/usgs_europe/Austria_2012.pdf]
+
+2026-06-15 00:05:52.478240
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Austria_2012_policy.txt. Execution time 0.19 seconds
+
+2026-06-15 00:05:52.500998
+PDF loaded. Processing 33/658 [Austria in 2013 from: ../../data/original_report/usgs_europe/Austria_2013.pdf]
+
+2026-06-15 00:05:52.785306
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Austria_2013_policy.txt. Execution time 0.28 seconds
+
+2026-06-15 00:05:52.818513
+PDF loaded. Processing 34/658 [Austria in 2014 from: ../../data/original_report/usgs_europe/Austria_2014.pdf]
+
+2026-06-15 00:05:53.111068
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Austria_2014_policy.txt. Execution time 0.29 seconds
+
+2026-06-15 00:05:53.129184
+PDF loaded. Processing 35/658 [Austria in 2015 from: ../../data/original_report/usgs_europe/Austria_2015.pdf]
+
+2026-06-15 00:05:53.256511
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Austria_2015_policy.txt. Execution time 0.13 seconds
+
+2026-06-15 00:05:53.293223
+PDF loaded. Processing 36/658 [Austria in 2016 from: ../../data/original_report/usgs_europe/Austria_2016.pdf]
+
+2026-06-15 00:05:53.381263
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Austria_2016_policy.txt. Execution time 0.09 seconds
+
+2026-06-15 00:05:53.403093
+PDF loaded. Processing 37/658 [Austria in 2018 from: ../../data/original_report/usgs_europe/Austria_2018.pdf]
+
+2026-06-15 00:05:53.521517
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Austria_2018_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:05:53.556281
+PDF loaded. Processing 38/658 [Austria in 2019 from: ../../data/original_report/usgs_europe/Austria_2019.pdf]
+
+2026-06-15 00:05:53.706091
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Austria_2019_policy.txt. Execution time 0.15 seconds
+
+2026-06-15 00:05:53.721585
+PDF loaded. Processing 39/658 [Azerbaijan in 2007 from: ../../data/original_report/usgs_europe/Azerbaijan_2007.pdf]
+
+2026-06-15 00:05:53.840441
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Azerbaijan_2007_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:05:53.877928
+PDF loaded. Processing 40/658 [Azerbaijan in 2009 from: ../../data/original_report/usgs_europe/Azerbaijan_2009.pdf]
+
+2026-06-15 00:05:54.046615
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Azerbaijan_2009_policy.txt. Execution time 0.17 seconds
+
+2026-06-15 00:05:54.068841
+PDF loaded. Processing 41/658 [Azerbaijan in 2010 from: ../../data/original_report/usgs_europe/Azerbaijan_2010.pdf]
+
+2026-06-15 00:05:54.138268
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Azerbaijan_2010_policy.txt. Execution time 0.07 seconds
+
+2026-06-15 00:05:54.184162
+PDF loaded. Processing 42/658 [Azerbaijan in 2011 from: ../../data/original_report/usgs_europe/Azerbaijan_2011.pdf]
+
+2026-06-15 00:05:54.320879
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Azerbaijan_2011_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:05:54.343943
+PDF loaded. Processing 43/658 [Azerbaijan in 2012 from: ../../data/original_report/usgs_europe/Azerbaijan_2012.pdf]
+
+2026-06-15 00:05:54.499157
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Azerbaijan_2012_policy.txt. Execution time 0.16 seconds
+
+2026-06-15 00:05:54.534334
+PDF loaded. Processing 44/658 [Azerbaijan in 2013 from: ../../data/original_report/usgs_europe/Azerbaijan_2013.pdf]
+
+2026-06-15 00:05:54.683935
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Azerbaijan_2013_policy.txt. Execution time 0.15 seconds
+
+2026-06-15 00:05:54.709767
+PDF loaded. Processing 45/658 [Azerbaijan in 2014 from: ../../data/original_report/usgs_europe/Azerbaijan_2014.pdf]
+
+2026-06-15 00:05:54.848639
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Azerbaijan_2014_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:05:54.873268
+PDF loaded. Processing 46/658 [Azerbaijan in 2015 from: ../../data/original_report/usgs_europe/Azerbaijan_2015.pdf]
+
+2026-06-15 00:05:55.022036
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Azerbaijan_2015_policy.txt. Execution time 0.15 seconds
+
+2026-06-15 00:05:55.046350
+PDF loaded. Processing 47/658 [Azerbaijan in 2016 from: ../../data/original_report/usgs_europe/Azerbaijan_2016.pdf]
+
+2026-06-15 00:05:55.129690
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Azerbaijan_2016_policy.txt. Execution time 0.08 seconds
+
+2026-06-15 00:05:55.144499
+PDF loaded. Processing 48/658 [Azerbaijan in 2018 from: ../../data/original_report/usgs_europe/Azerbaijan_2018.pdf]
+
+2026-06-15 00:05:55.289063
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Azerbaijan_2018_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:05:55.311277
+PDF loaded. Processing 49/658 [Azerbaijan in 2019 from: ../../data/original_report/usgs_europe/Azerbaijan_2019.pdf]
+
+2026-06-15 00:05:55.398238
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Azerbaijan_2019_policy.txt. Execution time 0.09 seconds
+
+2026-06-15 00:05:55.418012
+PDF loaded. Processing 50/658 [Belarus in 2007 from: ../../data/original_report/usgs_europe/Belarus_2007.pdf]
+
+2026-06-15 00:05:55.556800
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Belarus_2007_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:05:55.584244
+PDF loaded. Processing 51/658 [Belarus in 2009 from: ../../data/original_report/usgs_europe/Belarus_2009.pdf]
+
+2026-06-15 00:05:55.689691
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Belarus_2009_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:05:55.733421
+PDF loaded. Processing 52/658 [Belarus in 2010 from: ../../data/original_report/usgs_europe/Belarus_2010.pdf]
+
+2026-06-15 00:05:55.880632
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Belarus_2010_policy.txt. Execution time 0.15 seconds
+
+2026-06-15 00:05:55.909707
+PDF loaded. Processing 53/658 [Belarus in 2011 from: ../../data/original_report/usgs_europe/Belarus_2011.pdf]
+
+2026-06-15 00:05:56.009647
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Belarus_2011_policy.txt. Execution time 0.10 seconds
+
+2026-06-15 00:05:56.050234
+PDF loaded. Processing 54/658 [Belarus in 2012 from: ../../data/original_report/usgs_europe/Belarus_2012.pdf]
+
+2026-06-15 00:05:56.196812
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Belarus_2012_policy.txt. Execution time 0.15 seconds
+
+2026-06-15 00:05:56.213724
+PDF loaded. Processing 55/658 [Belarus in 2013 from: ../../data/original_report/usgs_europe/Belarus_2013.pdf]
+
+2026-06-15 00:05:56.332840
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Belarus_2013_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:05:56.369191
+PDF loaded. Processing 56/658 [Belarus in 2014 from: ../../data/original_report/usgs_europe/Belarus_2014.pdf]
+
+2026-06-15 00:05:56.528889
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Belarus_2014_policy.txt. Execution time 0.16 seconds
+
+2026-06-15 00:05:56.557383
+PDF loaded. Processing 57/658 [Belarus in 2015 from: ../../data/original_report/usgs_europe/Belarus_2015.pdf]
+
+2026-06-15 00:05:56.711684
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Belarus_2015_policy.txt. Execution time 0.15 seconds
+
+2026-06-15 00:05:56.748185
+PDF loaded. Processing 58/658 [Belarus in 2016 from: ../../data/original_report/usgs_europe/Belarus_2016.pdf]
+
+2026-06-15 00:05:56.862995
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Belarus_2016_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:05:56.881281
+PDF loaded. Processing 59/658 [Belarus in 2018 from: ../../data/original_report/usgs_europe/Belarus_2018.pdf]
+
+2026-06-15 00:05:57.009355
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Belarus_2018_policy.txt. Execution time 0.13 seconds
+
+2026-06-15 00:05:57.028661
+PDF loaded. Processing 60/658 [Belarus in 2019 from: ../../data/original_report/usgs_europe/Belarus_2019.pdf]
+
+2026-06-15 00:05:57.202250
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Belarus_2019_policy.txt. Execution time 0.17 seconds
+
+2026-06-15 00:05:57.217375
+PDF loaded. Processing 61/658 [Belgium and Luxembourg in 2005 from: ../../data/original_report/usgs_europe/Belgium and Luxembourg_2005.pdf]
+
+2026-06-15 00:05:57.346939
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Belgium and Luxembourg_2005_policy.txt. Execution time 0.13 seconds
+
+2026-06-15 00:05:57.387002
+PDF loaded. Processing 62/658 [Belgium and Luxembourg in 2006 from: ../../data/original_report/usgs_europe/Belgium and Luxembourg_2006.pdf]
+
+2026-06-15 00:05:57.541129
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Belgium and Luxembourg_2006_policy.txt. Execution time 0.15 seconds
+
+2026-06-15 00:05:57.563499
+PDF loaded. Processing 63/658 [Belgium and Luxembourg in 2007 from: ../../data/original_report/usgs_europe/Belgium and Luxembourg_2007.pdf]
+
+2026-06-15 00:05:57.661137
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Belgium and Luxembourg_2007_policy.txt. Execution time 0.10 seconds
+
+2026-06-15 00:05:57.677853
+PDF loaded. Processing 64/658 [Belgium and Luxembourg in 2008 from: ../../data/original_report/usgs_europe/Belgium and Luxembourg_2008.pdf]
+
+2026-06-15 00:05:57.768848
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Belgium and Luxembourg_2008_policy.txt. Execution time 0.09 seconds
+
+2026-06-15 00:05:57.798111
+PDF loaded. Processing 65/658 [Belgium and Luxembourg in 2009 from: ../../data/original_report/usgs_europe/Belgium and Luxembourg_2009.pdf]
+
+2026-06-15 00:05:57.906085
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Belgium and Luxembourg_2009_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:05:57.941183
+PDF loaded. Processing 66/658 [Belgium and Luxembourg in 2010 from: ../../data/original_report/usgs_europe/Belgium and Luxembourg_2010.pdf]
+
+2026-06-15 00:05:58.030356
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Belgium and Luxembourg_2010_policy.txt. Execution time 0.09 seconds
+
+2026-06-15 00:05:58.062578
+PDF loaded. Processing 67/658 [Belgium and Luxembourg in 2011 from: ../../data/original_report/usgs_europe/Belgium and Luxembourg_2011.pdf]
+
+2026-06-15 00:05:58.135313
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Belgium and Luxembourg_2011_policy.txt. Execution time 0.07 seconds
+
+2026-06-15 00:05:58.170402
+PDF loaded. Processing 68/658 [Belgium and Luxembourg in 2012 from: ../../data/original_report/usgs_europe/Belgium and Luxembourg_2012.pdf]
+
+2026-06-15 00:05:58.324555
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Belgium and Luxembourg_2012_policy.txt. Execution time 0.15 seconds
+
+2026-06-15 00:05:58.349412
+PDF loaded. Processing 69/658 [Belgium and Luxembourg in 2013 from: ../../data/original_report/usgs_europe/Belgium and Luxembourg_2013.pdf]
+
+2026-06-15 00:05:58.484582
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Belgium and Luxembourg_2013_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:05:58.522449
+PDF loaded. Processing 70/658 [Belgium and Luxembourg in 2014 from: ../../data/original_report/usgs_europe/Belgium and Luxembourg_2014.pdf]
+
+2026-06-15 00:05:58.683984
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Belgium and Luxembourg_2014_policy.txt. Execution time 0.16 seconds
+
+2026-06-15 00:05:58.703086
+PDF loaded. Processing 71/658 [Belgium and Luxembourg in 2015 from: ../../data/original_report/usgs_europe/Belgium and Luxembourg_2015.pdf]
+
+2026-06-15 00:05:58.897491
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Belgium and Luxembourg_2015_policy.txt. Execution time 0.19 seconds
+
+2026-06-15 00:05:58.925114
+PDF loaded. Processing 72/658 [Belgium and Luxembourg in 2016 from: ../../data/original_report/usgs_europe/Belgium and Luxembourg_2016.pdf]
+
+2026-06-15 00:05:58.942147
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-15 00:05:58.966947
+PDF loaded. Processing 73/658 [Belgium and Luxembourg in 2005 from: ../../data/original_report/usgs_europe/Belgium and Luxembourg_2005.pdf]
+
+2026-06-15 00:05:59.084971
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Belgium and Luxembourg_2005_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:05:59.117935
+PDF loaded. Processing 74/658 [Belgium and Luxembourg in 2006 from: ../../data/original_report/usgs_europe/Belgium and Luxembourg_2006.pdf]
+
+2026-06-15 00:05:59.238535
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Belgium and Luxembourg_2006_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:05:59.259726
+PDF loaded. Processing 75/658 [Belgium and Luxembourg in 2007 from: ../../data/original_report/usgs_europe/Belgium and Luxembourg_2007.pdf]
+
+2026-06-15 00:05:59.390992
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Belgium and Luxembourg_2007_policy.txt. Execution time 0.13 seconds
+
+2026-06-15 00:05:59.418321
+PDF loaded. Processing 76/658 [Belgium and Luxembourg in 2008 from: ../../data/original_report/usgs_europe/Belgium and Luxembourg_2008.pdf]
+
+2026-06-15 00:05:59.542571
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Belgium and Luxembourg_2008_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:05:59.563348
+PDF loaded. Processing 77/658 [Belgium and Luxembourg in 2009 from: ../../data/original_report/usgs_europe/Belgium and Luxembourg_2009.pdf]
+
+2026-06-15 00:05:59.684654
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Belgium and Luxembourg_2009_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:05:59.702521
+PDF loaded. Processing 78/658 [Belgium and Luxembourg in 2010 from: ../../data/original_report/usgs_europe/Belgium and Luxembourg_2010.pdf]
+
+2026-06-15 00:05:59.841857
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Belgium and Luxembourg_2010_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:05:59.870307
+PDF loaded. Processing 79/658 [Belgium and Luxembourg in 2011 from: ../../data/original_report/usgs_europe/Belgium and Luxembourg_2011.pdf]
+
+2026-06-15 00:06:00.005180
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Belgium and Luxembourg_2011_policy.txt. Execution time 0.13 seconds
+
+2026-06-15 00:06:00.035336
+PDF loaded. Processing 80/658 [Belgium and Luxembourg in 2012 from: ../../data/original_report/usgs_europe/Belgium and Luxembourg_2012.pdf]
+
+2026-06-15 00:06:00.145836
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Belgium and Luxembourg_2012_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:06:00.170733
+PDF loaded. Processing 81/658 [Belgium and Luxembourg in 2013 from: ../../data/original_report/usgs_europe/Belgium and Luxembourg_2013.pdf]
+
+2026-06-15 00:06:00.279907
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Belgium and Luxembourg_2013_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:06:00.317482
+PDF loaded. Processing 82/658 [Belgium and Luxembourg in 2014 from: ../../data/original_report/usgs_europe/Belgium and Luxembourg_2014.pdf]
+
+2026-06-15 00:06:00.474044
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Belgium and Luxembourg_2014_policy.txt. Execution time 0.16 seconds
+
+2026-06-15 00:06:00.499800
+PDF loaded. Processing 83/658 [Belgium and Luxembourg in 2015 from: ../../data/original_report/usgs_europe/Belgium and Luxembourg_2015.pdf]
+
+2026-06-15 00:06:00.695393
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Belgium and Luxembourg_2015_policy.txt. Execution time 0.20 seconds
+
+2026-06-15 00:06:00.715253
+PDF loaded. Processing 84/658 [Belgium and Luxembourg in 2016 from: ../../data/original_report/usgs_europe/Belgium and Luxembourg_2016.pdf]
+
+2026-06-15 00:06:00.920937
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Belgium and Luxembourg_2016_policy.txt. Execution time 0.21 seconds
+
+2026-06-15 00:06:00.941089
+PDF loaded. Processing 85/658 [Belgium and Luxembourg in 2018 from: ../../data/original_report/usgs_europe/Belgium and Luxembourg_2018.pdf]
+
+2026-06-15 00:06:01.103984
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Belgium and Luxembourg_2018_policy.txt. Execution time 0.16 seconds
+
+2026-06-15 00:06:01.118472
+PDF loaded. Processing 86/658 [Belgium and Luxembourg in 2019 from: ../../data/original_report/usgs_europe/Belgium and Luxembourg_2019.pdf]
+
+2026-06-15 00:06:01.273616
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Belgium and Luxembourg_2019_policy.txt. Execution time 0.16 seconds
+
+2026-06-15 00:06:01.296042
+PDF loaded. Processing 87/658 [Belgium and Luxembourg in 2021 from: ../../data/original_report/usgs_europe/Belgium and Luxembourg_2021.pdf]
+
+2026-06-15 00:06:01.397300
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Belgium and Luxembourg_2021_policy.txt. Execution time 0.10 seconds
+
+2026-06-15 00:06:01.437668
+PDF loaded. Processing 88/658 [Bosnia and Herzegovina in 2007 from: ../../data/original_report/usgs_europe/Bosnia and Herzegovina_2007.pdf]
+
+2026-06-15 00:06:01.534852
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Bosnia and Herzegovina_2007_policy.txt. Execution time 0.10 seconds
+
+2026-06-15 00:06:01.561727
+PDF loaded. Processing 89/658 [Bosnia and Herzegovina in 2008 from: ../../data/original_report/usgs_europe/Bosnia and Herzegovina_2008.pdf]
+
+2026-06-15 00:06:01.642057
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Bosnia and Herzegovina_2008_policy.txt. Execution time 0.08 seconds
+
+2026-06-15 00:06:01.678623
+PDF loaded. Processing 90/658 [Bosnia and Herzegovina in 2009 from: ../../data/original_report/usgs_europe/Bosnia and Herzegovina_2009.pdf]
+
+2026-06-15 00:06:01.781485
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Bosnia and Herzegovina_2009_policy.txt. Execution time 0.10 seconds
+
+2026-06-15 00:06:01.812209
+PDF loaded. Processing 91/658 [Bosnia and Herzegovina in 2010 from: ../../data/original_report/usgs_europe/Bosnia and Herzegovina_2010.pdf]
+
+2026-06-15 00:06:01.877862
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Bosnia and Herzegovina_2010_policy.txt. Execution time 0.07 seconds
+
+2026-06-15 00:06:01.915842
+PDF loaded. Processing 92/658 [Bosnia and Herzegovina in 2011 from: ../../data/original_report/usgs_europe/Bosnia and Herzegovina_2011.pdf]
+
+2026-06-15 00:06:01.976835
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Bosnia and Herzegovina_2011_policy.txt. Execution time 0.06 seconds
+
+2026-06-15 00:06:01.995619
+PDF loaded. Processing 93/658 [Bosnia and Herzegovina in 2012 from: ../../data/original_report/usgs_europe/Bosnia and Herzegovina_2012.pdf]
+
+2026-06-15 00:06:02.075280
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Bosnia and Herzegovina_2012_policy.txt. Execution time 0.08 seconds
+
+2026-06-15 00:06:02.092526
+PDF loaded. Processing 94/658 [Bosnia and Herzegovina in 2013 from: ../../data/original_report/usgs_europe/Bosnia and Herzegovina_2013.pdf]
+
+2026-06-15 00:06:02.217315
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Bosnia and Herzegovina_2013_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:06:02.244321
+PDF loaded. Processing 95/658 [Bosnia and Herzegovina in 2014 from: ../../data/original_report/usgs_europe/Bosnia and Herzegovina_2014.pdf]
+
+2026-06-15 00:06:02.521591
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Bosnia and Herzegovina_2014_policy.txt. Execution time 0.28 seconds
+
+2026-06-15 00:06:02.554803
+PDF loaded. Processing 96/658 [Bosnia and Herzegovina in 2015 from: ../../data/original_report/usgs_europe/Bosnia and Herzegovina_2015.pdf]
+
+2026-06-15 00:06:02.810846
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Bosnia and Herzegovina_2015_policy.txt. Execution time 0.26 seconds
+
+2026-06-15 00:06:02.847886
+PDF loaded. Processing 97/658 [Bosnia and Herzegovina in 2016 from: ../../data/original_report/usgs_europe/Bosnia and Herzegovina_2016.pdf]
+
+2026-06-15 00:06:02.869005
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-15 00:06:02.911259
+PDF loaded. Processing 98/658 [Bosnia and Herzegovina in 2018 from: ../../data/original_report/usgs_europe/Bosnia and Herzegovina_2018.pdf]
+
+2026-06-15 00:06:02.931399
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-15 00:06:02.960793
+PDF loaded. Processing 99/658 [Bosnia and Herzegovina in 2019 from: ../../data/original_report/usgs_europe/Bosnia and Herzegovina_2019.pdf]
+
+2026-06-15 00:06:03.016223
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Bosnia and Herzegovina_2019_policy.txt. Execution time 0.06 seconds
+
+2026-06-15 00:06:03.050261
+PDF loaded. Processing 100/658 [Bulgaria in 2007 from: ../../data/original_report/usgs_europe/Bulgaria_2007.pdf]
+
+2026-06-15 00:06:03.094311
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Bulgaria_2007_policy.txt. Execution time 0.04 seconds
+
+2026-06-15 00:06:03.112128
+PDF loaded. Processing 101/658 [Bulgaria in 2008 from: ../../data/original_report/usgs_europe/Bulgaria_2008.pdf]
+
+2026-06-15 00:06:03.256604
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Bulgaria_2008_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:06:03.296844
+PDF loaded. Processing 102/658 [Bulgaria in 2009 from: ../../data/original_report/usgs_europe/Bulgaria_2009.pdf]
+
+2026-06-15 00:06:03.469949
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Bulgaria_2009_policy.txt. Execution time 0.17 seconds
+
+2026-06-15 00:06:03.497325
+PDF loaded. Processing 103/658 [Bulgaria in 2010 from: ../../data/original_report/usgs_europe/Bulgaria_2010.pdf]
+
+2026-06-15 00:06:03.617787
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Bulgaria_2010_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:06:03.642333
+PDF loaded. Processing 104/658 [Bulgaria in 2011 from: ../../data/original_report/usgs_europe/Bulgaria_2011.pdf]
+
+2026-06-15 00:06:03.798426
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Bulgaria_2011_policy.txt. Execution time 0.16 seconds
+
+2026-06-15 00:06:03.816999
+PDF loaded. Processing 105/658 [Bulgaria in 2012 from: ../../data/original_report/usgs_europe/Bulgaria_2012.pdf]
+
+2026-06-15 00:06:03.917309
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Bulgaria_2012_policy.txt. Execution time 0.10 seconds
+
+2026-06-15 00:06:03.935481
+PDF loaded. Processing 106/658 [Bulgaria in 2013 from: ../../data/original_report/usgs_europe/Bulgaria_2013.pdf]
+
+2026-06-15 00:06:04.047424
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Bulgaria_2013_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:06:04.063845
+PDF loaded. Processing 107/658 [Bulgaria in 2014 from: ../../data/original_report/usgs_europe/Bulgaria_2014.pdf]
+
+2026-06-15 00:06:04.233863
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Bulgaria_2014_policy.txt. Execution time 0.17 seconds
+
+2026-06-15 00:06:04.258535
+PDF loaded. Processing 108/658 [Bulgaria in 2015 from: ../../data/original_report/usgs_europe/Bulgaria_2015.pdf]
+
+2026-06-15 00:06:04.360734
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Bulgaria_2015_policy.txt. Execution time 0.10 seconds
+
+2026-06-15 00:06:04.396795
+PDF loaded. Processing 109/658 [Bulgaria in 2016 from: ../../data/original_report/usgs_europe/Bulgaria_2016.pdf]
+
+2026-06-15 00:06:04.489977
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Bulgaria_2016_policy.txt. Execution time 0.09 seconds
+
+2026-06-15 00:06:04.511131
+PDF loaded. Processing 110/658 [Bulgaria in 2018 from: ../../data/original_report/usgs_europe/Bulgaria_2018.pdf]
+
+2026-06-15 00:06:04.578682
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Bulgaria_2018_policy.txt. Execution time 0.07 seconds
+
+2026-06-15 00:06:04.601338
+PDF loaded. Processing 111/658 [Bulgaria in 2019 from: ../../data/original_report/usgs_europe/Bulgaria_2019.pdf]
+
+2026-06-15 00:06:04.699794
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Bulgaria_2019_policy.txt. Execution time 0.10 seconds
+
+2026-06-15 00:06:04.716074
+PDF loaded. Processing 112/658 [Croatia in 2007 from: ../../data/original_report/usgs_europe/Croatia_2007.pdf]
+
+2026-06-15 00:06:04.784819
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Croatia_2007_policy.txt. Execution time 0.07 seconds
+
+2026-06-15 00:06:04.813429
+PDF loaded. Processing 113/658 [Croatia in 2008 from: ../../data/original_report/usgs_europe/Croatia_2008.pdf]
+
+2026-06-15 00:06:04.913781
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Croatia_2008_policy.txt. Execution time 0.10 seconds
+
+2026-06-15 00:06:04.958241
+PDF loaded. Processing 114/658 [Croatia in 2009 from: ../../data/original_report/usgs_europe/Croatia_2009.pdf]
+
+2026-06-15 00:06:04.980354
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-15 00:06:05.018800
+PDF loaded. Processing 115/658 [Croatia in 2010 from: ../../data/original_report/usgs_europe/Croatia_2010.pdf]
+
+2026-06-15 00:06:05.048941
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.03 seconds
+
+2026-06-15 00:06:05.072386
+PDF loaded. Processing 116/658 [Croatia in 2011 from: ../../data/original_report/usgs_europe/Croatia_2011.pdf]
+
+2026-06-15 00:06:05.135024
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Croatia_2011_policy.txt. Execution time 0.06 seconds
+
+2026-06-15 00:06:05.191255
+PDF loaded. Processing 117/658 [Croatia in 2012 from: ../../data/original_report/usgs_europe/Croatia_2012.pdf]
+
+2026-06-15 00:06:05.302446
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Croatia_2012_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:06:05.327703
+PDF loaded. Processing 118/658 [Croatia in 2013 from: ../../data/original_report/usgs_europe/Croatia_2013.pdf]
+
+2026-06-15 00:06:05.569362
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Croatia_2013_policy.txt. Execution time 0.24 seconds
+
+2026-06-15 00:06:05.613578
+PDF loaded. Processing 119/658 [Croatia in 2014 from: ../../data/original_report/usgs_europe/Croatia_2014.pdf]
+
+2026-06-15 00:06:05.827641
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Croatia_2014_policy.txt. Execution time 0.21 seconds
+
+2026-06-15 00:06:05.842404
+PDF loaded. Processing 120/658 [Croatia in 2015 from: ../../data/original_report/usgs_europe/Croatia_2015.pdf]
+
+2026-06-15 00:06:05.932077
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Croatia_2015_policy.txt. Execution time 0.09 seconds
+
+2026-06-15 00:06:05.947312
+PDF loaded. Processing 121/658 [Croatia in 2016 from: ../../data/original_report/usgs_europe/Croatia_2016.pdf]
+
+2026-06-15 00:06:06.004372
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Croatia_2016_policy.txt. Execution time 0.06 seconds
+
+2026-06-15 00:06:06.031874
+PDF loaded. Processing 122/658 [Croatia in 2018 from: ../../data/original_report/usgs_europe/Croatia_2018.pdf]
+
+2026-06-15 00:06:06.082710
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Croatia_2018_policy.txt. Execution time 0.05 seconds
+
+2026-06-15 00:06:06.102722
+PDF loaded. Processing 123/658 [Croatia in 2019 from: ../../data/original_report/usgs_europe/Croatia_2019.pdf]
+
+2026-06-15 00:06:06.141491
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Croatia_2019_policy.txt. Execution time 0.04 seconds
+
+2026-06-15 00:06:06.155264
+PDF loaded. Processing 124/658 [Cyprus in 2005 from: ../../data/original_report/usgs_europe/Cyprus_2005.pdf]
+
+2026-06-15 00:06:06.203071
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Cyprus_2005_policy.txt. Execution time 0.05 seconds
+
+2026-06-15 00:06:06.237682
+PDF loaded. Processing 125/658 [Cyprus in 2006 from: ../../data/original_report/usgs_europe/Cyprus_2006.pdf]
+
+2026-06-15 00:06:06.287794
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Cyprus_2006_policy.txt. Execution time 0.05 seconds
+
+2026-06-15 00:06:06.304148
+PDF loaded. Processing 126/658 [Cyprus in 2007 from: ../../data/original_report/usgs_europe/Cyprus_2007.pdf]
+
+2026-06-15 00:06:06.394310
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Cyprus_2007_policy.txt. Execution time 0.09 seconds
+
+2026-06-15 00:06:06.418475
+PDF loaded. Processing 127/658 [Cyprus in 2008 from: ../../data/original_report/usgs_europe/Cyprus_2008.pdf]
+
+2026-06-15 00:06:06.502480
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Cyprus_2008_policy.txt. Execution time 0.08 seconds
+
+2026-06-15 00:06:06.526995
+PDF loaded. Processing 128/658 [Cyprus in 2009 from: ../../data/original_report/usgs_europe/Cyprus_2009.pdf]
+
+2026-06-15 00:06:06.574603
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Cyprus_2009_policy.txt. Execution time 0.05 seconds
+
+2026-06-15 00:06:06.599426
+PDF loaded. Processing 129/658 [Cyprus in 2010 from: ../../data/original_report/usgs_europe/Cyprus_2010.pdf]
+
+2026-06-15 00:06:06.694292
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Cyprus_2010_policy.txt. Execution time 0.09 seconds
+
+2026-06-15 00:06:06.718752
+PDF loaded. Processing 130/658 [Cyprus in 2011 from: ../../data/original_report/usgs_europe/Cyprus_2011.pdf]
+
+2026-06-15 00:06:06.809227
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Cyprus_2011_policy.txt. Execution time 0.09 seconds
+
+2026-06-15 00:06:06.830707
+PDF loaded. Processing 131/658 [Cyprus in 2012 from: ../../data/original_report/usgs_europe/Cyprus_2012.pdf]
+
+2026-06-15 00:06:06.946416
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Cyprus_2012_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:06:06.971361
+PDF loaded. Processing 132/658 [Cyprus in 2013 from: ../../data/original_report/usgs_europe/Cyprus_2013.pdf]
+
+2026-06-15 00:06:07.158856
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Cyprus_2013_policy.txt. Execution time 0.19 seconds
+
+2026-06-15 00:06:07.183151
+PDF loaded. Processing 133/658 [Cyprus in 2014 from: ../../data/original_report/usgs_europe/Cyprus_2014.pdf]
+
+2026-06-15 00:06:07.414131
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Cyprus_2014_policy.txt. Execution time 0.23 seconds
+
+2026-06-15 00:06:07.432417
+PDF loaded. Processing 134/658 [Cyprus in 2015 from: ../../data/original_report/usgs_europe/Cyprus_2015.pdf]
+
+2026-06-15 00:06:07.520799
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Cyprus_2015_policy.txt. Execution time 0.09 seconds
+
+2026-06-15 00:06:07.550202
+PDF loaded. Processing 135/658 [Cyprus in 2016 from: ../../data/original_report/usgs_europe/Cyprus_2016.pdf]
+
+2026-06-15 00:06:07.569649
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-15 00:06:07.605205
+PDF loaded. Processing 136/658 [Cyprus in 2018 from: ../../data/original_report/usgs_europe/Cyprus_2018.pdf]
+
+2026-06-15 00:06:07.660758
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Cyprus_2018_policy.txt. Execution time 0.06 seconds
+
+2026-06-15 00:06:07.681671
+PDF loaded. Processing 137/658 [Cyprus in 2019 from: ../../data/original_report/usgs_europe/Cyprus_2019.pdf]
+
+2026-06-15 00:06:07.726931
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Cyprus_2019_policy.txt. Execution time 0.05 seconds
+
+2026-06-15 00:06:07.750130
+PDF loaded. Processing 138/658 [Czechia in 2007 from: ../../data/original_report/usgs_europe/Czechia_2007.pdf]
+
+2026-06-15 00:06:07.839879
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Czechia_2007_policy.txt. Execution time 0.09 seconds
+
+2026-06-15 00:06:07.877601
+PDF loaded. Processing 139/658 [Czechia in 2008 from: ../../data/original_report/usgs_europe/Czechia_2008.pdf]
+
+2026-06-15 00:06:08.003291
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Czechia_2008_policy.txt. Execution time 0.13 seconds
+
+2026-06-15 00:06:08.030629
+PDF loaded. Processing 140/658 [Czechia in 2009 from: ../../data/original_report/usgs_europe/Czechia_2009.pdf]
+
+2026-06-15 00:06:08.131115
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Czechia_2009_policy.txt. Execution time 0.10 seconds
+
+2026-06-15 00:06:08.180035
+PDF loaded. Processing 141/658 [Czechia in 2010 from: ../../data/original_report/usgs_europe/Czechia_2010.pdf]
+
+2026-06-15 00:06:08.293619
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Czechia_2010_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:06:08.319316
+PDF loaded. Processing 142/658 [Czechia in 2011 from: ../../data/original_report/usgs_europe/Czechia_2011.pdf]
+
+2026-06-15 00:06:08.458312
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Czechia_2011_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:06:08.497263
+PDF loaded. Processing 143/658 [Czechia in 2012 from: ../../data/original_report/usgs_europe/Czechia_2012.pdf]
+
+2026-06-15 00:06:08.645584
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Czechia_2012_policy.txt. Execution time 0.15 seconds
+
+2026-06-15 00:06:08.670788
+PDF loaded. Processing 144/658 [Czechia in 2013 from: ../../data/original_report/usgs_europe/Czechia_2013.pdf]
+
+2026-06-15 00:06:08.814469
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Czechia_2013_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:06:08.853402
+PDF loaded. Processing 145/658 [Czechia in 2014 from: ../../data/original_report/usgs_europe/Czechia_2014.pdf]
+
+2026-06-15 00:06:08.994027
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Czechia_2014_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:06:09.021923
+PDF loaded. Processing 146/658 [Czechia in 2015 from: ../../data/original_report/usgs_europe/Czechia_2015.pdf]
+
+2026-06-15 00:06:09.168474
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Czechia_2015_policy.txt. Execution time 0.15 seconds
+
+2026-06-15 00:06:09.206911
+PDF loaded. Processing 147/658 [Czechia in 2016 from: ../../data/original_report/usgs_europe/Czechia_2016.pdf]
+
+2026-06-15 00:06:09.323429
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Czechia_2016_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:06:09.342936
+PDF loaded. Processing 148/658 [Czechia in 2018 from: ../../data/original_report/usgs_europe/Czechia_2018.pdf]
+
+2026-06-15 00:06:09.522066
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Czechia_2018_policy.txt. Execution time 0.18 seconds
+
+2026-06-15 00:06:09.588321
+PDF loaded. Processing 149/658 [Czechia in 2019 from: ../../data/original_report/usgs_europe/Czechia_2019.pdf]
+
+2026-06-15 00:06:09.732155
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Czechia_2019_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:06:09.754262
+PDF loaded. Processing 150/658 [Denmark, the Faroe Islands, and Greenland in 2005 from: ../../data/original_report/usgs_europe/Denmark, the Faroe Islands, and Greenland_2005.pdf]
+
+2026-06-15 00:06:09.884819
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Denmark, the Faroe Islands, and Greenland_2005_policy.txt. Execution time 0.13 seconds
+
+2026-06-15 00:06:09.902072
+PDF loaded. Processing 151/658 [Denmark, the Faroe Islands, and Greenland in 2006 from: ../../data/original_report/usgs_europe/Denmark, the Faroe Islands, and Greenland_2006.pdf]
+
+2026-06-15 00:06:09.985187
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Denmark, the Faroe Islands, and Greenland_2006_policy.txt. Execution time 0.08 seconds
+
+2026-06-15 00:06:10.002341
+PDF loaded. Processing 152/658 [Denmark, the Faroe Islands, and Greenland in 2007 from: ../../data/original_report/usgs_europe/Denmark, the Faroe Islands, and Greenland_2007.pdf]
+
+2026-06-15 00:06:10.092040
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Denmark, the Faroe Islands, and Greenland_2007_policy.txt. Execution time 0.09 seconds
+
+2026-06-15 00:06:10.111702
+PDF loaded. Processing 153/658 [Denmark, the Faroe Islands, and Greenland in 2008 from: ../../data/original_report/usgs_europe/Denmark, the Faroe Islands, and Greenland_2008.pdf]
+
+2026-06-15 00:06:10.244502
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Denmark, the Faroe Islands, and Greenland_2008_policy.txt. Execution time 0.13 seconds
+
+2026-06-15 00:06:10.285196
+PDF loaded. Processing 154/658 [Denmark, the Faroe Islands, and Greenland in 2009 from: ../../data/original_report/usgs_europe/Denmark, the Faroe Islands, and Greenland_2009.pdf]
+
+2026-06-15 00:06:10.453294
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Denmark, the Faroe Islands, and Greenland_2009_policy.txt. Execution time 0.17 seconds
+
+2026-06-15 00:06:10.473191
+PDF loaded. Processing 155/658 [Denmark, the Faroe Islands, and Greenland in 2010 from: ../../data/original_report/usgs_europe/Denmark, the Faroe Islands, and Greenland_2010.pdf]
+
+2026-06-15 00:06:10.636181
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Denmark, the Faroe Islands, and Greenland_2010_policy.txt. Execution time 0.16 seconds
+
+2026-06-15 00:06:10.663390
+PDF loaded. Processing 156/658 [Denmark, the Faroe Islands, and Greenland in 2011 from: ../../data/original_report/usgs_europe/Denmark, the Faroe Islands, and Greenland_2011.pdf]
+
+2026-06-15 00:06:10.835086
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Denmark, the Faroe Islands, and Greenland_2011_policy.txt. Execution time 0.17 seconds
+
+2026-06-15 00:06:10.861930
+PDF loaded. Processing 157/658 [Denmark, the Faroe Islands, and Greenland in 2012 from: ../../data/original_report/usgs_europe/Denmark, the Faroe Islands, and Greenland_2012.pdf]
+
+2026-06-15 00:06:11.047477
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Denmark, the Faroe Islands, and Greenland_2012_policy.txt. Execution time 0.19 seconds
+
+2026-06-15 00:06:11.065436
+PDF loaded. Processing 158/658 [Denmark, the Faroe Islands, and Greenland in 2013 from: ../../data/original_report/usgs_europe/Denmark, the Faroe Islands, and Greenland_2013.pdf]
+
+2026-06-15 00:06:11.208781
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Denmark, the Faroe Islands, and Greenland_2013_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:06:11.249235
+PDF loaded. Processing 159/658 [Denmark, the Faroe Islands, and Greenland in 2014 from: ../../data/original_report/usgs_europe/Denmark, the Faroe Islands, and Greenland_2014.pdf]
+
+2026-06-15 00:06:11.397735
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Denmark, the Faroe Islands, and Greenland_2014_policy.txt. Execution time 0.15 seconds
+
+2026-06-15 00:06:11.424759
+PDF loaded. Processing 160/658 [Denmark, the Faroe Islands, and Greenland in 2015 from: ../../data/original_report/usgs_europe/Denmark, the Faroe Islands, and Greenland_2015.pdf]
+
+2026-06-15 00:06:11.552786
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Denmark, the Faroe Islands, and Greenland_2015_policy.txt. Execution time 0.13 seconds
+
+2026-06-15 00:06:11.593628
+PDF loaded. Processing 161/658 [Denmark, the Faroe Islands, and Greenland in 2016 from: ../../data/original_report/usgs_europe/Denmark, the Faroe Islands, and Greenland_2016.pdf]
+
+2026-06-15 00:06:11.704909
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Denmark, the Faroe Islands, and Greenland_2016_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:06:11.731728
+PDF loaded. Processing 162/658 [Denmark, the Faroe Islands, and Greenland in 2018 from: ../../data/original_report/usgs_europe/Denmark, the Faroe Islands, and Greenland_2018.pdf]
+
+2026-06-15 00:06:11.897189
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Denmark, the Faroe Islands, and Greenland_2018_policy.txt. Execution time 0.17 seconds
+
+2026-06-15 00:06:11.939750
+PDF loaded. Processing 163/658 [Denmark, the Faroe Islands, and Greenland in 2019 from: ../../data/original_report/usgs_europe/Denmark, the Faroe Islands, and Greenland_2019.pdf]
+
+2026-06-15 00:06:12.104672
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Denmark, the Faroe Islands, and Greenland_2019_policy.txt. Execution time 0.17 seconds
+
+2026-06-15 00:06:12.140870
+PDF loaded. Processing 164/658 [Denmark, the Faroe Islands, and Greenland in 2021 from: ../../data/original_report/usgs_europe/Denmark, the Faroe Islands, and Greenland_2021.pdf]
+
+2026-06-15 00:06:12.355430
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Denmark, the Faroe Islands, and Greenland_2021_policy.txt. Execution time 0.21 seconds
+
+2026-06-15 00:06:12.403483
+PDF loaded. Processing 165/658 [Denmark, the Faroe Islands, and Greenland in 2022 from: ../../data/original_report/usgs_europe/Denmark, the Faroe Islands, and Greenland_2022.pdf]
+
+2026-06-15 00:06:12.575405
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Denmark, the Faroe Islands, and Greenland_2022_policy.txt. Execution time 0.17 seconds
+
+2026-06-15 00:06:12.595402
+PDF loaded. Processing 166/658 [Denmark, the Faroe Islands, and Greenland in 2023 from: ../../data/original_report/usgs_europe/Denmark, the Faroe Islands, and Greenland_2023.pdf]
+
+2026-06-15 00:06:12.758674
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Denmark, the Faroe Islands, and Greenland_2023_policy.txt. Execution time 0.16 seconds
+
+2026-06-15 00:06:12.775713
+PDF loaded. Processing 167/658 [Estonia, Latvia, and Lithuania in 2005 from: ../../data/original_report/usgs_europe/Estonia, Latvia, and Lithuania_2005.pdf]
+
+2026-06-15 00:06:12.825704
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Estonia, Latvia, and Lithuania_2005_policy.txt. Execution time 0.05 seconds
+
+2026-06-15 00:06:12.862249
+PDF loaded. Processing 168/658 [Estonia, Latvia, and Lithuania in 2006 from: ../../data/original_report/usgs_europe/Estonia, Latvia, and Lithuania_2006.pdf]
+
+2026-06-15 00:06:12.973489
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Estonia, Latvia, and Lithuania_2006_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:06:12.996481
+PDF loaded. Processing 169/658 [Estonia, Latvia, and Lithuania in 2007 from: ../../data/original_report/usgs_europe/Estonia, Latvia, and Lithuania_2007.pdf]
+
+2026-06-15 00:06:13.148653
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Estonia, Latvia, and Lithuania_2007_policy.txt. Execution time 0.15 seconds
+
+2026-06-15 00:06:13.171315
+PDF loaded. Processing 170/658 [Estonia in 2009 from: ../../data/original_report/usgs_europe/Estonia_2009.pdf]
+
+2026-06-15 00:06:13.292408
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Estonia_2009_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:06:13.332505
+PDF loaded. Processing 171/658 [Estonia in 2010 from: ../../data/original_report/usgs_europe/Estonia_2010.pdf]
+
+2026-06-15 00:06:13.400454
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Estonia_2010_policy.txt. Execution time 0.07 seconds
+
+2026-06-15 00:06:13.429963
+PDF loaded. Processing 172/658 [Estonia in 2011 from: ../../data/original_report/usgs_europe/Estonia_2011.pdf]
+
+2026-06-15 00:06:13.467428
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Estonia_2011_policy.txt. Execution time 0.04 seconds
+
+2026-06-15 00:06:13.485901
+PDF loaded. Processing 173/658 [Estonia in 2012 from: ../../data/original_report/usgs_europe/Estonia_2012.pdf]
+
+2026-06-15 00:06:13.537745
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Estonia_2012_policy.txt. Execution time 0.05 seconds
+
+2026-06-15 00:06:13.570304
+PDF loaded. Processing 174/658 [Estonia in 2013 from: ../../data/original_report/usgs_europe/Estonia_2013.pdf]
+
+2026-06-15 00:06:13.672873
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Estonia_2013_policy.txt. Execution time 0.10 seconds
+
+2026-06-15 00:06:13.694365
+PDF loaded. Processing 175/658 [Estonia in 2014 from: ../../data/original_report/usgs_europe/Estonia_2014.pdf]
+
+2026-06-15 00:06:13.848990
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Estonia_2014_policy.txt. Execution time 0.15 seconds
+
+2026-06-15 00:06:13.868551
+PDF loaded. Processing 176/658 [Estonia in 2015 from: ../../data/original_report/usgs_europe/Estonia_2015.pdf]
+
+2026-06-15 00:06:14.007945
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Estonia_2015_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:06:14.023213
+PDF loaded. Processing 177/658 [Estonia in 2016 from: ../../data/original_report/usgs_europe/Estonia_2016.pdf]
+
+2026-06-15 00:06:14.099209
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Estonia_2016_policy.txt. Execution time 0.08 seconds
+
+2026-06-15 00:06:14.138565
+PDF loaded. Processing 178/658 [Estonia in 2018 from: ../../data/original_report/usgs_europe/Estonia_2018.pdf]
+
+2026-06-15 00:06:14.287912
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Estonia_2018_policy.txt. Execution time 0.15 seconds
+
+2026-06-15 00:06:14.314314
+PDF loaded. Processing 179/658 [Estonia in 2019 from: ../../data/original_report/usgs_europe/Estonia_2019.pdf]
+
+2026-06-15 00:06:14.435937
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Estonia_2019_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:06:14.459871
+PDF loaded. Processing 180/658 [Finland in 2005 from: ../../data/original_report/usgs_europe/Finland_2005.pdf]
+
+2026-06-15 00:06:14.542656
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Finland_2005_policy.txt. Execution time 0.08 seconds
+
+2026-06-15 00:06:14.567563
+PDF loaded. Processing 181/658 [Finland in 2006 from: ../../data/original_report/usgs_europe/Finland_2006.pdf]
+
+2026-06-15 00:06:14.657446
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Finland_2006_policy.txt. Execution time 0.09 seconds
+
+2026-06-15 00:06:14.697047
+PDF loaded. Processing 182/658 [Finland in 2007 from: ../../data/original_report/usgs_europe/Finland_2007.pdf]
+
+2026-06-15 00:06:14.816486
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Finland_2007_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:06:14.837829
+PDF loaded. Processing 183/658 [Finland in 2008 from: ../../data/original_report/usgs_europe/Finland_2008.pdf]
+
+2026-06-15 00:06:14.979844
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Finland_2008_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:06:14.997451
+PDF loaded. Processing 184/658 [Finland in 2009 from: ../../data/original_report/usgs_europe/Finland_2009.pdf]
+
+2026-06-15 00:06:15.121019
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Finland_2009_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:06:15.142494
+PDF loaded. Processing 185/658 [Finland in 2010 from: ../../data/original_report/usgs_europe/Finland_2010.pdf]
+
+2026-06-15 00:06:15.284107
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Finland_2010_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:06:15.319239
+PDF loaded. Processing 186/658 [Finland in 2011 from: ../../data/original_report/usgs_europe/Finland_2011.pdf]
+
+2026-06-15 00:06:15.420352
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Finland_2011_policy.txt. Execution time 0.10 seconds
+
+2026-06-15 00:06:15.444457
+PDF loaded. Processing 187/658 [Finland in 2012 from: ../../data/original_report/usgs_europe/Finland_2012.pdf]
+
+2026-06-15 00:06:15.580105
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Finland_2012_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:06:15.597945
+PDF loaded. Processing 188/658 [Finland in 2013 from: ../../data/original_report/usgs_europe/Finland_2013.pdf]
+
+2026-06-15 00:06:15.746114
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Finland_2013_policy.txt. Execution time 0.15 seconds
+
+2026-06-15 00:06:15.770433
+PDF loaded. Processing 189/658 [Finland in 2014 from: ../../data/original_report/usgs_europe/Finland_2014.pdf]
+
+2026-06-15 00:06:15.886184
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Finland_2014_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:06:15.914783
+PDF loaded. Processing 190/658 [Finland in 2015 from: ../../data/original_report/usgs_europe/Finland_2015.pdf]
+
+2026-06-15 00:06:16.051713
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Finland_2015_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:06:16.074273
+PDF loaded. Processing 191/658 [Finland in 2016 from: ../../data/original_report/usgs_europe/Finland_2016.pdf]
+
+2026-06-15 00:06:16.191136
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Finland_2016_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:06:16.215259
+PDF loaded. Processing 192/658 [Finland in 2018 from: ../../data/original_report/usgs_europe/Finland_2018.pdf]
+
+2026-06-15 00:06:16.369246
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Finland_2018_policy.txt. Execution time 0.15 seconds
+
+2026-06-15 00:06:16.394674
+PDF loaded. Processing 193/658 [Finland in 2019 from: ../../data/original_report/usgs_europe/Finland_2019.pdf]
+
+2026-06-15 00:06:16.581028
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Finland_2019_policy.txt. Execution time 0.19 seconds
+
+2026-06-15 00:06:16.604995
+PDF loaded. Processing 194/658 [Finland in 2021 from: ../../data/original_report/usgs_europe/Finland_2021.pdf]
+
+2026-06-15 00:06:16.803422
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Finland_2021_policy.txt. Execution time 0.20 seconds
+
+2026-06-15 00:06:16.829851
+PDF loaded. Processing 195/658 [France in 2005 from: ../../data/original_report/usgs_europe/France_2005.pdf]
+
+2026-06-15 00:06:16.999157
+Successfully saved to ../../data/policy_section_txt/usgs_europe/France_2005_policy.txt. Execution time 0.17 seconds
+
+2026-06-15 00:06:17.025412
+PDF loaded. Processing 196/658 [France in 2006 from: ../../data/original_report/usgs_europe/France_2006.pdf]
+
+2026-06-15 00:06:17.140349
+Successfully saved to ../../data/policy_section_txt/usgs_europe/France_2006_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:06:17.178318
+PDF loaded. Processing 197/658 [France in 2007 from: ../../data/original_report/usgs_europe/France_2007.pdf]
+
+2026-06-15 00:06:17.315265
+Successfully saved to ../../data/policy_section_txt/usgs_europe/France_2007_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:06:17.342541
+PDF loaded. Processing 198/658 [France in 2008 from: ../../data/original_report/usgs_europe/France_2008.pdf]
+
+2026-06-15 00:06:17.481509
+Successfully saved to ../../data/policy_section_txt/usgs_europe/France_2008_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:06:17.520743
+PDF loaded. Processing 199/658 [France in 2009 from: ../../data/original_report/usgs_europe/France_2009.pdf]
+
+2026-06-15 00:06:17.694200
+Successfully saved to ../../data/policy_section_txt/usgs_europe/France_2009_policy.txt. Execution time 0.17 seconds
+
+2026-06-15 00:06:17.724723
+PDF loaded. Processing 200/658 [France in 2010 from: ../../data/original_report/usgs_europe/France_2010.pdf]
+
+2026-06-15 00:06:17.851472
+Successfully saved to ../../data/policy_section_txt/usgs_europe/France_2010_policy.txt. Execution time 0.13 seconds
+
+2026-06-15 00:06:17.875018
+PDF loaded. Processing 201/658 [France in 2011 from: ../../data/original_report/usgs_europe/France_2011.pdf]
+
+2026-06-15 00:06:17.997500
+Successfully saved to ../../data/policy_section_txt/usgs_europe/France_2011_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:06:18.014020
+PDF loaded. Processing 202/658 [France in 2012 from: ../../data/original_report/usgs_europe/France_2012.pdf]
+
+2026-06-15 00:06:18.107299
+Successfully saved to ../../data/policy_section_txt/usgs_europe/France_2012_policy.txt. Execution time 0.09 seconds
+
+2026-06-15 00:06:18.143349
+PDF loaded. Processing 203/658 [France in 2013 from: ../../data/original_report/usgs_europe/France_2013.pdf]
+
+2026-06-15 00:06:18.258391
+Successfully saved to ../../data/policy_section_txt/usgs_europe/France_2013_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:06:18.284209
+PDF loaded. Processing 204/658 [France in 2014 from: ../../data/original_report/usgs_europe/France_2014.pdf]
+
+2026-06-15 00:06:18.458287
+Successfully saved to ../../data/policy_section_txt/usgs_europe/France_2014_policy.txt. Execution time 0.17 seconds
+
+2026-06-15 00:06:18.497876
+PDF loaded. Processing 205/658 [France in 2015 from: ../../data/original_report/usgs_europe/France_2015.pdf]
+
+2026-06-15 00:06:18.661901
+Successfully saved to ../../data/policy_section_txt/usgs_europe/France_2015_policy.txt. Execution time 0.16 seconds
+
+2026-06-15 00:06:18.686001
+PDF loaded. Processing 206/658 [France in 2016 from: ../../data/original_report/usgs_europe/France_2016.pdf]
+
+2026-06-15 00:06:18.823214
+Successfully saved to ../../data/policy_section_txt/usgs_europe/France_2016_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:06:18.852121
+PDF loaded. Processing 207/658 [France in 2018 from: ../../data/original_report/usgs_europe/France_2018.pdf]
+
+2026-06-15 00:06:18.999489
+Successfully saved to ../../data/policy_section_txt/usgs_europe/France_2018_policy.txt. Execution time 0.15 seconds
+
+2026-06-15 00:06:19.047542
+PDF loaded. Processing 208/658 [France in 2019 from: ../../data/original_report/usgs_europe/France_2019.pdf]
+
+2026-06-15 00:06:19.188143
+Successfully saved to ../../data/policy_section_txt/usgs_europe/France_2019_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:06:19.229368
+PDF loaded. Processing 209/658 [France in 2021 from: ../../data/original_report/usgs_europe/France_2021.pdf]
+
+2026-06-15 00:06:19.529500
+Successfully saved to ../../data/policy_section_txt/usgs_europe/France_2021_policy.txt. Execution time 0.30 seconds
+
+2026-06-15 00:06:19.554963
+PDF loaded. Processing 210/658 [Georgia in 2007 from: ../../data/original_report/usgs_europe/Georgia_2007.pdf]
+
+2026-06-15 00:06:19.690408
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Georgia_2007_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:06:19.724309
+PDF loaded. Processing 211/658 [Georgia in 2009 from: ../../data/original_report/usgs_europe/Georgia_2009.pdf]
+
+2026-06-15 00:06:19.876442
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Georgia_2009_policy.txt. Execution time 0.15 seconds
+
+2026-06-15 00:06:19.900331
+PDF loaded. Processing 212/658 [Georgia in 2010 from: ../../data/original_report/usgs_europe/Georgia_2010.pdf]
+
+2026-06-15 00:06:19.991099
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Georgia_2010_policy.txt. Execution time 0.09 seconds
+
+2026-06-15 00:06:20.027625
+PDF loaded. Processing 213/658 [Georgia in 2011 from: ../../data/original_report/usgs_europe/Georgia_2011.pdf]
+
+2026-06-15 00:06:20.187365
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Georgia_2011_policy.txt. Execution time 0.16 seconds
+
+2026-06-15 00:06:20.210594
+PDF loaded. Processing 214/658 [Georgia in 2012 from: ../../data/original_report/usgs_europe/Georgia_2012.pdf]
+
+2026-06-15 00:06:20.383895
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Georgia_2012_policy.txt. Execution time 0.17 seconds
+
+2026-06-15 00:06:20.425183
+PDF loaded. Processing 215/658 [Georgia in 2013 from: ../../data/original_report/usgs_europe/Georgia_2013.pdf]
+
+2026-06-15 00:06:20.593498
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Georgia_2013_policy.txt. Execution time 0.17 seconds
+
+2026-06-15 00:06:20.619723
+PDF loaded. Processing 216/658 [Georgia in 2014 from: ../../data/original_report/usgs_europe/Georgia_2014.pdf]
+
+2026-06-15 00:06:20.798681
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Georgia_2014_policy.txt. Execution time 0.18 seconds
+
+2026-06-15 00:06:20.816514
+PDF loaded. Processing 217/658 [Georgia in 2015 from: ../../data/original_report/usgs_europe/Georgia_2015.pdf]
+
+2026-06-15 00:06:21.013116
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Georgia_2015_policy.txt. Execution time 0.20 seconds
+
+2026-06-15 00:06:21.058421
+PDF loaded. Processing 218/658 [Georgia in 2016 from: ../../data/original_report/usgs_europe/Georgia_2016.pdf]
+
+2026-06-15 00:06:21.126903
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Georgia_2016_policy.txt. Execution time 0.07 seconds
+
+2026-06-15 00:06:21.163894
+PDF loaded. Processing 219/658 [Georgia in 2018 from: ../../data/original_report/usgs_europe/Georgia_2018.pdf]
+
+2026-06-15 00:06:21.288696
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Georgia_2018_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:06:21.326344
+PDF loaded. Processing 220/658 [Georgia in 2019 from: ../../data/original_report/usgs_europe/Georgia_2019.pdf]
+
+2026-06-15 00:06:21.469189
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Georgia_2019_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:06:21.493217
+PDF loaded. Processing 221/658 [Georgia in 2021 from: ../../data/original_report/usgs_europe/Georgia_2021.pdf]
+
+2026-06-15 00:06:21.634094
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Georgia_2021_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:06:21.661179
+PDF loaded. Processing 222/658 [Germany in 2005 from: ../../data/original_report/usgs_europe/Germany_2005.pdf]
+
+2026-06-15 00:06:22.102894
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Germany_2005_policy.txt. Execution time 0.44 seconds
+
+2026-06-15 00:06:22.149354
+PDF loaded. Processing 223/658 [Germany in 2006 from: ../../data/original_report/usgs_europe/Germany_2006.pdf]
+
+2026-06-15 00:06:22.467356
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Germany_2006_policy.txt. Execution time 0.32 seconds
+
+2026-06-15 00:06:22.496895
+PDF loaded. Processing 224/658 [Germany in 2007 from: ../../data/original_report/usgs_europe/Germany_2007.pdf]
+
+2026-06-15 00:06:22.904444
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Germany_2007_policy.txt. Execution time 0.41 seconds
+
+2026-06-15 00:06:22.949657
+PDF loaded. Processing 225/658 [Germany in 2008 from: ../../data/original_report/usgs_europe/Germany_2008.pdf]
+
+2026-06-15 00:06:23.267242
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Germany_2008_policy.txt. Execution time 0.32 seconds
+
+2026-06-15 00:06:23.321245
+PDF loaded. Processing 226/658 [Germany in 2009 from: ../../data/original_report/usgs_europe/Germany_2009.pdf]
+
+2026-06-15 00:06:23.920375
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Germany_2009_policy.txt. Execution time 0.60 seconds
+
+2026-06-15 00:06:23.965339
+PDF loaded. Processing 227/658 [Germany in 2010 from: ../../data/original_report/usgs_europe/Germany_2010.pdf]
+
+2026-06-15 00:06:24.116410
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Germany_2010_policy.txt. Execution time 0.15 seconds
+
+2026-06-15 00:06:24.132607
+PDF loaded. Processing 228/658 [Germany in 2011 from: ../../data/original_report/usgs_europe/Germany_2011.pdf]
+
+2026-06-15 00:06:24.501766
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Germany_2011_policy.txt. Execution time 0.37 seconds
+
+2026-06-15 00:06:24.523456
+PDF loaded. Processing 229/658 [Germany in 2012 from: ../../data/original_report/usgs_europe/Germany_2012.pdf]
+
+2026-06-15 00:06:24.781175
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Germany_2012_policy.txt. Execution time 0.26 seconds
+
+2026-06-15 00:06:24.824794
+PDF loaded. Processing 230/658 [Germany in 2013 from: ../../data/original_report/usgs_europe/Germany_2013.pdf]
+
+2026-06-15 00:06:24.939017
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Germany_2013_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:06:24.972833
+PDF loaded. Processing 231/658 [Germany in 2014 from: ../../data/original_report/usgs_europe/Germany_2014.pdf]
+
+2026-06-15 00:06:25.155417
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Germany_2014_policy.txt. Execution time 0.18 seconds
+
+2026-06-15 00:06:25.171782
+PDF loaded. Processing 232/658 [Germany in 2015 from: ../../data/original_report/usgs_europe/Germany_2015.pdf]
+
+2026-06-15 00:06:25.340656
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Germany_2015_policy.txt. Execution time 0.17 seconds
+
+2026-06-15 00:06:25.380568
+PDF loaded. Processing 233/658 [Germany in 2016 from: ../../data/original_report/usgs_europe/Germany_2016.pdf]
+
+2026-06-15 00:06:25.536943
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Germany_2016_policy.txt. Execution time 0.16 seconds
+
+2026-06-15 00:06:25.558578
+PDF loaded. Processing 234/658 [Germany in 2018 from: ../../data/original_report/usgs_europe/Germany_2018.pdf]
+
+2026-06-15 00:06:25.806347
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Germany_2018_policy.txt. Execution time 0.25 seconds
+
+2026-06-15 00:06:25.834266
+PDF loaded. Processing 235/658 [Germany in 2019 from: ../../data/original_report/usgs_europe/Germany_2019.pdf]
+
+2026-06-15 00:06:26.062698
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Germany_2019_policy.txt. Execution time 0.23 seconds
+
+2026-06-15 00:06:26.104381
+PDF loaded. Processing 236/658 [Greece in 2005 from: ../../data/original_report/usgs_europe/Greece_2005.pdf]
+
+2026-06-15 00:06:26.281228
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Greece_2005_policy.txt. Execution time 0.18 seconds
+
+2026-06-15 00:06:26.305769
+PDF loaded. Processing 237/658 [Greece in 2006 from: ../../data/original_report/usgs_europe/Greece_2006.pdf]
+
+2026-06-15 00:06:26.406995
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Greece_2006_policy.txt. Execution time 0.10 seconds
+
+2026-06-15 00:06:26.440282
+PDF loaded. Processing 238/658 [Greece in 2007 from: ../../data/original_report/usgs_europe/Greece_2007.pdf]
+
+2026-06-15 00:06:26.570462
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Greece_2007_policy.txt. Execution time 0.13 seconds
+
+2026-06-15 00:06:26.625415
+PDF loaded. Processing 239/658 [Greece in 2008 from: ../../data/original_report/usgs_europe/Greece_2008.pdf]
+
+2026-06-15 00:06:26.762875
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Greece_2008_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:06:26.788567
+PDF loaded. Processing 240/658 [Greece in 2009 from: ../../data/original_report/usgs_europe/Greece_2009.pdf]
+
+2026-06-15 00:06:26.933654
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Greece_2009_policy.txt. Execution time 0.15 seconds
+
+2026-06-15 00:06:26.968200
+PDF loaded. Processing 241/658 [Greece in 2010 from: ../../data/original_report/usgs_europe/Greece_2010.pdf]
+
+2026-06-15 00:06:27.098898
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Greece_2010_policy.txt. Execution time 0.13 seconds
+
+2026-06-15 00:06:27.138566
+PDF loaded. Processing 242/658 [Greece in 2011 from: ../../data/original_report/usgs_europe/Greece_2011.pdf]
+
+2026-06-15 00:06:27.259517
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Greece_2011_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:06:27.287699
+PDF loaded. Processing 243/658 [Greece in 2012 from: ../../data/original_report/usgs_europe/Greece_2012.pdf]
+
+2026-06-15 00:06:27.375503
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Greece_2012_policy.txt. Execution time 0.09 seconds
+
+2026-06-15 00:06:27.399278
+PDF loaded. Processing 244/658 [Greece in 2013 from: ../../data/original_report/usgs_europe/Greece_2013.pdf]
+
+2026-06-15 00:06:27.598345
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Greece_2013_policy.txt. Execution time 0.20 seconds
+
+2026-06-15 00:06:27.616747
+PDF loaded. Processing 245/658 [Greece in 2014 from: ../../data/original_report/usgs_europe/Greece_2014.pdf]
+
+2026-06-15 00:06:27.912440
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Greece_2014_policy.txt. Execution time 0.30 seconds
+
+2026-06-15 00:06:27.956438
+PDF loaded. Processing 246/658 [Greece in 2015 from: ../../data/original_report/usgs_europe/Greece_2015.pdf]
+
+2026-06-15 00:06:28.097307
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Greece_2015_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:06:28.131337
+PDF loaded. Processing 247/658 [Greece in 2016 from: ../../data/original_report/usgs_europe/Greece_2016.pdf]
+
+2026-06-15 00:06:28.283454
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Greece_2016_policy.txt. Execution time 0.15 seconds
+
+2026-06-15 00:06:28.321621
+PDF loaded. Processing 248/658 [Greece in 2018 from: ../../data/original_report/usgs_europe/Greece_2018.pdf]
+
+2026-06-15 00:06:28.564768
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Greece_2018_policy.txt. Execution time 0.24 seconds
+
+2026-06-15 00:06:28.588605
+PDF loaded. Processing 249/658 [Greece in 2019 from: ../../data/original_report/usgs_europe/Greece_2019.pdf]
+
+2026-06-15 00:06:28.750457
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Greece_2019_policy.txt. Execution time 0.16 seconds
+
+2026-06-15 00:06:28.792770
+PDF loaded. Processing 250/658 [Greece in 2021 from: ../../data/original_report/usgs_europe/Greece_2021.pdf]
+
+2026-06-15 00:06:28.972799
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Greece_2021_policy.txt. Execution time 0.18 seconds
+
+2026-06-15 00:06:29.011959
+PDF loaded. Processing 251/658 [Hungary in 2007 from: ../../data/original_report/usgs_europe/Hungary_2007.pdf]
+
+2026-06-15 00:06:29.100486
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Hungary_2007_policy.txt. Execution time 0.09 seconds
+
+2026-06-15 00:06:29.121094
+PDF loaded. Processing 252/658 [Hungary in 2008 from: ../../data/original_report/usgs_europe/Hungary_2008.pdf]
+
+2026-06-15 00:06:29.166594
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Hungary_2008_policy.txt. Execution time 0.05 seconds
+
+2026-06-15 00:06:29.208609
+PDF loaded. Processing 253/658 [Hungary in 2009 from: ../../data/original_report/usgs_europe/Hungary_2009.pdf]
+
+2026-06-15 00:06:29.277158
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Hungary_2009_policy.txt. Execution time 0.07 seconds
+
+2026-06-15 00:06:29.302039
+PDF loaded. Processing 254/658 [Hungary in 2010 from: ../../data/original_report/usgs_europe/Hungary_2010.pdf]
+
+2026-06-15 00:06:29.371103
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Hungary_2010_policy.txt. Execution time 0.07 seconds
+
+2026-06-15 00:06:29.399386
+PDF loaded. Processing 255/658 [Hungary in 2011 from: ../../data/original_report/usgs_europe/Hungary_2011.pdf]
+
+2026-06-15 00:06:29.509933
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Hungary_2011_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:06:29.544672
+PDF loaded. Processing 256/658 [Hungary in 2012 from: ../../data/original_report/usgs_europe/Hungary_2012.pdf]
+
+2026-06-15 00:06:29.746151
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Hungary_2012_policy.txt. Execution time 0.20 seconds
+
+2026-06-15 00:06:29.777900
+PDF loaded. Processing 257/658 [Hungary in 2013 from: ../../data/original_report/usgs_europe/Hungary_2013.pdf]
+
+2026-06-15 00:06:30.074410
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Hungary_2013_policy.txt. Execution time 0.30 seconds
+
+2026-06-15 00:06:30.120672
+PDF loaded. Processing 258/658 [Hungary in 2014 from: ../../data/original_report/usgs_europe/Hungary_2014.pdf]
+
+2026-06-15 00:06:30.385499
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Hungary_2014_policy.txt. Execution time 0.26 seconds
+
+2026-06-15 00:06:30.428445
+PDF loaded. Processing 259/658 [Hungary in 2015 from: ../../data/original_report/usgs_europe/Hungary_2015.pdf]
+
+2026-06-15 00:06:30.563506
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Hungary_2015_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:06:30.602350
+PDF loaded. Processing 260/658 [Hungary in 2016 from: ../../data/original_report/usgs_europe/Hungary_2016.pdf]
+
+2026-06-15 00:06:30.684663
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Hungary_2016_policy.txt. Execution time 0.08 seconds
+
+2026-06-15 00:06:30.723521
+PDF loaded. Processing 261/658 [Hungary in 2018 from: ../../data/original_report/usgs_europe/Hungary_2018.pdf]
+
+2026-06-15 00:06:30.836906
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Hungary_2018_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:06:30.862588
+PDF loaded. Processing 262/658 [Hungary in 2019 from: ../../data/original_report/usgs_europe/Hungary_2019.pdf]
+
+2026-06-15 00:06:30.984012
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Hungary_2019_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:06:30.999847
+PDF loaded. Processing 263/658 [Iceland in 2005 from: ../../data/original_report/usgs_europe/Iceland_2005.pdf]
+
+2026-06-15 00:06:31.041854
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Iceland_2005_policy.txt. Execution time 0.04 seconds
+
+2026-06-15 00:06:31.077457
+PDF loaded. Processing 264/658 [Iceland in 2006 from: ../../data/original_report/usgs_europe/Iceland_2006.pdf]
+
+2026-06-15 00:06:31.146134
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Iceland_2006_policy.txt. Execution time 0.07 seconds
+
+2026-06-15 00:06:31.170618
+PDF loaded. Processing 265/658 [Iceland in 2007 from: ../../data/original_report/usgs_europe/Iceland_2007.pdf]
+
+2026-06-15 00:06:31.241260
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Iceland_2007_policy.txt. Execution time 0.07 seconds
+
+2026-06-15 00:06:31.286710
+PDF loaded. Processing 266/658 [Iceland in 2008 from: ../../data/original_report/usgs_europe/Iceland_2008.pdf]
+
+2026-06-15 00:06:31.412807
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Iceland_2008_policy.txt. Execution time 0.13 seconds
+
+2026-06-15 00:06:31.446371
+PDF loaded. Processing 267/658 [Iceland in 2009 from: ../../data/original_report/usgs_europe/Iceland_2009.pdf]
+
+2026-06-15 00:06:31.493524
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Iceland_2009_policy.txt. Execution time 0.05 seconds
+
+2026-06-15 00:06:31.509396
+PDF loaded. Processing 268/658 [Iceland in 2010 from: ../../data/original_report/usgs_europe/Iceland_2010.pdf]
+
+2026-06-15 00:06:31.551027
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Iceland_2010_policy.txt. Execution time 0.04 seconds
+
+2026-06-15 00:06:31.594927
+PDF loaded. Processing 269/658 [Iceland in 2011 from: ../../data/original_report/usgs_europe/Iceland_2011.pdf]
+
+2026-06-15 00:06:31.696939
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Iceland_2011_policy.txt. Execution time 0.10 seconds
+
+2026-06-15 00:06:31.715999
+PDF loaded. Processing 270/658 [Iceland in 2012 from: ../../data/original_report/usgs_europe/Iceland_2012.pdf]
+
+2026-06-15 00:06:31.827711
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Iceland_2012_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:06:31.873696
+PDF loaded. Processing 271/658 [Iceland in 2013 from: ../../data/original_report/usgs_europe/Iceland_2013.pdf]
+
+2026-06-15 00:06:31.987462
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Iceland_2013_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:06:32.010137
+PDF loaded. Processing 272/658 [Iceland in 2014 from: ../../data/original_report/usgs_europe/Iceland_2014.pdf]
+
+2026-06-15 00:06:32.116266
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Iceland_2014_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:06:32.150802
+PDF loaded. Processing 273/658 [Iceland in 2015 from: ../../data/original_report/usgs_europe/Iceland_2015.pdf]
+
+2026-06-15 00:06:32.278757
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Iceland_2015_policy.txt. Execution time 0.13 seconds
+
+2026-06-15 00:06:32.304461
+PDF loaded. Processing 274/658 [Iceland in 2016 from: ../../data/original_report/usgs_europe/Iceland_2016.pdf]
+
+2026-06-15 00:06:32.374164
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Iceland_2016_policy.txt. Execution time 0.07 seconds
+
+2026-06-15 00:06:32.402269
+PDF loaded. Processing 275/658 [Iceland in 2018 from: ../../data/original_report/usgs_europe/Iceland_2018.pdf]
+
+2026-06-15 00:06:32.511312
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Iceland_2018_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:06:32.537087
+PDF loaded. Processing 276/658 [Iceland in 2019 from: ../../data/original_report/usgs_europe/Iceland_2019.pdf]
+
+2026-06-15 00:06:32.683401
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Iceland_2019_policy.txt. Execution time 0.15 seconds
+
+2026-06-15 00:06:32.724085
+PDF loaded. Processing 277/658 [Iceland in 2021 from: ../../data/original_report/usgs_europe/Iceland_2021.pdf]
+
+2026-06-15 00:06:32.860857
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Iceland_2021_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:06:32.887850
+PDF loaded. Processing 278/658 [Ireland in 2005 from: ../../data/original_report/usgs_europe/Ireland_2005.pdf]
+
+2026-06-15 00:06:33.003552
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Ireland_2005_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:06:33.035322
+PDF loaded. Processing 279/658 [Ireland in 2006 from: ../../data/original_report/usgs_europe/Ireland_2006.pdf]
+
+2026-06-15 00:06:33.094546
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Ireland_2006_policy.txt. Execution time 0.06 seconds
+
+2026-06-15 00:06:33.115786
+PDF loaded. Processing 280/658 [Ireland in 2007 from: ../../data/original_report/usgs_europe/Ireland_2007.pdf]
+
+2026-06-15 00:06:33.177030
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Ireland_2007_policy.txt. Execution time 0.06 seconds
+
+2026-06-15 00:06:33.217577
+PDF loaded. Processing 281/658 [Ireland in 2008 from: ../../data/original_report/usgs_europe/Ireland_2008.pdf]
+
+2026-06-15 00:06:33.319985
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Ireland_2008_policy.txt. Execution time 0.10 seconds
+
+2026-06-15 00:06:33.346932
+PDF loaded. Processing 282/658 [Ireland in 2009 from: ../../data/original_report/usgs_europe/Ireland_2009.pdf]
+
+2026-06-15 00:06:33.466246
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Ireland_2009_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:06:33.506902
+PDF loaded. Processing 283/658 [Ireland in 2010 from: ../../data/original_report/usgs_europe/Ireland_2010.pdf]
+
+2026-06-15 00:06:33.588296
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Ireland_2010_policy.txt. Execution time 0.08 seconds
+
+2026-06-15 00:06:33.606386
+PDF loaded. Processing 284/658 [Ireland in 2011 from: ../../data/original_report/usgs_europe/Ireland_2011.pdf]
+
+2026-06-15 00:06:33.711199
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Ireland_2011_policy.txt. Execution time 0.10 seconds
+
+2026-06-15 00:06:33.753157
+PDF loaded. Processing 285/658 [Ireland in 2012 from: ../../data/original_report/usgs_europe/Ireland_2012.pdf]
+
+2026-06-15 00:06:33.886331
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Ireland_2012_policy.txt. Execution time 0.13 seconds
+
+2026-06-15 00:06:33.907846
+PDF loaded. Processing 286/658 [Ireland in 2013 from: ../../data/original_report/usgs_europe/Ireland_2013.pdf]
+
+2026-06-15 00:06:33.994186
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Ireland_2013_policy.txt. Execution time 0.09 seconds
+
+2026-06-15 00:06:34.034274
+PDF loaded. Processing 287/658 [Ireland in 2014 from: ../../data/original_report/usgs_europe/Ireland_2014.pdf]
+
+2026-06-15 00:06:34.129487
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Ireland_2014_policy.txt. Execution time 0.10 seconds
+
+2026-06-15 00:06:34.147174
+PDF loaded. Processing 288/658 [Ireland in 2015 from: ../../data/original_report/usgs_europe/Ireland_2015.pdf]
+
+2026-06-15 00:06:34.247612
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Ireland_2015_policy.txt. Execution time 0.10 seconds
+
+2026-06-15 00:06:34.273853
+PDF loaded. Processing 289/658 [Ireland in 2016 from: ../../data/original_report/usgs_europe/Ireland_2016.pdf]
+
+2026-06-15 00:06:34.379369
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Ireland_2016_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:06:34.405640
+PDF loaded. Processing 290/658 [Ireland in 2018 from: ../../data/original_report/usgs_europe/Ireland_2018.pdf]
+
+2026-06-15 00:06:34.525507
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Ireland_2018_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:06:34.561370
+PDF loaded. Processing 291/658 [Ireland in 2019 from: ../../data/original_report/usgs_europe/Ireland_2019.pdf]
+
+2026-06-15 00:06:34.701726
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Ireland_2019_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:06:34.728355
+PDF loaded. Processing 292/658 [Italy in 2005 from: ../../data/original_report/usgs_europe/Italy_2005.pdf]
+
+2026-06-15 00:06:34.916500
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Italy_2005_policy.txt. Execution time 0.19 seconds
+
+2026-06-15 00:06:34.937932
+PDF loaded. Processing 293/658 [Italy in 2006 from: ../../data/original_report/usgs_europe/Italy_2006.pdf]
+
+2026-06-15 00:06:35.060182
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Italy_2006_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:06:35.096235
+PDF loaded. Processing 294/658 [Italy in 2007 from: ../../data/original_report/usgs_europe/Italy_2007.pdf]
+
+2026-06-15 00:06:35.247690
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Italy_2007_policy.txt. Execution time 0.15 seconds
+
+2026-06-15 00:06:35.268726
+PDF loaded. Processing 295/658 [Italy in 2008 from: ../../data/original_report/usgs_europe/Italy_2008.pdf]
+
+2026-06-15 00:06:35.385039
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Italy_2008_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:06:35.409905
+PDF loaded. Processing 296/658 [Italy in 2009 from: ../../data/original_report/usgs_europe/Italy_2009.pdf]
+
+2026-06-15 00:06:35.550800
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Italy_2009_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:06:35.573995
+PDF loaded. Processing 297/658 [Italy in 2010 from: ../../data/original_report/usgs_europe/Italy_2010.pdf]
+
+2026-06-15 00:06:35.723112
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Italy_2010_policy.txt. Execution time 0.15 seconds
+
+2026-06-15 00:06:35.767355
+PDF loaded. Processing 298/658 [Italy in 2011 from: ../../data/original_report/usgs_europe/Italy_2011.pdf]
+
+2026-06-15 00:06:35.864759
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Italy_2011_policy.txt. Execution time 0.10 seconds
+
+2026-06-15 00:06:35.890242
+PDF loaded. Processing 299/658 [Italy in 2012 from: ../../data/original_report/usgs_europe/Italy_2012.pdf]
+
+2026-06-15 00:06:35.995825
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Italy_2012_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:06:36.025312
+PDF loaded. Processing 300/658 [Italy in 2013 from: ../../data/original_report/usgs_europe/Italy_2013.pdf]
+
+2026-06-15 00:06:36.131523
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Italy_2013_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:06:36.156854
+PDF loaded. Processing 301/658 [Italy in 2014 from: ../../data/original_report/usgs_europe/Italy_2014.pdf]
+
+2026-06-15 00:06:36.286402
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Italy_2014_policy.txt. Execution time 0.13 seconds
+
+2026-06-15 00:06:36.313170
+PDF loaded. Processing 302/658 [Italy in 2015 from: ../../data/original_report/usgs_europe/Italy_2015.pdf]
+
+2026-06-15 00:06:36.477950
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Italy_2015_policy.txt. Execution time 0.16 seconds
+
+2026-06-15 00:06:36.502491
+PDF loaded. Processing 303/658 [Italy in 2016 from: ../../data/original_report/usgs_europe/Italy_2016.pdf]
+
+2026-06-15 00:06:36.629352
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Italy_2016_policy.txt. Execution time 0.13 seconds
+
+2026-06-15 00:06:36.671301
+PDF loaded. Processing 304/658 [Italy in 2018 from: ../../data/original_report/usgs_europe/Italy_2018.pdf]
+
+2026-06-15 00:06:36.845427
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Italy_2018_policy.txt. Execution time 0.17 seconds
+
+2026-06-15 00:06:36.869009
+PDF loaded. Processing 305/658 [Italy in 2019 from: ../../data/original_report/usgs_europe/Italy_2019.pdf]
+
+2026-06-15 00:06:37.031920
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Italy_2019_policy.txt. Execution time 0.16 seconds
+
+2026-06-15 00:06:37.240000
+PDF loaded. Processing 306/658 [Kazakhstan in 2007 from: ../../data/original_report/usgs_europe/Kazakhstan_2007.pdf]
+
+2026-06-15 00:06:37.545942
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Kazakhstan_2007_policy.txt. Execution time 0.31 seconds
+
+2026-06-15 00:06:37.575435
+PDF loaded. Processing 307/658 [Kazakhstan in 2009 from: ../../data/original_report/usgs_europe/Kazakhstan_2009.pdf]
+
+2026-06-15 00:06:37.873703
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Kazakhstan_2009_policy.txt. Execution time 0.30 seconds
+
+2026-06-15 00:06:37.926948
+PDF loaded. Processing 308/658 [Kazakhstan in 2010 from: ../../data/original_report/usgs_europe/Kazakhstan_2010.pdf]
+
+2026-06-15 00:06:38.064267
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Kazakhstan_2010_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:06:38.114149
+PDF loaded. Processing 309/658 [Kazakhstan in 2011 from: ../../data/original_report/usgs_europe/Kazakhstan_2011.pdf]
+
+2026-06-15 00:06:38.313834
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Kazakhstan_2011_policy.txt. Execution time 0.20 seconds
+
+2026-06-15 00:06:38.341828
+PDF loaded. Processing 310/658 [Kazakhstan in 2012 from: ../../data/original_report/usgs_europe/Kazakhstan_2012.pdf]
+
+2026-06-15 00:06:38.568023
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Kazakhstan_2012_policy.txt. Execution time 0.23 seconds
+
+2026-06-15 00:06:38.610992
+PDF loaded. Processing 311/658 [Kazakhstan in 2013 from: ../../data/original_report/usgs_europe/Kazakhstan_2013.pdf]
+
+2026-06-15 00:06:38.759535
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Kazakhstan_2013_policy.txt. Execution time 0.15 seconds
+
+2026-06-15 00:06:38.791860
+PDF loaded. Processing 312/658 [Kazakhstan in 2014 from: ../../data/original_report/usgs_europe/Kazakhstan_2014.pdf]
+
+2026-06-15 00:06:39.019214
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Kazakhstan_2014_policy.txt. Execution time 0.23 seconds
+
+2026-06-15 00:06:39.080576
+PDF loaded. Processing 313/658 [Kazakhstan in 2015 from: ../../data/original_report/usgs_europe/Kazakhstan_2015.pdf]
+
+2026-06-15 00:06:39.369611
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Kazakhstan_2015_policy.txt. Execution time 0.29 seconds
+
+2026-06-15 00:06:39.388721
+PDF loaded. Processing 314/658 [Kazakhstan in 2016 from: ../../data/original_report/usgs_europe/Kazakhstan_2016.pdf]
+
+2026-06-15 00:06:39.613025
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Kazakhstan_2016_policy.txt. Execution time 0.22 seconds
+
+2026-06-15 00:06:39.660446
+PDF loaded. Processing 315/658 [Kazakhstan in 2018 from: ../../data/original_report/usgs_europe/Kazakhstan_2018.pdf]
+
+2026-06-15 00:06:39.935148
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Kazakhstan_2018_policy.txt. Execution time 0.27 seconds
+
+2026-06-15 00:06:39.983123
+PDF loaded. Processing 316/658 [Kazakhstan in 2019 from: ../../data/original_report/usgs_europe/Kazakhstan_2019.pdf]
+
+2026-06-15 00:06:40.265840
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Kazakhstan_2019_policy.txt. Execution time 0.28 seconds
+
+2026-06-15 00:06:40.318287
+PDF loaded. Processing 317/658 [Kazakhstan in 2021 from: ../../data/original_report/usgs_europe/Kazakhstan_2021.pdf]
+
+2026-06-15 00:06:40.619059
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Kazakhstan_2021_policy.txt. Execution time 0.30 seconds
+
+2026-06-15 00:06:40.669347
+PDF loaded. Processing 318/658 [Kazakhstan in 2022 from: ../../data/original_report/usgs_europe/Kazakhstan_2022.pdf]
+
+2026-06-15 00:06:41.036135
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Kazakhstan_2022_policy.txt. Execution time 0.37 seconds
+
+2026-06-15 00:06:41.083741
+PDF loaded. Processing 319/658 [Kazakhstan in 2023 from: ../../data/original_report/usgs_europe/Kazakhstan_2023.pdf]
+
+2026-06-15 00:06:41.519766
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Kazakhstan_2023_policy.txt. Execution time 0.44 seconds
+
+2026-06-15 00:06:41.572603
+PDF loaded. Processing 320/658 [Kosovo in 2008 from: ../../data/original_report/usgs_europe/Kosovo_2008.pdf]
+
+2026-06-15 00:06:41.651914
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Kosovo_2008_policy.txt. Execution time 0.08 seconds
+
+2026-06-15 00:06:41.686866
+PDF loaded. Processing 321/658 [Kosovo in 2009 from: ../../data/original_report/usgs_europe/Kosovo_2009.pdf]
+
+2026-06-15 00:06:41.762562
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Kosovo_2009_policy.txt. Execution time 0.08 seconds
+
+2026-06-15 00:06:41.789285
+PDF loaded. Processing 322/658 [Kosovo in 2010 from: ../../data/original_report/usgs_europe/Kosovo_2010.pdf]
+
+2026-06-15 00:06:41.844951
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Kosovo_2010_policy.txt. Execution time 0.06 seconds
+
+2026-06-15 00:06:41.882967
+PDF loaded. Processing 323/658 [Kosovo in 2011 from: ../../data/original_report/usgs_europe/Kosovo_2011.pdf]
+
+2026-06-15 00:06:41.950870
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Kosovo_2011_policy.txt. Execution time 0.07 seconds
+
+2026-06-15 00:06:41.992137
+PDF loaded. Processing 324/658 [Kosovo in 2012 from: ../../data/original_report/usgs_europe/Kosovo_2012.pdf]
+
+2026-06-15 00:06:42.052564
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Kosovo_2012_policy.txt. Execution time 0.06 seconds
+
+2026-06-15 00:06:42.072962
+PDF loaded. Processing 325/658 [Kosovo in 2013 from: ../../data/original_report/usgs_europe/Kosovo_2013.pdf]
+
+2026-06-15 00:06:42.202757
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Kosovo_2013_policy.txt. Execution time 0.13 seconds
+
+2026-06-15 00:06:42.228937
+PDF loaded. Processing 326/658 [Kosovo in 2014 from: ../../data/original_report/usgs_europe/Kosovo_2014.pdf]
+
+2026-06-15 00:06:42.523852
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Kosovo_2014_policy.txt. Execution time 0.29 seconds
+
+2026-06-15 00:06:42.552993
+PDF loaded. Processing 327/658 [Kosovo in 2015 from: ../../data/original_report/usgs_europe/Kosovo_2015.pdf]
+
+2026-06-15 00:06:42.665541
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Kosovo_2015_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:06:42.696647
+PDF loaded. Processing 328/658 [Kosovo in 2016 from: ../../data/original_report/usgs_europe/Kosovo_2016.pdf]
+
+2026-06-15 00:06:42.758195
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Kosovo_2016_policy.txt. Execution time 0.06 seconds
+
+2026-06-15 00:06:42.779138
+PDF loaded. Processing 329/658 [Kosovo in 2018 from: ../../data/original_report/usgs_europe/Kosovo_2018.pdf]
+
+2026-06-15 00:06:42.821664
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Kosovo_2018_policy.txt. Execution time 0.04 seconds
+
+2026-06-15 00:06:42.842502
+PDF loaded. Processing 330/658 [Kosovo in 2019 from: ../../data/original_report/usgs_europe/Kosovo_2019.pdf]
+
+2026-06-15 00:06:42.898947
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Kosovo_2019_policy.txt. Execution time 0.06 seconds
+
+2026-06-15 00:06:42.926857
+PDF loaded. Processing 331/658 [Kyrgyzstan in 2007 from: ../../data/original_report/usgs_europe/Kyrgyzstan_2007.pdf]
+
+2026-06-15 00:06:43.079614
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Kyrgyzstan_2007_policy.txt. Execution time 0.15 seconds
+
+2026-06-15 00:06:43.101155
+PDF loaded. Processing 332/658 [Kyrgyzstan in 2009 from: ../../data/original_report/usgs_europe/Kyrgyzstan_2009.pdf]
+
+2026-06-15 00:06:43.236584
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Kyrgyzstan_2009_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:06:43.278491
+PDF loaded. Processing 333/658 [Kyrgyzstan in 2010 from: ../../data/original_report/usgs_europe/Kyrgyzstan_2010.pdf]
+
+2026-06-15 00:06:43.376233
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Kyrgyzstan_2010_policy.txt. Execution time 0.10 seconds
+
+2026-06-15 00:06:43.398467
+PDF loaded. Processing 334/658 [Kyrgyzstan in 2011 from: ../../data/original_report/usgs_europe/Kyrgyzstan_2011.pdf]
+
+2026-06-15 00:06:43.514894
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Kyrgyzstan_2011_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:06:43.557299
+PDF loaded. Processing 335/658 [Kyrgyzstan in 2012 from: ../../data/original_report/usgs_europe/Kyrgyzstan_2012.pdf]
+
+2026-06-15 00:06:43.740312
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Kyrgyzstan_2012_policy.txt. Execution time 0.18 seconds
+
+2026-06-15 00:06:43.765776
+PDF loaded. Processing 336/658 [Kyrgyzstan in 2013 from: ../../data/original_report/usgs_europe/Kyrgyzstan_2013.pdf]
+
+2026-06-15 00:06:43.987887
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Kyrgyzstan_2013_policy.txt. Execution time 0.22 seconds
+
+2026-06-15 00:06:44.052320
+PDF loaded. Processing 337/658 [Kyrgyzstan in 2014 from: ../../data/original_report/usgs_europe/Kyrgyzstan_2014.pdf]
+
+2026-06-15 00:06:44.253461
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Kyrgyzstan_2014_policy.txt. Execution time 0.20 seconds
+
+2026-06-15 00:06:44.297956
+PDF loaded. Processing 338/658 [Kyrgyzstan in 2015 from: ../../data/original_report/usgs_europe/Kyrgyzstan_2015.pdf]
+
+2026-06-15 00:06:44.486187
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Kyrgyzstan_2015_policy.txt. Execution time 0.19 seconds
+
+2026-06-15 00:06:44.505901
+PDF loaded. Processing 339/658 [Kyrgyzstan in 2016 from: ../../data/original_report/usgs_europe/Kyrgyzstan_2016.pdf]
+
+2026-06-15 00:06:44.599337
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Kyrgyzstan_2016_policy.txt. Execution time 0.09 seconds
+
+2026-06-15 00:06:44.633359
+PDF loaded. Processing 340/658 [Kyrgyzstan in 2018 from: ../../data/original_report/usgs_europe/Kyrgyzstan_2018.pdf]
+
+2026-06-15 00:06:44.779482
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Kyrgyzstan_2018_policy.txt. Execution time 0.15 seconds
+
+2026-06-15 00:06:44.804390
+PDF loaded. Processing 341/658 [Kyrgyzstan in 2019 from: ../../data/original_report/usgs_europe/Kyrgyzstan_2019.pdf]
+
+2026-06-15 00:06:44.982018
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Kyrgyzstan_2019_policy.txt. Execution time 0.18 seconds
+
+2026-06-15 00:06:45.020987
+PDF loaded. Processing 342/658 [Kyrgyzstan in 2021 from: ../../data/original_report/usgs_europe/Kyrgyzstan_2021.pdf]
+
+2026-06-15 00:06:45.287958
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Kyrgyzstan_2021_policy.txt. Execution time 0.27 seconds
+
+2026-06-15 00:06:45.343791
+PDF loaded. Processing 343/658 [Kyrgyzstan in 2022 from: ../../data/original_report/usgs_europe/Kyrgyzstan_2022.pdf]
+
+2026-06-15 00:06:45.508246
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Kyrgyzstan_2022_policy.txt. Execution time 0.16 seconds
+
+2026-06-15 00:06:45.535118
+PDF loaded. Processing 344/658 [Kyrgyzstan in 2023 from: ../../data/original_report/usgs_europe/Kyrgyzstan_2023.pdf]
+
+2026-06-15 00:06:45.704004
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Kyrgyzstan_2023_policy.txt. Execution time 0.17 seconds
+
+2026-06-15 00:06:45.727350
+PDF loaded. Processing 345/658 [Latvia in 2009 from: ../../data/original_report/usgs_europe/Latvia_2009.pdf]
+
+2026-06-15 00:06:45.782320
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Latvia_2009_policy.txt. Execution time 0.05 seconds
+
+2026-06-15 00:06:45.802912
+PDF loaded. Processing 346/658 [Latvia in 2010 from: ../../data/original_report/usgs_europe/Latvia_2010.pdf]
+
+2026-06-15 00:06:45.815866
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.01 seconds
+
+2026-06-15 00:06:45.857110
+PDF loaded. Processing 347/658 [Latvia in 2011 from: ../../data/original_report/usgs_europe/Latvia_2011.pdf]
+
+2026-06-15 00:06:45.883082
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.03 seconds
+
+2026-06-15 00:06:45.905895
+PDF loaded. Processing 348/658 [Latvia in 2012 from: ../../data/original_report/usgs_europe/Latvia_2012.pdf]
+
+2026-06-15 00:06:45.969162
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Latvia_2012_policy.txt. Execution time 0.06 seconds
+
+2026-06-15 00:06:46.007368
+PDF loaded. Processing 349/658 [Latvia in 2013 from: ../../data/original_report/usgs_europe/Latvia_2013.pdf]
+
+2026-06-15 00:06:46.071257
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Latvia_2013_policy.txt. Execution time 0.06 seconds
+
+2026-06-15 00:06:46.099262
+PDF loaded. Processing 350/658 [Latvia in 2014 from: ../../data/original_report/usgs_europe/Latvia_2014.pdf]
+
+2026-06-15 00:06:46.239650
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Latvia_2014_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:06:46.264838
+PDF loaded. Processing 351/658 [Latvia in 2015 from: ../../data/original_report/usgs_europe/Latvia_2015.pdf]
+
+2026-06-15 00:06:46.414348
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Latvia_2015_policy.txt. Execution time 0.15 seconds
+
+2026-06-15 00:06:46.452187
+PDF loaded. Processing 352/658 [Latvia in 2016 from: ../../data/original_report/usgs_europe/Latvia_2016.pdf]
+
+2026-06-15 00:06:46.563168
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Latvia_2016_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:06:46.589419
+PDF loaded. Processing 353/658 [Latvia in 2018 from: ../../data/original_report/usgs_europe/Latvia_2018.pdf]
+
+2026-06-15 00:06:46.726015
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Latvia_2018_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:06:46.743016
+PDF loaded. Processing 354/658 [Latvia in 2019 from: ../../data/original_report/usgs_europe/Latvia_2019.pdf]
+
+2026-06-15 00:06:46.852012
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Latvia_2019_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:06:46.874458
+PDF loaded. Processing 355/658 [Lithuania in 2009 from: ../../data/original_report/usgs_europe/Lithuania_2009.pdf]
+
+2026-06-15 00:06:46.917643
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Lithuania_2009_policy.txt. Execution time 0.04 seconds
+
+2026-06-15 00:06:46.944739
+PDF loaded. Processing 356/658 [Lithuania in 2010 from: ../../data/original_report/usgs_europe/Lithuania_2010.pdf]
+
+2026-06-15 00:06:46.963635
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-15 00:06:46.986011
+PDF loaded. Processing 357/658 [Lithuania in 2011 from: ../../data/original_report/usgs_europe/Lithuania_2011.pdf]
+
+2026-06-15 00:06:47.001903
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-15 00:06:47.021975
+PDF loaded. Processing 358/658 [Lithuania in 2012 from: ../../data/original_report/usgs_europe/Lithuania_2012.pdf]
+
+2026-06-15 00:06:47.083378
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Lithuania_2012_policy.txt. Execution time 0.06 seconds
+
+2026-06-15 00:06:47.103194
+PDF loaded. Processing 359/658 [Lithuania in 2013 from: ../../data/original_report/usgs_europe/Lithuania_2013.pdf]
+
+2026-06-15 00:06:47.171080
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Lithuania_2013_policy.txt. Execution time 0.07 seconds
+
+2026-06-15 00:06:47.209189
+PDF loaded. Processing 360/658 [Lithuania in 2014 from: ../../data/original_report/usgs_europe/Lithuania_2014.pdf]
+
+2026-06-15 00:06:47.305501
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Lithuania_2014_policy.txt. Execution time 0.10 seconds
+
+2026-06-15 00:06:47.328641
+PDF loaded. Processing 361/658 [Lithuania in 2015 from: ../../data/original_report/usgs_europe/Lithuania_2015.pdf]
+
+2026-06-15 00:06:47.462362
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Lithuania_2015_policy.txt. Execution time 0.13 seconds
+
+2026-06-15 00:06:47.477844
+PDF loaded. Processing 362/658 [Lithuania in 2016 from: ../../data/original_report/usgs_europe/Lithuania_2016.pdf]
+
+2026-06-15 00:06:47.487659
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.01 seconds
+
+2026-06-15 00:06:47.501991
+PDF loaded. Processing 363/658 [Lithuania in 2018 from: ../../data/original_report/usgs_europe/Lithuania_2018.pdf]
+
+2026-06-15 00:06:47.512667
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.01 seconds
+
+2026-06-15 00:06:47.531514
+PDF loaded. Processing 364/658 [Lithuania in 2019 from: ../../data/original_report/usgs_europe/Lithuania_2019.pdf]
+
+2026-06-15 00:06:47.553221
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-15 00:06:47.575084
+PDF loaded. Processing 365/658 [Luxembourg in 2018 from: ../../data/original_report/usgs_europe/Luxembourg_2018.pdf]
+
+2026-06-15 00:06:47.590796
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-15 00:06:47.612704
+PDF loaded. Processing 366/658 [Luxembourg in 2019 from: ../../data/original_report/usgs_europe/Luxembourg_2019.pdf]
+
+2026-06-15 00:06:47.632648
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-15 00:06:47.672870
+PDF loaded. Processing 367/658 [Luxembourg in 2021 from: ../../data/original_report/usgs_europe/Luxembourg_2021.pdf]
+
+2026-06-15 00:06:47.740656
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Luxembourg_2021_policy.txt. Execution time 0.07 seconds
+
+2026-06-15 00:06:47.755586
+PDF loaded. Processing 368/658 [Malta in 2005 from: ../../data/original_report/usgs_europe/Malta_2005.pdf]
+
+2026-06-15 00:06:47.819628
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Malta_2005_policy.txt. Execution time 0.06 seconds
+
+2026-06-15 00:06:47.843774
+PDF loaded. Processing 369/658 [Malta in 2007 from: ../../data/original_report/usgs_europe/Malta_2007.pdf]
+
+2026-06-15 00:06:47.873535
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.03 seconds
+
+2026-06-15 00:06:47.916034
+PDF loaded. Processing 370/658 [Malta in 2008 from: ../../data/original_report/usgs_europe/Malta_2008.pdf]
+
+2026-06-15 00:06:47.975278
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Malta_2008_policy.txt. Execution time 0.06 seconds
+
+2026-06-15 00:06:47.994431
+PDF loaded. Processing 371/658 [Malta in 2009 from: ../../data/original_report/usgs_europe/Malta_2009.pdf]
+
+2026-06-15 00:06:48.043522
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Malta_2009_policy.txt. Execution time 0.05 seconds
+
+2026-06-15 00:06:48.086014
+PDF loaded. Processing 372/658 [Malta in 2010 from: ../../data/original_report/usgs_europe/Malta_2010.pdf]
+
+2026-06-15 00:06:48.150641
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Malta_2010_policy.txt. Execution time 0.06 seconds
+
+2026-06-15 00:06:48.191016
+PDF loaded. Processing 373/658 [Malta in 2011 from: ../../data/original_report/usgs_europe/Malta_2011.pdf]
+
+2026-06-15 00:06:48.246197
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Malta_2011_policy.txt. Execution time 0.06 seconds
+
+2026-06-15 00:06:48.281256
+PDF loaded. Processing 374/658 [Malta in 2012 from: ../../data/original_report/usgs_europe/Malta_2012.pdf]
+
+2026-06-15 00:06:48.358727
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Malta_2012_policy.txt. Execution time 0.08 seconds
+
+2026-06-15 00:06:48.385950
+PDF loaded. Processing 375/658 [Malta in 2013 from: ../../data/original_report/usgs_europe/Malta_2013.pdf]
+
+2026-06-15 00:06:48.491400
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Malta_2013_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:06:48.529530
+PDF loaded. Processing 376/658 [Malta in 2014 from: ../../data/original_report/usgs_europe/Malta_2014.pdf]
+
+2026-06-15 00:06:48.707936
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Malta_2014_policy.txt. Execution time 0.18 seconds
+
+2026-06-15 00:06:48.733196
+PDF loaded. Processing 377/658 [Malta in 2015 from: ../../data/original_report/usgs_europe/Malta_2015.pdf]
+
+2026-06-15 00:06:48.859757
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Malta_2015_policy.txt. Execution time 0.13 seconds
+
+2026-06-15 00:06:48.897673
+PDF loaded. Processing 378/658 [Malta in 2016 from: ../../data/original_report/usgs_europe/Malta_2016.pdf]
+
+2026-06-15 00:06:48.913742
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-15 00:06:48.950648
+PDF loaded. Processing 379/658 [Malta in 2018 from: ../../data/original_report/usgs_europe/Malta_2018.pdf]
+
+2026-06-15 00:06:48.971464
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-15 00:06:48.993687
+PDF loaded. Processing 380/658 [Malta in 2019 from: ../../data/original_report/usgs_europe/Malta_2019.pdf]
+
+2026-06-15 00:06:49.014013
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-15 00:06:49.050414
+PDF loaded. Processing 381/658 [Malta in 2021 from: ../../data/original_report/usgs_europe/Malta_2021.pdf]
+
+2026-06-15 00:06:49.101967
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Malta_2021_policy.txt. Execution time 0.05 seconds
+
+2026-06-15 00:06:49.123007
+PDF loaded. Processing 382/658 [Moldova in 2007 from: ../../data/original_report/usgs_europe/Moldova_2007.pdf]
+
+2026-06-15 00:06:49.200730
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Moldova_2007_policy.txt. Execution time 0.08 seconds
+
+2026-06-15 00:06:49.222036
+PDF loaded. Processing 383/658 [Moldova in 2009 from: ../../data/original_report/usgs_europe/Moldova_2009.pdf]
+
+2026-06-15 00:06:49.295192
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Moldova_2009_policy.txt. Execution time 0.07 seconds
+
+2026-06-15 00:06:49.335966
+PDF loaded. Processing 384/658 [Moldova in 2010 from: ../../data/original_report/usgs_europe/Moldova_2010.pdf]
+
+2026-06-15 00:06:49.410145
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Moldova_2010_policy.txt. Execution time 0.07 seconds
+
+2026-06-15 00:06:49.436357
+PDF loaded. Processing 385/658 [Moldova in 2011 from: ../../data/original_report/usgs_europe/Moldova_2011.pdf]
+
+2026-06-15 00:06:49.519861
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Moldova_2011_policy.txt. Execution time 0.08 seconds
+
+2026-06-15 00:06:49.541315
+PDF loaded. Processing 386/658 [Moldova in 2012 from: ../../data/original_report/usgs_europe/Moldova_2012.pdf]
+
+2026-06-15 00:06:49.652687
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Moldova_2012_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:06:49.676107
+PDF loaded. Processing 387/658 [Moldova in 2013 from: ../../data/original_report/usgs_europe/Moldova_2013.pdf]
+
+2026-06-15 00:06:49.784206
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Moldova_2013_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:06:49.823953
+PDF loaded. Processing 388/658 [Moldova in 2014 from: ../../data/original_report/usgs_europe/Moldova_2014.pdf]
+
+2026-06-15 00:06:49.950637
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Moldova_2014_policy.txt. Execution time 0.13 seconds
+
+2026-06-15 00:06:49.975556
+PDF loaded. Processing 389/658 [Moldova in 2015 from: ../../data/original_report/usgs_europe/Moldova_2015.pdf]
+
+2026-06-15 00:06:50.065492
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Moldova_2015_policy.txt. Execution time 0.09 seconds
+
+2026-06-15 00:06:50.079330
+PDF loaded. Processing 390/658 [Moldova in 2016 from: ../../data/original_report/usgs_europe/Moldova_2016.pdf]
+
+2026-06-15 00:06:50.161015
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Moldova_2016_policy.txt. Execution time 0.08 seconds
+
+2026-06-15 00:06:50.185093
+PDF loaded. Processing 391/658 [Moldova in 2018 from: ../../data/original_report/usgs_europe/Moldova_2018.pdf]
+
+2026-06-15 00:06:50.335080
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Moldova_2018_policy.txt. Execution time 0.15 seconds
+
+2026-06-15 00:06:50.369902
+PDF loaded. Processing 392/658 [Moldova in 2019 from: ../../data/original_report/usgs_europe/Moldova_2019.pdf]
+
+2026-06-15 00:06:50.522952
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Moldova_2019_policy.txt. Execution time 0.15 seconds
+
+2026-06-15 00:06:50.546184
+PDF loaded. Processing 393/658 [Montenegro in 2007 from: ../../data/original_report/usgs_europe/Montenegro_2007.pdf]
+
+2026-06-15 00:06:50.568475
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-15 00:06:50.593194
+PDF loaded. Processing 394/658 [Montenegro in 2008 from: ../../data/original_report/usgs_europe/Montenegro_2008.pdf]
+
+2026-06-15 00:06:50.661206
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Montenegro_2008_policy.txt. Execution time 0.07 seconds
+
+2026-06-15 00:06:50.697401
+PDF loaded. Processing 395/658 [Montenegro in 2009 from: ../../data/original_report/usgs_europe/Montenegro_2009.pdf]
+
+2026-06-15 00:06:50.776175
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Montenegro_2009_policy.txt. Execution time 0.08 seconds
+
+2026-06-15 00:06:50.819216
+PDF loaded. Processing 396/658 [Montenegro in 2010 from: ../../data/original_report/usgs_europe/Montenegro_2010.pdf]
+
+2026-06-15 00:06:50.883764
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Montenegro_2010_policy.txt. Execution time 0.06 seconds
+
+2026-06-15 00:06:50.926921
+PDF loaded. Processing 397/658 [Montenegro in 2011 from: ../../data/original_report/usgs_europe/Montenegro_2011.pdf]
+
+2026-06-15 00:06:51.003975
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Montenegro_2011_policy.txt. Execution time 0.08 seconds
+
+2026-06-15 00:06:51.022114
+PDF loaded. Processing 398/658 [Montenegro in 2012 from: ../../data/original_report/usgs_europe/Montenegro_2012.pdf]
+
+2026-06-15 00:06:51.087177
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Montenegro_2012_policy.txt. Execution time 0.07 seconds
+
+2026-06-15 00:06:51.125739
+PDF loaded. Processing 399/658 [Montenegro in 2013 from: ../../data/original_report/usgs_europe/Montenegro_2013.pdf]
+
+2026-06-15 00:06:51.305084
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Montenegro_2013_policy.txt. Execution time 0.18 seconds
+
+2026-06-15 00:06:51.331209
+PDF loaded. Processing 400/658 [Montenegro in 2014 from: ../../data/original_report/usgs_europe/Montenegro_2014.pdf]
+
+2026-06-15 00:06:51.548236
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Montenegro_2014_policy.txt. Execution time 0.22 seconds
+
+2026-06-15 00:06:51.593819
+PDF loaded. Processing 401/658 [Montenegro in 2015 from: ../../data/original_report/usgs_europe/Montenegro_2015.pdf]
+
+2026-06-15 00:06:51.740716
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Montenegro_2015_policy.txt. Execution time 0.15 seconds
+
+2026-06-15 00:06:51.763615
+PDF loaded. Processing 402/658 [Montenegro in 2016 from: ../../data/original_report/usgs_europe/Montenegro_2016.pdf]
+
+2026-06-15 00:06:51.782372
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-15 00:06:51.804695
+PDF loaded. Processing 403/658 [Montenegro in 2018 from: ../../data/original_report/usgs_europe/Montenegro_2018.pdf]
+
+2026-06-15 00:06:51.826036
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-15 00:06:51.846310
+PDF loaded. Processing 404/658 [Montenegro in 2019 from: ../../data/original_report/usgs_europe/Montenegro_2019.pdf]
+
+2026-06-15 00:06:51.866647
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-15 00:06:51.902199
+PDF loaded. Processing 405/658 [Montenegro in 2021 from: ../../data/original_report/usgs_europe/Montenegro_2021.pdf]
+
+2026-06-15 00:06:51.986146
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Montenegro_2021_policy.txt. Execution time 0.08 seconds
+
+2026-06-15 00:06:52.000506
+PDF loaded. Processing 406/658 [Netherlands in 2005 from: ../../data/original_report/usgs_europe/Netherlands_2005.pdf]
+
+2026-06-15 00:06:52.109234
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Netherlands_2005_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:06:52.144551
+PDF loaded. Processing 407/658 [Netherlands in 2006 from: ../../data/original_report/usgs_europe/Netherlands_2006.pdf]
+
+2026-06-15 00:06:52.271365
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Netherlands_2006_policy.txt. Execution time 0.13 seconds
+
+2026-06-15 00:06:52.291890
+PDF loaded. Processing 408/658 [Netherlands in 2007 from: ../../data/original_report/usgs_europe/Netherlands_2007.pdf]
+
+2026-06-15 00:06:52.375948
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Netherlands_2007_policy.txt. Execution time 0.08 seconds
+
+2026-06-15 00:06:52.419450
+PDF loaded. Processing 409/658 [Netherlands in 2008 from: ../../data/original_report/usgs_europe/Netherlands_2008.pdf]
+
+2026-06-15 00:06:52.518367
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Netherlands_2008_policy.txt. Execution time 0.10 seconds
+
+2026-06-15 00:06:52.540024
+PDF loaded. Processing 410/658 [Netherlands in 2009 from: ../../data/original_report/usgs_europe/Netherlands_2009.pdf]
+
+2026-06-15 00:06:52.626653
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Netherlands_2009_policy.txt. Execution time 0.09 seconds
+
+2026-06-15 00:06:52.662664
+PDF loaded. Processing 411/658 [Netherlands in 2010 from: ../../data/original_report/usgs_europe/Netherlands_2010.pdf]
+
+2026-06-15 00:06:52.776597
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Netherlands_2010_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:06:52.805771
+PDF loaded. Processing 412/658 [Netherlands in 2011 from: ../../data/original_report/usgs_europe/Netherlands_2011.pdf]
+
+2026-06-15 00:06:52.877841
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Netherlands_2011_policy.txt. Execution time 0.07 seconds
+
+2026-06-15 00:06:52.917156
+PDF loaded. Processing 413/658 [Netherlands in 2012 from: ../../data/original_report/usgs_europe/Netherlands_2012.pdf]
+
+2026-06-15 00:06:52.998351
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Netherlands_2012_policy.txt. Execution time 0.08 seconds
+
+2026-06-15 00:06:53.026112
+PDF loaded. Processing 414/658 [Netherlands in 2013 from: ../../data/original_report/usgs_europe/Netherlands_2013.pdf]
+
+2026-06-15 00:06:53.125817
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Netherlands_2013_policy.txt. Execution time 0.10 seconds
+
+2026-06-15 00:06:53.163163
+PDF loaded. Processing 415/658 [Netherlands in 2014 from: ../../data/original_report/usgs_europe/Netherlands_2014.pdf]
+
+2026-06-15 00:06:53.269056
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Netherlands_2014_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:06:53.292428
+PDF loaded. Processing 416/658 [Netherlands in 2015 from: ../../data/original_report/usgs_europe/Netherlands_2015.pdf]
+
+2026-06-15 00:06:53.381347
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Netherlands_2015_policy.txt. Execution time 0.09 seconds
+
+2026-06-15 00:06:53.466553
+PDF loaded. Processing 417/658 [Netherlands in 2016 from: ../../data/original_report/usgs_europe/Netherlands_2016.pdf]
+
+2026-06-15 00:06:53.569901
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Netherlands_2016_policy.txt. Execution time 0.10 seconds
+
+2026-06-15 00:06:53.594588
+PDF loaded. Processing 418/658 [Netherlands in 2018 from: ../../data/original_report/usgs_europe/Netherlands_2018.pdf]
+
+2026-06-15 00:06:53.734101
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Netherlands_2018_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:06:53.769016
+PDF loaded. Processing 419/658 [Netherlands in 2019 from: ../../data/original_report/usgs_europe/Netherlands_2019.pdf]
+
+2026-06-15 00:06:53.902515
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Netherlands_2019_policy.txt. Execution time 0.13 seconds
+
+2026-06-15 00:06:53.929345
+PDF loaded. Processing 420/658 [North Macedonia (formerlyMacedonia) in 2007 from: ../../data/original_report/usgs_europe/North Macedonia (formerlyMacedonia)_2007.pdf]
+
+2026-06-15 00:06:53.998948
+Successfully saved to ../../data/policy_section_txt/usgs_europe/North Macedonia (formerlyMacedonia)_2007_policy.txt. Execution time 0.07 seconds
+
+2026-06-15 00:06:54.041362
+PDF loaded. Processing 421/658 [North Macedonia (formerlyMacedonia) in 2008 from: ../../data/original_report/usgs_europe/North Macedonia (formerlyMacedonia)_2008.pdf]
+
+2026-06-15 00:06:54.106918
+Successfully saved to ../../data/policy_section_txt/usgs_europe/North Macedonia (formerlyMacedonia)_2008_policy.txt. Execution time 0.07 seconds
+
+2026-06-15 00:06:54.123889
+PDF loaded. Processing 422/658 [North Macedonia (formerlyMacedonia) in 2009 from: ../../data/original_report/usgs_europe/North Macedonia (formerlyMacedonia)_2009.pdf]
+
+2026-06-15 00:06:54.185952
+Successfully saved to ../../data/policy_section_txt/usgs_europe/North Macedonia (formerlyMacedonia)_2009_policy.txt. Execution time 0.06 seconds
+
+2026-06-15 00:06:54.224500
+PDF loaded. Processing 423/658 [North Macedonia (formerlyMacedonia) in 2010 from: ../../data/original_report/usgs_europe/North Macedonia (formerlyMacedonia)_2010.pdf]
+
+2026-06-15 00:06:54.290731
+Successfully saved to ../../data/policy_section_txt/usgs_europe/North Macedonia (formerlyMacedonia)_2010_policy.txt. Execution time 0.07 seconds
+
+2026-06-15 00:06:54.317883
+PDF loaded. Processing 424/658 [North Macedonia (formerlyMacedonia) in 2011 from: ../../data/original_report/usgs_europe/North Macedonia (formerlyMacedonia)_2011.pdf]
+
+2026-06-15 00:06:54.399889
+Successfully saved to ../../data/policy_section_txt/usgs_europe/North Macedonia (formerlyMacedonia)_2011_policy.txt. Execution time 0.08 seconds
+
+2026-06-15 00:06:54.428510
+PDF loaded. Processing 425/658 [North Macedonia (formerlyMacedonia) in 2012 from: ../../data/original_report/usgs_europe/North Macedonia (formerlyMacedonia)_2012.pdf]
+
+2026-06-15 00:06:54.525854
+Successfully saved to ../../data/policy_section_txt/usgs_europe/North Macedonia (formerlyMacedonia)_2012_policy.txt. Execution time 0.10 seconds
+
+2026-06-15 00:06:54.561049
+PDF loaded. Processing 426/658 [North Macedonia (formerlyMacedonia) in 2013 from: ../../data/original_report/usgs_europe/North Macedonia (formerlyMacedonia)_2013.pdf]
+
+2026-06-15 00:06:54.684528
+Successfully saved to ../../data/policy_section_txt/usgs_europe/North Macedonia (formerlyMacedonia)_2013_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:06:54.721802
+PDF loaded. Processing 427/658 [North Macedonia (formerlyMacedonia) in 2014 from: ../../data/original_report/usgs_europe/North Macedonia (formerlyMacedonia)_2014.pdf]
+
+2026-06-15 00:06:54.964232
+Successfully saved to ../../data/policy_section_txt/usgs_europe/North Macedonia (formerlyMacedonia)_2014_policy.txt. Execution time 0.24 seconds
+
+2026-06-15 00:06:54.989893
+PDF loaded. Processing 428/658 [North Macedonia (formerlyMacedonia) in 2015 from: ../../data/original_report/usgs_europe/North Macedonia (formerlyMacedonia)_2015.pdf]
+
+2026-06-15 00:06:55.189298
+Successfully saved to ../../data/policy_section_txt/usgs_europe/North Macedonia (formerlyMacedonia)_2015_policy.txt. Execution time 0.20 seconds
+
+2026-06-15 00:06:55.214620
+PDF loaded. Processing 429/658 [North Macedonia (formerlyMacedonia) in 2016 from: ../../data/original_report/usgs_europe/North Macedonia (formerlyMacedonia)_2016.pdf]
+
+2026-06-15 00:06:55.252484
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.04 seconds
+
+2026-06-15 00:06:55.285482
+PDF loaded. Processing 430/658 [North Macedonia (formerlyMacedonia) in 2018 from: ../../data/original_report/usgs_europe/North Macedonia (formerlyMacedonia)_2018.pdf]
+
+2026-06-15 00:06:55.320251
+Successfully saved to ../../data/policy_section_txt/usgs_europe/North Macedonia (formerlyMacedonia)_2018_policy.txt. Execution time 0.03 seconds
+
+2026-06-15 00:06:55.354909
+PDF loaded. Processing 431/658 [North Macedonia (formerlyMacedonia) in 2019 from: ../../data/original_report/usgs_europe/North Macedonia (formerlyMacedonia)_2019.pdf]
+
+2026-06-15 00:06:55.378243
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-15 00:06:55.400921
+PDF loaded. Processing 432/658 [Norway in 2005 from: ../../data/original_report/usgs_europe/Norway_2005.pdf]
+
+2026-06-15 00:06:55.496664
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Norway_2005_policy.txt. Execution time 0.10 seconds
+
+2026-06-15 00:06:55.512530
+PDF loaded. Processing 433/658 [Norway in 2006 from: ../../data/original_report/usgs_europe/Norway_2006.pdf]
+
+2026-06-15 00:06:55.565387
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Norway_2006_policy.txt. Execution time 0.05 seconds
+
+2026-06-15 00:06:55.596000
+PDF loaded. Processing 434/658 [Norway in 2007 from: ../../data/original_report/usgs_europe/Norway_2007.pdf]
+
+2026-06-15 00:06:55.695357
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Norway_2007_policy.txt. Execution time 0.10 seconds
+
+2026-06-15 00:06:55.737261
+PDF loaded. Processing 435/658 [Norway in 2008 from: ../../data/original_report/usgs_europe/Norway_2008.pdf]
+
+2026-06-15 00:06:55.889739
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Norway_2008_policy.txt. Execution time 0.15 seconds
+
+2026-06-15 00:06:55.909100
+PDF loaded. Processing 436/658 [Norway in 2009 from: ../../data/original_report/usgs_europe/Norway_2009.pdf]
+
+2026-06-15 00:06:56.071243
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Norway_2009_policy.txt. Execution time 0.16 seconds
+
+2026-06-15 00:06:56.117536
+PDF loaded. Processing 437/658 [Norway in 2010 from: ../../data/original_report/usgs_europe/Norway_2010.pdf]
+
+2026-06-15 00:06:56.271544
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Norway_2010_policy.txt. Execution time 0.15 seconds
+
+2026-06-15 00:06:56.315563
+PDF loaded. Processing 438/658 [Norway in 2011 from: ../../data/original_report/usgs_europe/Norway_2011.pdf]
+
+2026-06-15 00:06:56.451214
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Norway_2011_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:06:56.494852
+PDF loaded. Processing 439/658 [Norway in 2012 from: ../../data/original_report/usgs_europe/Norway_2012.pdf]
+
+2026-06-15 00:06:56.658932
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Norway_2012_policy.txt. Execution time 0.16 seconds
+
+2026-06-15 00:06:56.683659
+PDF loaded. Processing 440/658 [Norway in 2013 from: ../../data/original_report/usgs_europe/Norway_2013.pdf]
+
+2026-06-15 00:06:56.786715
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Norway_2013_policy.txt. Execution time 0.10 seconds
+
+2026-06-15 00:06:56.810758
+PDF loaded. Processing 441/658 [Norway in 2014 from: ../../data/original_report/usgs_europe/Norway_2014.pdf]
+
+2026-06-15 00:06:56.902939
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Norway_2014_policy.txt. Execution time 0.09 seconds
+
+2026-06-15 00:06:56.924465
+PDF loaded. Processing 442/658 [Norway in 2015 from: ../../data/original_report/usgs_europe/Norway_2015.pdf]
+
+2026-06-15 00:06:57.047223
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Norway_2015_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:06:57.086414
+PDF loaded. Processing 443/658 [Norway in 2016 from: ../../data/original_report/usgs_europe/Norway_2016.pdf]
+
+2026-06-15 00:06:57.219181
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Norway_2016_policy.txt. Execution time 0.13 seconds
+
+2026-06-15 00:06:57.244095
+PDF loaded. Processing 444/658 [Norway in 2018 from: ../../data/original_report/usgs_europe/Norway_2018.pdf]
+
+2026-06-15 00:06:57.444197
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Norway_2018_policy.txt. Execution time 0.20 seconds
+
+2026-06-15 00:06:57.488185
+PDF loaded. Processing 445/658 [Norway in 2019 from: ../../data/original_report/usgs_europe/Norway_2019.pdf]
+
+2026-06-15 00:06:57.651883
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Norway_2019_policy.txt. Execution time 0.16 seconds
+
+2026-06-15 00:06:57.681998
+PDF loaded. Processing 446/658 [Poland in 2007 from: ../../data/original_report/usgs_europe/Poland_2007.pdf]
+
+2026-06-15 00:06:57.817411
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Poland_2007_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:06:57.848865
+PDF loaded. Processing 447/658 [Poland in 2008 from: ../../data/original_report/usgs_europe/Poland_2008.pdf]
+
+2026-06-15 00:06:57.998171
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Poland_2008_policy.txt. Execution time 0.15 seconds
+
+2026-06-15 00:06:58.023468
+PDF loaded. Processing 448/658 [Poland in 2009 from: ../../data/original_report/usgs_europe/Poland_2009.pdf]
+
+2026-06-15 00:06:58.182597
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Poland_2009_policy.txt. Execution time 0.16 seconds
+
+2026-06-15 00:06:58.214532
+PDF loaded. Processing 449/658 [Poland in 2010 from: ../../data/original_report/usgs_europe/Poland_2010.pdf]
+
+2026-06-15 00:06:58.454978
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Poland_2010_policy.txt. Execution time 0.24 seconds
+
+2026-06-15 00:06:58.480515
+PDF loaded. Processing 450/658 [Poland in 2011 from: ../../data/original_report/usgs_europe/Poland_2011.pdf]
+
+2026-06-15 00:06:58.673306
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Poland_2011_policy.txt. Execution time 0.19 seconds
+
+2026-06-15 00:06:58.690667
+PDF loaded. Processing 451/658 [Poland in 2012 from: ../../data/original_report/usgs_europe/Poland_2012.pdf]
+
+2026-06-15 00:06:58.859952
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Poland_2012_policy.txt. Execution time 0.17 seconds
+
+2026-06-15 00:06:58.894517
+PDF loaded. Processing 452/658 [Poland in 2013 from: ../../data/original_report/usgs_europe/Poland_2013.pdf]
+
+2026-06-15 00:06:59.120876
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Poland_2013_policy.txt. Execution time 0.23 seconds
+
+2026-06-15 00:06:59.166642
+PDF loaded. Processing 453/658 [Poland in 2014 from: ../../data/original_report/usgs_europe/Poland_2014.pdf]
+
+2026-06-15 00:06:59.384230
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Poland_2014_policy.txt. Execution time 0.22 seconds
+
+2026-06-15 00:06:59.431254
+PDF loaded. Processing 454/658 [Poland in 2015 from: ../../data/original_report/usgs_europe/Poland_2015.pdf]
+
+2026-06-15 00:06:59.677112
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Poland_2015_policy.txt. Execution time 0.25 seconds
+
+2026-06-15 00:06:59.724219
+PDF loaded. Processing 455/658 [Poland in 2016 from: ../../data/original_report/usgs_europe/Poland_2016.pdf]
+
+2026-06-15 00:06:59.890681
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Poland_2016_policy.txt. Execution time 0.17 seconds
+
+2026-06-15 00:06:59.916057
+PDF loaded. Processing 456/658 [Poland in 2018 from: ../../data/original_report/usgs_europe/Poland_2018.pdf]
+
+2026-06-15 00:07:00.124285
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Poland_2018_policy.txt. Execution time 0.21 seconds
+
+2026-06-15 00:07:00.169867
+PDF loaded. Processing 457/658 [Poland in 2019 from: ../../data/original_report/usgs_europe/Poland_2019.pdf]
+
+2026-06-15 00:07:00.363997
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Poland_2019_policy.txt. Execution time 0.19 seconds
+
+2026-06-15 00:07:00.378891
+PDF loaded. Processing 458/658 [Portugal in 2005 from: ../../data/original_report/usgs_europe/Portugal_2005.pdf]
+
+2026-06-15 00:07:00.491356
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Portugal_2005_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:07:00.528382
+PDF loaded. Processing 459/658 [Portugal in 2006 from: ../../data/original_report/usgs_europe/Portugal_2006.pdf]
+
+2026-06-15 00:07:00.642035
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Portugal_2006_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:07:00.663189
+PDF loaded. Processing 460/658 [Portugal in 2007 from: ../../data/original_report/usgs_europe/Portugal_2007.pdf]
+
+2026-06-15 00:07:00.760440
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Portugal_2007_policy.txt. Execution time 0.10 seconds
+
+2026-06-15 00:07:00.802731
+PDF loaded. Processing 461/658 [Portugal in 2008 from: ../../data/original_report/usgs_europe/Portugal_2008.pdf]
+
+2026-06-15 00:07:00.945724
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Portugal_2008_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:07:00.971713
+PDF loaded. Processing 462/658 [Portugal in 2009 from: ../../data/original_report/usgs_europe/Portugal_2009.pdf]
+
+2026-06-15 00:07:01.083980
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Portugal_2009_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:07:01.124077
+PDF loaded. Processing 463/658 [Portugal in 2010 from: ../../data/original_report/usgs_europe/Portugal_2010.pdf]
+
+2026-06-15 00:07:01.280883
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Portugal_2010_policy.txt. Execution time 0.16 seconds
+
+2026-06-15 00:07:01.300745
+PDF loaded. Processing 464/658 [Portugal in 2011 from: ../../data/original_report/usgs_europe/Portugal_2011.pdf]
+
+2026-06-15 00:07:01.418215
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Portugal_2011_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:07:01.458178
+PDF loaded. Processing 465/658 [Portugal in 2012 from: ../../data/original_report/usgs_europe/Portugal_2012.pdf]
+
+2026-06-15 00:07:01.587748
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Portugal_2012_policy.txt. Execution time 0.13 seconds
+
+2026-06-15 00:07:01.636616
+PDF loaded. Processing 466/658 [Portugal in 2013 from: ../../data/original_report/usgs_europe/Portugal_2013.pdf]
+
+2026-06-15 00:07:01.761776
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Portugal_2013_policy.txt. Execution time 0.13 seconds
+
+2026-06-15 00:07:01.804957
+PDF loaded. Processing 467/658 [Portugal in 2014 from: ../../data/original_report/usgs_europe/Portugal_2014.pdf]
+
+2026-06-15 00:07:01.941048
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Portugal_2014_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:07:01.966119
+PDF loaded. Processing 468/658 [Portugal in 2015 from: ../../data/original_report/usgs_europe/Portugal_2015.pdf]
+
+2026-06-15 00:07:02.129250
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Portugal_2015_policy.txt. Execution time 0.16 seconds
+
+2026-06-15 00:07:02.156978
+PDF loaded. Processing 469/658 [Portugal in 2016 from: ../../data/original_report/usgs_europe/Portugal_2016.pdf]
+
+2026-06-15 00:07:02.280283
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Portugal_2016_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:07:02.316042
+PDF loaded. Processing 470/658 [Portugal in 2018 from: ../../data/original_report/usgs_europe/Portugal_2018.pdf]
+
+2026-06-15 00:07:02.480071
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Portugal_2018_policy.txt. Execution time 0.16 seconds
+
+2026-06-15 00:07:02.506266
+PDF loaded. Processing 471/658 [Portugal in 2019 from: ../../data/original_report/usgs_europe/Portugal_2019.pdf]
+
+2026-06-15 00:07:02.647429
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Portugal_2019_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:07:02.686082
+PDF loaded. Processing 472/658 [Romania in 2007 from: ../../data/original_report/usgs_europe/Romania_2007.pdf]
+
+2026-06-15 00:07:02.775417
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Romania_2007_policy.txt. Execution time 0.09 seconds
+
+2026-06-15 00:07:02.805237
+PDF loaded. Processing 473/658 [Romania in 2008 from: ../../data/original_report/usgs_europe/Romania_2008.pdf]
+
+2026-06-15 00:07:02.888666
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Romania_2008_policy.txt. Execution time 0.08 seconds
+
+2026-06-15 00:07:02.904268
+PDF loaded. Processing 474/658 [Romania in 2009 from: ../../data/original_report/usgs_europe/Romania_2009.pdf]
+
+2026-06-15 00:07:02.954262
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Romania_2009_policy.txt. Execution time 0.05 seconds
+
+2026-06-15 00:07:02.995989
+PDF loaded. Processing 475/658 [Romania in 2010 from: ../../data/original_report/usgs_europe/Romania_2010.pdf]
+
+2026-06-15 00:07:03.088806
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Romania_2010_policy.txt. Execution time 0.09 seconds
+
+2026-06-15 00:07:03.128633
+PDF loaded. Processing 476/658 [Romania in 2011 from: ../../data/original_report/usgs_europe/Romania_2011.pdf]
+
+2026-06-15 00:07:03.202216
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Romania_2011_policy.txt. Execution time 0.07 seconds
+
+2026-06-15 00:07:03.244107
+PDF loaded. Processing 477/658 [Romania in 2012 from: ../../data/original_report/usgs_europe/Romania_2012.pdf]
+
+2026-06-15 00:07:03.353302
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Romania_2012_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:07:03.375608
+PDF loaded. Processing 478/658 [Romania in 2014 from: ../../data/original_report/usgs_europe/Romania_2014.pdf]
+
+2026-06-15 00:07:03.605562
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Romania_2014_policy.txt. Execution time 0.23 seconds
+
+2026-06-15 00:07:03.652427
+PDF loaded. Processing 479/658 [Romania in 2015 from: ../../data/original_report/usgs_europe/Romania_2015.pdf]
+
+2026-06-15 00:07:03.906929
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Romania_2015_policy.txt. Execution time 0.25 seconds
+
+2026-06-15 00:07:03.936076
+PDF loaded. Processing 480/658 [Romania in 2016 from: ../../data/original_report/usgs_europe/Romania_2016.pdf]
+
+2026-06-15 00:07:04.055068
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Romania_2016_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:07:04.071745
+PDF loaded. Processing 481/658 [Romania in 2018 from: ../../data/original_report/usgs_europe/Romania_2018.pdf]
+
+2026-06-15 00:07:04.183103
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Romania_2018_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:07:04.208445
+PDF loaded. Processing 482/658 [Romania in 2019 from: ../../data/original_report/usgs_europe/Romania_2019.pdf]
+
+2026-06-15 00:07:04.341308
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Romania_2019_policy.txt. Execution time 0.13 seconds
+
+2026-06-15 00:07:04.369876
+PDF loaded. Processing 483/658 [Russia in 2007 from: ../../data/original_report/usgs_europe/Russia_2007.pdf]
+
+2026-06-15 00:07:04.976320
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Russia_2007_policy.txt. Execution time 0.61 seconds
+
+2026-06-15 00:07:05.064089
+PDF loaded. Processing 484/658 [Russia in 2009 from: ../../data/original_report/usgs_europe/Russia_2009.pdf]
+
+2026-06-15 00:07:05.560292
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Russia_2009_policy.txt. Execution time 0.50 seconds
+
+2026-06-15 00:07:05.608370
+PDF loaded. Processing 485/658 [Russia in 2010 from: ../../data/original_report/usgs_europe/Russia_2010.pdf]
+
+2026-06-15 00:07:05.867921
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Russia_2010_policy.txt. Execution time 0.26 seconds
+
+2026-06-15 00:07:05.899466
+PDF loaded. Processing 486/658 [Russia in 2011 from: ../../data/original_report/usgs_europe/Russia_2011.pdf]
+
+2026-06-15 00:07:06.175129
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Russia_2011_policy.txt. Execution time 0.28 seconds
+
+2026-06-15 00:07:06.226186
+PDF loaded. Processing 487/658 [Russia in 2012 from: ../../data/original_report/usgs_europe/Russia_2012.pdf]
+
+2026-06-15 00:07:06.634971
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Russia_2012_policy.txt. Execution time 0.41 seconds
+
+2026-06-15 00:07:06.684419
+PDF loaded. Processing 488/658 [Russia in 2013 from: ../../data/original_report/usgs_europe/Russia_2013.pdf]
+
+2026-06-15 00:07:07.011749
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Russia_2013_policy.txt. Execution time 0.33 seconds
+
+2026-06-15 00:07:07.056382
+PDF loaded. Processing 489/658 [Russia in 2014 from: ../../data/original_report/usgs_europe/Russia_2014.pdf]
+
+2026-06-15 00:07:07.424337
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Russia_2014_policy.txt. Execution time 0.37 seconds
+
+2026-06-15 00:07:07.472202
+PDF loaded. Processing 490/658 [Russia in 2015 from: ../../data/original_report/usgs_europe/Russia_2015.pdf]
+
+2026-06-15 00:07:07.784389
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Russia_2015_policy.txt. Execution time 0.31 seconds
+
+2026-06-15 00:07:07.834252
+PDF loaded. Processing 491/658 [Russia in 2016 from: ../../data/original_report/usgs_europe/Russia_2016.pdf]
+
+2026-06-15 00:07:08.102863
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Russia_2016_policy.txt. Execution time 0.27 seconds
+
+2026-06-15 00:07:08.131881
+PDF loaded. Processing 492/658 [Russia in 2018 from: ../../data/original_report/usgs_europe/Russia_2018.pdf]
+
+2026-06-15 00:07:08.442985
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Russia_2018_policy.txt. Execution time 0.31 seconds
+
+2026-06-15 00:07:08.494356
+PDF loaded. Processing 493/658 [Russia in 2019 from: ../../data/original_report/usgs_europe/Russia_2019.pdf]
+
+2026-06-15 00:07:08.823999
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Russia_2019_policy.txt. Execution time 0.33 seconds
+
+2026-06-15 00:07:08.874846
+PDF loaded. Processing 494/658 [Russia in 2021 from: ../../data/original_report/usgs_europe/Russia_2021.pdf]
+
+2026-06-15 00:07:09.236747
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Russia_2021_policy.txt. Execution time 0.36 seconds
+
+2026-06-15 00:07:09.272404
+PDF loaded. Processing 495/658 [Russia in 2022 from: ../../data/original_report/usgs_europe/Russia_2022.pdf]
+
+2026-06-15 00:07:09.617156
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Russia_2022_policy.txt. Execution time 0.34 seconds
+
+2026-06-15 00:07:09.659723
+PDF loaded. Processing 496/658 [Serbia in 2007 from: ../../data/original_report/usgs_europe/Serbia_2007.pdf]
+
+2026-06-15 00:07:09.742581
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Serbia_2007_policy.txt. Execution time 0.08 seconds
+
+2026-06-15 00:07:09.791738
+PDF loaded. Processing 497/658 [Serbia in 2008 from: ../../data/original_report/usgs_europe/Serbia_2008.pdf]
+
+2026-06-15 00:07:09.928842
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Serbia_2008_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:07:09.946799
+PDF loaded. Processing 498/658 [Serbia in 2009 from: ../../data/original_report/usgs_europe/Serbia_2009.pdf]
+
+2026-06-15 00:07:10.047843
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Serbia_2009_policy.txt. Execution time 0.10 seconds
+
+2026-06-15 00:07:10.091598
+PDF loaded. Processing 499/658 [Serbia in 2010 from: ../../data/original_report/usgs_europe/Serbia_2010.pdf]
+
+2026-06-15 00:07:10.192974
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Serbia_2010_policy.txt. Execution time 0.10 seconds
+
+2026-06-15 00:07:10.221429
+PDF loaded. Processing 500/658 [Serbia in 2011 from: ../../data/original_report/usgs_europe/Serbia_2011.pdf]
+
+2026-06-15 00:07:10.314938
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Serbia_2011_policy.txt. Execution time 0.09 seconds
+
+2026-06-15 00:07:10.356775
+PDF loaded. Processing 501/658 [Serbia in 2012 from: ../../data/original_report/usgs_europe/Serbia_2012.pdf]
+
+2026-06-15 00:07:10.444338
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Serbia_2012_policy.txt. Execution time 0.09 seconds
+
+2026-06-15 00:07:10.465176
+PDF loaded. Processing 502/658 [Serbia in 2013 from: ../../data/original_report/usgs_europe/Serbia_2013.pdf]
+
+2026-06-15 00:07:10.581943
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Serbia_2013_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:07:10.620275
+PDF loaded. Processing 503/658 [Serbia in 2014 from: ../../data/original_report/usgs_europe/Serbia_2014.pdf]
+
+2026-06-15 00:07:10.838737
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Serbia_2014_policy.txt. Execution time 0.22 seconds
+
+2026-06-15 00:07:10.866672
+PDF loaded. Processing 504/658 [Serbia in 2015 from: ../../data/original_report/usgs_europe/Serbia_2015.pdf]
+
+2026-06-15 00:07:11.011233
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Serbia_2015_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:07:11.035302
+PDF loaded. Processing 505/658 [Serbia in 2016 from: ../../data/original_report/usgs_europe/Serbia_2016.pdf]
+
+2026-06-15 00:07:11.135804
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Serbia_2016_policy.txt. Execution time 0.10 seconds
+
+2026-06-15 00:07:11.161476
+PDF loaded. Processing 506/658 [Serbia in 2018 from: ../../data/original_report/usgs_europe/Serbia_2018.pdf]
+
+2026-06-15 00:07:11.271155
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Serbia_2018_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:07:11.305871
+PDF loaded. Processing 507/658 [Serbia in 2019 from: ../../data/original_report/usgs_europe/Serbia_2019.pdf]
+
+2026-06-15 00:07:11.460652
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Serbia_2019_policy.txt. Execution time 0.15 seconds
+
+2026-06-15 00:07:11.486699
+PDF loaded. Processing 508/658 [Slovakia in 2007 from: ../../data/original_report/usgs_europe/Slovakia_2007.pdf]
+
+2026-06-15 00:07:11.563606
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Slovakia_2007_policy.txt. Execution time 0.08 seconds
+
+2026-06-15 00:07:11.608134
+PDF loaded. Processing 509/658 [Slovakia in 2008 from: ../../data/original_report/usgs_europe/Slovakia_2008.pdf]
+
+2026-06-15 00:07:11.721979
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Slovakia_2008_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:07:11.747562
+PDF loaded. Processing 510/658 [Slovakia in 2009 from: ../../data/original_report/usgs_europe/Slovakia_2009.pdf]
+
+2026-06-15 00:07:11.851546
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Slovakia_2009_policy.txt. Execution time 0.10 seconds
+
+2026-06-15 00:07:11.891876
+PDF loaded. Processing 511/658 [Slovakia in 2010 from: ../../data/original_report/usgs_europe/Slovakia_2010.pdf]
+
+2026-06-15 00:07:11.969823
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Slovakia_2010_policy.txt. Execution time 0.08 seconds
+
+2026-06-15 00:07:12.014140
+PDF loaded. Processing 512/658 [Slovakia in 2011 from: ../../data/original_report/usgs_europe/Slovakia_2011.pdf]
+
+2026-06-15 00:07:12.107114
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Slovakia_2011_policy.txt. Execution time 0.09 seconds
+
+2026-06-15 00:07:12.144101
+PDF loaded. Processing 513/658 [Slovakia in 2012 from: ../../data/original_report/usgs_europe/Slovakia_2012.pdf]
+
+2026-06-15 00:07:12.263572
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Slovakia_2012_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:07:12.290628
+PDF loaded. Processing 514/658 [Slovakia in 2013 from: ../../data/original_report/usgs_europe/Slovakia_2013.pdf]
+
+2026-06-15 00:07:12.402436
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Slovakia_2013_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:07:12.442375
+PDF loaded. Processing 515/658 [Slovakia in 2014 from: ../../data/original_report/usgs_europe/Slovakia_2014.pdf]
+
+2026-06-15 00:07:12.576829
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Slovakia_2014_policy.txt. Execution time 0.13 seconds
+
+2026-06-15 00:07:12.605142
+PDF loaded. Processing 516/658 [Slovakia in 2015 from: ../../data/original_report/usgs_europe/Slovakia_2015.pdf]
+
+2026-06-15 00:07:12.761169
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Slovakia_2015_policy.txt. Execution time 0.16 seconds
+
+2026-06-15 00:07:12.804170
+PDF loaded. Processing 517/658 [Slovakia in 2016 from: ../../data/original_report/usgs_europe/Slovakia_2016.pdf]
+
+2026-06-15 00:07:12.879452
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Slovakia_2016_policy.txt. Execution time 0.08 seconds
+
+2026-06-15 00:07:12.895297
+PDF loaded. Processing 518/658 [Slovakia in 2018 from: ../../data/original_report/usgs_europe/Slovakia_2018.pdf]
+
+2026-06-15 00:07:13.008826
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Slovakia_2018_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:07:13.035061
+PDF loaded. Processing 519/658 [Slovakia in 2019 from: ../../data/original_report/usgs_europe/Slovakia_2019.pdf]
+
+2026-06-15 00:07:13.123140
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Slovakia_2019_policy.txt. Execution time 0.09 seconds
+
+2026-06-15 00:07:13.153425
+PDF loaded. Processing 520/658 [Slovenia in 2007 from: ../../data/original_report/usgs_europe/Slovenia_2007.pdf]
+
+2026-06-15 00:07:13.212028
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Slovenia_2007_policy.txt. Execution time 0.06 seconds
+
+2026-06-15 00:07:13.256901
+PDF loaded. Processing 521/658 [Slovenia in 2008 from: ../../data/original_report/usgs_europe/Slovenia_2008.pdf]
+
+2026-06-15 00:07:13.370086
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Slovenia_2008_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:07:13.394055
+PDF loaded. Processing 522/658 [Slovenia in 2009 from: ../../data/original_report/usgs_europe/Slovenia_2009.pdf]
+
+2026-06-15 00:07:13.449942
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Slovenia_2009_policy.txt. Execution time 0.06 seconds
+
+2026-06-15 00:07:13.492205
+PDF loaded. Processing 523/658 [Slovenia in 2010 from: ../../data/original_report/usgs_europe/Slovenia_2010.pdf]
+
+2026-06-15 00:07:13.510743
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-15 00:07:13.537769
+PDF loaded. Processing 524/658 [Slovenia in 2011 from: ../../data/original_report/usgs_europe/Slovenia_2011.pdf]
+
+2026-06-15 00:07:13.604868
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Slovenia_2011_policy.txt. Execution time 0.07 seconds
+
+2026-06-15 00:07:13.626485
+PDF loaded. Processing 525/658 [Slovenia in 2012 from: ../../data/original_report/usgs_europe/Slovenia_2012.pdf]
+
+2026-06-15 00:07:13.715808
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Slovenia_2012_policy.txt. Execution time 0.09 seconds
+
+2026-06-15 00:07:13.740278
+PDF loaded. Processing 526/658 [Slovenia in 2013 from: ../../data/original_report/usgs_europe/Slovenia_2013.pdf]
+
+2026-06-15 00:07:13.860679
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Slovenia_2013_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:07:13.883617
+PDF loaded. Processing 527/658 [Slovenia in 2014 from: ../../data/original_report/usgs_europe/Slovenia_2014.pdf]
+
+2026-06-15 00:07:13.991891
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Slovenia_2014_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:07:14.039593
+PDF loaded. Processing 528/658 [Slovenia in 2016 from: ../../data/original_report/usgs_europe/Slovenia_2016.pdf]
+
+2026-06-15 00:07:14.060274
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-15 00:07:14.095628
+PDF loaded. Processing 529/658 [Slovenia in 2018 from: ../../data/original_report/usgs_europe/Slovenia_2018.pdf]
+
+2026-06-15 00:07:14.113604
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-15 00:07:14.130497
+PDF loaded. Processing 530/658 [Slovenia in 2019 from: ../../data/original_report/usgs_europe/Slovenia_2019.pdf]
+
+2026-06-15 00:07:14.148900
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-15 00:07:14.174450
+PDF loaded. Processing 531/658 [Spain in 2005 from: ../../data/original_report/usgs_europe/Spain_2005.pdf]
+
+2026-06-15 00:07:14.424299
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Spain_2005_policy.txt. Execution time 0.25 seconds
+
+2026-06-15 00:07:14.467606
+PDF loaded. Processing 532/658 [Spain in 2006 from: ../../data/original_report/usgs_europe/Spain_2006.pdf]
+
+2026-06-15 00:07:14.698503
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Spain_2006_policy.txt. Execution time 0.23 seconds
+
+2026-06-15 00:07:14.727677
+PDF loaded. Processing 533/658 [Spain in 2007 from: ../../data/original_report/usgs_europe/Spain_2007.pdf]
+
+2026-06-15 00:07:14.893361
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Spain_2007_policy.txt. Execution time 0.17 seconds
+
+2026-06-15 00:07:14.921421
+PDF loaded. Processing 534/658 [Spain in 2008 from: ../../data/original_report/usgs_europe/Spain_2008.pdf]
+
+2026-06-15 00:07:15.116547
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Spain_2008_policy.txt. Execution time 0.20 seconds
+
+2026-06-15 00:07:15.159051
+PDF loaded. Processing 535/658 [Spain in 2009 from: ../../data/original_report/usgs_europe/Spain_2009.pdf]
+
+2026-06-15 00:07:15.372688
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Spain_2009_policy.txt. Execution time 0.21 seconds
+
+2026-06-15 00:07:15.395547
+PDF loaded. Processing 536/658 [Spain in 2010 from: ../../data/original_report/usgs_europe/Spain_2010.pdf]
+
+2026-06-15 00:07:15.601370
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Spain_2010_policy.txt. Execution time 0.21 seconds
+
+2026-06-15 00:07:15.628201
+PDF loaded. Processing 537/658 [Spain in 2011 from: ../../data/original_report/usgs_europe/Spain_2011.pdf]
+
+2026-06-15 00:07:15.828422
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Spain_2011_policy.txt. Execution time 0.20 seconds
+
+2026-06-15 00:07:15.850884
+PDF loaded. Processing 538/658 [Spain in 2012 from: ../../data/original_report/usgs_europe/Spain_2012.pdf]
+
+2026-06-15 00:07:16.079288
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Spain_2012_policy.txt. Execution time 0.23 seconds
+
+2026-06-15 00:07:16.102389
+PDF loaded. Processing 539/658 [Spain in 2013 from: ../../data/original_report/usgs_europe/Spain_2013.pdf]
+
+2026-06-15 00:07:16.381853
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Spain_2013_policy.txt. Execution time 0.28 seconds
+
+2026-06-15 00:07:16.405807
+PDF loaded. Processing 540/658 [Spain in 2014 from: ../../data/original_report/usgs_europe/Spain_2014.pdf]
+
+2026-06-15 00:07:16.577199
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Spain_2014_policy.txt. Execution time 0.17 seconds
+
+2026-06-15 00:07:16.631345
+PDF loaded. Processing 541/658 [Spain in 2015 from: ../../data/original_report/usgs_europe/Spain_2015.pdf]
+
+2026-06-15 00:07:16.791873
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Spain_2015_policy.txt. Execution time 0.16 seconds
+
+2026-06-15 00:07:16.832765
+PDF loaded. Processing 542/658 [Spain in 2016 from: ../../data/original_report/usgs_europe/Spain_2016.pdf]
+
+2026-06-15 00:07:16.986617
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Spain_2016_policy.txt. Execution time 0.15 seconds
+
+2026-06-15 00:07:17.005426
+PDF loaded. Processing 543/658 [Spain in 2018 from: ../../data/original_report/usgs_europe/Spain_2018.pdf]
+
+2026-06-15 00:07:17.154332
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Spain_2018_policy.txt. Execution time 0.15 seconds
+
+2026-06-15 00:07:17.200961
+PDF loaded. Processing 544/658 [Spain in 2019 from: ../../data/original_report/usgs_europe/Spain_2019.pdf]
+
+2026-06-15 00:07:17.426351
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Spain_2019_policy.txt. Execution time 0.23 seconds
+
+2026-06-15 00:07:17.467696
+PDF loaded. Processing 545/658 [Sweden in 2005 from: ../../data/original_report/usgs_europe/Sweden_2005.pdf]
+
+2026-06-15 00:07:17.582652
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Sweden_2005_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:07:17.600320
+PDF loaded. Processing 546/658 [Sweden in 2006 from: ../../data/original_report/usgs_europe/Sweden_2006.pdf]
+
+2026-06-15 00:07:17.693778
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Sweden_2006_policy.txt. Execution time 0.09 seconds
+
+2026-06-15 00:07:17.722228
+PDF loaded. Processing 547/658 [Sweden in 2007 from: ../../data/original_report/usgs_europe/Sweden_2007.pdf]
+
+2026-06-15 00:07:17.896198
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Sweden_2007_policy.txt. Execution time 0.17 seconds
+
+2026-06-15 00:07:17.927731
+PDF loaded. Processing 548/658 [Sweden in 2008 from: ../../data/original_report/usgs_europe/Sweden_2008.pdf]
+
+2026-06-15 00:07:18.031900
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Sweden_2008_policy.txt. Execution time 0.10 seconds
+
+2026-06-15 00:07:18.058475
+PDF loaded. Processing 549/658 [Sweden in 2009 from: ../../data/original_report/usgs_europe/Sweden_2009.pdf]
+
+2026-06-15 00:07:18.210320
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Sweden_2009_policy.txt. Execution time 0.15 seconds
+
+2026-06-15 00:07:18.240749
+PDF loaded. Processing 550/658 [Sweden in 2010 from: ../../data/original_report/usgs_europe/Sweden_2010.pdf]
+
+2026-06-15 00:07:18.383983
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Sweden_2010_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:07:18.425601
+PDF loaded. Processing 551/658 [Sweden in 2011 from: ../../data/original_report/usgs_europe/Sweden_2011.pdf]
+
+2026-06-15 00:07:18.550014
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Sweden_2011_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:07:18.577474
+PDF loaded. Processing 552/658 [Sweden in 2012 from: ../../data/original_report/usgs_europe/Sweden_2012.pdf]
+
+2026-06-15 00:07:18.716352
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Sweden_2012_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:07:18.736252
+PDF loaded. Processing 553/658 [Sweden in 2013 from: ../../data/original_report/usgs_europe/Sweden_2013.pdf]
+
+2026-06-15 00:07:18.884257
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Sweden_2013_policy.txt. Execution time 0.15 seconds
+
+2026-06-15 00:07:18.926447
+PDF loaded. Processing 554/658 [Sweden in 2014 from: ../../data/original_report/usgs_europe/Sweden_2014.pdf]
+
+2026-06-15 00:07:19.049392
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Sweden_2014_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:07:19.064279
+PDF loaded. Processing 555/658 [Sweden in 2015 from: ../../data/original_report/usgs_europe/Sweden_2015.pdf]
+
+2026-06-15 00:07:19.156482
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Sweden_2015_policy.txt. Execution time 0.09 seconds
+
+2026-06-15 00:07:19.188141
+PDF loaded. Processing 556/658 [Sweden in 2016 from: ../../data/original_report/usgs_europe/Sweden_2016.pdf]
+
+2026-06-15 00:07:19.304036
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Sweden_2016_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:07:19.332482
+PDF loaded. Processing 557/658 [Sweden in 2018 from: ../../data/original_report/usgs_europe/Sweden_2018.pdf]
+
+2026-06-15 00:07:19.532602
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Sweden_2018_policy.txt. Execution time 0.20 seconds
+
+2026-06-15 00:07:19.555158
+PDF loaded. Processing 558/658 [Sweden in 2019 from: ../../data/original_report/usgs_europe/Sweden_2019.pdf]
+
+2026-06-15 00:07:19.713930
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Sweden_2019_policy.txt. Execution time 0.16 seconds
+
+2026-06-15 00:07:19.728168
+PDF loaded. Processing 559/658 [Switzerland in 2005 from: ../../data/original_report/usgs_europe/Switzerland_2005.pdf]
+
+2026-06-15 00:07:19.818209
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Switzerland_2005_policy.txt. Execution time 0.09 seconds
+
+2026-06-15 00:07:19.832659
+PDF loaded. Processing 560/658 [Switzerland in 2006 from: ../../data/original_report/usgs_europe/Switzerland_2006.pdf]
+
+2026-06-15 00:07:19.884809
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Switzerland_2006_policy.txt. Execution time 0.05 seconds
+
+2026-06-15 00:07:19.912680
+PDF loaded. Processing 561/658 [Switzerland in 2007 from: ../../data/original_report/usgs_europe/Switzerland_2007.pdf]
+
+2026-06-15 00:07:19.973569
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Switzerland_2007_policy.txt. Execution time 0.06 seconds
+
+2026-06-15 00:07:19.998086
+PDF loaded. Processing 562/658 [Switzerland in 2008 from: ../../data/original_report/usgs_europe/Switzerland_2008.pdf]
+
+2026-06-15 00:07:20.083506
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Switzerland_2008_policy.txt. Execution time 0.09 seconds
+
+2026-06-15 00:07:20.101251
+PDF loaded. Processing 563/658 [Switzerland in 2009 from: ../../data/original_report/usgs_europe/Switzerland_2009.pdf]
+
+2026-06-15 00:07:20.178641
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Switzerland_2009_policy.txt. Execution time 0.08 seconds
+
+2026-06-15 00:07:20.205753
+PDF loaded. Processing 564/658 [Switzerland in 2010 from: ../../data/original_report/usgs_europe/Switzerland_2010.pdf]
+
+2026-06-15 00:07:20.322333
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Switzerland_2010_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:07:20.350537
+PDF loaded. Processing 565/658 [Switzerland in 2011 from: ../../data/original_report/usgs_europe/Switzerland_2011.pdf]
+
+2026-06-15 00:07:20.424103
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Switzerland_2011_policy.txt. Execution time 0.07 seconds
+
+2026-06-15 00:07:20.462635
+PDF loaded. Processing 566/658 [Switzerland in 2012 from: ../../data/original_report/usgs_europe/Switzerland_2012.pdf]
+
+2026-06-15 00:07:20.577036
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Switzerland_2012_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:07:20.600476
+PDF loaded. Processing 567/658 [Switzerland in 2013 from: ../../data/original_report/usgs_europe/Switzerland_2013.pdf]
+
+2026-06-15 00:07:20.830839
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Switzerland_2013_policy.txt. Execution time 0.23 seconds
+
+2026-06-15 00:07:20.879807
+PDF loaded. Processing 568/658 [Switzerland in 2014 from: ../../data/original_report/usgs_europe/Switzerland_2014.pdf]
+
+2026-06-15 00:07:21.109651
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Switzerland_2014_policy.txt. Execution time 0.23 seconds
+
+2026-06-15 00:07:21.156878
+PDF loaded. Processing 569/658 [Switzerland in 2015 from: ../../data/original_report/usgs_europe/Switzerland_2015.pdf]
+
+2026-06-15 00:07:21.270114
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Switzerland_2015_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:07:21.291806
+PDF loaded. Processing 570/658 [Switzerland in 2016 from: ../../data/original_report/usgs_europe/Switzerland_2016.pdf]
+
+2026-06-15 00:07:21.350077
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Switzerland_2016_policy.txt. Execution time 0.06 seconds
+
+2026-06-15 00:07:21.367808
+PDF loaded. Processing 571/658 [Switzerland in 2018 from: ../../data/original_report/usgs_europe/Switzerland_2018.pdf]
+
+2026-06-15 00:07:21.474885
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Switzerland_2018_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:07:21.515253
+PDF loaded. Processing 572/658 [Switzerland in 2019 from: ../../data/original_report/usgs_europe/Switzerland_2019.pdf]
+
+2026-06-15 00:07:21.628895
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Switzerland_2019_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:07:21.657731
+PDF loaded. Processing 573/658 [Tajikistan in 2007 from: ../../data/original_report/usgs_europe/Tajikistan_2007.pdf]
+
+2026-06-15 00:07:21.779141
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Tajikistan_2007_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:07:21.796551
+PDF loaded. Processing 574/658 [Tajikistan in 2009 from: ../../data/original_report/usgs_europe/Tajikistan_2009.pdf]
+
+2026-06-15 00:07:21.914452
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Tajikistan_2009_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:07:21.940442
+PDF loaded. Processing 575/658 [Tajikistan in 2010 from: ../../data/original_report/usgs_europe/Tajikistan_2010.pdf]
+
+2026-06-15 00:07:22.022029
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Tajikistan_2010_policy.txt. Execution time 0.08 seconds
+
+2026-06-15 00:07:22.065746
+PDF loaded. Processing 576/658 [Tajikistan in 2011 from: ../../data/original_report/usgs_europe/Tajikistan_2011.pdf]
+
+2026-06-15 00:07:22.246523
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Tajikistan_2011_policy.txt. Execution time 0.18 seconds
+
+2026-06-15 00:07:22.272977
+PDF loaded. Processing 577/658 [Tajikistan in 2012 from: ../../data/original_report/usgs_europe/Tajikistan_2012.pdf]
+
+2026-06-15 00:07:22.406351
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Tajikistan_2012_policy.txt. Execution time 0.13 seconds
+
+2026-06-15 00:07:22.433018
+PDF loaded. Processing 578/658 [Tajikistan in 2013 from: ../../data/original_report/usgs_europe/Tajikistan_2013.pdf]
+
+2026-06-15 00:07:22.650904
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Tajikistan_2013_policy.txt. Execution time 0.22 seconds
+
+2026-06-15 00:07:22.696006
+PDF loaded. Processing 579/658 [Tajikistan in 2014 from: ../../data/original_report/usgs_europe/Tajikistan_2014.pdf]
+
+2026-06-15 00:07:22.927152
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Tajikistan_2014_policy.txt. Execution time 0.23 seconds
+
+2026-06-15 00:07:22.988578
+PDF loaded. Processing 580/658 [Tajikistan in 2015 from: ../../data/original_report/usgs_europe/Tajikistan_2015.pdf]
+
+2026-06-15 00:07:23.162918
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Tajikistan_2015_policy.txt. Execution time 0.17 seconds
+
+2026-06-15 00:07:23.185530
+PDF loaded. Processing 581/658 [Tajikistan in 2016 from: ../../data/original_report/usgs_europe/Tajikistan_2016.pdf]
+
+2026-06-15 00:07:23.257468
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Tajikistan_2016_policy.txt. Execution time 0.07 seconds
+
+2026-06-15 00:07:23.276504
+PDF loaded. Processing 582/658 [Tajikistan in 2018 from: ../../data/original_report/usgs_europe/Tajikistan_2018.pdf]
+
+2026-06-15 00:07:23.380237
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Tajikistan_2018_policy.txt. Execution time 0.10 seconds
+
+2026-06-15 00:07:23.406409
+PDF loaded. Processing 583/658 [Tajikistan in 2019 from: ../../data/original_report/usgs_europe/Tajikistan_2019.pdf]
+
+2026-06-15 00:07:23.564713
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Tajikistan_2019_policy.txt. Execution time 0.16 seconds
+
+2026-06-15 00:07:23.600409
+PDF loaded. Processing 584/658 [Tajikistan in 2021 from: ../../data/original_report/usgs_europe/Tajikistan_2021.pdf]
+
+2026-06-15 00:07:23.791602
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Tajikistan_2021_policy.txt. Execution time 0.19 seconds
+
+2026-06-15 00:07:23.809623
+PDF loaded. Processing 585/658 [Tajikistan in 2022 from: ../../data/original_report/usgs_europe/Tajikistan_2022.pdf]
+
+2026-06-15 00:07:23.910494
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Tajikistan_2022_policy.txt. Execution time 0.10 seconds
+
+2026-06-15 00:07:23.953078
+PDF loaded. Processing 586/658 [Tajikistan in 2023 from: ../../data/original_report/usgs_europe/Tajikistan_2023.pdf]
+
+2026-06-15 00:07:24.119638
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Tajikistan_2023_policy.txt. Execution time 0.17 seconds
+
+2026-06-15 00:07:24.136961
+PDF loaded. Processing 587/658 [The Northern Balkans — Bulgaria and Romania in 2005 from: ../../data/original_report/usgs_europe/The Northern Balkans — Bulgaria and Romania_2005.pdf]
+
+2026-06-15 00:07:24.457680
+Successfully saved to ../../data/policy_section_txt/usgs_europe/The Northern Balkans — Bulgaria and Romania_2005_policy.txt. Execution time 0.32 seconds
+
+2026-06-15 00:07:24.483238
+PDF loaded. Processing 588/658 [The Northern Balkans — Bulgaria and Romania in 2006 from: ../../data/original_report/usgs_europe/The Northern Balkans — Bulgaria and Romania_2006.pdf]
+
+2026-06-15 00:07:24.734077
+Successfully saved to ../../data/policy_section_txt/usgs_europe/The Northern Balkans — Bulgaria and Romania_2006_policy.txt. Execution time 0.25 seconds
+
+2026-06-15 00:07:24.776096
+PDF loaded. Processing 589/658 [Turkey in 2005 from: ../../data/original_report/usgs_europe/Turkey_2005.pdf]
+
+2026-06-15 00:07:24.856224
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Turkey_2005_policy.txt. Execution time 0.08 seconds
+
+2026-06-15 00:07:24.889751
+PDF loaded. Processing 590/658 [Turkey in 2006 from: ../../data/original_report/usgs_europe/Turkey_2006.pdf]
+
+2026-06-15 00:07:25.015025
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Turkey_2006_policy.txt. Execution time 0.13 seconds
+
+2026-06-15 00:07:25.042214
+PDF loaded. Processing 591/658 [Turkey in 2007 from: ../../data/original_report/usgs_europe/Turkey_2007.pdf]
+
+2026-06-15 00:07:25.145550
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Turkey_2007_policy.txt. Execution time 0.10 seconds
+
+2026-06-15 00:07:25.182307
+PDF loaded. Processing 592/658 [Turkey in 2008 from: ../../data/original_report/usgs_europe/Turkey_2008.pdf]
+
+2026-06-15 00:07:25.315391
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Turkey_2008_policy.txt. Execution time 0.13 seconds
+
+2026-06-15 00:07:25.341050
+PDF loaded. Processing 593/658 [Turkey in 2009 from: ../../data/original_report/usgs_europe/Turkey_2009.pdf]
+
+2026-06-15 00:07:25.645729
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Turkey_2009_policy.txt. Execution time 0.30 seconds
+
+2026-06-15 00:07:25.707577
+PDF loaded. Processing 594/658 [Turkey in 2010 from: ../../data/original_report/usgs_europe/Turkey_2010.pdf]
+
+2026-06-15 00:07:25.876558
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Turkey_2010_policy.txt. Execution time 0.17 seconds
+
+2026-06-15 00:07:25.906160
+PDF loaded. Processing 595/658 [Turkey in 2011 from: ../../data/original_report/usgs_europe/Turkey_2011.pdf]
+
+2026-06-15 00:07:26.109509
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Turkey_2011_policy.txt. Execution time 0.20 seconds
+
+2026-06-15 00:07:26.158347
+PDF loaded. Processing 596/658 [Turkey in 2012 from: ../../data/original_report/usgs_europe/Turkey_2012.pdf]
+
+2026-06-15 00:07:26.339846
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Turkey_2012_policy.txt. Execution time 0.18 seconds
+
+2026-06-15 00:07:26.373758
+PDF loaded. Processing 597/658 [Turkey in 2013 from: ../../data/original_report/usgs_europe/Turkey_2013.pdf]
+
+2026-06-15 00:07:26.882113
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Turkey_2013_policy.txt. Execution time 0.51 seconds
+
+2026-06-15 00:07:26.915520
+PDF loaded. Processing 598/658 [Turkey in 2014 from: ../../data/original_report/usgs_europe/Turkey_2014.pdf]
+
+2026-06-15 00:07:27.527897
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Turkey_2014_policy.txt. Execution time 0.61 seconds
+
+2026-06-15 00:07:27.577812
+PDF loaded. Processing 599/658 [Turkey in 2015 from: ../../data/original_report/usgs_europe/Turkey_2015.pdf]
+
+2026-06-15 00:07:27.827671
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Turkey_2015_policy.txt. Execution time 0.25 seconds
+
+2026-06-15 00:07:27.872242
+PDF loaded. Processing 600/658 [Turkey in 2016 from: ../../data/original_report/usgs_europe/Turkey_2016.pdf]
+
+2026-06-15 00:07:27.993559
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Turkey_2016_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:07:28.023527
+PDF loaded. Processing 601/658 [Turkey in 2018 from: ../../data/original_report/usgs_europe/Turkey_2018.pdf]
+
+2026-06-15 00:07:28.247456
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Turkey_2018_policy.txt. Execution time 0.22 seconds
+
+2026-06-15 00:07:28.276424
+PDF loaded. Processing 602/658 [Turkey in 2019 from: ../../data/original_report/usgs_europe/Turkey_2019.pdf]
+
+2026-06-15 00:07:28.536798
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Turkey_2019_policy.txt. Execution time 0.26 seconds
+
+2026-06-15 00:07:28.560861
+PDF loaded. Processing 603/658 [Turkmenistan in 2007 from: ../../data/original_report/usgs_europe/Turkmenistan_2007.pdf]
+
+2026-06-15 00:07:28.682070
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Turkmenistan_2007_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:07:28.705927
+PDF loaded. Processing 604/658 [Turkmenistan in 2009 from: ../../data/original_report/usgs_europe/Turkmenistan_2009.pdf]
+
+2026-06-15 00:07:28.783286
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Turkmenistan_2009_policy.txt. Execution time 0.08 seconds
+
+2026-06-15 00:07:28.808424
+PDF loaded. Processing 605/658 [Turkmenistan in 2010 from: ../../data/original_report/usgs_europe/Turkmenistan_2010.pdf]
+
+2026-06-15 00:07:28.897918
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Turkmenistan_2010_policy.txt. Execution time 0.09 seconds
+
+2026-06-15 00:07:28.943714
+PDF loaded. Processing 606/658 [Turkmenistan in 2011 from: ../../data/original_report/usgs_europe/Turkmenistan_2011.pdf]
+
+2026-06-15 00:07:29.072756
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Turkmenistan_2011_policy.txt. Execution time 0.13 seconds
+
+2026-06-15 00:07:29.094695
+PDF loaded. Processing 607/658 [Turkmenistan in 2012 from: ../../data/original_report/usgs_europe/Turkmenistan_2012.pdf]
+
+2026-06-15 00:07:29.237431
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Turkmenistan_2012_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:07:29.264713
+PDF loaded. Processing 608/658 [Turkmenistan in 2013 from: ../../data/original_report/usgs_europe/Turkmenistan_2013.pdf]
+
+2026-06-15 00:07:29.451083
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Turkmenistan_2013_policy.txt. Execution time 0.19 seconds
+
+2026-06-15 00:07:29.472450
+PDF loaded. Processing 609/658 [Turkmenistan in 2014 from: ../../data/original_report/usgs_europe/Turkmenistan_2014.pdf]
+
+2026-06-15 00:07:29.752083
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Turkmenistan_2014_policy.txt. Execution time 0.28 seconds
+
+2026-06-15 00:07:29.800185
+PDF loaded. Processing 610/658 [Turkmenistan in 2015 from: ../../data/original_report/usgs_europe/Turkmenistan_2015.pdf]
+
+2026-06-15 00:07:30.058088
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Turkmenistan_2015_policy.txt. Execution time 0.26 seconds
+
+2026-06-15 00:07:30.156679
+PDF loaded. Processing 611/658 [Turkmenistan in 2016 from: ../../data/original_report/usgs_europe/Turkmenistan_2016.pdf]
+
+2026-06-15 00:07:30.243960
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Turkmenistan_2016_policy.txt. Execution time 0.09 seconds
+
+2026-06-15 00:07:30.266481
+PDF loaded. Processing 612/658 [Turkmenistan in 2018 from: ../../data/original_report/usgs_europe/Turkmenistan_2018.pdf]
+
+2026-06-15 00:07:30.285962
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-15 00:07:30.310570
+PDF loaded. Processing 613/658 [Turkmenistan in 2019 from: ../../data/original_report/usgs_europe/Turkmenistan_2019.pdf]
+
+2026-06-15 00:07:30.322030
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.01 seconds
+
+2026-06-15 00:07:30.343726
+PDF loaded. Processing 614/658 [Turkmenistan in 2021 from: ../../data/original_report/usgs_europe/Turkmenistan_2021.pdf]
+
+2026-06-15 00:07:30.522018
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Turkmenistan_2021_policy.txt. Execution time 0.18 seconds
+
+2026-06-15 00:07:30.547476
+PDF loaded. Processing 615/658 [Turkmenistan in 2022 from: ../../data/original_report/usgs_europe/Turkmenistan_2022.pdf]
+
+2026-06-15 00:07:30.721958
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Turkmenistan_2022_policy.txt. Execution time 0.17 seconds
+
+2026-06-15 00:07:30.749256
+PDF loaded. Processing 616/658 [Turkmenistan in 2023 from: ../../data/original_report/usgs_europe/Turkmenistan_2023.pdf]
+
+2026-06-15 00:07:30.899829
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Turkmenistan_2023_policy.txt. Execution time 0.15 seconds
+
+2026-06-15 00:07:30.926989
+PDF loaded. Processing 617/658 [Ukraine in 2007 from: ../../data/original_report/usgs_europe/Ukraine_2007.pdf]
+
+2026-06-15 00:07:31.118962
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Ukraine_2007_policy.txt. Execution time 0.19 seconds
+
+2026-06-15 00:07:31.146264
+PDF loaded. Processing 618/658 [Ukraine in 2008 from: ../../data/original_report/usgs_europe/Ukraine_2008.pdf]
+
+2026-06-15 00:07:31.275622
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Ukraine_2008_policy.txt. Execution time 0.13 seconds
+
+2026-06-15 00:07:31.321405
+PDF loaded. Processing 619/658 [Ukraine in 2009 from: ../../data/original_report/usgs_europe/Ukraine_2009.pdf]
+
+2026-06-15 00:07:31.529191
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Ukraine_2009_policy.txt. Execution time 0.21 seconds
+
+2026-06-15 00:07:31.574916
+PDF loaded. Processing 620/658 [Ukraine in 2010 from: ../../data/original_report/usgs_europe/Ukraine_2010.pdf]
+
+2026-06-15 00:07:31.757071
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Ukraine_2010_policy.txt. Execution time 0.18 seconds
+
+2026-06-15 00:07:31.782519
+PDF loaded. Processing 621/658 [Ukraine in 2011 from: ../../data/original_report/usgs_europe/Ukraine_2011.pdf]
+
+2026-06-15 00:07:32.002420
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Ukraine_2011_policy.txt. Execution time 0.22 seconds
+
+2026-06-15 00:07:32.051227
+PDF loaded. Processing 622/658 [Ukraine in 2012 from: ../../data/original_report/usgs_europe/Ukraine_2012.pdf]
+
+2026-06-15 00:07:32.231538
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Ukraine_2012_policy.txt. Execution time 0.18 seconds
+
+2026-06-15 00:07:32.257037
+PDF loaded. Processing 623/658 [Ukraine in 2013 from: ../../data/original_report/usgs_europe/Ukraine_2013.pdf]
+
+2026-06-15 00:07:32.390324
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Ukraine_2013_policy.txt. Execution time 0.13 seconds
+
+2026-06-15 00:07:32.413668
+PDF loaded. Processing 624/658 [Ukraine in 2014 from: ../../data/original_report/usgs_europe/Ukraine_2014.pdf]
+
+2026-06-15 00:07:32.623143
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Ukraine_2014_policy.txt. Execution time 0.21 seconds
+
+2026-06-15 00:07:32.831158
+PDF loaded. Processing 625/658 [Ukraine in 2015 from: ../../data/original_report/usgs_europe/Ukraine_2015.pdf]
+
+2026-06-15 00:07:33.062651
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Ukraine_2015_policy.txt. Execution time 0.23 seconds
+
+2026-06-15 00:07:33.108669
+PDF loaded. Processing 626/658 [Ukraine in 2016 from: ../../data/original_report/usgs_europe/Ukraine_2016.pdf]
+
+2026-06-15 00:07:33.272704
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Ukraine_2016_policy.txt. Execution time 0.16 seconds
+
+2026-06-15 00:07:33.296038
+PDF loaded. Processing 627/658 [Ukraine in 2018 from: ../../data/original_report/usgs_europe/Ukraine_2018.pdf]
+
+2026-06-15 00:07:33.528099
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Ukraine_2018_policy.txt. Execution time 0.23 seconds
+
+2026-06-15 00:07:33.575480
+PDF loaded. Processing 628/658 [Ukraine in 2019 from: ../../data/original_report/usgs_europe/Ukraine_2019.pdf]
+
+2026-06-15 00:07:33.849357
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Ukraine_2019_policy.txt. Execution time 0.27 seconds
+
+2026-06-15 00:07:33.895589
+PDF loaded. Processing 629/658 [Ukraine in 2021 from: ../../data/original_report/usgs_europe/Ukraine_2021.pdf]
+
+2026-06-15 00:07:34.117259
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Ukraine_2021_policy.txt. Execution time 0.22 seconds
+
+2026-06-15 00:07:34.164924
+PDF loaded. Processing 630/658 [Ukraine in 2022 from: ../../data/original_report/usgs_europe/Ukraine_2022.pdf]
+
+2026-06-15 00:07:34.430487
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Ukraine_2022_policy.txt. Execution time 0.27 seconds
+
+2026-06-15 00:07:34.477978
+PDF loaded. Processing 631/658 [Ukraine in 2023 from: ../../data/original_report/usgs_europe/Ukraine_2023.pdf]
+
+2026-06-15 00:07:34.761260
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Ukraine_2023_policy.txt. Execution time 0.28 seconds
+
+2026-06-15 00:07:34.804829
+PDF loaded. Processing 632/658 [United Kingdom in 2005 from: ../../data/original_report/usgs_europe/United Kingdom_2005.pdf]
+
+2026-06-15 00:07:35.017268
+Successfully saved to ../../data/policy_section_txt/usgs_europe/United Kingdom_2005_policy.txt. Execution time 0.21 seconds
+
+2026-06-15 00:07:35.033964
+PDF loaded. Processing 633/658 [United Kingdom in 2006 from: ../../data/original_report/usgs_europe/United Kingdom_2006.pdf]
+
+2026-06-15 00:07:35.142471
+Successfully saved to ../../data/policy_section_txt/usgs_europe/United Kingdom_2006_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:07:35.171736
+PDF loaded. Processing 634/658 [United Kingdom in 2007 from: ../../data/original_report/usgs_europe/United Kingdom_2007.pdf]
+
+2026-06-15 00:07:35.311892
+Successfully saved to ../../data/policy_section_txt/usgs_europe/United Kingdom_2007_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:07:35.332359
+PDF loaded. Processing 635/658 [United Kingdom in 2008 from: ../../data/original_report/usgs_europe/United Kingdom_2008.pdf]
+
+2026-06-15 00:07:35.438808
+Successfully saved to ../../data/policy_section_txt/usgs_europe/United Kingdom_2008_policy.txt. Execution time 0.11 seconds
+
+2026-06-15 00:07:35.499375
+PDF loaded. Processing 636/658 [United Kingdom in 2009 from: ../../data/original_report/usgs_europe/United Kingdom_2009.pdf]
+
+2026-06-15 00:07:35.702706
+Successfully saved to ../../data/policy_section_txt/usgs_europe/United Kingdom_2009_policy.txt. Execution time 0.20 seconds
+
+2026-06-15 00:07:35.724460
+PDF loaded. Processing 637/658 [United Kingdom in 2010 from: ../../data/original_report/usgs_europe/United Kingdom_2010.pdf]
+
+2026-06-15 00:07:35.856768
+Successfully saved to ../../data/policy_section_txt/usgs_europe/United Kingdom_2010_policy.txt. Execution time 0.13 seconds
+
+2026-06-15 00:07:35.886392
+PDF loaded. Processing 638/658 [United Kingdom in 2011 from: ../../data/original_report/usgs_europe/United Kingdom_2011.pdf]
+
+2026-06-15 00:07:35.968302
+Successfully saved to ../../data/policy_section_txt/usgs_europe/United Kingdom_2011_policy.txt. Execution time 0.08 seconds
+
+2026-06-15 00:07:35.988422
+PDF loaded. Processing 639/658 [United Kingdom in 2012 from: ../../data/original_report/usgs_europe/United Kingdom_2012.pdf]
+
+2026-06-15 00:07:36.074112
+Successfully saved to ../../data/policy_section_txt/usgs_europe/United Kingdom_2012_policy.txt. Execution time 0.09 seconds
+
+2026-06-15 00:07:36.116203
+PDF loaded. Processing 640/658 [United Kingdom in 2013 from: ../../data/original_report/usgs_europe/United Kingdom_2013.pdf]
+
+2026-06-15 00:07:36.238841
+Successfully saved to ../../data/policy_section_txt/usgs_europe/United Kingdom_2013_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:07:36.267158
+PDF loaded. Processing 641/658 [United Kingdom in 2014 from: ../../data/original_report/usgs_europe/United Kingdom_2014.pdf]
+
+2026-06-15 00:07:36.457336
+Successfully saved to ../../data/policy_section_txt/usgs_europe/United Kingdom_2014_policy.txt. Execution time 0.19 seconds
+
+2026-06-15 00:07:36.486272
+PDF loaded. Processing 642/658 [United Kingdom in 2015 from: ../../data/original_report/usgs_europe/United Kingdom_2015.pdf]
+
+2026-06-15 00:07:36.730354
+Successfully saved to ../../data/policy_section_txt/usgs_europe/United Kingdom_2015_policy.txt. Execution time 0.24 seconds
+
+2026-06-15 00:07:36.753921
+PDF loaded. Processing 643/658 [United Kingdom in 2016 from: ../../data/original_report/usgs_europe/United Kingdom_2016.pdf]
+
+2026-06-15 00:07:36.914818
+Successfully saved to ../../data/policy_section_txt/usgs_europe/United Kingdom_2016_policy.txt. Execution time 0.16 seconds
+
+2026-06-15 00:07:36.960440
+PDF loaded. Processing 644/658 [United Kingdom in 2018 from: ../../data/original_report/usgs_europe/United Kingdom_2018.pdf]
+
+2026-06-15 00:07:37.155489
+Successfully saved to ../../data/policy_section_txt/usgs_europe/United Kingdom_2018_policy.txt. Execution time 0.20 seconds
+
+2026-06-15 00:07:37.192975
+PDF loaded. Processing 645/658 [United Kingdom in 2019 from: ../../data/original_report/usgs_europe/United Kingdom_2019.pdf]
+
+2026-06-15 00:07:37.381053
+Successfully saved to ../../data/policy_section_txt/usgs_europe/United Kingdom_2019_policy.txt. Execution time 0.19 seconds
+
+2026-06-15 00:07:37.408246
+PDF loaded. Processing 646/658 [Uzbekistan in 2007 from: ../../data/original_report/usgs_europe/Uzbekistan_2007.pdf]
+
+2026-06-15 00:07:37.512220
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Uzbekistan_2007_policy.txt. Execution time 0.10 seconds
+
+2026-06-15 00:07:37.545666
+PDF loaded. Processing 647/658 [Uzbekistan in 2009 from: ../../data/original_report/usgs_europe/Uzbekistan_2009.pdf]
+
+2026-06-15 00:07:37.711392
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Uzbekistan_2009_policy.txt. Execution time 0.17 seconds
+
+2026-06-15 00:07:37.754470
+PDF loaded. Processing 648/658 [Uzbekistan in 2010 from: ../../data/original_report/usgs_europe/Uzbekistan_2010.pdf]
+
+2026-06-15 00:07:37.856318
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Uzbekistan_2010_policy.txt. Execution time 0.10 seconds
+
+2026-06-15 00:07:37.879781
+PDF loaded. Processing 649/658 [Uzbekistan in 2011 from: ../../data/original_report/usgs_europe/Uzbekistan_2011.pdf]
+
+2026-06-15 00:07:37.996270
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Uzbekistan_2011_policy.txt. Execution time 0.12 seconds
+
+2026-06-15 00:07:38.031518
+PDF loaded. Processing 650/658 [Uzbekistan in 2012 from: ../../data/original_report/usgs_europe/Uzbekistan_2012.pdf]
+
+2026-06-15 00:07:38.201323
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Uzbekistan_2012_policy.txt. Execution time 0.17 seconds
+
+2026-06-15 00:07:38.237002
+PDF loaded. Processing 651/658 [Uzbekistan in 2013 from: ../../data/original_report/usgs_europe/Uzbekistan_2013.pdf]
+
+2026-06-15 00:07:38.465765
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Uzbekistan_2013_policy.txt. Execution time 0.23 seconds
+
+2026-06-15 00:07:38.513703
+PDF loaded. Processing 652/658 [Uzbekistan in 2014 from: ../../data/original_report/usgs_europe/Uzbekistan_2014.pdf]
+
+2026-06-15 00:07:38.793456
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Uzbekistan_2014_policy.txt. Execution time 0.28 seconds
+
+2026-06-15 00:07:38.837996
+PDF loaded. Processing 653/658 [Uzbekistan in 2015 from: ../../data/original_report/usgs_europe/Uzbekistan_2015.pdf]
+
+2026-06-15 00:07:39.028923
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Uzbekistan_2015_policy.txt. Execution time 0.19 seconds
+
+2026-06-15 00:07:39.045716
+PDF loaded. Processing 654/658 [Uzbekistan in 2016 from: ../../data/original_report/usgs_europe/Uzbekistan_2016.pdf]
+
+2026-06-15 00:07:39.186251
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Uzbekistan_2016_policy.txt. Execution time 0.14 seconds
+
+2026-06-15 00:07:39.223150
+PDF loaded. Processing 655/658 [Uzbekistan in 2018 from: ../../data/original_report/usgs_europe/Uzbekistan_2018.pdf]
+
+2026-06-15 00:07:39.508366
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Uzbekistan_2018_policy.txt. Execution time 0.29 seconds
+
+2026-06-15 00:07:39.555253
+PDF loaded. Processing 656/658 [Uzbekistan in 2019 from: ../../data/original_report/usgs_europe/Uzbekistan_2019.pdf]
+
+2026-06-15 00:07:39.799129
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Uzbekistan_2019_policy.txt. Execution time 0.24 seconds
+
+2026-06-15 00:07:39.846926
+PDF loaded. Processing 657/658 [Uzbekistan in 2021 from: ../../data/original_report/usgs_europe/Uzbekistan_2021.pdf]
+
+2026-06-15 00:07:40.104936
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Uzbekistan_2021_policy.txt. Execution time 0.26 seconds
+
+2026-06-15 00:07:40.149203
+PDF loaded. Processing 658/658 [Uzbekistan in 2022 from: ../../data/original_report/usgs_europe/Uzbekistan_2022.pdf]
+
+2026-06-15 00:07:40.389700
+Successfully saved to ../../data/policy_section_txt/usgs_europe/Uzbekistan_2022_policy.txt. Execution time 0.24 seconds
+

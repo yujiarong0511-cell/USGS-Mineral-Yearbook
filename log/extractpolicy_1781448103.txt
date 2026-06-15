@@ -1,0 +1,3471 @@
+2026-06-14 23:41:43.360514
+PDF loaded. Processing 1/740 [Algeria in 2005 from: ../../data/original_report/usgs_africa/Algeria_2005.pdf]
+
+2026-06-14 23:41:43.562918
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Algeria_2005_policy.txt. Execution time 0.20 seconds
+
+2026-06-14 23:41:43.564629
+PDF loaded. Processing 2/740 [Algeria in 2006 from: ../../data/original_report/usgs_africa/Algeria_2006.pdf]
+
+2026-06-14 23:41:43.675936
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Algeria_2006_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 23:41:43.678284
+PDF loaded. Processing 3/740 [Algeria in 2007 from: ../../data/original_report/usgs_africa/Algeria_2007.pdf]
+
+2026-06-14 23:41:43.795388
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Algeria_2007_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 23:41:43.796748
+PDF loaded. Processing 4/740 [Algeria in 2008 from: ../../data/original_report/usgs_africa/Algeria_2008.pdf]
+
+2026-06-14 23:41:43.990028
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Algeria_2008_policy.txt. Execution time 0.19 seconds
+
+2026-06-14 23:41:43.992141
+PDF loaded. Processing 5/740 [Algeria in 2009 from: ../../data/original_report/usgs_africa/Algeria_2009.pdf]
+
+2026-06-14 23:41:44.256221
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Algeria_2009_policy.txt. Execution time 0.26 seconds
+
+2026-06-14 23:41:44.258692
+PDF loaded. Processing 6/740 [Algeria in 2010 from: ../../data/original_report/usgs_africa/Algeria_2010.pdf]
+
+2026-06-14 23:41:44.506773
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Algeria_2010_policy.txt. Execution time 0.25 seconds
+
+2026-06-14 23:41:44.508740
+PDF loaded. Processing 7/740 [Algeria in 2011 from: ../../data/original_report/usgs_africa/Algeria_2011.pdf]
+
+2026-06-14 23:41:44.754227
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Algeria_2011_policy.txt. Execution time 0.25 seconds
+
+2026-06-14 23:41:44.757657
+PDF loaded. Processing 8/740 [Algeria in 2012 from: ../../data/original_report/usgs_africa/Algeria_2012.pdf]
+
+2026-06-14 23:41:45.028548
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Algeria_2012_policy.txt. Execution time 0.27 seconds
+
+2026-06-14 23:41:45.029987
+PDF loaded. Processing 9/740 [Algeria in 2013 from: ../../data/original_report/usgs_africa/Algeria_2013.pdf]
+
+2026-06-14 23:41:45.282756
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Algeria_2013_policy.txt. Execution time 0.25 seconds
+
+2026-06-14 23:41:45.285600
+PDF loaded. Processing 10/740 [Algeria in 2014 from: ../../data/original_report/usgs_africa/Algeria_2014.pdf]
+
+2026-06-14 23:41:45.552368
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Algeria_2014_policy.txt. Execution time 0.27 seconds
+
+2026-06-14 23:41:45.554413
+PDF loaded. Processing 11/740 [Algeria in 2015 from: ../../data/original_report/usgs_africa/Algeria_2015.pdf]
+
+2026-06-14 23:41:45.813575
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Algeria_2015_policy.txt. Execution time 0.26 seconds
+
+2026-06-14 23:41:45.815829
+PDF loaded. Processing 12/740 [Algeria in 2016 from: ../../data/original_report/usgs_africa/Algeria_2016.pdf]
+
+2026-06-14 23:41:46.092093
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Algeria_2016_policy.txt. Execution time 0.28 seconds
+
+2026-06-14 23:41:46.094340
+PDF loaded. Processing 13/740 [Algeria in 2018 from: ../../data/original_report/usgs_africa/Algeria_2018.pdf]
+
+2026-06-14 23:41:46.354557
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Algeria_2018_policy.txt. Execution time 0.26 seconds
+
+2026-06-14 23:41:46.357220
+PDF loaded. Processing 14/740 [Algeria in 2019 from: ../../data/original_report/usgs_africa/Algeria_2019.pdf]
+
+2026-06-14 23:41:46.634768
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Algeria_2019_policy.txt. Execution time 0.28 seconds
+
+2026-06-14 23:41:46.637126
+PDF loaded. Processing 15/740 [Angola in 2005 from: ../../data/original_report/usgs_africa/Angola_2005.pdf]
+
+2026-06-14 23:41:46.944102
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Angola_2005_policy.txt. Execution time 0.31 seconds
+
+2026-06-14 23:41:46.945752
+PDF loaded. Processing 16/740 [Angola in 2006 from: ../../data/original_report/usgs_africa/Angola_2006.pdf]
+
+2026-06-14 23:41:47.055763
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Angola_2006_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 23:41:47.056947
+PDF loaded. Processing 17/740 [Angola in 2007 from: ../../data/original_report/usgs_africa/Angola_2007.pdf]
+
+2026-06-14 23:41:47.071754
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.01 seconds
+
+2026-06-14 23:41:47.073118
+PDF loaded. Processing 18/740 [Angola in 2008 from: ../../data/original_report/usgs_africa/Angola_2008.pdf]
+
+2026-06-14 23:41:47.170650
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Angola_2008_policy.txt. Execution time 0.10 seconds
+
+2026-06-14 23:41:47.173576
+PDF loaded. Processing 19/740 [Angola in 2009 from: ../../data/original_report/usgs_africa/Angola_2009.pdf]
+
+2026-06-14 23:41:47.400964
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Angola_2009_policy.txt. Execution time 0.23 seconds
+
+2026-06-14 23:41:47.402457
+PDF loaded. Processing 20/740 [Angola in 2010 from: ../../data/original_report/usgs_africa/Angola_2010.pdf]
+
+2026-06-14 23:41:47.547175
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Angola_2010_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 23:41:47.549408
+PDF loaded. Processing 21/740 [Angola in 2011 from: ../../data/original_report/usgs_africa/Angola_2011.pdf]
+
+2026-06-14 23:41:47.681185
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Angola_2011_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 23:41:47.683081
+PDF loaded. Processing 22/740 [Angola in 2012 from: ../../data/original_report/usgs_africa/Angola_2012.pdf]
+
+2026-06-14 23:41:47.794113
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Angola_2012_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 23:41:47.795077
+PDF loaded. Processing 23/740 [Angola in 2013 from: ../../data/original_report/usgs_africa/Angola_2013.pdf]
+
+2026-06-14 23:41:47.843230
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Angola_2013_policy.txt. Execution time 0.05 seconds
+
+2026-06-14 23:41:47.844166
+PDF loaded. Processing 24/740 [Angola in 2016 from: ../../data/original_report/usgs_africa/Angola_2016.pdf]
+
+2026-06-14 23:41:47.854667
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.01 seconds
+
+2026-06-14 23:41:47.855516
+PDF loaded. Processing 25/740 [Angola in 2018 from: ../../data/original_report/usgs_africa/Angola_2018.pdf]
+
+2026-06-14 23:41:47.866684
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.01 seconds
+
+2026-06-14 23:41:47.867581
+PDF loaded. Processing 26/740 [Angola in 2019 from: ../../data/original_report/usgs_africa/Angola_2019.pdf]
+
+2026-06-14 23:41:47.878130
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.01 seconds
+
+2026-06-14 23:41:47.878899
+PDF loaded. Processing 27/740 [Angola in 2021 from: ../../data/original_report/usgs_africa/Angola_2021.pdf]
+
+2026-06-14 23:41:48.025669
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Angola_2021_policy.txt. Execution time 0.15 seconds
+
+2026-06-14 23:41:48.027105
+PDF loaded. Processing 28/740 [Bahrain in 2005 from: ../../data/original_report/usgs_africa/Bahrain_2005.pdf]
+
+2026-06-14 23:41:48.091212
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Bahrain_2005_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 23:41:48.092737
+PDF loaded. Processing 29/740 [Bahrain in 2006 from: ../../data/original_report/usgs_africa/Bahrain_2006.pdf]
+
+2026-06-14 23:41:48.153813
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Bahrain_2006_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 23:41:48.155644
+PDF loaded. Processing 30/740 [Bahrain in 2007 from: ../../data/original_report/usgs_africa/Bahrain_2007.pdf]
+
+2026-06-14 23:41:48.231664
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Bahrain_2007_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 23:41:48.233552
+PDF loaded. Processing 31/740 [Bahrain in 2008 from: ../../data/original_report/usgs_africa/Bahrain_2008.pdf]
+
+2026-06-14 23:41:48.377794
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Bahrain_2008_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 23:41:48.379821
+PDF loaded. Processing 32/740 [Bahrain in 2009 from: ../../data/original_report/usgs_africa/Bahrain_2009.pdf]
+
+2026-06-14 23:41:48.495180
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Bahrain_2009_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 23:41:48.496648
+PDF loaded. Processing 33/740 [Bahrain in 2010 from: ../../data/original_report/usgs_africa/Bahrain_2010.pdf]
+
+2026-06-14 23:41:48.614262
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Bahrain_2010_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 23:41:48.616522
+PDF loaded. Processing 34/740 [Bahrain in 2011 from: ../../data/original_report/usgs_africa/Bahrain_2011.pdf]
+
+2026-06-14 23:41:48.736273
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Bahrain_2011_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 23:41:48.737949
+PDF loaded. Processing 35/740 [Bahrain in 2013 from: ../../data/original_report/usgs_africa/Bahrain_2013.pdf]
+
+2026-06-14 23:41:48.892511
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Bahrain_2013_policy.txt. Execution time 0.15 seconds
+
+2026-06-14 23:41:48.894485
+PDF loaded. Processing 36/740 [Bahrain in 2014 from: ../../data/original_report/usgs_africa/Bahrain_2014.pdf]
+
+2026-06-14 23:41:49.061270
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Bahrain_2014_policy.txt. Execution time 0.17 seconds
+
+2026-06-14 23:41:49.062691
+PDF loaded. Processing 37/740 [Bahrain in 2015 from: ../../data/original_report/usgs_africa/Bahrain_2015.pdf]
+
+2026-06-14 23:41:49.221055
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Bahrain_2015_policy.txt. Execution time 0.16 seconds
+
+2026-06-14 23:41:49.223465
+PDF loaded. Processing 38/740 [Bahrain in 2016 from: ../../data/original_report/usgs_africa/Bahrain_2016.pdf]
+
+2026-06-14 23:41:49.270877
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Bahrain_2016_policy.txt. Execution time 0.05 seconds
+
+2026-06-14 23:41:49.271783
+PDF loaded. Processing 39/740 [Bahrain in 2018 from: ../../data/original_report/usgs_africa/Bahrain_2018.pdf]
+
+2026-06-14 23:41:49.309720
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Bahrain_2018_policy.txt. Execution time 0.04 seconds
+
+2026-06-14 23:41:49.311044
+PDF loaded. Processing 40/740 [Bahrain in 2019 from: ../../data/original_report/usgs_africa/Bahrain_2019.pdf]
+
+2026-06-14 23:41:49.322940
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.01 seconds
+
+2026-06-14 23:41:49.323804
+PDF loaded. Processing 41/740 [Bahrain in 2021 from: ../../data/original_report/usgs_africa/Bahrain_2021.pdf]
+
+2026-06-14 23:41:49.467697
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Bahrain_2021_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 23:41:49.469973
+PDF loaded. Processing 42/740 [Benin in 2014 from: ../../data/original_report/usgs_africa/Benin_2014.pdf]
+
+2026-06-14 23:41:49.545016
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Benin_2014_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 23:41:49.545989
+PDF loaded. Processing 43/740 [Benin in 2015 from: ../../data/original_report/usgs_africa/Benin_2015.pdf]
+
+2026-06-14 23:41:49.607864
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Benin_2015_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 23:41:49.609487
+PDF loaded. Processing 44/740 [Botswana in 2005 from: ../../data/original_report/usgs_africa/Botswana_2005.pdf]
+
+2026-06-14 23:41:49.787805
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Botswana_2005_policy.txt. Execution time 0.18 seconds
+
+2026-06-14 23:41:49.789411
+PDF loaded. Processing 45/740 [Botswana in 2006 from: ../../data/original_report/usgs_africa/Botswana_2006.pdf]
+
+2026-06-14 23:41:49.910934
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Botswana_2006_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 23:41:49.912443
+PDF loaded. Processing 46/740 [Botswana in 2007 from: ../../data/original_report/usgs_africa/Botswana_2007.pdf]
+
+2026-06-14 23:41:50.045166
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Botswana_2007_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 23:41:50.046947
+PDF loaded. Processing 47/740 [Botswana in 2008 from: ../../data/original_report/usgs_africa/Botswana_2008.pdf]
+
+2026-06-14 23:41:50.251917
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Botswana_2008_policy.txt. Execution time 0.20 seconds
+
+2026-06-14 23:41:50.254323
+PDF loaded. Processing 48/740 [Botswana in 2009 from: ../../data/original_report/usgs_africa/Botswana_2009.pdf]
+
+2026-06-14 23:41:50.412840
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Botswana_2009_policy.txt. Execution time 0.16 seconds
+
+2026-06-14 23:41:50.414361
+PDF loaded. Processing 49/740 [Botswana in 2010 from: ../../data/original_report/usgs_africa/Botswana_2010.pdf]
+
+2026-06-14 23:41:50.584877
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Botswana_2010_policy.txt. Execution time 0.17 seconds
+
+2026-06-14 23:41:50.586592
+PDF loaded. Processing 50/740 [Botswana in 2011 from: ../../data/original_report/usgs_africa/Botswana_2011.pdf]
+
+2026-06-14 23:41:50.697187
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Botswana_2011_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 23:41:50.698784
+PDF loaded. Processing 51/740 [Botswana in 2012 from: ../../data/original_report/usgs_africa/Botswana_2012.pdf]
+
+2026-06-14 23:41:50.839829
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Botswana_2012_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 23:41:50.843818
+PDF loaded. Processing 52/740 [Botswana in 2013 from: ../../data/original_report/usgs_africa/Botswana_2013.pdf]
+
+2026-06-14 23:41:50.992014
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Botswana_2013_policy.txt. Execution time 0.15 seconds
+
+2026-06-14 23:41:50.993021
+PDF loaded. Processing 53/740 [Botswana in 2015 from: ../../data/original_report/usgs_africa/Botswana_2015.pdf]
+
+2026-06-14 23:41:51.138371
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Botswana_2015_policy.txt. Execution time 0.15 seconds
+
+2026-06-14 23:41:51.140206
+PDF loaded. Processing 54/740 [Botswana in 2016 from: ../../data/original_report/usgs_africa/Botswana_2016.pdf]
+
+2026-06-14 23:41:51.343746
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Botswana_2016_policy.txt. Execution time 0.20 seconds
+
+2026-06-14 23:41:51.346016
+PDF loaded. Processing 55/740 [Botswana in 2018 from: ../../data/original_report/usgs_africa/Botswana_2018.pdf]
+
+2026-06-14 23:41:51.560628
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Botswana_2018_policy.txt. Execution time 0.21 seconds
+
+2026-06-14 23:41:51.562122
+PDF loaded. Processing 56/740 [Botswana in 2019 from: ../../data/original_report/usgs_africa/Botswana_2019.pdf]
+
+2026-06-14 23:41:51.693251
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Botswana_2019_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 23:41:51.694236
+PDF loaded. Processing 57/740 [Burkina Faso in 2013 from: ../../data/original_report/usgs_africa/Burkina Faso_2013.pdf]
+
+2026-06-14 23:41:51.743858
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Burkina Faso_2013_policy.txt. Execution time 0.05 seconds
+
+2026-06-14 23:41:51.744830
+PDF loaded. Processing 58/740 [Burkina Faso in 2016 from: ../../data/original_report/usgs_africa/Burkina Faso_2016.pdf]
+
+2026-06-14 23:41:51.754070
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.01 seconds
+
+2026-06-14 23:41:51.754996
+PDF loaded. Processing 59/740 [Burkina Faso in 2018 from: ../../data/original_report/usgs_africa/Burkina Faso_2018.pdf]
+
+2026-06-14 23:41:51.770252
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:41:51.772064
+PDF loaded. Processing 60/740 [Burkina Faso in 2019 from: ../../data/original_report/usgs_africa/Burkina Faso_2019.pdf]
+
+2026-06-14 23:41:51.785204
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.01 seconds
+
+2026-06-14 23:41:51.786591
+PDF loaded. Processing 61/740 [Burundi in 2005 from: ../../data/original_report/usgs_africa/Burundi_2005.pdf]
+
+2026-06-14 23:41:51.845059
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Burundi_2005_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 23:41:51.846048
+PDF loaded. Processing 62/740 [Burundi in 2006 from: ../../data/original_report/usgs_africa/Burundi_2006.pdf]
+
+2026-06-14 23:41:51.912131
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Burundi_2006_policy.txt. Execution time 0.07 seconds
+
+2026-06-14 23:41:51.913790
+PDF loaded. Processing 63/740 [Burundi in 2007 from: ../../data/original_report/usgs_africa/Burundi_2007.pdf]
+
+2026-06-14 23:41:51.959781
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Burundi_2007_policy.txt. Execution time 0.05 seconds
+
+2026-06-14 23:41:51.961061
+PDF loaded. Processing 64/740 [Burundi in 2008 from: ../../data/original_report/usgs_africa/Burundi_2008.pdf]
+
+2026-06-14 23:41:52.015048
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Burundi_2008_policy.txt. Execution time 0.05 seconds
+
+2026-06-14 23:41:52.017654
+PDF loaded. Processing 65/740 [Burundi in 2009 from: ../../data/original_report/usgs_africa/Burundi_2009.pdf]
+
+2026-06-14 23:41:52.078577
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Burundi_2009_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 23:41:52.080018
+PDF loaded. Processing 66/740 [Burundi in 2010 from: ../../data/original_report/usgs_africa/Burundi_2010.pdf]
+
+2026-06-14 23:41:52.128490
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Burundi_2010_policy.txt. Execution time 0.05 seconds
+
+2026-06-14 23:41:52.129436
+PDF loaded. Processing 67/740 [Burundi in 2011 from: ../../data/original_report/usgs_africa/Burundi_2011.pdf]
+
+2026-06-14 23:41:52.197337
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Burundi_2011_policy.txt. Execution time 0.07 seconds
+
+2026-06-14 23:41:52.199220
+PDF loaded. Processing 68/740 [Burundi in 2012 from: ../../data/original_report/usgs_africa/Burundi_2012.pdf]
+
+2026-06-14 23:41:52.279311
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Burundi_2012_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 23:41:52.280908
+PDF loaded. Processing 69/740 [Burundi in 2013 from: ../../data/original_report/usgs_africa/Burundi_2013.pdf]
+
+2026-06-14 23:41:52.397192
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Burundi_2013_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 23:41:52.399324
+PDF loaded. Processing 70/740 [Burundi in 2014 from: ../../data/original_report/usgs_africa/Burundi_2014.pdf]
+
+2026-06-14 23:41:52.508057
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Burundi_2014_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 23:41:52.509441
+PDF loaded. Processing 71/740 [Burundi in 2015 from: ../../data/original_report/usgs_africa/Burundi_2015.pdf]
+
+2026-06-14 23:41:52.624049
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Burundi_2015_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 23:41:52.625616
+PDF loaded. Processing 72/740 [Burundi in 2016 from: ../../data/original_report/usgs_africa/Burundi_2016.pdf]
+
+2026-06-14 23:41:52.642783
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:41:52.644285
+PDF loaded. Processing 73/740 [Burundi in 2018 from: ../../data/original_report/usgs_africa/Burundi_2018.pdf]
+
+2026-06-14 23:41:52.661504
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:41:52.662883
+PDF loaded. Processing 74/740 [Burundi in 2019 from: ../../data/original_report/usgs_africa/Burundi_2019.pdf]
+
+2026-06-14 23:41:52.793098
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Burundi_2019_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 23:41:52.795371
+PDF loaded. Processing 75/740 [Cameroon in 2013 from: ../../data/original_report/usgs_africa/Cameroon_2013.pdf]
+
+2026-06-14 23:41:52.930702
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Cameroon_2013_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 23:41:52.932257
+PDF loaded. Processing 76/740 [Cameroon in 2014 from: ../../data/original_report/usgs_africa/Cameroon_2014.pdf]
+
+2026-06-14 23:41:53.127483
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Cameroon_2014_policy.txt. Execution time 0.20 seconds
+
+2026-06-14 23:41:53.129494
+PDF loaded. Processing 77/740 [Cameroon in 2015 from: ../../data/original_report/usgs_africa/Cameroon_2015.pdf]
+
+2026-06-14 23:41:53.146242
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:41:53.147267
+PDF loaded. Processing 78/740 [Cameroon in 2016 from: ../../data/original_report/usgs_africa/Cameroon_2016.pdf]
+
+2026-06-14 23:41:53.163322
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:41:53.164596
+PDF loaded. Processing 79/740 [Cameroon in 2018 from: ../../data/original_report/usgs_africa/Cameroon_2018.pdf]
+
+2026-06-14 23:41:53.180609
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:41:53.182080
+PDF loaded. Processing 80/740 [Cameroon in 2019 from: ../../data/original_report/usgs_africa/Cameroon_2019.pdf]
+
+2026-06-14 23:41:53.195606
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.01 seconds
+
+2026-06-14 23:41:53.196838
+PDF loaded. Processing 81/740 [Cameroon in 2021 from: ../../data/original_report/usgs_africa/Cameroon_2021.pdf]
+
+2026-06-14 23:41:53.326052
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Cameroon_2021_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 23:41:53.327537
+PDF loaded. Processing 82/740 [Central African Republic in 2014 from: ../../data/original_report/usgs_africa/Central African Republic_2014.pdf]
+
+2026-06-14 23:41:53.383782
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Central African Republic_2014_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 23:41:53.386458
+PDF loaded. Processing 83/740 [Central African Republic in 2015 from: ../../data/original_report/usgs_africa/Central African Republic_2015.pdf]
+
+2026-06-14 23:41:53.438576
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Central African Republic_2015_policy.txt. Execution time 0.05 seconds
+
+2026-06-14 23:41:53.440079
+PDF loaded. Processing 84/740 [Central African Republic in 2016 from: ../../data/original_report/usgs_africa/Central African Republic_2016.pdf]
+
+2026-06-14 23:41:53.452800
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.01 seconds
+
+2026-06-14 23:41:53.454042
+PDF loaded. Processing 85/740 [Central African Republic in 2018 from: ../../data/original_report/usgs_africa/Central African Republic_2018.pdf]
+
+2026-06-14 23:41:53.471174
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:41:53.472734
+PDF loaded. Processing 86/740 [Central African Republic in 2019 from: ../../data/original_report/usgs_africa/Central African Republic_2019.pdf]
+
+2026-06-14 23:41:53.492557
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:41:53.494011
+PDF loaded. Processing 87/740 [Central African Republic in 2021 from: ../../data/original_report/usgs_africa/Central African Republic_2021.pdf]
+
+2026-06-14 23:41:53.575609
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Central African Republic_2021_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 23:41:53.577113
+PDF loaded. Processing 88/740 [Chad in 2005 from: ../../data/original_report/usgs_africa/Chad_2005.pdf]
+
+2026-06-14 23:41:53.653530
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Chad_2005_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 23:41:53.654928
+PDF loaded. Processing 89/740 [Chad in 2006 from: ../../data/original_report/usgs_africa/Chad_2006.pdf]
+
+2026-06-14 23:41:53.713259
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Chad_2006_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 23:41:53.714216
+PDF loaded. Processing 90/740 [Chad in 2007 from: ../../data/original_report/usgs_africa/Chad_2007.pdf]
+
+2026-06-14 23:41:53.773180
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Chad_2007_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 23:41:53.774628
+PDF loaded. Processing 91/740 [Chad in 2008 from: ../../data/original_report/usgs_africa/Chad_2008.pdf]
+
+2026-06-14 23:41:53.838831
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Chad_2008_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 23:41:53.840366
+PDF loaded. Processing 92/740 [Chad in 2009 from: ../../data/original_report/usgs_africa/Chad_2009.pdf]
+
+2026-06-14 23:41:53.918804
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Chad_2009_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 23:41:53.920943
+PDF loaded. Processing 93/740 [Chad in 2010 from: ../../data/original_report/usgs_africa/Chad_2010.pdf]
+
+2026-06-14 23:41:53.983879
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Chad_2010_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 23:41:53.986352
+PDF loaded. Processing 94/740 [Chad in 2011 from: ../../data/original_report/usgs_africa/Chad_2011.pdf]
+
+2026-06-14 23:41:54.049861
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Chad_2011_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 23:41:54.050832
+PDF loaded. Processing 95/740 [Chad in 2012 from: ../../data/original_report/usgs_africa/Chad_2012.pdf]
+
+2026-06-14 23:41:54.127031
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Chad_2012_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 23:41:54.128440
+PDF loaded. Processing 96/740 [Chad in 2013 from: ../../data/original_report/usgs_africa/Chad_2013.pdf]
+
+2026-06-14 23:41:54.239996
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Chad_2013_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 23:41:54.242104
+PDF loaded. Processing 97/740 [Chad in 2014 from: ../../data/original_report/usgs_africa/Chad_2014.pdf]
+
+2026-06-14 23:41:54.330682
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Chad_2014_policy.txt. Execution time 0.09 seconds
+
+2026-06-14 23:41:54.331632
+PDF loaded. Processing 98/740 [Chad in 2015 from: ../../data/original_report/usgs_africa/Chad_2015.pdf]
+
+2026-06-14 23:41:54.385156
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Chad_2015_policy.txt. Execution time 0.05 seconds
+
+2026-06-14 23:41:54.386135
+PDF loaded. Processing 99/740 [Chad in 2016 from: ../../data/original_report/usgs_africa/Chad_2016.pdf]
+
+2026-06-14 23:41:54.393114
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.01 seconds
+
+2026-06-14 23:41:54.393981
+PDF loaded. Processing 100/740 [Chad in 2018 from: ../../data/original_report/usgs_africa/Chad_2018.pdf]
+
+2026-06-14 23:41:54.406432
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.01 seconds
+
+2026-06-14 23:41:54.407508
+PDF loaded. Processing 101/740 [Chad in 2019 from: ../../data/original_report/usgs_africa/Chad_2019.pdf]
+
+2026-06-14 23:41:54.417192
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.01 seconds
+
+2026-06-14 23:41:54.418241
+PDF loaded. Processing 102/740 [Chad in 2021 from: ../../data/original_report/usgs_africa/Chad_2021.pdf]
+
+2026-06-14 23:41:54.574785
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Chad_2021_policy.txt. Execution time 0.16 seconds
+
+2026-06-14 23:41:54.577047
+PDF loaded. Processing 103/740 [Congo (Brazzaville) in 2005 from: ../../data/original_report/usgs_africa/Congo (Brazzaville)_2005.pdf]
+
+2026-06-14 23:41:54.629280
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Congo (Brazzaville)_2005_policy.txt. Execution time 0.05 seconds
+
+2026-06-14 23:41:54.630720
+PDF loaded. Processing 104/740 [Congo (Brazzaville) in 2006 from: ../../data/original_report/usgs_africa/Congo (Brazzaville)_2006.pdf]
+
+2026-06-14 23:41:54.699805
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Congo (Brazzaville)_2006_policy.txt. Execution time 0.07 seconds
+
+2026-06-14 23:41:54.701264
+PDF loaded. Processing 105/740 [Congo (Brazzaville) in 2007 from: ../../data/original_report/usgs_africa/Congo (Brazzaville)_2007.pdf]
+
+2026-06-14 23:41:54.761564
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Congo (Brazzaville)_2007_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 23:41:54.762989
+PDF loaded. Processing 106/740 [Congo (Brazzaville) in 2008 from: ../../data/original_report/usgs_africa/Congo (Brazzaville)_2008.pdf]
+
+2026-06-14 23:41:54.841182
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Congo (Brazzaville)_2008_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 23:41:54.843071
+PDF loaded. Processing 107/740 [Congo (Brazzaville) in 2009 from: ../../data/original_report/usgs_africa/Congo (Brazzaville)_2009.pdf]
+
+2026-06-14 23:41:54.970411
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Congo (Brazzaville)_2009_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 23:41:54.972049
+PDF loaded. Processing 108/740 [Congo (Brazzaville) in 2010 from: ../../data/original_report/usgs_africa/Congo (Brazzaville)_2010.pdf]
+
+2026-06-14 23:41:55.094178
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Congo (Brazzaville)_2010_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 23:41:55.095543
+PDF loaded. Processing 109/740 [Congo (Brazzaville) in 2011 from: ../../data/original_report/usgs_africa/Congo (Brazzaville)_2011.pdf]
+
+2026-06-14 23:41:55.205803
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Congo (Brazzaville)_2011_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 23:41:55.207306
+PDF loaded. Processing 110/740 [Congo (Brazzaville) in 2012 from: ../../data/original_report/usgs_africa/Congo (Brazzaville)_2012.pdf]
+
+2026-06-14 23:41:55.326136
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Congo (Brazzaville)_2012_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 23:41:55.328544
+PDF loaded. Processing 111/740 [Congo (Brazzaville) in 2013 from: ../../data/original_report/usgs_africa/Congo (Brazzaville)_2013.pdf]
+
+2026-06-14 23:41:55.477072
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Congo (Brazzaville)_2013_policy.txt. Execution time 0.15 seconds
+
+2026-06-14 23:41:55.478834
+PDF loaded. Processing 112/740 [Congo (Brazzaville) in 2014 from: ../../data/original_report/usgs_africa/Congo (Brazzaville)_2014.pdf]
+
+2026-06-14 23:41:55.637125
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Congo (Brazzaville)_2014_policy.txt. Execution time 0.16 seconds
+
+2026-06-14 23:41:55.639711
+PDF loaded. Processing 113/740 [Congo (Brazzaville) in 2015 from: ../../data/original_report/usgs_africa/Congo (Brazzaville)_2015.pdf]
+
+2026-06-14 23:41:55.747866
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Congo (Brazzaville)_2015_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 23:41:55.749887
+PDF loaded. Processing 114/740 [Congo (Brazzaville) in 2016 from: ../../data/original_report/usgs_africa/Congo (Brazzaville)_2016.pdf]
+
+2026-06-14 23:41:55.765151
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:41:55.767279
+PDF loaded. Processing 115/740 [Congo (Brazzaville) in 2018 from: ../../data/original_report/usgs_africa/Congo (Brazzaville)_2018.pdf]
+
+2026-06-14 23:41:55.784317
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:41:55.785696
+PDF loaded. Processing 116/740 [Congo (Brazzaville) in 2019 from: ../../data/original_report/usgs_africa/Congo (Brazzaville)_2019.pdf]
+
+2026-06-14 23:41:55.806320
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:41:55.808548
+PDF loaded. Processing 117/740 [Congo (Brazzaville) in 2021 from: ../../data/original_report/usgs_africa/Congo (Brazzaville)_2021.pdf]
+
+2026-06-14 23:41:56.003465
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Congo (Brazzaville)_2021_policy.txt. Execution time 0.19 seconds
+
+2026-06-14 23:41:56.006232
+PDF loaded. Processing 118/740 [Congo (Brazzaville) in 2022 from: ../../data/original_report/usgs_africa/Congo (Brazzaville)_2022.pdf]
+
+2026-06-14 23:41:56.205596
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Congo (Brazzaville)_2022_policy.txt. Execution time 0.20 seconds
+
+2026-06-14 23:41:56.208015
+PDF loaded. Processing 119/740 [Congo (Kinshasa) in 2005 from: ../../data/original_report/usgs_africa/Congo (Kinshasa)_2005.pdf]
+
+2026-06-14 23:41:56.365497
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Congo (Kinshasa)_2005_policy.txt. Execution time 0.16 seconds
+
+2026-06-14 23:41:56.367789
+PDF loaded. Processing 120/740 [Congo (Kinshasa) in 2006 from: ../../data/original_report/usgs_africa/Congo (Kinshasa)_2006.pdf]
+
+2026-06-14 23:41:56.571036
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Congo (Kinshasa)_2006_policy.txt. Execution time 0.20 seconds
+
+2026-06-14 23:41:56.574634
+PDF loaded. Processing 121/740 [Congo (Kinshasa) in 2007 from: ../../data/original_report/usgs_africa/Congo (Kinshasa)_2007.pdf]
+
+2026-06-14 23:41:56.776403
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Congo (Kinshasa)_2007_policy.txt. Execution time 0.20 seconds
+
+2026-06-14 23:41:56.777777
+PDF loaded. Processing 122/740 [Congo (Kinshasa) in 2008 from: ../../data/original_report/usgs_africa/Congo (Kinshasa)_2008.pdf]
+
+2026-06-14 23:41:57.029469
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Congo (Kinshasa)_2008_policy.txt. Execution time 0.25 seconds
+
+2026-06-14 23:41:57.031458
+PDF loaded. Processing 123/740 [Congo (Kinshasa) in 2009 from: ../../data/original_report/usgs_africa/Congo (Kinshasa)_2009.pdf]
+
+2026-06-14 23:41:57.225311
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Congo (Kinshasa)_2009_policy.txt. Execution time 0.19 seconds
+
+2026-06-14 23:41:57.226355
+PDF loaded. Processing 124/740 [Congo (Kinshasa) in 2010 from: ../../data/original_report/usgs_africa/Congo (Kinshasa)_2010.pdf]
+
+2026-06-14 23:41:57.466606
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Congo (Kinshasa)_2010_policy.txt. Execution time 0.24 seconds
+
+2026-06-14 23:41:57.468461
+PDF loaded. Processing 125/740 [Congo (Kinshasa) in 2011 from: ../../data/original_report/usgs_africa/Congo (Kinshasa)_2011.pdf]
+
+2026-06-14 23:41:57.759365
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Congo (Kinshasa)_2011_policy.txt. Execution time 0.29 seconds
+
+2026-06-14 23:41:57.762071
+PDF loaded. Processing 126/740 [Congo (Kinshasa) in 2012 from: ../../data/original_report/usgs_africa/Congo (Kinshasa)_2012.pdf]
+
+2026-06-14 23:41:57.982952
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Congo (Kinshasa)_2012_policy.txt. Execution time 0.22 seconds
+
+2026-06-14 23:41:57.988077
+PDF loaded. Processing 127/740 [Congo (Kinshasa) in 2013 from: ../../data/original_report/usgs_africa/Congo (Kinshasa)_2013.pdf]
+
+2026-06-14 23:41:58.227425
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Congo (Kinshasa)_2013_policy.txt. Execution time 0.24 seconds
+
+2026-06-14 23:41:58.230236
+PDF loaded. Processing 128/740 [Congo (Kinshasa) in 2014 from: ../../data/original_report/usgs_africa/Congo (Kinshasa)_2014.pdf]
+
+2026-06-14 23:41:58.526795
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Congo (Kinshasa)_2014_policy.txt. Execution time 0.30 seconds
+
+2026-06-14 23:41:58.528365
+PDF loaded. Processing 129/740 [Congo (Kinshasa) in 2015 from: ../../data/original_report/usgs_africa/Congo (Kinshasa)_2015.pdf]
+
+2026-06-14 23:41:58.794591
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Congo (Kinshasa)_2015_policy.txt. Execution time 0.27 seconds
+
+2026-06-14 23:41:58.796850
+PDF loaded. Processing 130/740 [Congo (Kinshasa) in 2016 from: ../../data/original_report/usgs_africa/Congo (Kinshasa)_2016.pdf]
+
+2026-06-14 23:41:59.097865
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Congo (Kinshasa)_2016_policy.txt. Execution time 0.30 seconds
+
+2026-06-14 23:41:59.101026
+PDF loaded. Processing 131/740 [Congo (Kinshasa) in 2018 from: ../../data/original_report/usgs_africa/Congo (Kinshasa)_2018.pdf]
+
+2026-06-14 23:41:59.452335
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Congo (Kinshasa)_2018_policy.txt. Execution time 0.35 seconds
+
+2026-06-14 23:41:59.454848
+PDF loaded. Processing 132/740 [Congo (Kinshasa) in 2019 from: ../../data/original_report/usgs_africa/Congo (Kinshasa)_2019.pdf]
+
+2026-06-14 23:41:59.814554
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Congo (Kinshasa)_2019_policy.txt. Execution time 0.36 seconds
+
+2026-06-14 23:41:59.817321
+PDF loaded. Processing 133/740 [Congo (Kinshasa) in 2021 from: ../../data/original_report/usgs_africa/Congo (Kinshasa)_2021.pdf]
+
+2026-06-14 23:42:00.258642
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Congo (Kinshasa)_2021_policy.txt. Execution time 0.44 seconds
+
+2026-06-14 23:42:00.262160
+PDF loaded. Processing 134/740 [Congo (Kinshasa) in 2022 from: ../../data/original_report/usgs_africa/Congo (Kinshasa)_2022.pdf]
+
+2026-06-14 23:42:00.573180
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Congo (Kinshasa)_2022_policy.txt. Execution time 0.31 seconds
+
+2026-06-14 23:42:00.575891
+PDF loaded. Processing 135/740 [Cote d'Ivoire (Ivory Coast) in 2011 from: ../../data/original_report/usgs_africa/Cote d'Ivoire (Ivory Coast)_2011.pdf]
+
+2026-06-14 23:42:00.723754
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Cote d'Ivoire (Ivory Coast)_2011_policy.txt. Execution time 0.15 seconds
+
+2026-06-14 23:42:00.725025
+PDF loaded. Processing 136/740 [Cote d'Ivoire (Ivory Coast) in 2012 from: ../../data/original_report/usgs_africa/Cote d'Ivoire (Ivory Coast)_2012.pdf]
+
+2026-06-14 23:42:00.837365
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Cote d'Ivoire (Ivory Coast)_2012_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 23:42:00.839089
+PDF loaded. Processing 137/740 [Cote d'Ivoire (Ivory Coast) in 2016 from: ../../data/original_report/usgs_africa/Cote d'Ivoire (Ivory Coast)_2016.pdf]
+
+2026-06-14 23:42:00.849611
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.01 seconds
+
+2026-06-14 23:42:00.851189
+PDF loaded. Processing 138/740 [Cote d'Ivoire (Ivory Coast) in 2018 from: ../../data/original_report/usgs_africa/Cote d'Ivoire (Ivory Coast)_2018.pdf]
+
+2026-06-14 23:42:00.869069
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:42:00.870599
+PDF loaded. Processing 139/740 [Cote d'Ivoire (Ivory Coast) in 2019 from: ../../data/original_report/usgs_africa/Cote d'Ivoire (Ivory Coast)_2019.pdf]
+
+2026-06-14 23:42:00.891850
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:42:00.893879
+PDF loaded. Processing 140/740 [Djibouti in 2005 from: ../../data/original_report/usgs_africa/Djibouti_2005.pdf]
+
+2026-06-14 23:42:00.917513
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:42:00.919265
+PDF loaded. Processing 141/740 [Djibouti in 2006 from: ../../data/original_report/usgs_africa/Djibouti_2006.pdf]
+
+2026-06-14 23:42:00.937082
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:42:00.938703
+PDF loaded. Processing 142/740 [Djibouti in 2007 from: ../../data/original_report/usgs_africa/Djibouti_2007.pdf]
+
+2026-06-14 23:42:00.958388
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:42:00.959281
+PDF loaded. Processing 143/740 [Djibouti in 2008 from: ../../data/original_report/usgs_africa/Djibouti_2008.pdf]
+
+2026-06-14 23:42:00.972489
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.01 seconds
+
+2026-06-14 23:42:00.973366
+PDF loaded. Processing 144/740 [Djibouti in 2009 from: ../../data/original_report/usgs_africa/Djibouti_2009.pdf]
+
+2026-06-14 23:42:00.988904
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:42:00.989790
+PDF loaded. Processing 145/740 [Djibouti in 2010 from: ../../data/original_report/usgs_africa/Djibouti_2010.pdf]
+
+2026-06-14 23:42:01.033171
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Djibouti_2010_policy.txt. Execution time 0.04 seconds
+
+2026-06-14 23:42:01.034910
+PDF loaded. Processing 146/740 [Djibouti in 2011 from: ../../data/original_report/usgs_africa/Djibouti_2011.pdf]
+
+2026-06-14 23:42:01.097493
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Djibouti_2011_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 23:42:01.099907
+PDF loaded. Processing 147/740 [Djibouti in 2012 from: ../../data/original_report/usgs_africa/Djibouti_2012.pdf]
+
+2026-06-14 23:42:01.155418
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Djibouti_2012_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 23:42:01.156526
+PDF loaded. Processing 148/740 [Djibouti in 2013 from: ../../data/original_report/usgs_africa/Djibouti_2013.pdf]
+
+2026-06-14 23:42:01.222177
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Djibouti_2013_policy.txt. Execution time 0.07 seconds
+
+2026-06-14 23:42:01.224045
+PDF loaded. Processing 149/740 [Djibouti in 2014 from: ../../data/original_report/usgs_africa/Djibouti_2014.pdf]
+
+2026-06-14 23:42:01.293398
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Djibouti_2014_policy.txt. Execution time 0.07 seconds
+
+2026-06-14 23:42:01.295019
+PDF loaded. Processing 150/740 [Djibouti in 2015 from: ../../data/original_report/usgs_africa/Djibouti_2015.pdf]
+
+2026-06-14 23:42:01.379577
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Djibouti_2015_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 23:42:01.382070
+PDF loaded. Processing 151/740 [Djibouti in 2016 from: ../../data/original_report/usgs_africa/Djibouti_2016.pdf]
+
+2026-06-14 23:42:01.394855
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.01 seconds
+
+2026-06-14 23:42:01.395721
+PDF loaded. Processing 152/740 [Djibouti in 2018 from: ../../data/original_report/usgs_africa/Djibouti_2018.pdf]
+
+2026-06-14 23:42:01.409336
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.01 seconds
+
+2026-06-14 23:42:01.410573
+PDF loaded. Processing 153/740 [Djibouti in 2019 from: ../../data/original_report/usgs_africa/Djibouti_2019.pdf]
+
+2026-06-14 23:42:01.430410
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:42:01.431845
+PDF loaded. Processing 154/740 [Egypt in 2005 from: ../../data/original_report/usgs_africa/Egypt_2005.pdf]
+
+2026-06-14 23:42:01.655613
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Egypt_2005_policy.txt. Execution time 0.22 seconds
+
+2026-06-14 23:42:01.657069
+PDF loaded. Processing 155/740 [Egypt in 2006 from: ../../data/original_report/usgs_africa/Egypt_2006.pdf]
+
+2026-06-14 23:42:01.734670
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Egypt_2006_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 23:42:01.735791
+PDF loaded. Processing 156/740 [Egypt in 2009 from: ../../data/original_report/usgs_africa/Egypt_2009.pdf]
+
+2026-06-14 23:42:01.999360
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Egypt_2009_policy.txt. Execution time 0.26 seconds
+
+2026-06-14 23:42:02.003039
+PDF loaded. Processing 157/740 [Egypt in 2010 from: ../../data/original_report/usgs_africa/Egypt_2010.pdf]
+
+2026-06-14 23:42:02.297575
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Egypt_2010_policy.txt. Execution time 0.29 seconds
+
+2026-06-14 23:42:02.299641
+PDF loaded. Processing 158/740 [Egypt in 2011 from: ../../data/original_report/usgs_africa/Egypt_2011.pdf]
+
+2026-06-14 23:42:02.558483
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Egypt_2011_policy.txt. Execution time 0.26 seconds
+
+2026-06-14 23:42:02.561034
+PDF loaded. Processing 159/740 [Egypt in 2012 from: ../../data/original_report/usgs_africa/Egypt_2012.pdf]
+
+2026-06-14 23:42:02.785179
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Egypt_2012_policy.txt. Execution time 0.22 seconds
+
+2026-06-14 23:42:02.788296
+PDF loaded. Processing 160/740 [Egypt in 2013 from: ../../data/original_report/usgs_africa/Egypt_2013.pdf]
+
+2026-06-14 23:42:03.089352
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Egypt_2013_policy.txt. Execution time 0.30 seconds
+
+2026-06-14 23:42:03.091679
+PDF loaded. Processing 161/740 [Egypt in 2014 from: ../../data/original_report/usgs_africa/Egypt_2014.pdf]
+
+2026-06-14 23:42:03.339481
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Egypt_2014_policy.txt. Execution time 0.25 seconds
+
+2026-06-14 23:42:03.341701
+PDF loaded. Processing 162/740 [Egypt in 2015 from: ../../data/original_report/usgs_africa/Egypt_2015.pdf]
+
+2026-06-14 23:42:03.610395
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Egypt_2015_policy.txt. Execution time 0.27 seconds
+
+2026-06-14 23:42:03.612896
+PDF loaded. Processing 163/740 [Egypt in 2016 from: ../../data/original_report/usgs_africa/Egypt_2016.pdf]
+
+2026-06-14 23:42:03.874491
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Egypt_2016_policy.txt. Execution time 0.26 seconds
+
+2026-06-14 23:42:03.876281
+PDF loaded. Processing 164/740 [Egypt in 2018 from: ../../data/original_report/usgs_africa/Egypt_2018.pdf]
+
+2026-06-14 23:42:04.208591
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Egypt_2018_policy.txt. Execution time 0.33 seconds
+
+2026-06-14 23:42:04.210188
+PDF loaded. Processing 165/740 [Egypt in 2019 from: ../../data/original_report/usgs_africa/Egypt_2019.pdf]
+
+2026-06-14 23:42:04.507480
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Egypt_2019_policy.txt. Execution time 0.30 seconds
+
+2026-06-14 23:42:04.509847
+PDF loaded. Processing 166/740 [Egypt in 2021 from: ../../data/original_report/usgs_africa/Egypt_2021.pdf]
+
+2026-06-14 23:42:04.875665
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Egypt_2021_policy.txt. Execution time 0.37 seconds
+
+2026-06-14 23:42:04.877960
+PDF loaded. Processing 167/740 [Equatorial Guinea in 2005 from: ../../data/original_report/usgs_africa/Equatorial Guinea_2005.pdf]
+
+2026-06-14 23:42:04.932237
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Equatorial Guinea_2005_policy.txt. Execution time 0.05 seconds
+
+2026-06-14 23:42:04.933524
+PDF loaded. Processing 168/740 [Equatorial Guinea in 2006 from: ../../data/original_report/usgs_africa/Equatorial Guinea_2006.pdf]
+
+2026-06-14 23:42:04.989230
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Equatorial Guinea_2006_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 23:42:04.990574
+PDF loaded. Processing 169/740 [Equatorial Guinea in 2007 from: ../../data/original_report/usgs_africa/Equatorial Guinea_2007.pdf]
+
+2026-06-14 23:42:05.070946
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Equatorial Guinea_2007_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 23:42:05.072631
+PDF loaded. Processing 170/740 [Equatorial Guinea in 2008 from: ../../data/original_report/usgs_africa/Equatorial Guinea_2008.pdf]
+
+2026-06-14 23:42:05.139736
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Equatorial Guinea_2008_policy.txt. Execution time 0.07 seconds
+
+2026-06-14 23:42:05.142288
+PDF loaded. Processing 171/740 [Equatorial Guinea in 2009 from: ../../data/original_report/usgs_africa/Equatorial Guinea_2009.pdf]
+
+2026-06-14 23:42:05.198104
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Equatorial Guinea_2009_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 23:42:05.200290
+PDF loaded. Processing 172/740 [Equatorial Guinea in 2010 from: ../../data/original_report/usgs_africa/Equatorial Guinea_2010.pdf]
+
+2026-06-14 23:42:05.276083
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Equatorial Guinea_2010_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 23:42:05.277428
+PDF loaded. Processing 173/740 [Equatorial Guinea in 2011 from: ../../data/original_report/usgs_africa/Equatorial Guinea_2011.pdf]
+
+2026-06-14 23:42:05.384828
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Equatorial Guinea_2011_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 23:42:05.387498
+PDF loaded. Processing 174/740 [Equatorial Guinea in 2012 from: ../../data/original_report/usgs_africa/Equatorial Guinea_2012.pdf]
+
+2026-06-14 23:42:05.458370
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Equatorial Guinea_2012_policy.txt. Execution time 0.07 seconds
+
+2026-06-14 23:42:05.459975
+PDF loaded. Processing 175/740 [Equatorial Guinea in 2013 from: ../../data/original_report/usgs_africa/Equatorial Guinea_2013.pdf]
+
+2026-06-14 23:42:05.539331
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Equatorial Guinea_2013_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 23:42:05.540872
+PDF loaded. Processing 176/740 [Equatorial Guinea in 2014 from: ../../data/original_report/usgs_africa/Equatorial Guinea_2014.pdf]
+
+2026-06-14 23:42:05.659173
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Equatorial Guinea_2014_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 23:42:05.660630
+PDF loaded. Processing 177/740 [Equatorial Guinea in 2015 from: ../../data/original_report/usgs_africa/Equatorial Guinea_2015.pdf]
+
+2026-06-14 23:42:05.713033
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Equatorial Guinea_2015_policy.txt. Execution time 0.05 seconds
+
+2026-06-14 23:42:05.713948
+PDF loaded. Processing 178/740 [Equatorial Guinea in 2016 from: ../../data/original_report/usgs_africa/Equatorial Guinea_2016.pdf]
+
+2026-06-14 23:42:05.722081
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.01 seconds
+
+2026-06-14 23:42:05.722957
+PDF loaded. Processing 179/740 [Equatorial Guinea in 2018 from: ../../data/original_report/usgs_africa/Equatorial Guinea_2018.pdf]
+
+2026-06-14 23:42:05.730972
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.01 seconds
+
+2026-06-14 23:42:05.731795
+PDF loaded. Processing 180/740 [Equatorial Guinea in 2019 from: ../../data/original_report/usgs_africa/Equatorial Guinea_2019.pdf]
+
+2026-06-14 23:42:05.740712
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.01 seconds
+
+2026-06-14 23:42:05.741512
+PDF loaded. Processing 181/740 [Eritrea in 2005 from: ../../data/original_report/usgs_africa/Eritrea_2005.pdf]
+
+2026-06-14 23:42:05.820973
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Eritrea_2005_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 23:42:05.822821
+PDF loaded. Processing 182/740 [Eritrea in 2006 from: ../../data/original_report/usgs_africa/Eritrea_2006.pdf]
+
+2026-06-14 23:42:05.892706
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Eritrea_2006_policy.txt. Execution time 0.07 seconds
+
+2026-06-14 23:42:05.899387
+PDF loaded. Processing 183/740 [Eritrea in 2007 from: ../../data/original_report/usgs_africa/Eritrea_2007.pdf]
+
+2026-06-14 23:42:05.991630
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Eritrea_2007_policy.txt. Execution time 0.09 seconds
+
+2026-06-14 23:42:05.992610
+PDF loaded. Processing 184/740 [Eritrea in 2008 from: ../../data/original_report/usgs_africa/Eritrea_2008.pdf]
+
+2026-06-14 23:42:06.055656
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Eritrea_2008_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 23:42:06.057727
+PDF loaded. Processing 185/740 [Eritrea in 2009 from: ../../data/original_report/usgs_africa/Eritrea_2009.pdf]
+
+2026-06-14 23:42:06.127043
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Eritrea_2009_policy.txt. Execution time 0.07 seconds
+
+2026-06-14 23:42:06.129362
+PDF loaded. Processing 186/740 [Eritrea in 2010 from: ../../data/original_report/usgs_africa/Eritrea_2010.pdf]
+
+2026-06-14 23:42:06.239486
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Eritrea_2010_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 23:42:06.241151
+PDF loaded. Processing 187/740 [Eritrea in 2011 from: ../../data/original_report/usgs_africa/Eritrea_2011.pdf]
+
+2026-06-14 23:42:06.338323
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Eritrea_2011_policy.txt. Execution time 0.10 seconds
+
+2026-06-14 23:42:06.340512
+PDF loaded. Processing 188/740 [Eritrea in 2012 from: ../../data/original_report/usgs_africa/Eritrea_2012.pdf]
+
+2026-06-14 23:42:06.443913
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Eritrea_2012_policy.txt. Execution time 0.10 seconds
+
+2026-06-14 23:42:06.444859
+PDF loaded. Processing 189/740 [Eritrea in 2013 from: ../../data/original_report/usgs_africa/Eritrea_2013.pdf]
+
+2026-06-14 23:42:06.541005
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Eritrea_2013_policy.txt. Execution time 0.10 seconds
+
+2026-06-14 23:42:06.542561
+PDF loaded. Processing 190/740 [Eritrea in 2014 from: ../../data/original_report/usgs_africa/Eritrea_2014.pdf]
+
+2026-06-14 23:42:06.667395
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Eritrea_2014_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 23:42:06.669762
+PDF loaded. Processing 191/740 [Eritrea in 2015 from: ../../data/original_report/usgs_africa/Eritrea_2015.pdf]
+
+2026-06-14 23:42:06.778671
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Eritrea_2015_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 23:42:06.780286
+PDF loaded. Processing 192/740 [Eritrea in 2016 from: ../../data/original_report/usgs_africa/Eritrea_2016.pdf]
+
+2026-06-14 23:42:06.799021
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:42:06.800342
+PDF loaded. Processing 193/740 [Eritrea in 2018 from: ../../data/original_report/usgs_africa/Eritrea_2018.pdf]
+
+2026-06-14 23:42:06.811513
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.01 seconds
+
+2026-06-14 23:42:06.812321
+PDF loaded. Processing 194/740 [Eritrea in 2019 from: ../../data/original_report/usgs_africa/Eritrea_2019.pdf]
+
+2026-06-14 23:42:06.823222
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.01 seconds
+
+2026-06-14 23:42:06.824104
+PDF loaded. Processing 195/740 [Eswatini (formerly Swaziland) in 2005 from: ../../data/original_report/usgs_africa/Eswatini (formerly Swaziland)_2005.pdf]
+
+2026-06-14 23:42:06.845053
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:42:06.846634
+PDF loaded. Processing 196/740 [Eswatini (formerly Swaziland) in 2014 from: ../../data/original_report/usgs_africa/Eswatini (formerly Swaziland)_2014.pdf]
+
+2026-06-14 23:42:06.958931
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Eswatini (formerly Swaziland)_2014_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 23:42:06.961106
+PDF loaded. Processing 197/740 [Eswatini (formerly Swaziland) in 2015 from: ../../data/original_report/usgs_africa/Eswatini (formerly Swaziland)_2015.pdf]
+
+2026-06-14 23:42:07.034751
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Eswatini (formerly Swaziland)_2015_policy.txt. Execution time 0.07 seconds
+
+2026-06-14 23:42:07.036044
+PDF loaded. Processing 198/740 [Eswatini (formerly Swaziland) in 2016 from: ../../data/original_report/usgs_africa/Eswatini (formerly Swaziland)_2016.pdf]
+
+2026-06-14 23:42:07.053972
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:42:07.055258
+PDF loaded. Processing 199/740 [Eswatini (formerly Swaziland) in 2018 from: ../../data/original_report/usgs_africa/Eswatini (formerly Swaziland)_2018.pdf]
+
+2026-06-14 23:42:07.076479
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:42:07.077982
+PDF loaded. Processing 200/740 [Eswatini (formerly Swaziland) in 2019 from: ../../data/original_report/usgs_africa/Eswatini (formerly Swaziland)_2019.pdf]
+
+2026-06-14 23:42:07.101189
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:42:07.102685
+PDF loaded. Processing 201/740 [Ethiopia in 2005 from: ../../data/original_report/usgs_africa/Ethiopia_2005.pdf]
+
+2026-06-14 23:42:07.240832
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Ethiopia_2005_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 23:42:07.242249
+PDF loaded. Processing 202/740 [Ethiopia in 2006 from: ../../data/original_report/usgs_africa/Ethiopia_2006.pdf]
+
+2026-06-14 23:42:07.330733
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Ethiopia_2006_policy.txt. Execution time 0.09 seconds
+
+2026-06-14 23:42:07.332395
+PDF loaded. Processing 203/740 [Ethiopia in 2007 from: ../../data/original_report/usgs_africa/Ethiopia_2007.pdf]
+
+2026-06-14 23:42:07.411069
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Ethiopia_2007_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 23:42:07.412036
+PDF loaded. Processing 204/740 [Ethiopia in 2008 from: ../../data/original_report/usgs_africa/Ethiopia_2008.pdf]
+
+2026-06-14 23:42:07.484793
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Ethiopia_2008_policy.txt. Execution time 0.07 seconds
+
+2026-06-14 23:42:07.486454
+PDF loaded. Processing 205/740 [Ethiopia in 2009 from: ../../data/original_report/usgs_africa/Ethiopia_2009.pdf]
+
+2026-06-14 23:42:07.576577
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Ethiopia_2009_policy.txt. Execution time 0.09 seconds
+
+2026-06-14 23:42:07.577528
+PDF loaded. Processing 206/740 [Ethiopia in 2010 from: ../../data/original_report/usgs_africa/Ethiopia_2010.pdf]
+
+2026-06-14 23:42:07.681418
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Ethiopia_2010_policy.txt. Execution time 0.10 seconds
+
+2026-06-14 23:42:07.683417
+PDF loaded. Processing 207/740 [Ethiopia in 2011 from: ../../data/original_report/usgs_africa/Ethiopia_2011.pdf]
+
+2026-06-14 23:42:07.794188
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Ethiopia_2011_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 23:42:07.795984
+PDF loaded. Processing 208/740 [Ethiopia in 2012 from: ../../data/original_report/usgs_africa/Ethiopia_2012.pdf]
+
+2026-06-14 23:42:07.921722
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Ethiopia_2012_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 23:42:07.923394
+PDF loaded. Processing 209/740 [Ethiopia in 2013 from: ../../data/original_report/usgs_africa/Ethiopia_2013.pdf]
+
+2026-06-14 23:42:08.025760
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Ethiopia_2013_policy.txt. Execution time 0.10 seconds
+
+2026-06-14 23:42:08.028142
+PDF loaded. Processing 210/740 [Ethiopia in 2014 from: ../../data/original_report/usgs_africa/Ethiopia_2014.pdf]
+
+2026-06-14 23:42:08.124610
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Ethiopia_2014_policy.txt. Execution time 0.10 seconds
+
+2026-06-14 23:42:08.125590
+PDF loaded. Processing 211/740 [Ethiopia in 2015 from: ../../data/original_report/usgs_africa/Ethiopia_2015.pdf]
+
+2026-06-14 23:42:08.263811
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Ethiopia_2015_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 23:42:08.266948
+PDF loaded. Processing 212/740 [Ethiopia in 2016 from: ../../data/original_report/usgs_africa/Ethiopia_2016.pdf]
+
+2026-06-14 23:42:08.286073
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:42:08.287624
+PDF loaded. Processing 213/740 [Ethiopia in 2018 from: ../../data/original_report/usgs_africa/Ethiopia_2018.pdf]
+
+2026-06-14 23:42:08.305258
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:42:08.306781
+PDF loaded. Processing 214/740 [Ethiopia in 2019 from: ../../data/original_report/usgs_africa/Ethiopia_2019.pdf]
+
+2026-06-14 23:42:08.323616
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:42:08.324512
+PDF loaded. Processing 215/740 [Gabon in 2005 from: ../../data/original_report/usgs_africa/Gabon_2005.pdf]
+
+2026-06-14 23:42:08.376416
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Gabon_2005_policy.txt. Execution time 0.05 seconds
+
+2026-06-14 23:42:08.377378
+PDF loaded. Processing 216/740 [Gabon in 2006 from: ../../data/original_report/usgs_africa/Gabon_2006.pdf]
+
+2026-06-14 23:42:08.464100
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Gabon_2006_policy.txt. Execution time 0.09 seconds
+
+2026-06-14 23:42:08.467051
+PDF loaded. Processing 217/740 [Gabon in 2007 from: ../../data/original_report/usgs_africa/Gabon_2007.pdf]
+
+2026-06-14 23:42:08.586314
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Gabon_2007_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 23:42:08.588251
+PDF loaded. Processing 218/740 [Gabon in 2008 from: ../../data/original_report/usgs_africa/Gabon_2008.pdf]
+
+2026-06-14 23:42:08.688741
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Gabon_2008_policy.txt. Execution time 0.10 seconds
+
+2026-06-14 23:42:08.690527
+PDF loaded. Processing 219/740 [Gabon in 2009 from: ../../data/original_report/usgs_africa/Gabon_2009.pdf]
+
+2026-06-14 23:42:08.803018
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Gabon_2009_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 23:42:08.805742
+PDF loaded. Processing 220/740 [Gabon in 2010 from: ../../data/original_report/usgs_africa/Gabon_2010.pdf]
+
+2026-06-14 23:42:08.906866
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Gabon_2010_policy.txt. Execution time 0.10 seconds
+
+2026-06-14 23:42:08.907825
+PDF loaded. Processing 221/740 [Gabon in 2011 from: ../../data/original_report/usgs_africa/Gabon_2011.pdf]
+
+2026-06-14 23:42:08.997835
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Gabon_2011_policy.txt. Execution time 0.09 seconds
+
+2026-06-14 23:42:08.999019
+PDF loaded. Processing 222/740 [Gabon in 2012 from: ../../data/original_report/usgs_africa/Gabon_2012.pdf]
+
+2026-06-14 23:42:09.124640
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Gabon_2012_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 23:42:09.126017
+PDF loaded. Processing 223/740 [Gabon in 2013 from: ../../data/original_report/usgs_africa/Gabon_2013.pdf]
+
+2026-06-14 23:42:09.137279
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.01 seconds
+
+2026-06-14 23:42:09.138363
+PDF loaded. Processing 224/740 [Gabon in 2014 from: ../../data/original_report/usgs_africa/Gabon_2014.pdf]
+
+2026-06-14 23:42:09.285191
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Gabon_2014_policy.txt. Execution time 0.15 seconds
+
+2026-06-14 23:42:09.287466
+PDF loaded. Processing 225/740 [Gabon in 2015 from: ../../data/original_report/usgs_africa/Gabon_2015.pdf]
+
+2026-06-14 23:42:09.446169
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Gabon_2015_policy.txt. Execution time 0.16 seconds
+
+2026-06-14 23:42:09.448545
+PDF loaded. Processing 226/740 [Gabon in 2016 from: ../../data/original_report/usgs_africa/Gabon_2016.pdf]
+
+2026-06-14 23:42:09.463445
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.01 seconds
+
+2026-06-14 23:42:09.464550
+PDF loaded. Processing 227/740 [Gabon in 2018 from: ../../data/original_report/usgs_africa/Gabon_2018.pdf]
+
+2026-06-14 23:42:09.480358
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:42:09.482240
+PDF loaded. Processing 228/740 [Gabon in 2019 from: ../../data/original_report/usgs_africa/Gabon_2019.pdf]
+
+2026-06-14 23:42:09.498736
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:42:09.499643
+PDF loaded. Processing 229/740 [Gabon in 2021 from: ../../data/original_report/usgs_africa/Gabon_2021.pdf]
+
+2026-06-14 23:42:09.592408
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Gabon_2021_policy.txt. Execution time 0.09 seconds
+
+2026-06-14 23:42:09.593419
+PDF loaded. Processing 230/740 [Ghana in 2005 from: ../../data/original_report/usgs_africa/Ghana_2005.pdf]
+
+2026-06-14 23:42:09.872772
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Ghana_2005_policy.txt. Execution time 0.28 seconds
+
+2026-06-14 23:42:09.874849
+PDF loaded. Processing 231/740 [Ghana in 2006 from: ../../data/original_report/usgs_africa/Ghana_2006.pdf]
+
+2026-06-14 23:42:09.963901
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Ghana_2006_policy.txt. Execution time 0.09 seconds
+
+2026-06-14 23:42:09.965591
+PDF loaded. Processing 232/740 [Ghana in 2007 from: ../../data/original_report/usgs_africa/Ghana_2007.pdf]
+
+2026-06-14 23:42:10.028072
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Ghana_2007_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 23:42:10.029546
+PDF loaded. Processing 233/740 [Ghana in 2008 from: ../../data/original_report/usgs_africa/Ghana_2008.pdf]
+
+2026-06-14 23:42:10.226734
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Ghana_2008_policy.txt. Execution time 0.20 seconds
+
+2026-06-14 23:42:10.229325
+PDF loaded. Processing 234/740 [Ghana in 2009 from: ../../data/original_report/usgs_africa/Ghana_2009.pdf]
+
+2026-06-14 23:42:10.421398
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Ghana_2009_policy.txt. Execution time 0.19 seconds
+
+2026-06-14 23:42:10.423151
+PDF loaded. Processing 235/740 [Ghana in 2010 from: ../../data/original_report/usgs_africa/Ghana_2010.pdf]
+
+2026-06-14 23:42:10.638199
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Ghana_2010_policy.txt. Execution time 0.22 seconds
+
+2026-06-14 23:42:10.640336
+PDF loaded. Processing 236/740 [Ghana in 2011 from: ../../data/original_report/usgs_africa/Ghana_2011.pdf]
+
+2026-06-14 23:42:10.815170
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Ghana_2011_policy.txt. Execution time 0.17 seconds
+
+2026-06-14 23:42:10.816326
+PDF loaded. Processing 237/740 [Ghana in 2012 from: ../../data/original_report/usgs_africa/Ghana_2012.pdf]
+
+2026-06-14 23:42:10.997284
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Ghana_2012_policy.txt. Execution time 0.18 seconds
+
+2026-06-14 23:42:10.999939
+PDF loaded. Processing 238/740 [Ghana in 2013 from: ../../data/original_report/usgs_africa/Ghana_2013.pdf]
+
+2026-06-14 23:42:11.084985
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Ghana_2013_policy.txt. Execution time 0.09 seconds
+
+2026-06-14 23:42:11.085987
+PDF loaded. Processing 239/740 [Ghana in 2014 from: ../../data/original_report/usgs_africa/Ghana_2014.pdf]
+
+2026-06-14 23:42:11.268700
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Ghana_2014_policy.txt. Execution time 0.18 seconds
+
+2026-06-14 23:42:11.270441
+PDF loaded. Processing 240/740 [Ghana in 2015 from: ../../data/original_report/usgs_africa/Ghana_2015.pdf]
+
+2026-06-14 23:42:11.456707
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Ghana_2015_policy.txt. Execution time 0.19 seconds
+
+2026-06-14 23:42:11.458420
+PDF loaded. Processing 241/740 [Ghana in 2016 from: ../../data/original_report/usgs_africa/Ghana_2016.pdf]
+
+2026-06-14 23:42:11.636054
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Ghana_2016_policy.txt. Execution time 0.18 seconds
+
+2026-06-14 23:42:11.638314
+PDF loaded. Processing 242/740 [Ghana in 2018 from: ../../data/original_report/usgs_africa/Ghana_2018.pdf]
+
+2026-06-14 23:42:11.850432
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Ghana_2018_policy.txt. Execution time 0.21 seconds
+
+2026-06-14 23:42:11.852067
+PDF loaded. Processing 243/740 [Ghana in 2019 from: ../../data/original_report/usgs_africa/Ghana_2019.pdf]
+
+2026-06-14 23:42:12.027999
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Ghana_2019_policy.txt. Execution time 0.18 seconds
+
+2026-06-14 23:42:12.028972
+PDF loaded. Processing 244/740 [Guinea in 2005 from: ../../data/original_report/usgs_africa/Guinea_2005.pdf]
+
+2026-06-14 23:42:12.137609
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Guinea_2005_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 23:42:12.139535
+PDF loaded. Processing 245/740 [Guinea in 2006 from: ../../data/original_report/usgs_africa/Guinea_2006.pdf]
+
+2026-06-14 23:42:12.321654
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Guinea_2006_policy.txt. Execution time 0.18 seconds
+
+2026-06-14 23:42:12.323031
+PDF loaded. Processing 246/740 [Guinea in 2007 from: ../../data/original_report/usgs_africa/Guinea_2007.pdf]
+
+2026-06-14 23:42:12.494533
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Guinea_2007_policy.txt. Execution time 0.17 seconds
+
+2026-06-14 23:42:12.496071
+PDF loaded. Processing 247/740 [Guinea in 2008 from: ../../data/original_report/usgs_africa/Guinea_2008.pdf]
+
+2026-06-14 23:42:12.506045
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.01 seconds
+
+2026-06-14 23:42:12.506896
+PDF loaded. Processing 248/740 [Guinea in 2009 from: ../../data/original_report/usgs_africa/Guinea_2009.pdf]
+
+2026-06-14 23:42:12.722711
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Guinea_2009_policy.txt. Execution time 0.22 seconds
+
+2026-06-14 23:42:12.726612
+PDF loaded. Processing 249/740 [Guinea in 2010 from: ../../data/original_report/usgs_africa/Guinea_2010.pdf]
+
+2026-06-14 23:42:12.890332
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Guinea_2010_policy.txt. Execution time 0.16 seconds
+
+2026-06-14 23:42:12.892010
+PDF loaded. Processing 250/740 [Guinea in 2011 from: ../../data/original_report/usgs_africa/Guinea_2011.pdf]
+
+2026-06-14 23:42:13.036787
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Guinea_2011_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 23:42:13.038219
+PDF loaded. Processing 251/740 [Guinea in 2012 from: ../../data/original_report/usgs_africa/Guinea_2012.pdf]
+
+2026-06-14 23:42:13.185586
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Guinea_2012_policy.txt. Execution time 0.15 seconds
+
+2026-06-14 23:42:13.188096
+PDF loaded. Processing 252/740 [Guinea in 2013 from: ../../data/original_report/usgs_africa/Guinea_2013.pdf]
+
+2026-06-14 23:42:13.239071
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Guinea_2013_policy.txt. Execution time 0.05 seconds
+
+2026-06-14 23:42:13.240025
+PDF loaded. Processing 253/740 [Guinea in 2014 from: ../../data/original_report/usgs_africa/Guinea_2014.pdf]
+
+2026-06-14 23:42:13.442272
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Guinea_2014_policy.txt. Execution time 0.20 seconds
+
+2026-06-14 23:42:13.444191
+PDF loaded. Processing 254/740 [Guinea in 2015 from: ../../data/original_report/usgs_africa/Guinea_2015.pdf]
+
+2026-06-14 23:42:13.663292
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Guinea_2015_policy.txt. Execution time 0.22 seconds
+
+2026-06-14 23:42:13.666179
+PDF loaded. Processing 255/740 [Guinea in 2016 from: ../../data/original_report/usgs_africa/Guinea_2016.pdf]
+
+2026-06-14 23:42:13.830632
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Guinea_2016_policy.txt. Execution time 0.16 seconds
+
+2026-06-14 23:42:13.832773
+PDF loaded. Processing 256/740 [Guinea in 2018 from: ../../data/original_report/usgs_africa/Guinea_2018.pdf]
+
+2026-06-14 23:42:13.968188
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Guinea_2018_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 23:42:13.969568
+PDF loaded. Processing 257/740 [Guinea in 2019 from: ../../data/original_report/usgs_africa/Guinea_2019.pdf]
+
+2026-06-14 23:42:14.097093
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Guinea_2019_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 23:42:14.098500
+PDF loaded. Processing 258/740 [Iran in 2005 from: ../../data/original_report/usgs_africa/Iran_2005.pdf]
+
+2026-06-14 23:42:14.163336
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Iran_2005_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 23:42:14.164398
+PDF loaded. Processing 259/740 [Iran in 2006 from: ../../data/original_report/usgs_africa/Iran_2006.pdf]
+
+2026-06-14 23:42:14.264984
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Iran_2006_policy.txt. Execution time 0.10 seconds
+
+2026-06-14 23:42:14.267519
+PDF loaded. Processing 260/740 [Iran in 2007 from: ../../data/original_report/usgs_africa/Iran_2007.pdf]
+
+2026-06-14 23:42:14.400723
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Iran_2007_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 23:42:14.402424
+PDF loaded. Processing 261/740 [Iran in 2008 from: ../../data/original_report/usgs_africa/Iran_2008.pdf]
+
+2026-06-14 23:42:14.521236
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Iran_2008_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 23:42:14.522687
+PDF loaded. Processing 262/740 [Iran in 2009 from: ../../data/original_report/usgs_africa/Iran_2009.pdf]
+
+2026-06-14 23:42:14.648756
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Iran_2009_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 23:42:14.650081
+PDF loaded. Processing 263/740 [Iran in 2010 from: ../../data/original_report/usgs_africa/Iran_2010.pdf]
+
+2026-06-14 23:42:14.750869
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Iran_2010_policy.txt. Execution time 0.10 seconds
+
+2026-06-14 23:42:14.753941
+PDF loaded. Processing 264/740 [Iran in 2011 from: ../../data/original_report/usgs_africa/Iran_2011.pdf]
+
+2026-06-14 23:42:14.919883
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Iran_2011_policy.txt. Execution time 0.17 seconds
+
+2026-06-14 23:42:14.923006
+PDF loaded. Processing 265/740 [Iran in 2012 from: ../../data/original_report/usgs_africa/Iran_2012.pdf]
+
+2026-06-14 23:42:15.069528
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Iran_2012_policy.txt. Execution time 0.15 seconds
+
+2026-06-14 23:42:15.072124
+PDF loaded. Processing 266/740 [Iran in 2013 from: ../../data/original_report/usgs_africa/Iran_2013.pdf]
+
+2026-06-14 23:42:15.224739
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Iran_2013_policy.txt. Execution time 0.15 seconds
+
+2026-06-14 23:42:15.226383
+PDF loaded. Processing 267/740 [Iran in 2014 from: ../../data/original_report/usgs_africa/Iran_2014.pdf]
+
+2026-06-14 23:42:15.776197
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Iran_2014_policy.txt. Execution time 0.55 seconds
+
+2026-06-14 23:42:15.778268
+PDF loaded. Processing 268/740 [Iran in 2015 from: ../../data/original_report/usgs_africa/Iran_2015.pdf]
+
+2026-06-14 23:42:16.033028
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Iran_2015_policy.txt. Execution time 0.25 seconds
+
+2026-06-14 23:42:16.035621
+PDF loaded. Processing 269/740 [Iran in 2016 from: ../../data/original_report/usgs_africa/Iran_2016.pdf]
+
+2026-06-14 23:42:16.271660
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Iran_2016_policy.txt. Execution time 0.24 seconds
+
+2026-06-14 23:42:16.274265
+PDF loaded. Processing 270/740 [Iran in 2018 from: ../../data/original_report/usgs_africa/Iran_2018.pdf]
+
+2026-06-14 23:42:16.586752
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Iran_2018_policy.txt. Execution time 0.31 seconds
+
+2026-06-14 23:42:16.588230
+PDF loaded. Processing 271/740 [Iran in 2019 from: ../../data/original_report/usgs_africa/Iran_2019.pdf]
+
+2026-06-14 23:42:16.911649
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Iran_2019_policy.txt. Execution time 0.32 seconds
+
+2026-06-14 23:42:16.914216
+PDF loaded. Processing 272/740 [Iran in 2021 from: ../../data/original_report/usgs_africa/Iran_2021.pdf]
+
+2026-06-14 23:42:17.267018
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Iran_2021_policy.txt. Execution time 0.35 seconds
+
+2026-06-14 23:42:17.269905
+PDF loaded. Processing 273/740 [Iran in 2022 from: ../../data/original_report/usgs_africa/Iran_2022.pdf]
+
+2026-06-14 23:42:17.569234
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Iran_2022_policy.txt. Execution time 0.30 seconds
+
+2026-06-14 23:42:17.572107
+PDF loaded. Processing 274/740 [Iran in 2023 from: ../../data/original_report/usgs_africa/Iran_2023.pdf]
+
+2026-06-14 23:42:17.878666
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Iran_2023_policy.txt. Execution time 0.31 seconds
+
+2026-06-14 23:42:17.880394
+PDF loaded. Processing 275/740 [Iraq in 2005 from: ../../data/original_report/usgs_africa/Iraq_2005.pdf]
+
+2026-06-14 23:42:17.945200
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Iraq_2005_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 23:42:17.946158
+PDF loaded. Processing 276/740 [Iraq in 2006 from: ../../data/original_report/usgs_africa/Iraq_2006.pdf]
+
+2026-06-14 23:42:17.996340
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Iraq_2006_policy.txt. Execution time 0.05 seconds
+
+2026-06-14 23:42:17.998715
+PDF loaded. Processing 277/740 [Iraq in 2007 from: ../../data/original_report/usgs_africa/Iraq_2007.pdf]
+
+2026-06-14 23:42:18.072661
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Iraq_2007_policy.txt. Execution time 0.07 seconds
+
+2026-06-14 23:42:18.074190
+PDF loaded. Processing 278/740 [Iraq in 2008 from: ../../data/original_report/usgs_africa/Iraq_2008.pdf]
+
+2026-06-14 23:42:18.179652
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Iraq_2008_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 23:42:18.181271
+PDF loaded. Processing 279/740 [Iraq in 2009 from: ../../data/original_report/usgs_africa/Iraq_2009.pdf]
+
+2026-06-14 23:42:18.297370
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Iraq_2009_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 23:42:18.299518
+PDF loaded. Processing 280/740 [Iraq in 2010 from: ../../data/original_report/usgs_africa/Iraq_2010.pdf]
+
+2026-06-14 23:42:18.508779
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Iraq_2010_policy.txt. Execution time 0.21 seconds
+
+2026-06-14 23:42:18.510836
+PDF loaded. Processing 281/740 [Iraq in 2011 from: ../../data/original_report/usgs_africa/Iraq_2011.pdf]
+
+2026-06-14 23:42:18.694622
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Iraq_2011_policy.txt. Execution time 0.18 seconds
+
+2026-06-14 23:42:18.695852
+PDF loaded. Processing 282/740 [Iraq in 2012 from: ../../data/original_report/usgs_africa/Iraq_2012.pdf]
+
+2026-06-14 23:42:18.904121
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Iraq_2012_policy.txt. Execution time 0.21 seconds
+
+2026-06-14 23:42:18.905591
+PDF loaded. Processing 283/740 [Iraq in 2013 from: ../../data/original_report/usgs_africa/Iraq_2013.pdf]
+
+2026-06-14 23:42:19.146679
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Iraq_2013_policy.txt. Execution time 0.24 seconds
+
+2026-06-14 23:42:19.150064
+PDF loaded. Processing 284/740 [Iraq in 2014 from: ../../data/original_report/usgs_africa/Iraq_2014.pdf]
+
+2026-06-14 23:42:19.399438
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Iraq_2014_policy.txt. Execution time 0.25 seconds
+
+2026-06-14 23:42:19.401950
+PDF loaded. Processing 285/740 [Iraq in 2015 from: ../../data/original_report/usgs_africa/Iraq_2015.pdf]
+
+2026-06-14 23:42:19.663455
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Iraq_2015_policy.txt. Execution time 0.26 seconds
+
+2026-06-14 23:42:19.666745
+PDF loaded. Processing 286/740 [Iraq in 2016 from: ../../data/original_report/usgs_africa/Iraq_2016.pdf]
+
+2026-06-14 23:42:19.718418
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Iraq_2016_policy.txt. Execution time 0.05 seconds
+
+2026-06-14 23:42:19.720047
+PDF loaded. Processing 287/740 [Iraq in 2018 from: ../../data/original_report/usgs_africa/Iraq_2018.pdf]
+
+2026-06-14 23:42:19.739135
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:42:19.740390
+PDF loaded. Processing 288/740 [Iraq in 2019 from: ../../data/original_report/usgs_africa/Iraq_2019.pdf]
+
+2026-06-14 23:42:19.751970
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.01 seconds
+
+2026-06-14 23:42:19.752951
+PDF loaded. Processing 289/740 [Iraq in 2021 from: ../../data/original_report/usgs_africa/Iraq_2021.pdf]
+
+2026-06-14 23:42:19.946248
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Iraq_2021_policy.txt. Execution time 0.19 seconds
+
+2026-06-14 23:42:19.948860
+PDF loaded. Processing 290/740 [Israel in 2005 from: ../../data/original_report/usgs_africa/Israel_2005.pdf]
+
+2026-06-14 23:42:20.014634
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Israel_2005_policy.txt. Execution time 0.07 seconds
+
+2026-06-14 23:42:20.015924
+PDF loaded. Processing 291/740 [Israel in 2006 from: ../../data/original_report/usgs_africa/Israel_2006.pdf]
+
+2026-06-14 23:42:20.068109
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Israel_2006_policy.txt. Execution time 0.05 seconds
+
+2026-06-14 23:42:20.069389
+PDF loaded. Processing 292/740 [Israel in 2007 from: ../../data/original_report/usgs_africa/Israel_2007.pdf]
+
+2026-06-14 23:42:20.157848
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Israel_2007_policy.txt. Execution time 0.09 seconds
+
+2026-06-14 23:42:20.159915
+PDF loaded. Processing 293/740 [Israel in 2008 from: ../../data/original_report/usgs_africa/Israel_2008.pdf]
+
+2026-06-14 23:42:20.267843
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Israel_2008_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 23:42:20.269458
+PDF loaded. Processing 294/740 [Israel in 2009 from: ../../data/original_report/usgs_africa/Israel_2009.pdf]
+
+2026-06-14 23:42:20.322661
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Israel_2009_policy.txt. Execution time 0.05 seconds
+
+2026-06-14 23:42:20.323645
+PDF loaded. Processing 295/740 [Israel in 2010 from: ../../data/original_report/usgs_africa/Israel_2010.pdf]
+
+2026-06-14 23:42:20.411988
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Israel_2010_policy.txt. Execution time 0.09 seconds
+
+2026-06-14 23:42:20.413582
+PDF loaded. Processing 296/740 [Israel in 2011 from: ../../data/original_report/usgs_africa/Israel_2011.pdf]
+
+2026-06-14 23:42:20.519390
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Israel_2011_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 23:42:20.520757
+PDF loaded. Processing 297/740 [Israel in 2012 from: ../../data/original_report/usgs_africa/Israel_2012.pdf]
+
+2026-06-14 23:42:20.608351
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Israel_2012_policy.txt. Execution time 0.09 seconds
+
+2026-06-14 23:42:20.609831
+PDF loaded. Processing 298/740 [Israel in 2013 from: ../../data/original_report/usgs_africa/Israel_2013.pdf]
+
+2026-06-14 23:42:20.751112
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Israel_2013_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 23:42:20.753283
+PDF loaded. Processing 299/740 [Israel in 2014 from: ../../data/original_report/usgs_africa/Israel_2014.pdf]
+
+2026-06-14 23:42:20.902783
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Israel_2014_policy.txt. Execution time 0.15 seconds
+
+2026-06-14 23:42:20.903915
+PDF loaded. Processing 300/740 [Israel in 2015 from: ../../data/original_report/usgs_africa/Israel_2015.pdf]
+
+2026-06-14 23:42:20.993436
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Israel_2015_policy.txt. Execution time 0.09 seconds
+
+2026-06-14 23:42:20.994892
+PDF loaded. Processing 301/740 [Israel in 2016 from: ../../data/original_report/usgs_africa/Israel_2016.pdf]
+
+2026-06-14 23:42:21.081037
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Israel_2016_policy.txt. Execution time 0.09 seconds
+
+2026-06-14 23:42:21.082837
+PDF loaded. Processing 302/740 [Israel in 2018 from: ../../data/original_report/usgs_africa/Israel_2018.pdf]
+
+2026-06-14 23:42:21.272159
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Israel_2018_policy.txt. Execution time 0.19 seconds
+
+2026-06-14 23:42:21.274290
+PDF loaded. Processing 303/740 [Israel in 2019 from: ../../data/original_report/usgs_africa/Israel_2019.pdf]
+
+2026-06-14 23:42:21.451089
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Israel_2019_policy.txt. Execution time 0.18 seconds
+
+2026-06-14 23:42:21.452121
+PDF loaded. Processing 304/740 [Israel in 2021 from: ../../data/original_report/usgs_africa/Israel_2021.pdf]
+
+2026-06-14 23:42:21.683860
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Israel_2021_policy.txt. Execution time 0.23 seconds
+
+2026-06-14 23:42:21.685373
+PDF loaded. Processing 305/740 [Jordan in 2005 from: ../../data/original_report/usgs_africa/Jordan_2005.pdf]
+
+2026-06-14 23:42:21.803422
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Jordan_2005_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 23:42:21.804896
+PDF loaded. Processing 306/740 [Jordan in 2006 from: ../../data/original_report/usgs_africa/Jordan_2006.pdf]
+
+2026-06-14 23:42:21.861486
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Jordan_2006_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 23:42:21.862446
+PDF loaded. Processing 307/740 [Jordan in 2007 from: ../../data/original_report/usgs_africa/Jordan_2007.pdf]
+
+2026-06-14 23:42:21.957457
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Jordan_2007_policy.txt. Execution time 0.10 seconds
+
+2026-06-14 23:42:21.959412
+PDF loaded. Processing 308/740 [Jordan in 2008 from: ../../data/original_report/usgs_africa/Jordan_2008.pdf]
+
+2026-06-14 23:42:22.084142
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Jordan_2008_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 23:42:22.085346
+PDF loaded. Processing 309/740 [Jordan in 2009 from: ../../data/original_report/usgs_africa/Jordan_2009.pdf]
+
+2026-06-14 23:42:22.280683
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Jordan_2009_policy.txt. Execution time 0.20 seconds
+
+2026-06-14 23:42:22.283209
+PDF loaded. Processing 310/740 [Jordan in 2010 from: ../../data/original_report/usgs_africa/Jordan_2010.pdf]
+
+2026-06-14 23:42:22.441849
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Jordan_2010_policy.txt. Execution time 0.16 seconds
+
+2026-06-14 23:42:22.443226
+PDF loaded. Processing 311/740 [Jordan in 2011 from: ../../data/original_report/usgs_africa/Jordan_2011.pdf]
+
+2026-06-14 23:42:22.585984
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Jordan_2011_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 23:42:22.588417
+PDF loaded. Processing 312/740 [Jordan in 2012 from: ../../data/original_report/usgs_africa/Jordan_2012.pdf]
+
+2026-06-14 23:42:22.781989
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Jordan_2012_policy.txt. Execution time 0.19 seconds
+
+2026-06-14 23:42:22.783689
+PDF loaded. Processing 313/740 [Jordan in 2013 from: ../../data/original_report/usgs_africa/Jordan_2013.pdf]
+
+2026-06-14 23:42:22.958958
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Jordan_2013_policy.txt. Execution time 0.18 seconds
+
+2026-06-14 23:42:22.960994
+PDF loaded. Processing 314/740 [Jordan in 2014 from: ../../data/original_report/usgs_africa/Jordan_2014.pdf]
+
+2026-06-14 23:42:23.139766
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Jordan_2014_policy.txt. Execution time 0.18 seconds
+
+2026-06-14 23:42:23.141363
+PDF loaded. Processing 315/740 [Jordan in 2015 from: ../../data/original_report/usgs_africa/Jordan_2015.pdf]
+
+2026-06-14 23:42:23.314793
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Jordan_2015_policy.txt. Execution time 0.17 seconds
+
+2026-06-14 23:42:23.316979
+PDF loaded. Processing 316/740 [Jordan in 2016 from: ../../data/original_report/usgs_africa/Jordan_2016.pdf]
+
+2026-06-14 23:42:23.453302
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Jordan_2016_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 23:42:23.454473
+PDF loaded. Processing 317/740 [Jordan in 2018 from: ../../data/original_report/usgs_africa/Jordan_2018.pdf]
+
+2026-06-14 23:42:23.622099
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Jordan_2018_policy.txt. Execution time 0.17 seconds
+
+2026-06-14 23:42:23.624566
+PDF loaded. Processing 318/740 [Jordan in 2019 from: ../../data/original_report/usgs_africa/Jordan_2019.pdf]
+
+2026-06-14 23:42:23.759289
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Jordan_2019_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 23:42:23.760673
+PDF loaded. Processing 319/740 [Jordan in 2021 from: ../../data/original_report/usgs_africa/Jordan_2021.pdf]
+
+2026-06-14 23:42:23.971062
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Jordan_2021_policy.txt. Execution time 0.21 seconds
+
+2026-06-14 23:42:23.973404
+PDF loaded. Processing 320/740 [Kenya in 2005 from: ../../data/original_report/usgs_africa/Kenya_2005.pdf]
+
+2026-06-14 23:42:24.152190
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Kenya_2005_policy.txt. Execution time 0.18 seconds
+
+2026-06-14 23:42:24.153985
+PDF loaded. Processing 321/740 [Kenya in 2006 from: ../../data/original_report/usgs_africa/Kenya_2006.pdf]
+
+2026-06-14 23:42:24.228434
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Kenya_2006_policy.txt. Execution time 0.07 seconds
+
+2026-06-14 23:42:24.229877
+PDF loaded. Processing 322/740 [Kenya in 2007 from: ../../data/original_report/usgs_africa/Kenya_2007.pdf]
+
+2026-06-14 23:42:24.323853
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Kenya_2007_policy.txt. Execution time 0.09 seconds
+
+2026-06-14 23:42:24.325306
+PDF loaded. Processing 323/740 [Kenya in 2008 from: ../../data/original_report/usgs_africa/Kenya_2008.pdf]
+
+2026-06-14 23:42:24.424858
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Kenya_2008_policy.txt. Execution time 0.10 seconds
+
+2026-06-14 23:42:24.426301
+PDF loaded. Processing 324/740 [Kenya in 2009 from: ../../data/original_report/usgs_africa/Kenya_2009.pdf]
+
+2026-06-14 23:42:24.535785
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Kenya_2009_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 23:42:24.538079
+PDF loaded. Processing 325/740 [Kenya in 2010 from: ../../data/original_report/usgs_africa/Kenya_2010.pdf]
+
+2026-06-14 23:42:24.656725
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Kenya_2010_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 23:42:24.657961
+PDF loaded. Processing 326/740 [Kenya in 2011 from: ../../data/original_report/usgs_africa/Kenya_2011.pdf]
+
+2026-06-14 23:42:24.755080
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Kenya_2011_policy.txt. Execution time 0.10 seconds
+
+2026-06-14 23:42:24.757026
+PDF loaded. Processing 327/740 [Kenya in 2012 from: ../../data/original_report/usgs_africa/Kenya_2012.pdf]
+
+2026-06-14 23:42:24.849130
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Kenya_2012_policy.txt. Execution time 0.09 seconds
+
+2026-06-14 23:42:24.850087
+PDF loaded. Processing 328/740 [Kenya in 2013 from: ../../data/original_report/usgs_africa/Kenya_2013.pdf]
+
+2026-06-14 23:42:24.931327
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Kenya_2013_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 23:42:24.932521
+PDF loaded. Processing 329/740 [Kenya in 2014 from: ../../data/original_report/usgs_africa/Kenya_2014.pdf]
+
+2026-06-14 23:42:25.050440
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Kenya_2014_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 23:42:25.051867
+PDF loaded. Processing 330/740 [Kenya in 2015 from: ../../data/original_report/usgs_africa/Kenya_2015.pdf]
+
+2026-06-14 23:42:25.167516
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Kenya_2015_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 23:42:25.169111
+PDF loaded. Processing 331/740 [Kenya in 2016 from: ../../data/original_report/usgs_africa/Kenya_2016.pdf]
+
+2026-06-14 23:42:25.341723
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Kenya_2016_policy.txt. Execution time 0.17 seconds
+
+2026-06-14 23:42:25.343270
+PDF loaded. Processing 332/740 [Kenya in 2018 from: ../../data/original_report/usgs_africa/Kenya_2018.pdf]
+
+2026-06-14 23:42:25.486794
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Kenya_2018_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 23:42:25.488198
+PDF loaded. Processing 333/740 [Kenya in 2019 from: ../../data/original_report/usgs_africa/Kenya_2019.pdf]
+
+2026-06-14 23:42:25.655627
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Kenya_2019_policy.txt. Execution time 0.17 seconds
+
+2026-06-14 23:42:25.658048
+PDF loaded. Processing 334/740 [Kuwait in 2005 from: ../../data/original_report/usgs_africa/Kuwait_2005.pdf]
+
+2026-06-14 23:42:25.736080
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Kuwait_2005_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 23:42:25.738328
+PDF loaded. Processing 335/740 [Kuwait in 2006 from: ../../data/original_report/usgs_africa/Kuwait_2006.pdf]
+
+2026-06-14 23:42:25.803051
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Kuwait_2006_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 23:42:25.804358
+PDF loaded. Processing 336/740 [Kuwait in 2007 from: ../../data/original_report/usgs_africa/Kuwait_2007.pdf]
+
+2026-06-14 23:42:25.853332
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Kuwait_2007_policy.txt. Execution time 0.05 seconds
+
+2026-06-14 23:42:25.854861
+PDF loaded. Processing 337/740 [Kuwait in 2008 from: ../../data/original_report/usgs_africa/Kuwait_2008.pdf]
+
+2026-06-14 23:42:25.944224
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Kuwait_2008_policy.txt. Execution time 0.09 seconds
+
+2026-06-14 23:42:25.945754
+PDF loaded. Processing 338/740 [Kuwait in 2009 from: ../../data/original_report/usgs_africa/Kuwait_2009.pdf]
+
+2026-06-14 23:42:26.005059
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Kuwait_2009_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 23:42:26.006015
+PDF loaded. Processing 339/740 [Kuwait in 2010 from: ../../data/original_report/usgs_africa/Kuwait_2010.pdf]
+
+2026-06-14 23:42:26.062695
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Kuwait_2010_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 23:42:26.064063
+PDF loaded. Processing 340/740 [Kuwait in 2011 from: ../../data/original_report/usgs_africa/Kuwait_2011.pdf]
+
+2026-06-14 23:42:26.126601
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Kuwait_2011_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 23:42:26.127594
+PDF loaded. Processing 341/740 [Kuwait in 2012 from: ../../data/original_report/usgs_africa/Kuwait_2012.pdf]
+
+2026-06-14 23:42:26.192131
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Kuwait_2012_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 23:42:26.194485
+PDF loaded. Processing 342/740 [Kuwait in 2013 from: ../../data/original_report/usgs_africa/Kuwait_2013.pdf]
+
+2026-06-14 23:42:26.276099
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Kuwait_2013_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 23:42:26.277191
+PDF loaded. Processing 343/740 [Kuwait in 2014 from: ../../data/original_report/usgs_africa/Kuwait_2014.pdf]
+
+2026-06-14 23:42:26.421226
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Kuwait_2014_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 23:42:26.423033
+PDF loaded. Processing 344/740 [Kuwait in 2015 from: ../../data/original_report/usgs_africa/Kuwait_2015.pdf]
+
+2026-06-14 23:42:26.553513
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Kuwait_2015_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 23:42:26.554704
+PDF loaded. Processing 345/740 [Kuwait in 2016 from: ../../data/original_report/usgs_africa/Kuwait_2016.pdf]
+
+2026-06-14 23:42:26.610832
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Kuwait_2016_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 23:42:26.612293
+PDF loaded. Processing 346/740 [Kuwait in 2018 from: ../../data/original_report/usgs_africa/Kuwait_2018.pdf]
+
+2026-06-14 23:42:26.633902
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:42:26.635914
+PDF loaded. Processing 347/740 [Kuwait in 2019 from: ../../data/original_report/usgs_africa/Kuwait_2019.pdf]
+
+2026-06-14 23:42:26.657952
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:42:26.659574
+PDF loaded. Processing 348/740 [Kuwait in 2021 from: ../../data/original_report/usgs_africa/Kuwait_2021.pdf]
+
+2026-06-14 23:42:26.776433
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Kuwait_2021_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 23:42:26.777887
+PDF loaded. Processing 349/740 [Lebanon in 2005 from: ../../data/original_report/usgs_africa/Lebanon_2005.pdf]
+
+2026-06-14 23:42:26.849620
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Lebanon_2005_policy.txt. Execution time 0.07 seconds
+
+2026-06-14 23:42:26.851389
+PDF loaded. Processing 350/740 [Lebanon in 2006 from: ../../data/original_report/usgs_africa/Lebanon_2006.pdf]
+
+2026-06-14 23:42:26.898282
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Lebanon_2006_policy.txt. Execution time 0.05 seconds
+
+2026-06-14 23:42:26.899630
+PDF loaded. Processing 351/740 [Lebanon in 2007 from: ../../data/original_report/usgs_africa/Lebanon_2007.pdf]
+
+2026-06-14 23:42:26.956924
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Lebanon_2007_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 23:42:26.958361
+PDF loaded. Processing 352/740 [Lebanon in 2008 from: ../../data/original_report/usgs_africa/Lebanon_2008.pdf]
+
+2026-06-14 23:42:27.052435
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Lebanon_2008_policy.txt. Execution time 0.09 seconds
+
+2026-06-14 23:42:27.053354
+PDF loaded. Processing 353/740 [Lebanon in 2009 from: ../../data/original_report/usgs_africa/Lebanon_2009.pdf]
+
+2026-06-14 23:42:27.118139
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Lebanon_2009_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 23:42:27.120748
+PDF loaded. Processing 354/740 [Lebanon in 2010 from: ../../data/original_report/usgs_africa/Lebanon_2010.pdf]
+
+2026-06-14 23:42:27.207255
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Lebanon_2010_policy.txt. Execution time 0.09 seconds
+
+2026-06-14 23:42:27.208635
+PDF loaded. Processing 355/740 [Lebanon in 2011 from: ../../data/original_report/usgs_africa/Lebanon_2011.pdf]
+
+2026-06-14 23:42:27.296449
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Lebanon_2011_policy.txt. Execution time 0.09 seconds
+
+2026-06-14 23:42:27.298471
+PDF loaded. Processing 356/740 [Lebanon in 2012 from: ../../data/original_report/usgs_africa/Lebanon_2012.pdf]
+
+2026-06-14 23:42:27.412445
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Lebanon_2012_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 23:42:27.414881
+PDF loaded. Processing 357/740 [Lebanon in 2013 from: ../../data/original_report/usgs_africa/Lebanon_2013.pdf]
+
+2026-06-14 23:42:27.525498
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Lebanon_2013_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 23:42:27.526950
+PDF loaded. Processing 358/740 [Lebanon in 2014 from: ../../data/original_report/usgs_africa/Lebanon_2014.pdf]
+
+2026-06-14 23:42:27.681434
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Lebanon_2014_policy.txt. Execution time 0.15 seconds
+
+2026-06-14 23:42:27.684087
+PDF loaded. Processing 359/740 [Lebanon in 2015 from: ../../data/original_report/usgs_africa/Lebanon_2015.pdf]
+
+2026-06-14 23:42:27.816811
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Lebanon_2015_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 23:42:27.817805
+PDF loaded. Processing 360/740 [Lebanon in 2016 from: ../../data/original_report/usgs_africa/Lebanon_2016.pdf]
+
+2026-06-14 23:42:27.833001
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:42:27.834097
+PDF loaded. Processing 361/740 [Lebanon in 2018 from: ../../data/original_report/usgs_africa/Lebanon_2018.pdf]
+
+2026-06-14 23:42:27.850388
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:42:27.851879
+PDF loaded. Processing 362/740 [Lebanon in 2019 from: ../../data/original_report/usgs_africa/Lebanon_2019.pdf]
+
+2026-06-14 23:42:27.869595
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:42:27.870904
+PDF loaded. Processing 363/740 [Lebanon in 2021 from: ../../data/original_report/usgs_africa/Lebanon_2021.pdf]
+
+2026-06-14 23:42:27.982952
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Lebanon_2021_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 23:42:27.984403
+PDF loaded. Processing 364/740 [Lesotho in 2005 from: ../../data/original_report/usgs_africa/Lesotho_2005.pdf]
+
+2026-06-14 23:42:27.999848
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:42:28.001137
+PDF loaded. Processing 365/740 [Lesotho in 2014 from: ../../data/original_report/usgs_africa/Lesotho_2014.pdf]
+
+2026-06-14 23:42:28.105581
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Lesotho_2014_policy.txt. Execution time 0.10 seconds
+
+2026-06-14 23:42:28.107014
+PDF loaded. Processing 366/740 [Lesotho in 2015 from: ../../data/original_report/usgs_africa/Lesotho_2015.pdf]
+
+2026-06-14 23:42:28.170416
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Lesotho_2015_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 23:42:28.171396
+PDF loaded. Processing 367/740 [Lesotho in 2016 from: ../../data/original_report/usgs_africa/Lesotho_2016.pdf]
+
+2026-06-14 23:42:28.224721
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Lesotho_2016_policy.txt. Execution time 0.05 seconds
+
+2026-06-14 23:42:28.227105
+PDF loaded. Processing 368/740 [Lesotho in 2018 from: ../../data/original_report/usgs_africa/Lesotho_2018.pdf]
+
+2026-06-14 23:42:28.244116
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:42:28.245482
+PDF loaded. Processing 369/740 [Lesotho in 2019 from: ../../data/original_report/usgs_africa/Lesotho_2019.pdf]
+
+2026-06-14 23:42:28.267529
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:42:28.269032
+PDF loaded. Processing 370/740 [Liberia in 2005 from: ../../data/original_report/usgs_africa/Liberia_2005.pdf]
+
+2026-06-14 23:42:28.291304
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:42:28.292788
+PDF loaded. Processing 371/740 [Liberia in 2008 from: ../../data/original_report/usgs_africa/Liberia_2008.pdf]
+
+2026-06-14 23:42:28.454958
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Liberia_2008_policy.txt. Execution time 0.16 seconds
+
+2026-06-14 23:42:28.456516
+PDF loaded. Processing 372/740 [Liberia in 2009 from: ../../data/original_report/usgs_africa/Liberia_2009.pdf]
+
+2026-06-14 23:42:28.561193
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Liberia_2009_policy.txt. Execution time 0.10 seconds
+
+2026-06-14 23:42:28.562179
+PDF loaded. Processing 373/740 [Liberia in 2010 from: ../../data/original_report/usgs_africa/Liberia_2010.pdf]
+
+2026-06-14 23:42:28.671541
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Liberia_2010_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 23:42:28.672858
+PDF loaded. Processing 374/740 [Liberia in 2011 from: ../../data/original_report/usgs_africa/Liberia_2011.pdf]
+
+2026-06-14 23:42:28.790542
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Liberia_2011_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 23:42:28.791889
+PDF loaded. Processing 375/740 [Liberia in 2012 from: ../../data/original_report/usgs_africa/Liberia_2012.pdf]
+
+2026-06-14 23:42:28.923406
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Liberia_2012_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 23:42:28.925791
+PDF loaded. Processing 376/740 [Liberia in 2013 from: ../../data/original_report/usgs_africa/Liberia_2013.pdf]
+
+2026-06-14 23:42:29.047321
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Liberia_2013_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 23:42:29.049584
+PDF loaded. Processing 377/740 [Liberia in 2014 from: ../../data/original_report/usgs_africa/Liberia_2014.pdf]
+
+2026-06-14 23:42:29.242642
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Liberia_2014_policy.txt. Execution time 0.19 seconds
+
+2026-06-14 23:42:29.244036
+PDF loaded. Processing 378/740 [Liberia in 2015 from: ../../data/original_report/usgs_africa/Liberia_2015.pdf]
+
+2026-06-14 23:42:29.365207
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Liberia_2015_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 23:42:29.366893
+PDF loaded. Processing 379/740 [Liberia in 2016 from: ../../data/original_report/usgs_africa/Liberia_2016.pdf]
+
+2026-06-14 23:42:29.383425
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:42:29.384927
+PDF loaded. Processing 380/740 [Liberia in 2018 from: ../../data/original_report/usgs_africa/Liberia_2018.pdf]
+
+2026-06-14 23:42:29.397683
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.01 seconds
+
+2026-06-14 23:42:29.398600
+PDF loaded. Processing 381/740 [Liberia in 2019 from: ../../data/original_report/usgs_africa/Liberia_2019.pdf]
+
+2026-06-14 23:42:29.509222
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Liberia_2019_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 23:42:29.510966
+PDF loaded. Processing 382/740 [Libya in 2005 from: ../../data/original_report/usgs_africa/Libya_2005.pdf]
+
+2026-06-14 23:42:29.590134
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Libya_2005_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 23:42:29.591597
+PDF loaded. Processing 383/740 [Libya in 2006 from: ../../data/original_report/usgs_africa/Libya_2006.pdf]
+
+2026-06-14 23:42:29.632603
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Libya_2006_policy.txt. Execution time 0.04 seconds
+
+2026-06-14 23:42:29.633626
+PDF loaded. Processing 384/740 [Libya in 2007 from: ../../data/original_report/usgs_africa/Libya_2007.pdf]
+
+2026-06-14 23:42:29.763802
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Libya_2007_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 23:42:29.766459
+PDF loaded. Processing 385/740 [Libya in 2008 from: ../../data/original_report/usgs_africa/Libya_2008.pdf]
+
+2026-06-14 23:42:29.905505
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Libya_2008_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 23:42:29.906980
+PDF loaded. Processing 386/740 [Libya in 2009 from: ../../data/original_report/usgs_africa/Libya_2009.pdf]
+
+2026-06-14 23:42:30.038112
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Libya_2009_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 23:42:30.040286
+PDF loaded. Processing 387/740 [Libya in 2010 from: ../../data/original_report/usgs_africa/Libya_2010.pdf]
+
+2026-06-14 23:42:30.179115
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Libya_2010_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 23:42:30.180610
+PDF loaded. Processing 388/740 [Libya in 2011 from: ../../data/original_report/usgs_africa/Libya_2011.pdf]
+
+2026-06-14 23:42:30.315413
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Libya_2011_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 23:42:30.317427
+PDF loaded. Processing 389/740 [Libya in 2012 from: ../../data/original_report/usgs_africa/Libya_2012.pdf]
+
+2026-06-14 23:42:30.433412
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Libya_2012_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 23:42:30.434423
+PDF loaded. Processing 390/740 [Libya in 2013 from: ../../data/original_report/usgs_africa/Libya_2013.pdf]
+
+2026-06-14 23:42:30.607278
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Libya_2013_policy.txt. Execution time 0.17 seconds
+
+2026-06-14 23:42:30.609679
+PDF loaded. Processing 391/740 [Libya in 2014 from: ../../data/original_report/usgs_africa/Libya_2014.pdf]
+
+2026-06-14 23:42:30.793794
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Libya_2014_policy.txt. Execution time 0.18 seconds
+
+2026-06-14 23:42:30.794780
+PDF loaded. Processing 392/740 [Libya in 2015 from: ../../data/original_report/usgs_africa/Libya_2015.pdf]
+
+2026-06-14 23:42:30.919340
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Libya_2015_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 23:42:30.921006
+PDF loaded. Processing 393/740 [Libya in 2016 from: ../../data/original_report/usgs_africa/Libya_2016.pdf]
+
+2026-06-14 23:42:30.936983
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:42:30.938528
+PDF loaded. Processing 394/740 [Libya in 2018 from: ../../data/original_report/usgs_africa/Libya_2018.pdf]
+
+2026-06-14 23:42:30.957509
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:42:30.958877
+PDF loaded. Processing 395/740 [Libya in 2019 from: ../../data/original_report/usgs_africa/Libya_2019.pdf]
+
+2026-06-14 23:42:31.120995
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Libya_2019_policy.txt. Execution time 0.16 seconds
+
+2026-06-14 23:42:31.122341
+PDF loaded. Processing 396/740 [Libya in 2021 from: ../../data/original_report/usgs_africa/Libya_2021.pdf]
+
+2026-06-14 23:42:31.323312
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Libya_2021_policy.txt. Execution time 0.20 seconds
+
+2026-06-14 23:42:31.324853
+PDF loaded. Processing 397/740 [Madagascar in 2005 from: ../../data/original_report/usgs_africa/Madagascar_2005.pdf]
+
+2026-06-14 23:42:31.547432
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Madagascar_2005_policy.txt. Execution time 0.22 seconds
+
+2026-06-14 23:42:31.550336
+PDF loaded. Processing 398/740 [Madagascar in 2006 from: ../../data/original_report/usgs_africa/Madagascar_2006.pdf]
+
+2026-06-14 23:42:31.678114
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Madagascar_2006_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 23:42:31.680170
+PDF loaded. Processing 399/740 [Madagascar in 2007 from: ../../data/original_report/usgs_africa/Madagascar_2007.pdf]
+
+2026-06-14 23:42:31.819662
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Madagascar_2007_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 23:42:31.822021
+PDF loaded. Processing 400/740 [Madagascar in 2008 from: ../../data/original_report/usgs_africa/Madagascar_2008.pdf]
+
+2026-06-14 23:42:31.948734
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Madagascar_2008_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 23:42:31.949892
+PDF loaded. Processing 401/740 [Madagascar in 2009 from: ../../data/original_report/usgs_africa/Madagascar_2009.pdf]
+
+2026-06-14 23:42:32.082671
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Madagascar_2009_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 23:42:32.085486
+PDF loaded. Processing 402/740 [Madagascar in 2010 from: ../../data/original_report/usgs_africa/Madagascar_2010.pdf]
+
+2026-06-14 23:42:32.243978
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Madagascar_2010_policy.txt. Execution time 0.16 seconds
+
+2026-06-14 23:42:32.244890
+PDF loaded. Processing 403/740 [Madagascar in 2011 from: ../../data/original_report/usgs_africa/Madagascar_2011.pdf]
+
+2026-06-14 23:42:32.359069
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Madagascar_2011_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 23:42:32.360918
+PDF loaded. Processing 404/740 [Madagascar in 2012 from: ../../data/original_report/usgs_africa/Madagascar_2012.pdf]
+
+2026-06-14 23:42:32.512518
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Madagascar_2012_policy.txt. Execution time 0.15 seconds
+
+2026-06-14 23:42:32.514304
+PDF loaded. Processing 405/740 [Madagascar in 2013 from: ../../data/original_report/usgs_africa/Madagascar_2013.pdf]
+
+2026-06-14 23:42:32.663278
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Madagascar_2013_policy.txt. Execution time 0.15 seconds
+
+2026-06-14 23:42:32.665506
+PDF loaded. Processing 406/740 [Madagascar in 2014 from: ../../data/original_report/usgs_africa/Madagascar_2014.pdf]
+
+2026-06-14 23:42:32.788342
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Madagascar_2014_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 23:42:32.789343
+PDF loaded. Processing 407/740 [Madagascar in 2015 from: ../../data/original_report/usgs_africa/Madagascar_2015.pdf]
+
+2026-06-14 23:42:32.936648
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Madagascar_2015_policy.txt. Execution time 0.15 seconds
+
+2026-06-14 23:42:32.938239
+PDF loaded. Processing 408/740 [Madagascar in 2016 from: ../../data/original_report/usgs_africa/Madagascar_2016.pdf]
+
+2026-06-14 23:42:33.063246
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Madagascar_2016_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 23:42:33.065338
+PDF loaded. Processing 409/740 [Madagascar in 2018 from: ../../data/original_report/usgs_africa/Madagascar_2018.pdf]
+
+2026-06-14 23:42:33.258244
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Madagascar_2018_policy.txt. Execution time 0.19 seconds
+
+2026-06-14 23:42:33.259739
+PDF loaded. Processing 410/740 [Madagascar in 2019 from: ../../data/original_report/usgs_africa/Madagascar_2019.pdf]
+
+2026-06-14 23:42:33.462194
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Madagascar_2019_policy.txt. Execution time 0.20 seconds
+
+2026-06-14 23:42:33.464465
+PDF loaded. Processing 411/740 [Malawi in 2005 from: ../../data/original_report/usgs_africa/Malawi_2005.pdf]
+
+2026-06-14 23:42:33.570204
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Malawi_2005_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 23:42:33.571988
+PDF loaded. Processing 412/740 [Malawi in 2006 from: ../../data/original_report/usgs_africa/Malawi_2006.pdf]
+
+2026-06-14 23:42:33.617295
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Malawi_2006_policy.txt. Execution time 0.05 seconds
+
+2026-06-14 23:42:33.618289
+PDF loaded. Processing 413/740 [Malawi in 2007 from: ../../data/original_report/usgs_africa/Malawi_2007.pdf]
+
+2026-06-14 23:42:33.660185
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Malawi_2007_policy.txt. Execution time 0.04 seconds
+
+2026-06-14 23:42:33.661131
+PDF loaded. Processing 414/740 [Malawi in 2008 from: ../../data/original_report/usgs_africa/Malawi_2008.pdf]
+
+2026-06-14 23:42:33.717418
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Malawi_2008_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 23:42:33.718416
+PDF loaded. Processing 415/740 [Malawi in 2009 from: ../../data/original_report/usgs_africa/Malawi_2009.pdf]
+
+2026-06-14 23:42:33.810730
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Malawi_2009_policy.txt. Execution time 0.09 seconds
+
+2026-06-14 23:42:33.812453
+PDF loaded. Processing 416/740 [Malawi in 2010 from: ../../data/original_report/usgs_africa/Malawi_2010.pdf]
+
+2026-06-14 23:42:33.872306
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Malawi_2010_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 23:42:33.873272
+PDF loaded. Processing 417/740 [Malawi in 2011 from: ../../data/original_report/usgs_africa/Malawi_2011.pdf]
+
+2026-06-14 23:42:33.942742
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Malawi_2011_policy.txt. Execution time 0.07 seconds
+
+2026-06-14 23:42:33.944039
+PDF loaded. Processing 418/740 [Malawi in 2012 from: ../../data/original_report/usgs_africa/Malawi_2012.pdf]
+
+2026-06-14 23:42:34.041841
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Malawi_2012_policy.txt. Execution time 0.10 seconds
+
+2026-06-14 23:42:34.043643
+PDF loaded. Processing 419/740 [Malawi in 2013 from: ../../data/original_report/usgs_africa/Malawi_2013.pdf]
+
+2026-06-14 23:42:34.146221
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Malawi_2013_policy.txt. Execution time 0.10 seconds
+
+2026-06-14 23:42:34.148016
+PDF loaded. Processing 420/740 [Malawi in 2014 from: ../../data/original_report/usgs_africa/Malawi_2014.pdf]
+
+2026-06-14 23:42:34.223735
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Malawi_2014_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 23:42:34.224859
+PDF loaded. Processing 421/740 [Malawi in 2015 from: ../../data/original_report/usgs_africa/Malawi_2015.pdf]
+
+2026-06-14 23:42:34.345535
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Malawi_2015_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 23:42:34.348358
+PDF loaded. Processing 422/740 [Malawi in 2016 from: ../../data/original_report/usgs_africa/Malawi_2016.pdf]
+
+2026-06-14 23:42:34.365958
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:42:34.367442
+PDF loaded. Processing 423/740 [Malawi in 2018 from: ../../data/original_report/usgs_africa/Malawi_2018.pdf]
+
+2026-06-14 23:42:34.385090
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:42:34.386662
+PDF loaded. Processing 424/740 [Malawi in 2019 from: ../../data/original_report/usgs_africa/Malawi_2019.pdf]
+
+2026-06-14 23:42:34.500802
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Malawi_2019_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 23:42:34.502634
+PDF loaded. Processing 425/740 [Mali in 2006 from: ../../data/original_report/usgs_africa/Mali_2006.pdf]
+
+2026-06-14 23:42:34.680137
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Mali_2006_policy.txt. Execution time 0.18 seconds
+
+2026-06-14 23:42:34.681963
+PDF loaded. Processing 426/740 [Mali in 2018 from: ../../data/original_report/usgs_africa/Mali_2018.pdf]
+
+2026-06-14 23:42:34.691678
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.01 seconds
+
+2026-06-14 23:42:34.692925
+PDF loaded. Processing 427/740 [Mali in 2019 from: ../../data/original_report/usgs_africa/Mali_2019.pdf]
+
+2026-06-14 23:42:34.707756
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.01 seconds
+
+2026-06-14 23:42:34.708769
+PDF loaded. Processing 428/740 [Mauritania in 2008 from: ../../data/original_report/usgs_africa/Mauritania_2008.pdf]
+
+2026-06-14 23:42:34.799180
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Mauritania_2008_policy.txt. Execution time 0.09 seconds
+
+2026-06-14 23:42:34.800214
+PDF loaded. Processing 429/740 [Mauritania in 2009 from: ../../data/original_report/usgs_africa/Mauritania_2009.pdf]
+
+2026-06-14 23:42:34.953335
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Mauritania_2009_policy.txt. Execution time 0.15 seconds
+
+2026-06-14 23:42:34.955102
+PDF loaded. Processing 430/740 [Mauritania in 2010 from: ../../data/original_report/usgs_africa/Mauritania_2010.pdf]
+
+2026-06-14 23:42:35.088189
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Mauritania_2010_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 23:42:35.089701
+PDF loaded. Processing 431/740 [Mauritania in 2011 from: ../../data/original_report/usgs_africa/Mauritania_2011.pdf]
+
+2026-06-14 23:42:35.265095
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Mauritania_2011_policy.txt. Execution time 0.18 seconds
+
+2026-06-14 23:42:35.267288
+PDF loaded. Processing 432/740 [Mauritania in 2012 from: ../../data/original_report/usgs_africa/Mauritania_2012.pdf]
+
+2026-06-14 23:42:35.435416
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Mauritania_2012_policy.txt. Execution time 0.17 seconds
+
+2026-06-14 23:42:35.436960
+PDF loaded. Processing 433/740 [Mauritania in 2013 from: ../../data/original_report/usgs_africa/Mauritania_2013.pdf]
+
+2026-06-14 23:42:35.634667
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Mauritania_2013_policy.txt. Execution time 0.20 seconds
+
+2026-06-14 23:42:35.636843
+PDF loaded. Processing 434/740 [Mauritania in 2014 from: ../../data/original_report/usgs_africa/Mauritania_2014.pdf]
+
+2026-06-14 23:42:35.854539
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Mauritania_2014_policy.txt. Execution time 0.22 seconds
+
+2026-06-14 23:42:35.856840
+PDF loaded. Processing 435/740 [Mauritania in 2015 from: ../../data/original_report/usgs_africa/Mauritania_2015.pdf]
+
+2026-06-14 23:42:36.037637
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Mauritania_2015_policy.txt. Execution time 0.18 seconds
+
+2026-06-14 23:42:36.038640
+PDF loaded. Processing 436/740 [Mauritania in 2016 from: ../../data/original_report/usgs_africa/Mauritania_2016.pdf]
+
+2026-06-14 23:42:36.214804
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Mauritania_2016_policy.txt. Execution time 0.18 seconds
+
+2026-06-14 23:42:36.216176
+PDF loaded. Processing 437/740 [Mauritania in 2018 from: ../../data/original_report/usgs_africa/Mauritania_2018.pdf]
+
+2026-06-14 23:42:36.453763
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Mauritania_2018_policy.txt. Execution time 0.24 seconds
+
+2026-06-14 23:42:36.455992
+PDF loaded. Processing 438/740 [Mauritania in 2019 from: ../../data/original_report/usgs_africa/Mauritania_2019.pdf]
+
+2026-06-14 23:42:36.626439
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Mauritania_2019_policy.txt. Execution time 0.17 seconds
+
+2026-06-14 23:42:36.627952
+PDF loaded. Processing 439/740 [Mauritius in 2014 from: ../../data/original_report/usgs_africa/Mauritius_2014.pdf]
+
+2026-06-14 23:42:36.650508
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:42:36.651976
+PDF loaded. Processing 440/740 [Morocco in 2005 from: ../../data/original_report/usgs_africa/Morocco_2005.pdf]
+
+2026-06-14 23:42:36.780786
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Morocco_2005_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 23:42:36.782219
+PDF loaded. Processing 441/740 [Morocco in 2006 from: ../../data/original_report/usgs_africa/Morocco_2006.pdf]
+
+2026-06-14 23:42:36.882683
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Morocco_2006_policy.txt. Execution time 0.10 seconds
+
+2026-06-14 23:42:36.884411
+PDF loaded. Processing 442/740 [Morocco in 2007 from: ../../data/original_report/usgs_africa/Morocco_2007.pdf]
+
+2026-06-14 23:42:37.041354
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Morocco_2007_policy.txt. Execution time 0.16 seconds
+
+2026-06-14 23:42:37.043885
+PDF loaded. Processing 443/740 [Morocco in 2008 from: ../../data/original_report/usgs_africa/Morocco_2008.pdf]
+
+2026-06-14 23:42:37.213278
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Morocco_2008_policy.txt. Execution time 0.17 seconds
+
+2026-06-14 23:42:37.215222
+PDF loaded. Processing 444/740 [Morocco in 2009 from: ../../data/original_report/usgs_africa/Morocco_2009.pdf]
+
+2026-06-14 23:42:37.453735
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Morocco_2009_policy.txt. Execution time 0.24 seconds
+
+2026-06-14 23:42:37.456029
+PDF loaded. Processing 445/740 [Morocco in 2010 from: ../../data/original_report/usgs_africa/Morocco_2010.pdf]
+
+2026-06-14 23:42:37.644289
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Morocco_2010_policy.txt. Execution time 0.19 seconds
+
+2026-06-14 23:42:37.646159
+PDF loaded. Processing 446/740 [Morocco in 2011 from: ../../data/original_report/usgs_africa/Morocco_2011.pdf]
+
+2026-06-14 23:42:37.804367
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Morocco_2011_policy.txt. Execution time 0.16 seconds
+
+2026-06-14 23:42:37.805656
+PDF loaded. Processing 447/740 [Morocco in 2012 from: ../../data/original_report/usgs_africa/Morocco_2012.pdf]
+
+2026-06-14 23:42:37.918175
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Morocco_2012_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 23:42:37.919194
+PDF loaded. Processing 448/740 [Morocco in 2013 from: ../../data/original_report/usgs_africa/Morocco_2013.pdf]
+
+2026-06-14 23:42:38.197024
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Morocco_2013_policy.txt. Execution time 0.28 seconds
+
+2026-06-14 23:42:38.198629
+PDF loaded. Processing 449/740 [Morocco in 2014 from: ../../data/original_report/usgs_africa/Morocco_2014.pdf]
+
+2026-06-14 23:42:38.472921
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Morocco_2014_policy.txt. Execution time 0.27 seconds
+
+2026-06-14 23:42:38.475465
+PDF loaded. Processing 450/740 [Morocco in 2015 from: ../../data/original_report/usgs_africa/Morocco_2015.pdf]
+
+2026-06-14 23:42:38.760449
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Morocco_2015_policy.txt. Execution time 0.28 seconds
+
+2026-06-14 23:42:38.761979
+PDF loaded. Processing 451/740 [Morocco in 2016 from: ../../data/original_report/usgs_africa/Morocco_2016.pdf]
+
+2026-06-14 23:42:39.025591
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Morocco_2016_policy.txt. Execution time 0.26 seconds
+
+2026-06-14 23:42:39.027546
+PDF loaded. Processing 452/740 [Morocco in 2018 from: ../../data/original_report/usgs_africa/Morocco_2018.pdf]
+
+2026-06-14 23:42:39.339265
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Morocco_2018_policy.txt. Execution time 0.31 seconds
+
+2026-06-14 23:42:39.341428
+PDF loaded. Processing 453/740 [Morocco in 2019 from: ../../data/original_report/usgs_africa/Morocco_2019.pdf]
+
+2026-06-14 23:42:39.617586
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Morocco_2019_policy.txt. Execution time 0.28 seconds
+
+2026-06-14 23:42:39.619233
+PDF loaded. Processing 454/740 [Morocco in 2021 from: ../../data/original_report/usgs_africa/Morocco_2021.pdf]
+
+2026-06-14 23:42:39.915607
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Morocco_2021_policy.txt. Execution time 0.30 seconds
+
+2026-06-14 23:42:39.917491
+PDF loaded. Processing 455/740 [Mozambique in 2005 from: ../../data/original_report/usgs_africa/Mozambique_2005.pdf]
+
+2026-06-14 23:42:40.133059
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Mozambique_2005_policy.txt. Execution time 0.22 seconds
+
+2026-06-14 23:42:40.180573
+PDF loaded. Processing 456/740 [Mozambique in 2006 from: ../../data/original_report/usgs_africa/Mozambique_2006.pdf]
+
+2026-06-14 23:42:40.323698
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Mozambique_2006_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 23:42:40.367167
+PDF loaded. Processing 457/740 [Mozambique in 2007 from: ../../data/original_report/usgs_africa/Mozambique_2007.pdf]
+
+2026-06-14 23:42:40.518577
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Mozambique_2007_policy.txt. Execution time 0.15 seconds
+
+2026-06-14 23:42:40.562742
+PDF loaded. Processing 458/740 [Mozambique in 2008 from: ../../data/original_report/usgs_africa/Mozambique_2008.pdf]
+
+2026-06-14 23:42:40.740785
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Mozambique_2008_policy.txt. Execution time 0.18 seconds
+
+2026-06-14 23:42:40.769534
+PDF loaded. Processing 459/740 [Mozambique in 2009 from: ../../data/original_report/usgs_africa/Mozambique_2009.pdf]
+
+2026-06-14 23:42:40.940841
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Mozambique_2009_policy.txt. Execution time 0.17 seconds
+
+2026-06-14 23:42:40.977912
+PDF loaded. Processing 460/740 [Mozambique in 2010 from: ../../data/original_report/usgs_africa/Mozambique_2010.pdf]
+
+2026-06-14 23:42:41.155688
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Mozambique_2010_policy.txt. Execution time 0.18 seconds
+
+2026-06-14 23:42:41.197725
+PDF loaded. Processing 461/740 [Mozambique in 2011 from: ../../data/original_report/usgs_africa/Mozambique_2011.pdf]
+
+2026-06-14 23:42:41.327276
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Mozambique_2011_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 23:42:41.368593
+PDF loaded. Processing 462/740 [Mozambique in 2012 from: ../../data/original_report/usgs_africa/Mozambique_2012.pdf]
+
+2026-06-14 23:42:41.556996
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Mozambique_2012_policy.txt. Execution time 0.19 seconds
+
+2026-06-14 23:42:41.585144
+PDF loaded. Processing 463/740 [Mozambique in 2013 from: ../../data/original_report/usgs_africa/Mozambique_2013.pdf]
+
+2026-06-14 23:42:41.799220
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Mozambique_2013_policy.txt. Execution time 0.21 seconds
+
+2026-06-14 23:42:41.840349
+PDF loaded. Processing 464/740 [Mozambique in 2014 from: ../../data/original_report/usgs_africa/Mozambique_2014.pdf]
+
+2026-06-14 23:42:42.040364
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Mozambique_2014_policy.txt. Execution time 0.20 seconds
+
+2026-06-14 23:42:42.067758
+PDF loaded. Processing 465/740 [Mozambique in 2015 from: ../../data/original_report/usgs_africa/Mozambique_2015.pdf]
+
+2026-06-14 23:42:42.331575
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Mozambique_2015_policy.txt. Execution time 0.26 seconds
+
+2026-06-14 23:42:42.379348
+PDF loaded. Processing 466/740 [Mozambique in 2016 from: ../../data/original_report/usgs_africa/Mozambique_2016.pdf]
+
+2026-06-14 23:42:42.581193
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Mozambique_2016_policy.txt. Execution time 0.20 seconds
+
+2026-06-14 23:42:42.608522
+PDF loaded. Processing 467/740 [Mozambique in 2018 from: ../../data/original_report/usgs_africa/Mozambique_2018.pdf]
+
+2026-06-14 23:42:42.820135
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Mozambique_2018_policy.txt. Execution time 0.21 seconds
+
+2026-06-14 23:42:42.842280
+PDF loaded. Processing 468/740 [Mozambique in 2019 from: ../../data/original_report/usgs_africa/Mozambique_2019.pdf]
+
+2026-06-14 23:42:43.015859
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Mozambique_2019_policy.txt. Execution time 0.17 seconds
+
+2026-06-14 23:42:43.052671
+PDF loaded. Processing 469/740 [Namibia in 2005 from: ../../data/original_report/usgs_africa/Namibia_2005.pdf]
+
+2026-06-14 23:42:43.141351
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Namibia_2005_policy.txt. Execution time 0.09 seconds
+
+2026-06-14 23:42:43.173970
+PDF loaded. Processing 470/740 [Namibia in 2006 from: ../../data/original_report/usgs_africa/Namibia_2006.pdf]
+
+2026-06-14 23:42:43.279803
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Namibia_2006_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 23:42:43.307028
+PDF loaded. Processing 471/740 [Namibia in 2007 from: ../../data/original_report/usgs_africa/Namibia_2007.pdf]
+
+2026-06-14 23:42:43.426080
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Namibia_2007_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 23:42:43.462668
+PDF loaded. Processing 472/740 [Namibia in 2008 from: ../../data/original_report/usgs_africa/Namibia_2008.pdf]
+
+2026-06-14 23:42:43.482738
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:42:43.519718
+PDF loaded. Processing 473/740 [Namibia in 2009 from: ../../data/original_report/usgs_africa/Namibia_2009.pdf]
+
+2026-06-14 23:42:43.676416
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Namibia_2009_policy.txt. Execution time 0.16 seconds
+
+2026-06-14 23:42:43.693965
+PDF loaded. Processing 474/740 [Namibia in 2010 from: ../../data/original_report/usgs_africa/Namibia_2010.pdf]
+
+2026-06-14 23:42:43.906133
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Namibia_2010_policy.txt. Execution time 0.21 seconds
+
+2026-06-14 23:42:43.935930
+PDF loaded. Processing 475/740 [Namibia in 2011 from: ../../data/original_report/usgs_africa/Namibia_2011.pdf]
+
+2026-06-14 23:42:44.094686
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Namibia_2011_policy.txt. Execution time 0.16 seconds
+
+2026-06-14 23:42:44.134469
+PDF loaded. Processing 476/740 [Namibia in 2012 from: ../../data/original_report/usgs_africa/Namibia_2012.pdf]
+
+2026-06-14 23:42:44.307310
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Namibia_2012_policy.txt. Execution time 0.17 seconds
+
+2026-06-14 23:42:44.334603
+PDF loaded. Processing 477/740 [Namibia in 2013 from: ../../data/original_report/usgs_africa/Namibia_2013.pdf]
+
+2026-06-14 23:42:44.390294
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Namibia_2013_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 23:42:44.432790
+PDF loaded. Processing 478/740 [Namibia in 2016 from: ../../data/original_report/usgs_africa/Namibia_2016.pdf]
+
+2026-06-14 23:42:44.585972
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Namibia_2016_policy.txt. Execution time 0.15 seconds
+
+2026-06-14 23:42:44.618947
+PDF loaded. Processing 479/740 [Namibia in 2018 from: ../../data/original_report/usgs_africa/Namibia_2018.pdf]
+
+2026-06-14 23:42:44.713303
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Namibia_2018_policy.txt. Execution time 0.09 seconds
+
+2026-06-14 23:42:44.740007
+PDF loaded. Processing 480/740 [Namibia in 2019 from: ../../data/original_report/usgs_africa/Namibia_2019.pdf]
+
+2026-06-14 23:42:44.902838
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Namibia_2019_policy.txt. Execution time 0.16 seconds
+
+2026-06-14 23:42:44.941313
+PDF loaded. Processing 481/740 [Namibia in 2021 from: ../../data/original_report/usgs_africa/Namibia_2021.pdf]
+
+2026-06-14 23:42:45.152783
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Namibia_2021_policy.txt. Execution time 0.21 seconds
+
+2026-06-14 23:42:45.194170
+PDF loaded. Processing 482/740 [Nigeria in 2005 from: ../../data/original_report/usgs_africa/Nigeria_2005.pdf]
+
+2026-06-14 23:42:45.286429
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Nigeria_2005_policy.txt. Execution time 0.09 seconds
+
+2026-06-14 23:42:45.318814
+PDF loaded. Processing 483/740 [Nigeria in 2006 from: ../../data/original_report/usgs_africa/Nigeria_2006.pdf]
+
+2026-06-14 23:42:45.471037
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Nigeria_2006_policy.txt. Execution time 0.15 seconds
+
+2026-06-14 23:42:45.492529
+PDF loaded. Processing 484/740 [Nigeria in 2007 from: ../../data/original_report/usgs_africa/Nigeria_2007.pdf]
+
+2026-06-14 23:42:45.582456
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Nigeria_2007_policy.txt. Execution time 0.09 seconds
+
+2026-06-14 23:42:45.623362
+PDF loaded. Processing 485/740 [Nigeria in 2008 from: ../../data/original_report/usgs_africa/Nigeria_2008.pdf]
+
+2026-06-14 23:42:45.749042
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Nigeria_2008_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 23:42:45.775142
+PDF loaded. Processing 486/740 [Nigeria in 2009 from: ../../data/original_report/usgs_africa/Nigeria_2009.pdf]
+
+2026-06-14 23:42:45.919764
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Nigeria_2009_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 23:42:45.965043
+PDF loaded. Processing 487/740 [Nigeria in 2010 from: ../../data/original_report/usgs_africa/Nigeria_2010.pdf]
+
+2026-06-14 23:42:46.057892
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Nigeria_2010_policy.txt. Execution time 0.09 seconds
+
+2026-06-14 23:42:46.084932
+PDF loaded. Processing 488/740 [Nigeria in 2011 from: ../../data/original_report/usgs_africa/Nigeria_2011.pdf]
+
+2026-06-14 23:42:46.173781
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Nigeria_2011_policy.txt. Execution time 0.09 seconds
+
+2026-06-14 23:42:46.218628
+PDF loaded. Processing 489/740 [Nigeria in 2012 from: ../../data/original_report/usgs_africa/Nigeria_2012.pdf]
+
+2026-06-14 23:42:46.355323
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Nigeria_2012_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 23:42:46.372744
+PDF loaded. Processing 490/740 [Nigeria in 2013 from: ../../data/original_report/usgs_africa/Nigeria_2013.pdf]
+
+2026-06-14 23:42:46.472561
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Nigeria_2013_policy.txt. Execution time 0.10 seconds
+
+2026-06-14 23:42:46.502400
+PDF loaded. Processing 491/740 [Nigeria in 2014 from: ../../data/original_report/usgs_africa/Nigeria_2014.pdf]
+
+2026-06-14 23:42:46.680063
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Nigeria_2014_policy.txt. Execution time 0.18 seconds
+
+2026-06-14 23:42:46.706059
+PDF loaded. Processing 492/740 [Nigeria in 2015 from: ../../data/original_report/usgs_africa/Nigeria_2015.pdf]
+
+2026-06-14 23:42:46.903375
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Nigeria_2015_policy.txt. Execution time 0.20 seconds
+
+2026-06-14 23:42:46.931442
+PDF loaded. Processing 493/740 [Nigeria in 2016 from: ../../data/original_report/usgs_africa/Nigeria_2016.pdf]
+
+2026-06-14 23:42:47.121810
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Nigeria_2016_policy.txt. Execution time 0.19 seconds
+
+2026-06-14 23:42:47.153460
+PDF loaded. Processing 494/740 [Nigeria in 2018 from: ../../data/original_report/usgs_africa/Nigeria_2018.pdf]
+
+2026-06-14 23:42:47.387453
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Nigeria_2018_policy.txt. Execution time 0.23 seconds
+
+2026-06-14 23:42:47.433243
+PDF loaded. Processing 495/740 [Nigeria in 2019 from: ../../data/original_report/usgs_africa/Nigeria_2019.pdf]
+
+2026-06-14 23:42:47.596324
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Nigeria_2019_policy.txt. Execution time 0.16 seconds
+
+2026-06-14 23:42:47.632299
+PDF loaded. Processing 496/740 [Niger in 2018 from: ../../data/original_report/usgs_africa/Niger_2018.pdf]
+
+2026-06-14 23:42:47.699874
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Niger_2018_policy.txt. Execution time 0.07 seconds
+
+2026-06-14 23:42:47.737209
+PDF loaded. Processing 497/740 [Niger in 2019 from: ../../data/original_report/usgs_africa/Niger_2019.pdf]
+
+2026-06-14 23:42:47.758267
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:42:47.785598
+PDF loaded. Processing 498/740 [Oman in 2005 from: ../../data/original_report/usgs_africa/Oman_2005.pdf]
+
+2026-06-14 23:42:47.888430
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Oman_2005_policy.txt. Execution time 0.10 seconds
+
+2026-06-14 23:42:47.910245
+PDF loaded. Processing 499/740 [Oman in 2006 from: ../../data/original_report/usgs_africa/Oman_2006.pdf]
+
+2026-06-14 23:42:47.972164
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Oman_2006_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 23:42:48.012427
+PDF loaded. Processing 500/740 [Oman in 2007 from: ../../data/original_report/usgs_africa/Oman_2007.pdf]
+
+2026-06-14 23:42:48.085038
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Oman_2007_policy.txt. Execution time 0.07 seconds
+
+2026-06-14 23:42:48.126189
+PDF loaded. Processing 501/740 [Oman in 2008 from: ../../data/original_report/usgs_africa/Oman_2008.pdf]
+
+2026-06-14 23:42:48.291547
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Oman_2008_policy.txt. Execution time 0.17 seconds
+
+2026-06-14 23:42:48.342541
+PDF loaded. Processing 502/740 [Oman in 2009 from: ../../data/original_report/usgs_africa/Oman_2009.pdf]
+
+2026-06-14 23:42:48.520438
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Oman_2009_policy.txt. Execution time 0.18 seconds
+
+2026-06-14 23:42:48.538448
+PDF loaded. Processing 503/740 [Oman in 2010 from: ../../data/original_report/usgs_africa/Oman_2010.pdf]
+
+2026-06-14 23:42:48.698425
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Oman_2010_policy.txt. Execution time 0.16 seconds
+
+2026-06-14 23:42:48.733278
+PDF loaded. Processing 504/740 [Oman in 2011 from: ../../data/original_report/usgs_africa/Oman_2011.pdf]
+
+2026-06-14 23:42:48.936012
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Oman_2011_policy.txt. Execution time 0.20 seconds
+
+2026-06-14 23:42:48.962512
+PDF loaded. Processing 505/740 [Oman in 2012 from: ../../data/original_report/usgs_africa/Oman_2012.pdf]
+
+2026-06-14 23:42:49.148062
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Oman_2012_policy.txt. Execution time 0.19 seconds
+
+2026-06-14 23:42:49.195568
+PDF loaded. Processing 506/740 [Oman in 2013 from: ../../data/original_report/usgs_africa/Oman_2013.pdf]
+
+2026-06-14 23:42:49.410110
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Oman_2013_policy.txt. Execution time 0.21 seconds
+
+2026-06-14 23:42:49.439871
+PDF loaded. Processing 507/740 [Oman in 2014 from: ../../data/original_report/usgs_africa/Oman_2014.pdf]
+
+2026-06-14 23:42:49.754789
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Oman_2014_policy.txt. Execution time 0.31 seconds
+
+2026-06-14 23:42:49.799022
+PDF loaded. Processing 508/740 [Oman in 2015 from: ../../data/original_report/usgs_africa/Oman_2015.pdf]
+
+2026-06-14 23:42:49.987153
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Oman_2015_policy.txt. Execution time 0.19 seconds
+
+2026-06-14 23:42:50.006762
+PDF loaded. Processing 509/740 [Oman in 2016 from: ../../data/original_report/usgs_africa/Oman_2016.pdf]
+
+2026-06-14 23:42:50.151446
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Oman_2016_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 23:42:50.188353
+PDF loaded. Processing 510/740 [Oman in 2018 from: ../../data/original_report/usgs_africa/Oman_2018.pdf]
+
+2026-06-14 23:42:50.382370
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Oman_2018_policy.txt. Execution time 0.19 seconds
+
+2026-06-14 23:42:50.407327
+PDF loaded. Processing 511/740 [Oman in 2019 from: ../../data/original_report/usgs_africa/Oman_2019.pdf]
+
+2026-06-14 23:42:50.706060
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Oman_2019_policy.txt. Execution time 0.30 seconds
+
+2026-06-14 23:42:50.737434
+PDF loaded. Processing 512/740 [Oman in 2021 from: ../../data/original_report/usgs_africa/Oman_2021.pdf]
+
+2026-06-14 23:42:51.044059
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Oman_2021_policy.txt. Execution time 0.31 seconds
+
+2026-06-14 23:42:51.082587
+PDF loaded. Processing 513/740 [Qatar in 2005 from: ../../data/original_report/usgs_africa/Qatar_2005.pdf]
+
+2026-06-14 23:42:51.146375
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Qatar_2005_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 23:42:51.159704
+PDF loaded. Processing 514/740 [Qatar in 2006 from: ../../data/original_report/usgs_africa/Qatar_2006.pdf]
+
+2026-06-14 23:42:51.224962
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Qatar_2006_policy.txt. Execution time 0.07 seconds
+
+2026-06-14 23:42:51.257473
+PDF loaded. Processing 515/740 [Qatar in 2007 from: ../../data/original_report/usgs_africa/Qatar_2007.pdf]
+
+2026-06-14 23:42:51.345833
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Qatar_2007_policy.txt. Execution time 0.09 seconds
+
+2026-06-14 23:42:51.362933
+PDF loaded. Processing 516/740 [Qatar in 2008 from: ../../data/original_report/usgs_africa/Qatar_2008.pdf]
+
+2026-06-14 23:42:51.507406
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Qatar_2008_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 23:42:51.548574
+PDF loaded. Processing 517/740 [Qatar in 2009 from: ../../data/original_report/usgs_africa/Qatar_2009.pdf]
+
+2026-06-14 23:42:51.707923
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Qatar_2009_policy.txt. Execution time 0.16 seconds
+
+2026-06-14 23:42:51.736582
+PDF loaded. Processing 518/740 [Qatar in 2010 from: ../../data/original_report/usgs_africa/Qatar_2010.pdf]
+
+2026-06-14 23:42:51.938414
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Qatar_2010_policy.txt. Execution time 0.20 seconds
+
+2026-06-14 23:42:51.966601
+PDF loaded. Processing 519/740 [Qatar in 2011 from: ../../data/original_report/usgs_africa/Qatar_2011.pdf]
+
+2026-06-14 23:42:52.107748
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Qatar_2011_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 23:42:52.148860
+PDF loaded. Processing 520/740 [Qatar in 2012 from: ../../data/original_report/usgs_africa/Qatar_2012.pdf]
+
+2026-06-14 23:42:52.318794
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Qatar_2012_policy.txt. Execution time 0.17 seconds
+
+2026-06-14 23:42:52.336607
+PDF loaded. Processing 521/740 [Qatar in 2013 from: ../../data/original_report/usgs_africa/Qatar_2013.pdf]
+
+2026-06-14 23:42:52.536083
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Qatar_2013_policy.txt. Execution time 0.20 seconds
+
+2026-06-14 23:42:52.564363
+PDF loaded. Processing 522/740 [Qatar in 2014 from: ../../data/original_report/usgs_africa/Qatar_2014.pdf]
+
+2026-06-14 23:42:52.741725
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Qatar_2014_policy.txt. Execution time 0.18 seconds
+
+2026-06-14 23:42:52.763796
+PDF loaded. Processing 523/740 [Qatar in 2015 from: ../../data/original_report/usgs_africa/Qatar_2015.pdf]
+
+2026-06-14 23:42:52.916750
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Qatar_2015_policy.txt. Execution time 0.15 seconds
+
+2026-06-14 23:42:52.950677
+PDF loaded. Processing 524/740 [Qatar in 2016 from: ../../data/original_report/usgs_africa/Qatar_2016.pdf]
+
+2026-06-14 23:42:53.105286
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Qatar_2016_policy.txt. Execution time 0.15 seconds
+
+2026-06-14 23:42:53.131659
+PDF loaded. Processing 525/740 [Qatar in 2018 from: ../../data/original_report/usgs_africa/Qatar_2018.pdf]
+
+2026-06-14 23:42:53.278081
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Qatar_2018_policy.txt. Execution time 0.15 seconds
+
+2026-06-14 23:42:53.309581
+PDF loaded. Processing 526/740 [Qatar in 2019 from: ../../data/original_report/usgs_africa/Qatar_2019.pdf]
+
+2026-06-14 23:42:53.466111
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Qatar_2019_policy.txt. Execution time 0.16 seconds
+
+2026-06-14 23:42:53.487552
+PDF loaded. Processing 527/740 [Qatar in 2021 from: ../../data/original_report/usgs_africa/Qatar_2021.pdf]
+
+2026-06-14 23:42:53.670605
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Qatar_2021_policy.txt. Execution time 0.18 seconds
+
+2026-06-14 23:42:53.692351
+PDF loaded. Processing 528/740 [Rwanda in 2005 from: ../../data/original_report/usgs_africa/Rwanda_2005.pdf]
+
+2026-06-14 23:42:53.745672
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Rwanda_2005_policy.txt. Execution time 0.05 seconds
+
+2026-06-14 23:42:53.774995
+PDF loaded. Processing 529/740 [Rwanda in 2006 from: ../../data/original_report/usgs_africa/Rwanda_2006.pdf]
+
+2026-06-14 23:42:53.814023
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Rwanda_2006_policy.txt. Execution time 0.04 seconds
+
+2026-06-14 23:42:53.849529
+PDF loaded. Processing 530/740 [Rwanda in 2007 from: ../../data/original_report/usgs_africa/Rwanda_2007.pdf]
+
+2026-06-14 23:42:53.898991
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Rwanda_2007_policy.txt. Execution time 0.05 seconds
+
+2026-06-14 23:42:53.940923
+PDF loaded. Processing 531/740 [Rwanda in 2008 from: ../../data/original_report/usgs_africa/Rwanda_2008.pdf]
+
+2026-06-14 23:42:54.024373
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Rwanda_2008_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 23:42:54.051191
+PDF loaded. Processing 532/740 [Rwanda in 2009 from: ../../data/original_report/usgs_africa/Rwanda_2009.pdf]
+
+2026-06-14 23:42:54.117836
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Rwanda_2009_policy.txt. Execution time 0.07 seconds
+
+2026-06-14 23:42:54.154006
+PDF loaded. Processing 533/740 [Rwanda in 2010 from: ../../data/original_report/usgs_africa/Rwanda_2010.pdf]
+
+2026-06-14 23:42:54.209588
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Rwanda_2010_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 23:42:54.245833
+PDF loaded. Processing 534/740 [Rwanda in 2011 from: ../../data/original_report/usgs_africa/Rwanda_2011.pdf]
+
+2026-06-14 23:42:54.337317
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Rwanda_2011_policy.txt. Execution time 0.09 seconds
+
+2026-06-14 23:42:54.382294
+PDF loaded. Processing 535/740 [Rwanda in 2012 from: ../../data/original_report/usgs_africa/Rwanda_2012.pdf]
+
+2026-06-14 23:42:54.488254
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Rwanda_2012_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 23:42:54.515012
+PDF loaded. Processing 536/740 [Rwanda in 2013 from: ../../data/original_report/usgs_africa/Rwanda_2013.pdf]
+
+2026-06-14 23:42:54.621490
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Rwanda_2013_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 23:42:54.658302
+PDF loaded. Processing 537/740 [Rwanda in 2014 from: ../../data/original_report/usgs_africa/Rwanda_2014.pdf]
+
+2026-06-14 23:42:54.784373
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Rwanda_2014_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 23:42:54.806666
+PDF loaded. Processing 538/740 [Rwanda in 2015 from: ../../data/original_report/usgs_africa/Rwanda_2015.pdf]
+
+2026-06-14 23:42:54.939853
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Rwanda_2015_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 23:42:54.973273
+PDF loaded. Processing 539/740 [Rwanda in 2016 from: ../../data/original_report/usgs_africa/Rwanda_2016.pdf]
+
+2026-06-14 23:42:55.019843
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Rwanda_2016_policy.txt. Execution time 0.05 seconds
+
+2026-06-14 23:42:55.041894
+PDF loaded. Processing 540/740 [Rwanda in 2018 from: ../../data/original_report/usgs_africa/Rwanda_2018.pdf]
+
+2026-06-14 23:42:55.097188
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Rwanda_2018_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 23:42:55.131030
+PDF loaded. Processing 541/740 [Rwanda in 2019 from: ../../data/original_report/usgs_africa/Rwanda_2019.pdf]
+
+2026-06-14 23:42:55.191117
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Rwanda_2019_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 23:42:55.223370
+PDF loaded. Processing 542/740 [Saudi Arabia in 2005 from: ../../data/original_report/usgs_africa/Saudi Arabia_2005.pdf]
+
+2026-06-14 23:42:55.301220
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Saudi Arabia_2005_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 23:42:55.324132
+PDF loaded. Processing 543/740 [Saudi Arabia in 2006 from: ../../data/original_report/usgs_africa/Saudi Arabia_2006.pdf]
+
+2026-06-14 23:42:55.450509
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Saudi Arabia_2006_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 23:42:55.475344
+PDF loaded. Processing 544/740 [Saudi Arabia in 2007 from: ../../data/original_report/usgs_africa/Saudi Arabia_2007.pdf]
+
+2026-06-14 23:42:55.619156
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Saudi Arabia_2007_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 23:42:55.647159
+PDF loaded. Processing 545/740 [Saudi Arabia in 2008 from: ../../data/original_report/usgs_africa/Saudi Arabia_2008.pdf]
+
+2026-06-14 23:42:55.775485
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Saudi Arabia_2008_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 23:42:55.806439
+PDF loaded. Processing 546/740 [Saudi Arabia in 2009 from: ../../data/original_report/usgs_africa/Saudi Arabia_2009.pdf]
+
+2026-06-14 23:42:55.912101
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Saudi Arabia_2009_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 23:42:55.938853
+PDF loaded. Processing 547/740 [Saudi Arabia in 2010 from: ../../data/original_report/usgs_africa/Saudi Arabia_2010.pdf]
+
+2026-06-14 23:42:56.043325
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Saudi Arabia_2010_policy.txt. Execution time 0.10 seconds
+
+2026-06-14 23:42:56.073891
+PDF loaded. Processing 548/740 [Saudi Arabia in 2011 from: ../../data/original_report/usgs_africa/Saudi Arabia_2011.pdf]
+
+2026-06-14 23:42:56.222496
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Saudi Arabia_2011_policy.txt. Execution time 0.15 seconds
+
+2026-06-14 23:42:56.250278
+PDF loaded. Processing 549/740 [Saudi Arabia in 2012 from: ../../data/original_report/usgs_africa/Saudi Arabia_2012.pdf]
+
+2026-06-14 23:42:56.358361
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Saudi Arabia_2012_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 23:42:56.393977
+PDF loaded. Processing 550/740 [Saudi Arabia in 2013 from: ../../data/original_report/usgs_africa/Saudi Arabia_2013.pdf]
+
+2026-06-14 23:42:56.638817
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Saudi Arabia_2013_policy.txt. Execution time 0.24 seconds
+
+2026-06-14 23:42:56.683103
+PDF loaded. Processing 551/740 [Saudi Arabia in 2014 from: ../../data/original_report/usgs_africa/Saudi Arabia_2014.pdf]
+
+2026-06-14 23:42:56.942112
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Saudi Arabia_2014_policy.txt. Execution time 0.26 seconds
+
+2026-06-14 23:42:56.987837
+PDF loaded. Processing 552/740 [Saudi Arabia in 2015 from: ../../data/original_report/usgs_africa/Saudi Arabia_2015.pdf]
+
+2026-06-14 23:42:57.202392
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Saudi Arabia_2015_policy.txt. Execution time 0.21 seconds
+
+2026-06-14 23:42:57.245095
+PDF loaded. Processing 553/740 [Saudi Arabia in 2016 from: ../../data/original_report/usgs_africa/Saudi Arabia_2016.pdf]
+
+2026-06-14 23:42:57.451526
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Saudi Arabia_2016_policy.txt. Execution time 0.21 seconds
+
+2026-06-14 23:42:57.499814
+PDF loaded. Processing 554/740 [Saudi Arabia in 2018 from: ../../data/original_report/usgs_africa/Saudi Arabia_2018.pdf]
+
+2026-06-14 23:42:57.776245
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Saudi Arabia_2018_policy.txt. Execution time 0.28 seconds
+
+2026-06-14 23:42:57.822398
+PDF loaded. Processing 555/740 [Saudi Arabia in 2019 from: ../../data/original_report/usgs_africa/Saudi Arabia_2019.pdf]
+
+2026-06-14 23:42:58.139034
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Saudi Arabia_2019_policy.txt. Execution time 0.32 seconds
+
+2026-06-14 23:42:58.186102
+PDF loaded. Processing 556/740 [Saudi Arabia in 2021 from: ../../data/original_report/usgs_africa/Saudi Arabia_2021.pdf]
+
+2026-06-14 23:42:58.543811
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Saudi Arabia_2021_policy.txt. Execution time 0.36 seconds
+
+2026-06-14 23:42:58.575309
+PDF loaded. Processing 557/740 [Saudi Arabia in 2022 from: ../../data/original_report/usgs_africa/Saudi Arabia_2022.pdf]
+
+2026-06-14 23:42:58.809366
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Saudi Arabia_2022_policy.txt. Execution time 0.23 seconds
+
+2026-06-14 23:42:58.855728
+PDF loaded. Processing 558/740 [Saudi Arabia in 2023 from: ../../data/original_report/usgs_africa/Saudi Arabia_2023.pdf]
+
+2026-06-14 23:42:59.129263
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Saudi Arabia_2023_policy.txt. Execution time 0.27 seconds
+
+2026-06-14 23:42:59.174573
+PDF loaded. Processing 559/740 [Senegal in 2013 from: ../../data/original_report/usgs_africa/Senegal_2013.pdf]
+
+2026-06-14 23:42:59.241254
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Senegal_2013_policy.txt. Execution time 0.07 seconds
+
+2026-06-14 23:42:59.281516
+PDF loaded. Processing 560/740 [Senegal in 2014 from: ../../data/original_report/usgs_africa/Senegal_2014.pdf]
+
+2026-06-14 23:42:59.424553
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Senegal_2014_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 23:42:59.453632
+PDF loaded. Processing 561/740 [Senegal in 2015 from: ../../data/original_report/usgs_africa/Senegal_2015.pdf]
+
+2026-06-14 23:42:59.522854
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Senegal_2015_policy.txt. Execution time 0.07 seconds
+
+2026-06-14 23:42:59.557215
+PDF loaded. Processing 562/740 [Senegal in 2016 from: ../../data/original_report/usgs_africa/Senegal_2016.pdf]
+
+2026-06-14 23:42:59.574494
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:42:59.618733
+PDF loaded. Processing 563/740 [Senegal in 2018 from: ../../data/original_report/usgs_africa/Senegal_2018.pdf]
+
+2026-06-14 23:42:59.637573
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:42:59.657659
+PDF loaded. Processing 564/740 [Senegal in 2019 from: ../../data/original_report/usgs_africa/Senegal_2019.pdf]
+
+2026-06-14 23:42:59.745856
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Senegal_2019_policy.txt. Execution time 0.09 seconds
+
+2026-06-14 23:42:59.779770
+PDF loaded. Processing 565/740 [Seychelles in 2014 from: ../../data/original_report/usgs_africa/Seychelles_2014.pdf]
+
+2026-06-14 23:42:59.830552
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Seychelles_2014_policy.txt. Execution time 0.05 seconds
+
+2026-06-14 23:42:59.863155
+PDF loaded. Processing 566/740 [Sierra Leone in 2005 from: ../../data/original_report/usgs_africa/Sierra Leone_2005.pdf]
+
+2026-06-14 23:43:00.035584
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Sierra Leone_2005_policy.txt. Execution time 0.17 seconds
+
+2026-06-14 23:43:00.079770
+PDF loaded. Processing 567/740 [Sierra Leone in 2008 from: ../../data/original_report/usgs_africa/Sierra Leone_2008.pdf]
+
+2026-06-14 23:43:00.227858
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Sierra Leone_2008_policy.txt. Execution time 0.15 seconds
+
+2026-06-14 23:43:00.268362
+PDF loaded. Processing 568/740 [Sierra Leone in 2009 from: ../../data/original_report/usgs_africa/Sierra Leone_2009.pdf]
+
+2026-06-14 23:43:00.452432
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Sierra Leone_2009_policy.txt. Execution time 0.18 seconds
+
+2026-06-14 23:43:00.501710
+PDF loaded. Processing 569/740 [Sierra Leone in 2010 from: ../../data/original_report/usgs_africa/Sierra Leone_2010.pdf]
+
+2026-06-14 23:43:00.712413
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Sierra Leone_2010_policy.txt. Execution time 0.21 seconds
+
+2026-06-14 23:43:00.737523
+PDF loaded. Processing 570/740 [Sierra Leone in 2011 from: ../../data/original_report/usgs_africa/Sierra Leone_2011.pdf]
+
+2026-06-14 23:43:00.921708
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Sierra Leone_2011_policy.txt. Execution time 0.18 seconds
+
+2026-06-14 23:43:00.967828
+PDF loaded. Processing 571/740 [Sierra Leone in 2012 from: ../../data/original_report/usgs_africa/Sierra Leone_2012.pdf]
+
+2026-06-14 23:43:01.108536
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Sierra Leone_2012_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 23:43:01.130821
+PDF loaded. Processing 572/740 [Sierra Leone in 2013 from: ../../data/original_report/usgs_africa/Sierra Leone_2013.pdf]
+
+2026-06-14 23:43:01.248216
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Sierra Leone_2013_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 23:43:01.271180
+PDF loaded. Processing 573/740 [Sierra Leone in 2014 from: ../../data/original_report/usgs_africa/Sierra Leone_2014.pdf]
+
+2026-06-14 23:43:01.425018
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Sierra Leone_2014_policy.txt. Execution time 0.15 seconds
+
+2026-06-14 23:43:01.461590
+PDF loaded. Processing 574/740 [Sierra Leone in 2015 from: ../../data/original_report/usgs_africa/Sierra Leone_2015.pdf]
+
+2026-06-14 23:43:01.571401
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Sierra Leone_2015_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 23:43:01.611951
+PDF loaded. Processing 575/740 [Sierra Leone in 2016 from: ../../data/original_report/usgs_africa/Sierra Leone_2016.pdf]
+
+2026-06-14 23:43:01.627197
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:43:01.662817
+PDF loaded. Processing 576/740 [Sierra Leone in 2018 from: ../../data/original_report/usgs_africa/Sierra Leone_2018.pdf]
+
+2026-06-14 23:43:01.679431
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 23:43:01.707072
+PDF loaded. Processing 577/740 [Sierra Leone in 2019 from: ../../data/original_report/usgs_africa/Sierra Leone_2019.pdf]
+
+2026-06-14 23:43:01.827582
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Sierra Leone_2019_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 23:43:01.848515
+PDF loaded. Processing 578/740 [Somalia in 2005 from: ../../data/original_report/usgs_africa/Somalia_2005.pdf]
+
+2026-06-14 23:43:01.898532
+Successfully saved to ../../data/policy_section_txt/usgs_africa/Somalia_2005_policy.txt. Execution time 0.05 seconds
+
+2026-06-14 23:43:01.941156
+PDF loaded. Processing 579/740 [Somalia in 2006 from: ../../data/original_report/usgs_africa/Somalia_2006.pdf]
+

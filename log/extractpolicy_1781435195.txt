@@ -1,0 +1,2598 @@
+2026-06-14 20:06:35.474180
+PDF loaded. Processing 1/433 [Afghanistan in 2005 from: ../../data/original_report/usgs_asia/Afghanistan_2005.pdf]
+
+2026-06-14 20:06:35.542670
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Afghanistan_2005_policy.txt. Execution time 0.07 seconds
+
+2026-06-14 20:06:35.543693
+PDF loaded. Processing 2/433 [Afghanistan in 2006 from: ../../data/original_report/usgs_asia/Afghanistan_2006.pdf]
+
+2026-06-14 20:06:35.622104
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Afghanistan_2006_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 20:06:35.623493
+PDF loaded. Processing 3/433 [Afghanistan in 2007 from: ../../data/original_report/usgs_asia/Afghanistan_2007.pdf]
+
+2026-06-14 20:06:35.675331
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Afghanistan_2007_policy.txt. Execution time 0.05 seconds
+
+2026-06-14 20:06:35.676319
+PDF loaded. Processing 4/433 [Afghanistan in 2008 from: ../../data/original_report/usgs_asia/Afghanistan_2008.pdf]
+
+2026-06-14 20:06:35.757304
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Afghanistan_2008_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 20:06:35.758611
+PDF loaded. Processing 5/433 [Afghanistan in 2009 from: ../../data/original_report/usgs_asia/Afghanistan_2009.pdf]
+
+2026-06-14 20:06:35.830550
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Afghanistan_2009_policy.txt. Execution time 0.07 seconds
+
+2026-06-14 20:06:35.832041
+PDF loaded. Processing 6/433 [Afghanistan in 2010 from: ../../data/original_report/usgs_asia/Afghanistan_2010.pdf]
+
+2026-06-14 20:06:35.941373
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Afghanistan_2010_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 20:06:35.942413
+PDF loaded. Processing 7/433 [Afghanistan in 2011 from: ../../data/original_report/usgs_asia/Afghanistan_2011.pdf]
+
+2026-06-14 20:06:36.062860
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Afghanistan_2011_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 20:06:36.065274
+PDF loaded. Processing 8/433 [Afghanistan in 2012 from: ../../data/original_report/usgs_asia/Afghanistan_2012.pdf]
+
+2026-06-14 20:06:36.217859
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Afghanistan_2012_policy.txt. Execution time 0.15 seconds
+
+2026-06-14 20:06:36.219316
+PDF loaded. Processing 9/433 [Afghanistan in 2013 from: ../../data/original_report/usgs_asia/Afghanistan_2013.pdf]
+
+2026-06-14 20:06:36.489049
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Afghanistan_2013_policy.txt. Execution time 0.27 seconds
+
+2026-06-14 20:06:36.491168
+PDF loaded. Processing 10/433 [Afghanistan in 2014 from: ../../data/original_report/usgs_asia/Afghanistan_2014.pdf]
+
+2026-06-14 20:06:36.813027
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Afghanistan_2014_policy.txt. Execution time 0.32 seconds
+
+2026-06-14 20:06:36.815172
+PDF loaded. Processing 11/433 [Afghanistan in 2015 from: ../../data/original_report/usgs_asia/Afghanistan_2015.pdf]
+
+2026-06-14 20:06:37.006144
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Afghanistan_2015_policy.txt. Execution time 0.19 seconds
+
+2026-06-14 20:06:37.007254
+PDF loaded. Processing 12/433 [Afghanistan in 2016 from: ../../data/original_report/usgs_asia/Afghanistan_2016.pdf]
+
+2026-06-14 20:06:37.110760
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Afghanistan_2016_policy.txt. Execution time 0.10 seconds
+
+2026-06-14 20:06:37.113186
+PDF loaded. Processing 13/433 [Afghanistan in 2018 from: ../../data/original_report/usgs_asia/Afghanistan_2018.pdf]
+
+2026-06-14 20:06:37.241133
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Afghanistan_2018_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 20:06:37.242711
+PDF loaded. Processing 14/433 [Afghanistan in 2019 from: ../../data/original_report/usgs_asia/Afghanistan_2019.pdf]
+
+2026-06-14 20:06:37.376848
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Afghanistan_2019_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 20:06:37.378415
+PDF loaded. Processing 15/433 [Afghanistan in 2021 from: ../../data/original_report/usgs_asia/Afghanistan_2021.pdf]
+
+2026-06-14 20:06:37.593166
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Afghanistan_2021_policy.txt. Execution time 0.21 seconds
+
+2026-06-14 20:06:37.594663
+PDF loaded. Processing 16/433 [Australia in 2005 from: ../../data/original_report/usgs_asia/Australia_2005.pdf]
+
+2026-06-14 20:06:37.798860
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Australia_2005_policy.txt. Execution time 0.20 seconds
+
+2026-06-14 20:06:37.801035
+PDF loaded. Processing 17/433 [Australia in 2006 from: ../../data/original_report/usgs_asia/Australia_2006.pdf]
+
+2026-06-14 20:06:38.233377
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Australia_2006_policy.txt. Execution time 0.43 seconds
+
+2026-06-14 20:06:38.236209
+PDF loaded. Processing 18/433 [Australia in 2007 from: ../../data/original_report/usgs_asia/Australia_2007.pdf]
+
+2026-06-14 20:06:38.838156
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Australia_2007_policy.txt. Execution time 0.60 seconds
+
+2026-06-14 20:06:38.841016
+PDF loaded. Processing 19/433 [Australia in 2008 from: ../../data/original_report/usgs_asia/Australia_2008.pdf]
+
+2026-06-14 20:06:39.268071
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Australia_2008_policy.txt. Execution time 0.43 seconds
+
+2026-06-14 20:06:39.269911
+PDF loaded. Processing 20/433 [Australia in 2009 from: ../../data/original_report/usgs_asia/Australia_2009.pdf]
+
+2026-06-14 20:06:39.792331
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Australia_2009_policy.txt. Execution time 0.52 seconds
+
+2026-06-14 20:06:39.794570
+PDF loaded. Processing 21/433 [Australia in 2010 from: ../../data/original_report/usgs_asia/Australia_2010.pdf]
+
+2026-06-14 20:06:40.240800
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Australia_2010_policy.txt. Execution time 0.45 seconds
+
+2026-06-14 20:06:40.242458
+PDF loaded. Processing 22/433 [Australia in 2011 from: ../../data/original_report/usgs_asia/Australia_2011.pdf]
+
+2026-06-14 20:06:40.626860
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Australia_2011_policy.txt. Execution time 0.38 seconds
+
+2026-06-14 20:06:40.629210
+PDF loaded. Processing 23/433 [Australia in 2012 from: ../../data/original_report/usgs_asia/Australia_2012.pdf]
+
+2026-06-14 20:06:41.064993
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Australia_2012_policy.txt. Execution time 0.44 seconds
+
+2026-06-14 20:06:41.067218
+PDF loaded. Processing 24/433 [Australia in 2013 from: ../../data/original_report/usgs_asia/Australia_2013.pdf]
+
+2026-06-14 20:06:41.363506
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Australia_2013_policy.txt. Execution time 0.30 seconds
+
+2026-06-14 20:06:41.366313
+PDF loaded. Processing 25/433 [Australia in 2014 from: ../../data/original_report/usgs_asia/Australia_2014.pdf]
+
+2026-06-14 20:06:41.742000
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Australia_2014_policy.txt. Execution time 0.38 seconds
+
+2026-06-14 20:06:41.744430
+PDF loaded. Processing 26/433 [Australia in 2015 from: ../../data/original_report/usgs_asia/Australia_2015.pdf]
+
+2026-06-14 20:06:42.022339
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Australia_2015_policy.txt. Execution time 0.28 seconds
+
+2026-06-14 20:06:42.024878
+PDF loaded. Processing 27/433 [Australia in 2016 from: ../../data/original_report/usgs_asia/Australia_2016.pdf]
+
+2026-06-14 20:06:42.393036
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Australia_2016_policy.txt. Execution time 0.37 seconds
+
+2026-06-14 20:06:42.395480
+PDF loaded. Processing 28/433 [Australia in 2018 from: ../../data/original_report/usgs_asia/Australia_2018.pdf]
+
+2026-06-14 20:06:42.922448
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Australia_2018_policy.txt. Execution time 0.53 seconds
+
+2026-06-14 20:06:42.925339
+PDF loaded. Processing 29/433 [Australia in 2019 from: ../../data/original_report/usgs_asia/Australia_2019.pdf]
+
+2026-06-14 20:06:43.330032
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Australia_2019_policy.txt. Execution time 0.40 seconds
+
+2026-06-14 20:06:43.333817
+PDF loaded. Processing 30/433 [Australia in 2021 from: ../../data/original_report/usgs_asia/Australia_2021.pdf]
+
+2026-06-14 20:06:43.776700
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Australia_2021_policy.txt. Execution time 0.44 seconds
+
+2026-06-14 20:06:43.779595
+PDF loaded. Processing 31/433 [Australia in 2022 from: ../../data/original_report/usgs_asia/Australia_2022.pdf]
+
+2026-06-14 20:06:44.206043
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Australia_2022_policy.txt. Execution time 0.43 seconds
+
+2026-06-14 20:06:44.208381
+PDF loaded. Processing 32/433 [Australia in 2023 from: ../../data/original_report/usgs_asia/Australia_2023.pdf]
+
+2026-06-14 20:06:44.450463
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Australia_2023_policy.txt. Execution time 0.24 seconds
+
+2026-06-14 20:06:44.452333
+PDF loaded. Processing 33/433 [Bangladesh in 2005 from: ../../data/original_report/usgs_asia/Bangladesh_2005.pdf]
+
+2026-06-14 20:06:44.531606
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Bangladesh_2005_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 20:06:44.533394
+PDF loaded. Processing 34/433 [Bangladesh in 2006 from: ../../data/original_report/usgs_asia/Bangladesh_2006.pdf]
+
+2026-06-14 20:06:44.626538
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Bangladesh_2006_policy.txt. Execution time 0.09 seconds
+
+2026-06-14 20:06:44.627529
+PDF loaded. Processing 35/433 [Bangladesh in 2007 from: ../../data/original_report/usgs_asia/Bangladesh_2007.pdf]
+
+2026-06-14 20:06:44.701620
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Bangladesh_2007_policy.txt. Execution time 0.07 seconds
+
+2026-06-14 20:06:44.704961
+PDF loaded. Processing 36/433 [Bangladesh in 2008 from: ../../data/original_report/usgs_asia/Bangladesh_2008.pdf]
+
+2026-06-14 20:06:44.822940
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Bangladesh_2008_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 20:06:44.824299
+PDF loaded. Processing 37/433 [Bangladesh in 2009 from: ../../data/original_report/usgs_asia/Bangladesh_2009.pdf]
+
+2026-06-14 20:06:44.993592
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Bangladesh_2009_policy.txt. Execution time 0.17 seconds
+
+2026-06-14 20:06:44.995764
+PDF loaded. Processing 38/433 [Bangladesh in 2010 from: ../../data/original_report/usgs_asia/Bangladesh_2010.pdf]
+
+2026-06-14 20:06:45.233509
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Bangladesh_2010_policy.txt. Execution time 0.24 seconds
+
+2026-06-14 20:06:45.236542
+PDF loaded. Processing 39/433 [Bangladesh in 2011 from: ../../data/original_report/usgs_asia/Bangladesh_2011.pdf]
+
+2026-06-14 20:06:45.331302
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Bangladesh_2011_policy.txt. Execution time 0.09 seconds
+
+2026-06-14 20:06:45.333150
+PDF loaded. Processing 40/433 [Bangladesh in 2012 from: ../../data/original_report/usgs_asia/Bangladesh_2012.pdf]
+
+2026-06-14 20:06:45.485714
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Bangladesh_2012_policy.txt. Execution time 0.15 seconds
+
+2026-06-14 20:06:45.487495
+PDF loaded. Processing 41/433 [Bangladesh in 2013 from: ../../data/original_report/usgs_asia/Bangladesh_2013.pdf]
+
+2026-06-14 20:06:45.542808
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Bangladesh_2013_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 20:06:45.544243
+PDF loaded. Processing 42/433 [Bangladesh in 2014 from: ../../data/original_report/usgs_asia/Bangladesh_2014.pdf]
+
+2026-06-14 20:06:45.702561
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Bangladesh_2014_policy.txt. Execution time 0.16 seconds
+
+2026-06-14 20:06:45.704955
+PDF loaded. Processing 43/433 [Bangladesh in 2015 from: ../../data/original_report/usgs_asia/Bangladesh_2015.pdf]
+
+2026-06-14 20:06:45.856177
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Bangladesh_2015_policy.txt. Execution time 0.15 seconds
+
+2026-06-14 20:06:45.857592
+PDF loaded. Processing 44/433 [Bangladesh in 2016 from: ../../data/original_report/usgs_asia/Bangladesh_2016.pdf]
+
+2026-06-14 20:06:45.877541
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 20:06:45.879013
+PDF loaded. Processing 45/433 [Bangladesh in 2018 from: ../../data/original_report/usgs_asia/Bangladesh_2018.pdf]
+
+2026-06-14 20:06:45.900055
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 20:06:45.901714
+PDF loaded. Processing 46/433 [Bangladesh in 2019 from: ../../data/original_report/usgs_asia/Bangladesh_2019.pdf]
+
+2026-06-14 20:06:45.926034
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 20:06:45.928398
+PDF loaded. Processing 47/433 [Bangladesh in 2021 from: ../../data/original_report/usgs_asia/Bangladesh_2021.pdf]
+
+2026-06-14 20:06:46.127450
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Bangladesh_2021_policy.txt. Execution time 0.20 seconds
+
+2026-06-14 20:06:46.128771
+PDF loaded. Processing 48/433 [Bhutan and Nepal in 2005 from: ../../data/original_report/usgs_asia/Bhutan and Nepal_2005.pdf]
+
+2026-06-14 20:06:46.196987
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Bhutan and Nepal_2005_policy.txt. Execution time 0.07 seconds
+
+2026-06-14 20:06:46.199090
+PDF loaded. Processing 49/433 [Bhutan and Nepal in 2006 from: ../../data/original_report/usgs_asia/Bhutan and Nepal_2006.pdf]
+
+2026-06-14 20:06:46.310161
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Bhutan and Nepal_2006_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 20:06:46.312098
+PDF loaded. Processing 50/433 [Bhutan and Nepal in 2007 from: ../../data/original_report/usgs_asia/Bhutan and Nepal_2007.pdf]
+
+2026-06-14 20:06:46.393393
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Bhutan and Nepal_2007_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 20:06:46.394558
+PDF loaded. Processing 51/433 [Bhutan and Nepal in 2008 from: ../../data/original_report/usgs_asia/Bhutan and Nepal_2008.pdf]
+
+2026-06-14 20:06:46.541476
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Bhutan and Nepal_2008_policy.txt. Execution time 0.15 seconds
+
+2026-06-14 20:06:46.543764
+PDF loaded. Processing 52/433 [Bhutan and Nepal in 2009 from: ../../data/original_report/usgs_asia/Bhutan and Nepal_2009.pdf]
+
+2026-06-14 20:06:46.670727
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Bhutan and Nepal_2009_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 20:06:46.671823
+PDF loaded. Processing 53/433 [Bhutan and Nepal in 2010 from: ../../data/original_report/usgs_asia/Bhutan and Nepal_2010.pdf]
+
+2026-06-14 20:06:46.754526
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Bhutan and Nepal_2010_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 20:06:46.755924
+PDF loaded. Processing 54/433 [Bhutan and Nepal in 2011 from: ../../data/original_report/usgs_asia/Bhutan and Nepal_2011.pdf]
+
+2026-06-14 20:06:46.844366
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Bhutan and Nepal_2011_policy.txt. Execution time 0.09 seconds
+
+2026-06-14 20:06:46.846114
+PDF loaded. Processing 55/433 [Bhutan and Nepal in 2012 from: ../../data/original_report/usgs_asia/Bhutan and Nepal_2012.pdf]
+
+2026-06-14 20:06:46.906806
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Bhutan and Nepal_2012_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 20:06:46.907722
+PDF loaded. Processing 56/433 [Bhutan and Nepal in 2013 from: ../../data/original_report/usgs_asia/Bhutan and Nepal_2013.pdf]
+
+2026-06-14 20:06:46.992257
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Bhutan and Nepal_2013_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 20:06:46.994239
+PDF loaded. Processing 57/433 [Bhutan and Nepal in 2014 from: ../../data/original_report/usgs_asia/Bhutan and Nepal_2014.pdf]
+
+2026-06-14 20:06:47.207314
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Bhutan and Nepal_2014_policy.txt. Execution time 0.21 seconds
+
+2026-06-14 20:06:47.208612
+PDF loaded. Processing 58/433 [Bhutan and Nepal in 2015 from: ../../data/original_report/usgs_asia/Bhutan and Nepal_2015.pdf]
+
+2026-06-14 20:06:47.324542
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Bhutan and Nepal_2015_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 20:06:47.326308
+PDF loaded. Processing 59/433 [Bhutan and Nepal in 2016 from: ../../data/original_report/usgs_asia/Bhutan and Nepal_2016.pdf]
+
+2026-06-14 20:06:47.420120
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Bhutan and Nepal_2016_policy.txt. Execution time 0.09 seconds
+
+2026-06-14 20:06:47.422396
+PDF loaded. Processing 60/433 [Bhutan and Nepal in 2018 from: ../../data/original_report/usgs_asia/Bhutan and Nepal_2018.pdf]
+
+2026-06-14 20:06:47.523316
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Bhutan and Nepal_2018_policy.txt. Execution time 0.10 seconds
+
+2026-06-14 20:06:47.525137
+PDF loaded. Processing 61/433 [Bhutan and Nepal in 2019 from: ../../data/original_report/usgs_asia/Bhutan and Nepal_2019.pdf]
+
+2026-06-14 20:06:47.654835
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Bhutan and Nepal_2019_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 20:06:47.657185
+PDF loaded. Processing 62/433 [Bhutan and Nepal in 2021 from: ../../data/original_report/usgs_asia/Bhutan and Nepal_2021.pdf]
+
+2026-06-14 20:06:47.895114
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Bhutan and Nepal_2021_policy.txt. Execution time 0.24 seconds
+
+2026-06-14 20:06:47.897808
+PDF loaded. Processing 63/433 [Brunei in 2005 from: ../../data/original_report/usgs_asia/Brunei_2005.pdf]
+
+2026-06-14 20:06:47.959791
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Brunei_2005_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 20:06:47.961354
+PDF loaded. Processing 64/433 [Brunei in 2007 from: ../../data/original_report/usgs_asia/Brunei_2007.pdf]
+
+2026-06-14 20:06:48.029932
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Brunei_2007_policy.txt. Execution time 0.07 seconds
+
+2026-06-14 20:06:48.031608
+PDF loaded. Processing 65/433 [Brunei in 2009 from: ../../data/original_report/usgs_asia/Brunei_2009.pdf]
+
+2026-06-14 20:06:48.096425
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Brunei_2009_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 20:06:48.097957
+PDF loaded. Processing 66/433 [Brunei in 2011 from: ../../data/original_report/usgs_asia/Brunei_2011.pdf]
+
+2026-06-14 20:06:48.174639
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Brunei_2011_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 20:06:48.176864
+PDF loaded. Processing 67/433 [Brunei in 2013 from: ../../data/original_report/usgs_asia/Brunei_2013.pdf]
+
+2026-06-14 20:06:48.252333
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Brunei_2013_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 20:06:48.253784
+PDF loaded. Processing 68/433 [Brunei in 2015 from: ../../data/original_report/usgs_asia/Brunei_2015.pdf]
+
+2026-06-14 20:06:48.354025
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Brunei_2015_policy.txt. Execution time 0.10 seconds
+
+2026-06-14 20:06:48.355881
+PDF loaded. Processing 69/433 [Brunei in 2016 from: ../../data/original_report/usgs_asia/Brunei_2016.pdf]
+
+2026-06-14 20:06:48.370911
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 20:06:48.372243
+PDF loaded. Processing 70/433 [Brunei in 2018 from: ../../data/original_report/usgs_asia/Brunei_2018.pdf]
+
+2026-06-14 20:06:48.388277
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 20:06:48.389884
+PDF loaded. Processing 71/433 [Brunei in 2019 from: ../../data/original_report/usgs_asia/Brunei_2019.pdf]
+
+2026-06-14 20:06:48.406883
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 20:06:48.409892
+PDF loaded. Processing 72/433 [Brunei in 2021 from: ../../data/original_report/usgs_asia/Brunei_2021.pdf]
+
+2026-06-14 20:06:48.470211
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Brunei_2021_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 20:06:48.471262
+PDF loaded. Processing 73/433 [Burma (Myanmar) in 2005 from: ../../data/original_report/usgs_asia/Burma (Myanmar)_2005.pdf]
+
+2026-06-14 20:06:48.605465
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Burma (Myanmar)_2005_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 20:06:48.608120
+PDF loaded. Processing 74/433 [Burma (Myanmar) in 2006 from: ../../data/original_report/usgs_asia/Burma (Myanmar)_2006.pdf]
+
+2026-06-14 20:06:48.702884
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Burma (Myanmar)_2006_policy.txt. Execution time 0.09 seconds
+
+2026-06-14 20:06:48.704128
+PDF loaded. Processing 75/433 [Burma (Myanmar) in 2007 from: ../../data/original_report/usgs_asia/Burma (Myanmar)_2007.pdf]
+
+2026-06-14 20:06:48.757571
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Burma (Myanmar)_2007_policy.txt. Execution time 0.05 seconds
+
+2026-06-14 20:06:48.758604
+PDF loaded. Processing 76/433 [Burma (Myanmar) in 2008 from: ../../data/original_report/usgs_asia/Burma (Myanmar)_2008.pdf]
+
+2026-06-14 20:06:48.841960
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Burma (Myanmar)_2008_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 20:06:48.843832
+PDF loaded. Processing 77/433 [Burma (Myanmar) in 2009 from: ../../data/original_report/usgs_asia/Burma (Myanmar)_2009.pdf]
+
+2026-06-14 20:06:48.972508
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Burma (Myanmar)_2009_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 20:06:48.974289
+PDF loaded. Processing 78/433 [Burma (Myanmar) in 2010 from: ../../data/original_report/usgs_asia/Burma (Myanmar)_2010.pdf]
+
+2026-06-14 20:06:49.187530
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Burma (Myanmar)_2010_policy.txt. Execution time 0.21 seconds
+
+2026-06-14 20:06:49.190341
+PDF loaded. Processing 79/433 [Burma (Myanmar) in 2011 from: ../../data/original_report/usgs_asia/Burma (Myanmar)_2011.pdf]
+
+2026-06-14 20:06:49.391122
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Burma (Myanmar)_2011_policy.txt. Execution time 0.20 seconds
+
+2026-06-14 20:06:49.392681
+PDF loaded. Processing 80/433 [Burma (Myanmar) in 2012 from: ../../data/original_report/usgs_asia/Burma (Myanmar)_2012.pdf]
+
+2026-06-14 20:06:49.556787
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Burma (Myanmar)_2012_policy.txt. Execution time 0.16 seconds
+
+2026-06-14 20:06:49.558050
+PDF loaded. Processing 81/433 [Burma (Myanmar) in 2013 from: ../../data/original_report/usgs_asia/Burma (Myanmar)_2013.pdf]
+
+2026-06-14 20:06:49.634336
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Burma (Myanmar)_2013_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 20:06:49.635391
+PDF loaded. Processing 82/433 [Burma (Myanmar) in 2014 from: ../../data/original_report/usgs_asia/Burma (Myanmar)_2014.pdf]
+
+2026-06-14 20:06:49.760122
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Burma (Myanmar)_2014_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 20:06:49.761911
+PDF loaded. Processing 83/433 [Burma (Myanmar) in 2015 from: ../../data/original_report/usgs_asia/Burma (Myanmar)_2015.pdf]
+
+2026-06-14 20:06:49.921541
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Burma (Myanmar)_2015_policy.txt. Execution time 0.16 seconds
+
+2026-06-14 20:06:49.922994
+PDF loaded. Processing 84/433 [Burma (Myanmar) in 2016 from: ../../data/original_report/usgs_asia/Burma (Myanmar)_2016.pdf]
+
+2026-06-14 20:06:49.960136
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Burma (Myanmar)_2016_policy.txt. Execution time 0.04 seconds
+
+2026-06-14 20:06:49.961524
+PDF loaded. Processing 85/433 [Burma (Myanmar) in 2018 from: ../../data/original_report/usgs_asia/Burma (Myanmar)_2018.pdf]
+
+2026-06-14 20:06:50.022208
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Burma (Myanmar)_2018_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 20:06:50.023930
+PDF loaded. Processing 86/433 [Burma (Myanmar) in 2019 from: ../../data/original_report/usgs_asia/Burma (Myanmar)_2019.pdf]
+
+2026-06-14 20:06:50.185144
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Burma (Myanmar)_2019_policy.txt. Execution time 0.16 seconds
+
+2026-06-14 20:06:50.188173
+PDF loaded. Processing 87/433 [Burma (Myanmar) in 2021 from: ../../data/original_report/usgs_asia/Burma (Myanmar)_2021.pdf]
+
+2026-06-14 20:06:50.346202
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Burma (Myanmar)_2021_policy.txt. Execution time 0.16 seconds
+
+2026-06-14 20:06:50.347394
+PDF loaded. Processing 88/433 [Cambodia and Laos in 2005 from: ../../data/original_report/usgs_asia/Cambodia and Laos_2005.pdf]
+
+2026-06-14 20:06:50.606501
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Cambodia and Laos_2005_policy.txt. Execution time 0.26 seconds
+
+2026-06-14 20:06:50.609295
+PDF loaded. Processing 89/433 [Cambodia in 2006 from: ../../data/original_report/usgs_asia/Cambodia_2006.pdf]
+
+2026-06-14 20:06:50.738908
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Cambodia_2006_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 20:06:50.740249
+PDF loaded. Processing 90/433 [Cambodia in 2007 from: ../../data/original_report/usgs_asia/Cambodia_2007.pdf]
+
+2026-06-14 20:06:50.837318
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Cambodia_2007_policy.txt. Execution time 0.10 seconds
+
+2026-06-14 20:06:50.839946
+PDF loaded. Processing 91/433 [Cambodia in 2008 from: ../../data/original_report/usgs_asia/Cambodia_2008.pdf]
+
+2026-06-14 20:06:50.861345
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 20:06:50.862209
+PDF loaded. Processing 92/433 [Cambodia in 2009 from: ../../data/original_report/usgs_asia/Cambodia_2009.pdf]
+
+2026-06-14 20:06:50.945289
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Cambodia_2009_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 20:06:50.946240
+PDF loaded. Processing 93/433 [Cambodia in 2010 from: ../../data/original_report/usgs_asia/Cambodia_2010.pdf]
+
+2026-06-14 20:06:51.036136
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Cambodia_2010_policy.txt. Execution time 0.09 seconds
+
+2026-06-14 20:06:51.038423
+PDF loaded. Processing 94/433 [Cambodia in 2011 from: ../../data/original_report/usgs_asia/Cambodia_2011.pdf]
+
+2026-06-14 20:06:51.173486
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Cambodia_2011_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 20:06:51.175396
+PDF loaded. Processing 95/433 [Cambodia in 2012 from: ../../data/original_report/usgs_asia/Cambodia_2012.pdf]
+
+2026-06-14 20:06:51.282789
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Cambodia_2012_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 20:06:51.284143
+PDF loaded. Processing 96/433 [Cambodia in 2013 from: ../../data/original_report/usgs_asia/Cambodia_2013.pdf]
+
+2026-06-14 20:06:51.390950
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Cambodia_2013_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 20:06:51.392808
+PDF loaded. Processing 97/433 [Cambodia in 2014 from: ../../data/original_report/usgs_asia/Cambodia_2014.pdf]
+
+2026-06-14 20:06:51.543639
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Cambodia_2014_policy.txt. Execution time 0.15 seconds
+
+2026-06-14 20:06:51.545179
+PDF loaded. Processing 98/433 [Cambodia in 2015 from: ../../data/original_report/usgs_asia/Cambodia_2015.pdf]
+
+2026-06-14 20:06:51.624871
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Cambodia_2015_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 20:06:51.626228
+PDF loaded. Processing 99/433 [Cambodia in 2016 from: ../../data/original_report/usgs_asia/Cambodia_2016.pdf]
+
+2026-06-14 20:06:51.638671
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.01 seconds
+
+2026-06-14 20:06:51.639599
+PDF loaded. Processing 100/433 [Cambodia in 2018 from: ../../data/original_report/usgs_asia/Cambodia_2018.pdf]
+
+2026-06-14 20:06:51.650372
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.01 seconds
+
+2026-06-14 20:06:51.652268
+PDF loaded. Processing 101/433 [Cambodia in 2019 from: ../../data/original_report/usgs_asia/Cambodia_2019.pdf]
+
+2026-06-14 20:06:51.794479
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Cambodia_2019_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 20:06:51.796208
+PDF loaded. Processing 102/433 [Cambodia in 2021 from: ../../data/original_report/usgs_asia/Cambodia_2021.pdf]
+
+2026-06-14 20:06:51.921743
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Cambodia_2021_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 20:06:51.925454
+PDF loaded. Processing 103/433 [China in 2005 from: ../../data/original_report/usgs_asia/China_2005.pdf]
+
+2026-06-14 20:06:52.626211
+Successfully saved to ../../data/policy_section_txt/usgs_asia/China_2005_policy.txt. Execution time 0.70 seconds
+
+2026-06-14 20:06:52.628504
+PDF loaded. Processing 104/433 [China in 2006 from: ../../data/original_report/usgs_asia/China_2006.pdf]
+
+2026-06-14 20:06:53.307177
+Successfully saved to ../../data/policy_section_txt/usgs_asia/China_2006_policy.txt. Execution time 0.68 seconds
+
+2026-06-14 20:06:53.309859
+PDF loaded. Processing 105/433 [China in 2007 from: ../../data/original_report/usgs_asia/China_2007.pdf]
+
+2026-06-14 20:06:53.818835
+Successfully saved to ../../data/policy_section_txt/usgs_asia/China_2007_policy.txt. Execution time 0.51 seconds
+
+2026-06-14 20:06:53.820467
+PDF loaded. Processing 106/433 [China in 2008 from: ../../data/original_report/usgs_asia/China_2008.pdf]
+
+2026-06-14 20:06:54.413289
+Successfully saved to ../../data/policy_section_txt/usgs_asia/China_2008_policy.txt. Execution time 0.59 seconds
+
+2026-06-14 20:06:54.416025
+PDF loaded. Processing 107/433 [China in 2009 from: ../../data/original_report/usgs_asia/China_2009.pdf]
+
+2026-06-14 20:06:55.012187
+Successfully saved to ../../data/policy_section_txt/usgs_asia/China_2009_policy.txt. Execution time 0.60 seconds
+
+2026-06-14 20:06:55.014342
+PDF loaded. Processing 108/433 [China in 2010 from: ../../data/original_report/usgs_asia/China_2010.pdf]
+
+2026-06-14 20:06:55.580194
+Successfully saved to ../../data/policy_section_txt/usgs_asia/China_2010_policy.txt. Execution time 0.57 seconds
+
+2026-06-14 20:06:55.583685
+PDF loaded. Processing 109/433 [China in 2011 from: ../../data/original_report/usgs_asia/China_2011.pdf]
+
+2026-06-14 20:06:56.073195
+Successfully saved to ../../data/policy_section_txt/usgs_asia/China_2011_policy.txt. Execution time 0.49 seconds
+
+2026-06-14 20:06:56.074904
+PDF loaded. Processing 110/433 [China in 2012 from: ../../data/original_report/usgs_asia/China_2012.pdf]
+
+2026-06-14 20:06:56.491694
+Successfully saved to ../../data/policy_section_txt/usgs_asia/China_2012_policy.txt. Execution time 0.42 seconds
+
+2026-06-14 20:06:56.493144
+PDF loaded. Processing 111/433 [China in 2013 from: ../../data/original_report/usgs_asia/China_2013.pdf]
+
+2026-06-14 20:06:57.037233
+Successfully saved to ../../data/policy_section_txt/usgs_asia/China_2013_policy.txt. Execution time 0.54 seconds
+
+2026-06-14 20:06:57.040125
+PDF loaded. Processing 112/433 [China in 2014 from: ../../data/original_report/usgs_asia/China_2014.pdf]
+
+2026-06-14 20:06:57.747523
+Successfully saved to ../../data/policy_section_txt/usgs_asia/China_2014_policy.txt. Execution time 0.71 seconds
+
+2026-06-14 20:06:57.749576
+PDF loaded. Processing 113/433 [China in 2015 from: ../../data/original_report/usgs_asia/China_2015.pdf]
+
+2026-06-14 20:06:58.126842
+Successfully saved to ../../data/policy_section_txt/usgs_asia/China_2015_policy.txt. Execution time 0.38 seconds
+
+2026-06-14 20:06:58.128771
+PDF loaded. Processing 114/433 [China in 2016 from: ../../data/original_report/usgs_asia/China_2016.pdf]
+
+2026-06-14 20:06:58.429152
+Successfully saved to ../../data/policy_section_txt/usgs_asia/China_2016_policy.txt. Execution time 0.30 seconds
+
+2026-06-14 20:06:58.431253
+PDF loaded. Processing 115/433 [China in 2018 from: ../../data/original_report/usgs_asia/China_2018.pdf]
+
+2026-06-14 20:06:58.782330
+Successfully saved to ../../data/policy_section_txt/usgs_asia/China_2018_policy.txt. Execution time 0.35 seconds
+
+2026-06-14 20:06:58.784571
+PDF loaded. Processing 116/433 [China in 2019 from: ../../data/original_report/usgs_asia/China_2019.pdf]
+
+2026-06-14 20:06:59.268488
+Successfully saved to ../../data/policy_section_txt/usgs_asia/China_2019_policy.txt. Execution time 0.48 seconds
+
+2026-06-14 20:06:59.271253
+PDF loaded. Processing 117/433 [China in 2021 from: ../../data/original_report/usgs_asia/China_2021.pdf]
+
+2026-06-14 20:06:59.855350
+Successfully saved to ../../data/policy_section_txt/usgs_asia/China_2021_policy.txt. Execution time 0.58 seconds
+
+2026-06-14 20:06:59.858562
+PDF loaded. Processing 118/433 [China in 2022 from: ../../data/original_report/usgs_asia/China_2022.pdf]
+
+2026-06-14 20:07:00.353756
+Successfully saved to ../../data/policy_section_txt/usgs_asia/China_2022_policy.txt. Execution time 0.50 seconds
+
+2026-06-14 20:07:00.355717
+PDF loaded. Processing 119/433 [China in 2023 from: ../../data/original_report/usgs_asia/China_2023.pdf]
+
+2026-06-14 20:07:00.821931
+Successfully saved to ../../data/policy_section_txt/usgs_asia/China_2023_policy.txt. Execution time 0.47 seconds
+
+2026-06-14 20:07:00.824104
+PDF loaded. Processing 120/433 [Fiji in 2005 from: ../../data/original_report/usgs_asia/Fiji_2005.pdf]
+
+2026-06-14 20:07:00.884338
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Fiji_2005_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 20:07:00.885308
+PDF loaded. Processing 121/433 [Fiji in 2006 from: ../../data/original_report/usgs_asia/Fiji_2006.pdf]
+
+2026-06-14 20:07:00.953199
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Fiji_2006_policy.txt. Execution time 0.07 seconds
+
+2026-06-14 20:07:00.954257
+PDF loaded. Processing 122/433 [Fiji in 2007 from: ../../data/original_report/usgs_asia/Fiji_2007.pdf]
+
+2026-06-14 20:07:01.080385
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Fiji_2007_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 20:07:01.083253
+PDF loaded. Processing 123/433 [Fiji in 2008 from: ../../data/original_report/usgs_asia/Fiji_2008.pdf]
+
+2026-06-14 20:07:01.198658
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Fiji_2008_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 20:07:01.201356
+PDF loaded. Processing 124/433 [Fiji in 2009 from: ../../data/original_report/usgs_asia/Fiji_2009.pdf]
+
+2026-06-14 20:07:01.278036
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Fiji_2009_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 20:07:01.279586
+PDF loaded. Processing 125/433 [Fiji in 2010 from: ../../data/original_report/usgs_asia/Fiji_2010.pdf]
+
+2026-06-14 20:07:01.389761
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Fiji_2010_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 20:07:01.391175
+PDF loaded. Processing 126/433 [Fiji in 2011 from: ../../data/original_report/usgs_asia/Fiji_2011.pdf]
+
+2026-06-14 20:07:01.460283
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Fiji_2011_policy.txt. Execution time 0.07 seconds
+
+2026-06-14 20:07:01.461215
+PDF loaded. Processing 127/433 [Fiji in 2012 from: ../../data/original_report/usgs_asia/Fiji_2012.pdf]
+
+2026-06-14 20:07:01.534241
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Fiji_2012_policy.txt. Execution time 0.07 seconds
+
+2026-06-14 20:07:01.536262
+PDF loaded. Processing 128/433 [Fiji in 2013 from: ../../data/original_report/usgs_asia/Fiji_2013.pdf]
+
+2026-06-14 20:07:01.639752
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Fiji_2013_policy.txt. Execution time 0.10 seconds
+
+2026-06-14 20:07:01.642206
+PDF loaded. Processing 129/433 [Fiji in 2014 from: ../../data/original_report/usgs_asia/Fiji_2014.pdf]
+
+2026-06-14 20:07:01.754769
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Fiji_2014_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 20:07:01.756504
+PDF loaded. Processing 130/433 [Fiji in 2015 from: ../../data/original_report/usgs_asia/Fiji_2015.pdf]
+
+2026-06-14 20:07:01.926687
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Fiji_2015_policy.txt. Execution time 0.17 seconds
+
+2026-06-14 20:07:01.928888
+PDF loaded. Processing 131/433 [Fiji in 2016 from: ../../data/original_report/usgs_asia/Fiji_2016.pdf]
+
+2026-06-14 20:07:01.945997
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 20:07:01.947521
+PDF loaded. Processing 132/433 [Fiji in 2018 from: ../../data/original_report/usgs_asia/Fiji_2018.pdf]
+
+2026-06-14 20:07:01.963491
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 20:07:01.964598
+PDF loaded. Processing 133/433 [Fiji in 2019 from: ../../data/original_report/usgs_asia/Fiji_2019.pdf]
+
+2026-06-14 20:07:01.976642
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.01 seconds
+
+2026-06-14 20:07:01.977798
+PDF loaded. Processing 134/433 [Fiji in 2021 from: ../../data/original_report/usgs_asia/Fiji_2021.pdf]
+
+2026-06-14 20:07:02.031700
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Fiji_2021_policy.txt. Execution time 0.05 seconds
+
+2026-06-14 20:07:02.033343
+PDF loaded. Processing 135/433 [India in 2005 from: ../../data/original_report/usgs_asia/India_2005.pdf]
+
+2026-06-14 20:07:02.304072
+Successfully saved to ../../data/policy_section_txt/usgs_asia/India_2005_policy.txt. Execution time 0.27 seconds
+
+2026-06-14 20:07:02.306408
+PDF loaded. Processing 136/433 [India in 2006 from: ../../data/original_report/usgs_asia/India_2006.pdf]
+
+2026-06-14 20:07:02.642667
+Successfully saved to ../../data/policy_section_txt/usgs_asia/India_2006_policy.txt. Execution time 0.34 seconds
+
+2026-06-14 20:07:02.644140
+PDF loaded. Processing 137/433 [India in 2007 from: ../../data/original_report/usgs_asia/India_2007.pdf]
+
+2026-06-14 20:07:02.804196
+Successfully saved to ../../data/policy_section_txt/usgs_asia/India_2007_policy.txt. Execution time 0.16 seconds
+
+2026-06-14 20:07:02.805344
+PDF loaded. Processing 138/433 [India in 2008 from: ../../data/original_report/usgs_asia/India_2008.pdf]
+
+2026-06-14 20:07:03.097133
+Successfully saved to ../../data/policy_section_txt/usgs_asia/India_2008_policy.txt. Execution time 0.29 seconds
+
+2026-06-14 20:07:03.099515
+PDF loaded. Processing 139/433 [India in 2009 from: ../../data/original_report/usgs_asia/India_2009.pdf]
+
+2026-06-14 20:07:03.337325
+Successfully saved to ../../data/policy_section_txt/usgs_asia/India_2009_policy.txt. Execution time 0.24 seconds
+
+2026-06-14 20:07:03.339024
+PDF loaded. Processing 140/433 [India in 2010 from: ../../data/original_report/usgs_asia/India_2010.pdf]
+
+2026-06-14 20:07:03.600449
+Successfully saved to ../../data/policy_section_txt/usgs_asia/India_2010_policy.txt. Execution time 0.26 seconds
+
+2026-06-14 20:07:03.602376
+PDF loaded. Processing 141/433 [India in 2011 from: ../../data/original_report/usgs_asia/India_2011.pdf]
+
+2026-06-14 20:07:03.816204
+Successfully saved to ../../data/policy_section_txt/usgs_asia/India_2011_policy.txt. Execution time 0.21 seconds
+
+2026-06-14 20:07:03.819311
+PDF loaded. Processing 142/433 [India in 2012 from: ../../data/original_report/usgs_asia/India_2012.pdf]
+
+2026-06-14 20:07:04.003894
+Successfully saved to ../../data/policy_section_txt/usgs_asia/India_2012_policy.txt. Execution time 0.18 seconds
+
+2026-06-14 20:07:04.005639
+PDF loaded. Processing 143/433 [India in 2013 from: ../../data/original_report/usgs_asia/India_2013.pdf]
+
+2026-06-14 20:07:04.382724
+Successfully saved to ../../data/policy_section_txt/usgs_asia/India_2013_policy.txt. Execution time 0.38 seconds
+
+2026-06-14 20:07:04.385541
+PDF loaded. Processing 144/433 [India in 2014 from: ../../data/original_report/usgs_asia/India_2014.pdf]
+
+2026-06-14 20:07:04.968345
+Successfully saved to ../../data/policy_section_txt/usgs_asia/India_2014_policy.txt. Execution time 0.58 seconds
+
+2026-06-14 20:07:04.971263
+PDF loaded. Processing 145/433 [India in 2015 from: ../../data/original_report/usgs_asia/India_2015.pdf]
+
+2026-06-14 20:07:05.326907
+Successfully saved to ../../data/policy_section_txt/usgs_asia/India_2015_policy.txt. Execution time 0.36 seconds
+
+2026-06-14 20:07:05.328466
+PDF loaded. Processing 146/433 [India in 2016 from: ../../data/original_report/usgs_asia/India_2016.pdf]
+
+2026-06-14 20:07:05.546538
+Successfully saved to ../../data/policy_section_txt/usgs_asia/India_2016_policy.txt. Execution time 0.22 seconds
+
+2026-06-14 20:07:05.549822
+PDF loaded. Processing 147/433 [India in 2018 from: ../../data/original_report/usgs_asia/India_2018.pdf]
+
+2026-06-14 20:07:05.930184
+Successfully saved to ../../data/policy_section_txt/usgs_asia/India_2018_policy.txt. Execution time 0.38 seconds
+
+2026-06-14 20:07:05.933284
+PDF loaded. Processing 148/433 [India in 2019 from: ../../data/original_report/usgs_asia/India_2019.pdf]
+
+2026-06-14 20:07:06.202676
+Successfully saved to ../../data/policy_section_txt/usgs_asia/India_2019_policy.txt. Execution time 0.27 seconds
+
+2026-06-14 20:07:06.205638
+PDF loaded. Processing 149/433 [India in 2021 from: ../../data/original_report/usgs_asia/India_2021.pdf]
+
+2026-06-14 20:07:06.538587
+Successfully saved to ../../data/policy_section_txt/usgs_asia/India_2021_policy.txt. Execution time 0.33 seconds
+
+2026-06-14 20:07:06.541325
+PDF loaded. Processing 150/433 [India in 2022 from: ../../data/original_report/usgs_asia/India_2022.pdf]
+
+2026-06-14 20:07:06.791620
+Successfully saved to ../../data/policy_section_txt/usgs_asia/India_2022_policy.txt. Execution time 0.25 seconds
+
+2026-06-14 20:07:06.793297
+PDF loaded. Processing 151/433 [India in 2023 from: ../../data/original_report/usgs_asia/India_2023.pdf]
+
+2026-06-14 20:07:06.993699
+Successfully saved to ../../data/policy_section_txt/usgs_asia/India_2023_policy.txt. Execution time 0.20 seconds
+
+2026-06-14 20:07:06.995610
+PDF loaded. Processing 152/433 [Indonesia in 2005 from: ../../data/original_report/usgs_asia/Indonesia_2005.pdf]
+
+2026-06-14 20:07:07.331213
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Indonesia_2005_policy.txt. Execution time 0.34 seconds
+
+2026-06-14 20:07:07.334375
+PDF loaded. Processing 153/433 [Indonesia in 2006 from: ../../data/original_report/usgs_asia/Indonesia_2006.pdf]
+
+2026-06-14 20:07:07.693796
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Indonesia_2006_policy.txt. Execution time 0.36 seconds
+
+2026-06-14 20:07:07.696173
+PDF loaded. Processing 154/433 [Indonesia in 2007 from: ../../data/original_report/usgs_asia/Indonesia_2007.pdf]
+
+2026-06-14 20:07:07.867289
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Indonesia_2007_policy.txt. Execution time 0.17 seconds
+
+2026-06-14 20:07:07.869328
+PDF loaded. Processing 155/433 [Indonesia in 2008 from: ../../data/original_report/usgs_asia/Indonesia_2008.pdf]
+
+2026-06-14 20:07:08.117276
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Indonesia_2008_policy.txt. Execution time 0.25 seconds
+
+2026-06-14 20:07:08.118681
+PDF loaded. Processing 156/433 [Indonesia in 2009 from: ../../data/original_report/usgs_asia/Indonesia_2009.pdf]
+
+2026-06-14 20:07:08.316735
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Indonesia_2009_policy.txt. Execution time 0.20 seconds
+
+2026-06-14 20:07:08.318926
+PDF loaded. Processing 157/433 [Indonesia in 2010 from: ../../data/original_report/usgs_asia/Indonesia_2010.pdf]
+
+2026-06-14 20:07:08.535275
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Indonesia_2010_policy.txt. Execution time 0.22 seconds
+
+2026-06-14 20:07:08.536699
+PDF loaded. Processing 158/433 [Indonesia in 2011 from: ../../data/original_report/usgs_asia/Indonesia_2011.pdf]
+
+2026-06-14 20:07:08.677955
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Indonesia_2011_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 20:07:08.680147
+PDF loaded. Processing 159/433 [Indonesia in 2012 from: ../../data/original_report/usgs_asia/Indonesia_2012.pdf]
+
+2026-06-14 20:07:08.905822
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Indonesia_2012_policy.txt. Execution time 0.23 seconds
+
+2026-06-14 20:07:08.908118
+PDF loaded. Processing 160/433 [Indonesia in 2013 from: ../../data/original_report/usgs_asia/Indonesia_2013.pdf]
+
+2026-06-14 20:07:09.045370
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Indonesia_2013_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 20:07:09.047078
+PDF loaded. Processing 161/433 [Indonesia in 2014 from: ../../data/original_report/usgs_asia/Indonesia_2014.pdf]
+
+2026-06-14 20:07:09.206787
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Indonesia_2014_policy.txt. Execution time 0.16 seconds
+
+2026-06-14 20:07:09.208750
+PDF loaded. Processing 162/433 [Indonesia in 2015 from: ../../data/original_report/usgs_asia/Indonesia_2015.pdf]
+
+2026-06-14 20:07:09.385204
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Indonesia_2015_policy.txt. Execution time 0.18 seconds
+
+2026-06-14 20:07:09.387108
+PDF loaded. Processing 163/433 [Indonesia in 2016 from: ../../data/original_report/usgs_asia/Indonesia_2016.pdf]
+
+2026-06-14 20:07:09.506517
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Indonesia_2016_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 20:07:09.507949
+PDF loaded. Processing 164/433 [Indonesia in 2018 from: ../../data/original_report/usgs_asia/Indonesia_2018.pdf]
+
+2026-06-14 20:07:09.769014
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Indonesia_2018_policy.txt. Execution time 0.26 seconds
+
+2026-06-14 20:07:09.771629
+PDF loaded. Processing 165/433 [Indonesia in 2019 from: ../../data/original_report/usgs_asia/Indonesia_2019.pdf]
+
+2026-06-14 20:07:09.981618
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Indonesia_2019_policy.txt. Execution time 0.21 seconds
+
+2026-06-14 20:07:09.984982
+PDF loaded. Processing 166/433 [Indonesia in 2021 from: ../../data/original_report/usgs_asia/Indonesia_2021.pdf]
+
+2026-06-14 20:07:10.213903
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Indonesia_2021_policy.txt. Execution time 0.23 seconds
+
+2026-06-14 20:07:10.216407
+PDF loaded. Processing 167/433 [Indonesia in 2022 from: ../../data/original_report/usgs_asia/Indonesia_2022.pdf]
+
+2026-06-14 20:07:10.394278
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Indonesia_2022_policy.txt. Execution time 0.18 seconds
+
+2026-06-14 20:07:10.396100
+PDF loaded. Processing 168/433 [Indonesia in 2023 from: ../../data/original_report/usgs_asia/Indonesia_2023.pdf]
+
+2026-06-14 20:07:10.559676
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Indonesia_2023_policy.txt. Execution time 0.16 seconds
+
+2026-06-14 20:07:10.562181
+PDF loaded. Processing 169/433 [Japan in 2005 from: ../../data/original_report/usgs_asia/Japan_2005.pdf]
+
+2026-06-14 20:07:11.383096
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Japan_2005_policy.txt. Execution time 0.82 seconds
+
+2026-06-14 20:07:11.386201
+PDF loaded. Processing 170/433 [Japan in 2006 from: ../../data/original_report/usgs_asia/Japan_2006.pdf]
+
+2026-06-14 20:07:12.139980
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Japan_2006_policy.txt. Execution time 0.75 seconds
+
+2026-06-14 20:07:12.142873
+PDF loaded. Processing 171/433 [Japan in 2007 from: ../../data/original_report/usgs_asia/Japan_2007.pdf]
+
+2026-06-14 20:07:12.388143
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Japan_2007_policy.txt. Execution time 0.25 seconds
+
+2026-06-14 20:07:12.390638
+PDF loaded. Processing 172/433 [Japan in 2008 from: ../../data/original_report/usgs_asia/Japan_2008.pdf]
+
+2026-06-14 20:07:12.636848
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Japan_2008_policy.txt. Execution time 0.25 seconds
+
+2026-06-14 20:07:12.639361
+PDF loaded. Processing 173/433 [Japan in 2009 from: ../../data/original_report/usgs_asia/Japan_2009.pdf]
+
+2026-06-14 20:07:12.874929
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Japan_2009_policy.txt. Execution time 0.24 seconds
+
+2026-06-14 20:07:12.877333
+PDF loaded. Processing 174/433 [Japan in 2010 from: ../../data/original_report/usgs_asia/Japan_2010.pdf]
+
+2026-06-14 20:07:13.118202
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Japan_2010_policy.txt. Execution time 0.24 seconds
+
+2026-06-14 20:07:13.120860
+PDF loaded. Processing 175/433 [Japan in 2011 from: ../../data/original_report/usgs_asia/Japan_2011.pdf]
+
+2026-06-14 20:07:13.301122
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Japan_2011_policy.txt. Execution time 0.18 seconds
+
+2026-06-14 20:07:13.302791
+PDF loaded. Processing 176/433 [Japan in 2012 from: ../../data/original_report/usgs_asia/Japan_2012.pdf]
+
+2026-06-14 20:07:13.499493
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Japan_2012_policy.txt. Execution time 0.20 seconds
+
+2026-06-14 20:07:13.501005
+PDF loaded. Processing 177/433 [Japan in 2013 from: ../../data/original_report/usgs_asia/Japan_2013.pdf]
+
+2026-06-14 20:07:13.625887
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Japan_2013_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 20:07:13.627563
+PDF loaded. Processing 178/433 [Japan in 2014 from: ../../data/original_report/usgs_asia/Japan_2014.pdf]
+
+2026-06-14 20:07:13.865410
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Japan_2014_policy.txt. Execution time 0.24 seconds
+
+2026-06-14 20:07:13.868350
+PDF loaded. Processing 179/433 [Japan in 2015 from: ../../data/original_report/usgs_asia/Japan_2015.pdf]
+
+2026-06-14 20:07:14.060061
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Japan_2015_policy.txt. Execution time 0.19 seconds
+
+2026-06-14 20:07:14.061553
+PDF loaded. Processing 180/433 [Japan in 2016 from: ../../data/original_report/usgs_asia/Japan_2016.pdf]
+
+2026-06-14 20:07:14.360945
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Japan_2016_policy.txt. Execution time 0.30 seconds
+
+2026-06-14 20:07:14.362512
+PDF loaded. Processing 181/433 [Japan in 2018 from: ../../data/original_report/usgs_asia/Japan_2018.pdf]
+
+2026-06-14 20:07:14.527673
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Japan_2018_policy.txt. Execution time 0.17 seconds
+
+2026-06-14 20:07:14.529227
+PDF loaded. Processing 182/433 [Japan in 2019 from: ../../data/original_report/usgs_asia/Japan_2019.pdf]
+
+2026-06-14 20:07:14.869992
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Japan_2019_policy.txt. Execution time 0.34 seconds
+
+2026-06-14 20:07:14.871675
+PDF loaded. Processing 183/433 [Japan in 2021 from: ../../data/original_report/usgs_asia/Japan_2021.pdf]
+
+2026-06-14 20:07:15.365329
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Japan_2021_policy.txt. Execution time 0.49 seconds
+
+2026-06-14 20:07:15.368355
+PDF loaded. Processing 184/433 [Korea, North in 2005 from: ../../data/original_report/usgs_asia/Korea, North_2005.pdf]
+
+2026-06-14 20:07:15.497331
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Korea, North_2005_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 20:07:15.499713
+PDF loaded. Processing 185/433 [Korea, North in 2006 from: ../../data/original_report/usgs_asia/Korea, North_2006.pdf]
+
+2026-06-14 20:07:15.657436
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Korea, North_2006_policy.txt. Execution time 0.16 seconds
+
+2026-06-14 20:07:15.659927
+PDF loaded. Processing 186/433 [Korea, North in 2007 from: ../../data/original_report/usgs_asia/Korea, North_2007.pdf]
+
+2026-06-14 20:07:15.821670
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Korea, North_2007_policy.txt. Execution time 0.16 seconds
+
+2026-06-14 20:07:15.822691
+PDF loaded. Processing 187/433 [Korea, North in 2008 from: ../../data/original_report/usgs_asia/Korea, North_2008.pdf]
+
+2026-06-14 20:07:15.982652
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Korea, North_2008_policy.txt. Execution time 0.16 seconds
+
+2026-06-14 20:07:15.984170
+PDF loaded. Processing 188/433 [Korea, North in 2009 from: ../../data/original_report/usgs_asia/Korea, North_2009.pdf]
+
+2026-06-14 20:07:16.128040
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Korea, North_2009_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 20:07:16.130227
+PDF loaded. Processing 189/433 [Korea, North in 2010 from: ../../data/original_report/usgs_asia/Korea, North_2010.pdf]
+
+2026-06-14 20:07:16.298788
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Korea, North_2010_policy.txt. Execution time 0.17 seconds
+
+2026-06-14 20:07:16.301351
+PDF loaded. Processing 190/433 [Korea, North in 2011 from: ../../data/original_report/usgs_asia/Korea, North_2011.pdf]
+
+2026-06-14 20:07:16.403132
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Korea, North_2011_policy.txt. Execution time 0.10 seconds
+
+2026-06-14 20:07:16.404888
+PDF loaded. Processing 191/433 [Korea, North in 2012 from: ../../data/original_report/usgs_asia/Korea, North_2012.pdf]
+
+2026-06-14 20:07:16.511034
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Korea, North_2012_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 20:07:16.512622
+PDF loaded. Processing 192/433 [Korea, North in 2013 from: ../../data/original_report/usgs_asia/Korea, North_2013.pdf]
+
+2026-06-14 20:07:16.648867
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Korea, North_2013_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 20:07:16.651265
+PDF loaded. Processing 193/433 [Korea, North in 2014 from: ../../data/original_report/usgs_asia/Korea, North_2014.pdf]
+
+2026-06-14 20:07:16.787827
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Korea, North_2014_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 20:07:16.789718
+PDF loaded. Processing 194/433 [Korea, North in 2015 from: ../../data/original_report/usgs_asia/Korea, North_2015.pdf]
+
+2026-06-14 20:07:16.904299
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Korea, North_2015_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 20:07:16.907217
+PDF loaded. Processing 195/433 [Korea, North in 2016 from: ../../data/original_report/usgs_asia/Korea, North_2016.pdf]
+
+2026-06-14 20:07:17.060301
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Korea, North_2016_policy.txt. Execution time 0.15 seconds
+
+2026-06-14 20:07:17.061881
+PDF loaded. Processing 196/433 [Korea, North in 2018 from: ../../data/original_report/usgs_asia/Korea, North_2018.pdf]
+
+2026-06-14 20:07:17.233599
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Korea, North_2018_policy.txt. Execution time 0.17 seconds
+
+2026-06-14 20:07:17.236163
+PDF loaded. Processing 197/433 [Korea, North in 2019 from: ../../data/original_report/usgs_asia/Korea, North_2019.pdf]
+
+2026-06-14 20:07:17.404883
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Korea, North_2019_policy.txt. Execution time 0.17 seconds
+
+2026-06-14 20:07:17.406417
+PDF loaded. Processing 198/433 [Korea, North in 2021 from: ../../data/original_report/usgs_asia/Korea, North_2021.pdf]
+
+2026-06-14 20:07:17.567491
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Korea, North_2021_policy.txt. Execution time 0.16 seconds
+
+2026-06-14 20:07:17.569816
+PDF loaded. Processing 199/433 [Korea, Republic of in 2005 from: ../../data/original_report/usgs_asia/Korea, Republic of_2005.pdf]
+
+2026-06-14 20:07:17.878790
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Korea, Republic of_2005_policy.txt. Execution time 0.31 seconds
+
+2026-06-14 20:07:17.881520
+PDF loaded. Processing 200/433 [Korea, Republic of in 2006 from: ../../data/original_report/usgs_asia/Korea, Republic of_2006.pdf]
+
+2026-06-14 20:07:18.211652
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Korea, Republic of_2006_policy.txt. Execution time 0.33 seconds
+
+2026-06-14 20:07:18.215125
+PDF loaded. Processing 201/433 [Korea, Republic of in 2007 from: ../../data/original_report/usgs_asia/Korea, Republic of_2007.pdf]
+
+2026-06-14 20:07:18.455476
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Korea, Republic of_2007_policy.txt. Execution time 0.24 seconds
+
+2026-06-14 20:07:18.458159
+PDF loaded. Processing 202/433 [Korea, Republic of in 2008 from: ../../data/original_report/usgs_asia/Korea, Republic of_2008.pdf]
+
+2026-06-14 20:07:18.805248
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Korea, Republic of_2008_policy.txt. Execution time 0.35 seconds
+
+2026-06-14 20:07:18.807373
+PDF loaded. Processing 203/433 [Korea, Republic of in 2009 from: ../../data/original_report/usgs_asia/Korea, Republic of_2009.pdf]
+
+2026-06-14 20:07:19.001184
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Korea, Republic of_2009_policy.txt. Execution time 0.19 seconds
+
+2026-06-14 20:07:19.003259
+PDF loaded. Processing 204/433 [Korea, Republic of in 2010 from: ../../data/original_report/usgs_asia/Korea, Republic of_2010.pdf]
+
+2026-06-14 20:07:19.134050
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Korea, Republic of_2010_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 20:07:19.136498
+PDF loaded. Processing 205/433 [Korea, Republic of in 2011 from: ../../data/original_report/usgs_asia/Korea, Republic of_2011.pdf]
+
+2026-06-14 20:07:19.254741
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Korea, Republic of_2011_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 20:07:19.256430
+PDF loaded. Processing 206/433 [Korea, Republic of in 2012 from: ../../data/original_report/usgs_asia/Korea, Republic of_2012.pdf]
+
+2026-06-14 20:07:19.405541
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Korea, Republic of_2012_policy.txt. Execution time 0.15 seconds
+
+2026-06-14 20:07:19.407001
+PDF loaded. Processing 207/433 [Korea, Republic of in 2013 from: ../../data/original_report/usgs_asia/Korea, Republic of_2013.pdf]
+
+2026-06-14 20:07:19.541083
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Korea, Republic of_2013_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 20:07:19.542886
+PDF loaded. Processing 208/433 [Korea, Republic of in 2014 from: ../../data/original_report/usgs_asia/Korea, Republic of_2014.pdf]
+
+2026-06-14 20:07:19.720005
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Korea, Republic of_2014_policy.txt. Execution time 0.18 seconds
+
+2026-06-14 20:07:19.722165
+PDF loaded. Processing 209/433 [Korea, Republic of in 2015 from: ../../data/original_report/usgs_asia/Korea, Republic of_2015.pdf]
+
+2026-06-14 20:07:19.821300
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Korea, Republic of_2015_policy.txt. Execution time 0.10 seconds
+
+2026-06-14 20:07:19.822408
+PDF loaded. Processing 210/433 [Korea, Republic of in 2016 from: ../../data/original_report/usgs_asia/Korea, Republic of_2016.pdf]
+
+2026-06-14 20:07:20.001513
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Korea, Republic of_2016_policy.txt. Execution time 0.18 seconds
+
+2026-06-14 20:07:20.004825
+PDF loaded. Processing 211/433 [Korea, Republic of in 2018 from: ../../data/original_report/usgs_asia/Korea, Republic of_2018.pdf]
+
+2026-06-14 20:07:20.197266
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Korea, Republic of_2018_policy.txt. Execution time 0.19 seconds
+
+2026-06-14 20:07:20.199338
+PDF loaded. Processing 212/433 [Korea, Republic of in 2019 from: ../../data/original_report/usgs_asia/Korea, Republic of_2019.pdf]
+
+2026-06-14 20:07:20.359930
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Korea, Republic of_2019_policy.txt. Execution time 0.16 seconds
+
+2026-06-14 20:07:20.361510
+PDF loaded. Processing 213/433 [Korea, Republic of in 2021 from: ../../data/original_report/usgs_asia/Korea, Republic of_2021.pdf]
+
+2026-06-14 20:07:20.616990
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Korea, Republic of_2021_policy.txt. Execution time 0.26 seconds
+
+2026-06-14 20:07:20.618736
+PDF loaded. Processing 214/433 [Laos in 2007 from: ../../data/original_report/usgs_asia/Laos_2007.pdf]
+
+2026-06-14 20:07:20.750663
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Laos_2007_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 20:07:20.752421
+PDF loaded. Processing 215/433 [Laos in 2008 from: ../../data/original_report/usgs_asia/Laos_2008.pdf]
+
+2026-06-14 20:07:20.802029
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Laos_2008_policy.txt. Execution time 0.05 seconds
+
+2026-06-14 20:07:20.803025
+PDF loaded. Processing 216/433 [Laos in 2009 from: ../../data/original_report/usgs_asia/Laos_2009.pdf]
+
+2026-06-14 20:07:20.905762
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Laos_2009_policy.txt. Execution time 0.10 seconds
+
+2026-06-14 20:07:20.908162
+PDF loaded. Processing 217/433 [Laos in 2010 from: ../../data/original_report/usgs_asia/Laos_2010.pdf]
+
+2026-06-14 20:07:21.046790
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Laos_2010_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 20:07:21.048811
+PDF loaded. Processing 218/433 [Laos in 2012 from: ../../data/original_report/usgs_asia/Laos_2012.pdf]
+
+2026-06-14 20:07:21.184734
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Laos_2012_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 20:07:21.186138
+PDF loaded. Processing 219/433 [Laos in 2013 from: ../../data/original_report/usgs_asia/Laos_2013.pdf]
+
+2026-06-14 20:07:21.307886
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Laos_2013_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 20:07:21.308878
+PDF loaded. Processing 220/433 [Laos in 2014 from: ../../data/original_report/usgs_asia/Laos_2014.pdf]
+
+2026-06-14 20:07:21.435287
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Laos_2014_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 20:07:21.437791
+PDF loaded. Processing 221/433 [Laos in 2015 from: ../../data/original_report/usgs_asia/Laos_2015.pdf]
+
+2026-06-14 20:07:21.530277
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Laos_2015_policy.txt. Execution time 0.09 seconds
+
+2026-06-14 20:07:21.531206
+PDF loaded. Processing 222/433 [Laos in 2016 from: ../../data/original_report/usgs_asia/Laos_2016.pdf]
+
+2026-06-14 20:07:21.542826
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.01 seconds
+
+2026-06-14 20:07:21.544509
+PDF loaded. Processing 223/433 [Laos in 2018 from: ../../data/original_report/usgs_asia/Laos_2018.pdf]
+
+2026-06-14 20:07:21.583080
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Laos_2018_policy.txt. Execution time 0.04 seconds
+
+2026-06-14 20:07:21.584263
+PDF loaded. Processing 224/433 [Laos in 2019 from: ../../data/original_report/usgs_asia/Laos_2019.pdf]
+
+2026-06-14 20:07:21.736965
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Laos_2019_policy.txt. Execution time 0.15 seconds
+
+2026-06-14 20:07:21.738592
+PDF loaded. Processing 225/433 [Laos in 2021 from: ../../data/original_report/usgs_asia/Laos_2021.pdf]
+
+2026-06-14 20:07:21.863636
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Laos_2021_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 20:07:21.865211
+PDF loaded. Processing 226/433 [Malaysia in 2005 from: ../../data/original_report/usgs_asia/Malaysia_2005.pdf]
+
+2026-06-14 20:07:22.079019
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Malaysia_2005_policy.txt. Execution time 0.21 seconds
+
+2026-06-14 20:07:22.081583
+PDF loaded. Processing 227/433 [Malaysia in 2006 from: ../../data/original_report/usgs_asia/Malaysia_2006.pdf]
+
+2026-06-14 20:07:22.330259
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Malaysia_2006_policy.txt. Execution time 0.25 seconds
+
+2026-06-14 20:07:22.334098
+PDF loaded. Processing 228/433 [Malaysia in 2007 from: ../../data/original_report/usgs_asia/Malaysia_2007.pdf]
+
+2026-06-14 20:07:22.450987
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Malaysia_2007_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 20:07:22.452734
+PDF loaded. Processing 229/433 [Malaysia in 2008 from: ../../data/original_report/usgs_asia/Malaysia_2008.pdf]
+
+2026-06-14 20:07:22.635174
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Malaysia_2008_policy.txt. Execution time 0.18 seconds
+
+2026-06-14 20:07:22.637139
+PDF loaded. Processing 230/433 [Malaysia in 2009 from: ../../data/original_report/usgs_asia/Malaysia_2009.pdf]
+
+2026-06-14 20:07:22.778051
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Malaysia_2009_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 20:07:22.779093
+PDF loaded. Processing 231/433 [Malaysia in 2010 from: ../../data/original_report/usgs_asia/Malaysia_2010.pdf]
+
+2026-06-14 20:07:22.935620
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Malaysia_2010_policy.txt. Execution time 0.16 seconds
+
+2026-06-14 20:07:22.937126
+PDF loaded. Processing 232/433 [Malaysia in 2011 from: ../../data/original_report/usgs_asia/Malaysia_2011.pdf]
+
+2026-06-14 20:07:23.125399
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Malaysia_2011_policy.txt. Execution time 0.19 seconds
+
+2026-06-14 20:07:23.127139
+PDF loaded. Processing 233/433 [Malaysia in 2012 from: ../../data/original_report/usgs_asia/Malaysia_2012.pdf]
+
+2026-06-14 20:07:23.291356
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Malaysia_2012_policy.txt. Execution time 0.16 seconds
+
+2026-06-14 20:07:23.293989
+PDF loaded. Processing 234/433 [Malaysia in 2013 from: ../../data/original_report/usgs_asia/Malaysia_2013.pdf]
+
+2026-06-14 20:07:23.430235
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Malaysia_2013_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 20:07:23.431422
+PDF loaded. Processing 235/433 [Malaysia in 2014 from: ../../data/original_report/usgs_asia/Malaysia_2014.pdf]
+
+2026-06-14 20:07:23.583716
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Malaysia_2014_policy.txt. Execution time 0.15 seconds
+
+2026-06-14 20:07:23.589006
+PDF loaded. Processing 236/433 [Malaysia in 2015 from: ../../data/original_report/usgs_asia/Malaysia_2015.pdf]
+
+2026-06-14 20:07:23.727525
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Malaysia_2015_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 20:07:23.728538
+PDF loaded. Processing 237/433 [Malaysia in 2016 from: ../../data/original_report/usgs_asia/Malaysia_2016.pdf]
+
+2026-06-14 20:07:23.857090
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Malaysia_2016_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 20:07:23.859502
+PDF loaded. Processing 238/433 [Malaysia in 2018 from: ../../data/original_report/usgs_asia/Malaysia_2018.pdf]
+
+2026-06-14 20:07:24.106868
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Malaysia_2018_policy.txt. Execution time 0.25 seconds
+
+2026-06-14 20:07:24.108880
+PDF loaded. Processing 239/433 [Malaysia in 2019 from: ../../data/original_report/usgs_asia/Malaysia_2019.pdf]
+
+2026-06-14 20:07:24.252434
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Malaysia_2019_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 20:07:24.253497
+PDF loaded. Processing 240/433 [Malaysia in 2021 from: ../../data/original_report/usgs_asia/Malaysia_2021.pdf]
+
+2026-06-14 20:07:24.417503
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Malaysia_2021_policy.txt. Execution time 0.16 seconds
+
+2026-06-14 20:07:24.419990
+PDF loaded. Processing 241/433 [Mongolia in 2005 from: ../../data/original_report/usgs_asia/Mongolia_2005.pdf]
+
+2026-06-14 20:07:24.536419
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Mongolia_2005_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 20:07:24.537485
+PDF loaded. Processing 242/433 [Mongolia in 2006 from: ../../data/original_report/usgs_asia/Mongolia_2006.pdf]
+
+2026-06-14 20:07:24.743976
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Mongolia_2006_policy.txt. Execution time 0.21 seconds
+
+2026-06-14 20:07:24.746713
+PDF loaded. Processing 243/433 [Mongolia in 2007 from: ../../data/original_report/usgs_asia/Mongolia_2007.pdf]
+
+2026-06-14 20:07:24.874463
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Mongolia_2007_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 20:07:24.875596
+PDF loaded. Processing 244/433 [Mongolia in 2008 from: ../../data/original_report/usgs_asia/Mongolia_2008.pdf]
+
+2026-06-14 20:07:25.076888
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Mongolia_2008_policy.txt. Execution time 0.20 seconds
+
+2026-06-14 20:07:25.078313
+PDF loaded. Processing 245/433 [Mongolia in 2009 from: ../../data/original_report/usgs_asia/Mongolia_2009.pdf]
+
+2026-06-14 20:07:25.193991
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Mongolia_2009_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 20:07:25.195392
+PDF loaded. Processing 246/433 [Mongolia in 2010 from: ../../data/original_report/usgs_asia/Mongolia_2010.pdf]
+
+2026-06-14 20:07:25.328425
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Mongolia_2010_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 20:07:25.330323
+PDF loaded. Processing 247/433 [Mongolia in 2011 from: ../../data/original_report/usgs_asia/Mongolia_2011.pdf]
+
+2026-06-14 20:07:25.454518
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Mongolia_2011_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 20:07:25.455413
+PDF loaded. Processing 248/433 [Mongolia in 2012 from: ../../data/original_report/usgs_asia/Mongolia_2012.pdf]
+
+2026-06-14 20:07:25.661729
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Mongolia_2012_policy.txt. Execution time 0.21 seconds
+
+2026-06-14 20:07:25.664003
+PDF loaded. Processing 249/433 [Mongolia in 2013 from: ../../data/original_report/usgs_asia/Mongolia_2013.pdf]
+
+2026-06-14 20:07:25.788809
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Mongolia_2013_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 20:07:25.789860
+PDF loaded. Processing 250/433 [Mongolia in 2014 from: ../../data/original_report/usgs_asia/Mongolia_2014.pdf]
+
+2026-06-14 20:07:25.990859
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Mongolia_2014_policy.txt. Execution time 0.20 seconds
+
+2026-06-14 20:07:25.992855
+PDF loaded. Processing 251/433 [Mongolia in 2015 from: ../../data/original_report/usgs_asia/Mongolia_2015.pdf]
+
+2026-06-14 20:07:26.108501
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Mongolia_2015_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 20:07:26.110177
+PDF loaded. Processing 252/433 [Mongolia in 2016 from: ../../data/original_report/usgs_asia/Mongolia_2016.pdf]
+
+2026-06-14 20:07:26.255220
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Mongolia_2016_policy.txt. Execution time 0.15 seconds
+
+2026-06-14 20:07:26.256957
+PDF loaded. Processing 253/433 [Mongolia in 2018 from: ../../data/original_report/usgs_asia/Mongolia_2018.pdf]
+
+2026-06-14 20:07:26.427593
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Mongolia_2018_policy.txt. Execution time 0.17 seconds
+
+2026-06-14 20:07:26.428637
+PDF loaded. Processing 254/433 [Mongolia in 2019 from: ../../data/original_report/usgs_asia/Mongolia_2019.pdf]
+
+2026-06-14 20:07:26.567731
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Mongolia_2019_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 20:07:26.569455
+PDF loaded. Processing 255/433 [Mongolia in 2021 from: ../../data/original_report/usgs_asia/Mongolia_2021.pdf]
+
+2026-06-14 20:07:26.698467
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Mongolia_2021_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 20:07:26.699504
+PDF loaded. Processing 256/433 [Mongolia in 2022 from: ../../data/original_report/usgs_asia/Mongolia_2022.pdf]
+
+2026-06-14 20:07:26.833271
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Mongolia_2022_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 20:07:26.835791
+PDF loaded. Processing 257/433 [Mongolia in 2023 from: ../../data/original_report/usgs_asia/Mongolia_2023.pdf]
+
+2026-06-14 20:07:26.965666
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Mongolia_2023_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 20:07:26.968593
+PDF loaded. Processing 258/433 [Nauru in 2018 from: ../../data/original_report/usgs_asia/Nauru_2018.pdf]
+
+2026-06-14 20:07:26.983946
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 20:07:26.984804
+PDF loaded. Processing 259/433 [Nauru in 2019 from: ../../data/original_report/usgs_asia/Nauru_2019.pdf]
+
+2026-06-14 20:07:26.997336
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.01 seconds
+
+2026-06-14 20:07:26.998847
+PDF loaded. Processing 260/433 [Nauru in 2021 from: ../../data/original_report/usgs_asia/Nauru_2021.pdf]
+
+2026-06-14 20:07:27.067028
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Nauru_2021_policy.txt. Execution time 0.07 seconds
+
+2026-06-14 20:07:27.068862
+PDF loaded. Processing 261/433 [Nepal in 2005 from: ../../data/original_report/usgs_asia/Nepal_2005.pdf]
+
+2026-06-14 20:07:27.133547
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Nepal_2005_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 20:07:27.134732
+PDF loaded. Processing 262/433 [Nepal in 2006 from: ../../data/original_report/usgs_asia/Nepal_2006.pdf]
+
+2026-06-14 20:07:27.240806
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Nepal_2006_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 20:07:27.242026
+PDF loaded. Processing 263/433 [Nepal in 2007 from: ../../data/original_report/usgs_asia/Nepal_2007.pdf]
+
+2026-06-14 20:07:27.306353
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Nepal_2007_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 20:07:27.307513
+PDF loaded. Processing 264/433 [Nepal in 2008 from: ../../data/original_report/usgs_asia/Nepal_2008.pdf]
+
+2026-06-14 20:07:27.403128
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Nepal_2008_policy.txt. Execution time 0.10 seconds
+
+2026-06-14 20:07:27.404704
+PDF loaded. Processing 265/433 [Nepal in 2009 from: ../../data/original_report/usgs_asia/Nepal_2009.pdf]
+
+2026-06-14 20:07:27.510511
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Nepal_2009_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 20:07:27.513615
+PDF loaded. Processing 266/433 [Nepal in 2010 from: ../../data/original_report/usgs_asia/Nepal_2010.pdf]
+
+2026-06-14 20:07:27.594083
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Nepal_2010_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 20:07:27.595021
+PDF loaded. Processing 267/433 [Nepal in 2011 from: ../../data/original_report/usgs_asia/Nepal_2011.pdf]
+
+2026-06-14 20:07:27.648172
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Nepal_2011_policy.txt. Execution time 0.05 seconds
+
+2026-06-14 20:07:27.649128
+PDF loaded. Processing 268/433 [Nepal in 2012 from: ../../data/original_report/usgs_asia/Nepal_2012.pdf]
+
+2026-06-14 20:07:27.700316
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Nepal_2012_policy.txt. Execution time 0.05 seconds
+
+2026-06-14 20:07:27.701357
+PDF loaded. Processing 269/433 [Nepal in 2013 from: ../../data/original_report/usgs_asia/Nepal_2013.pdf]
+
+2026-06-14 20:07:27.769096
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Nepal_2013_policy.txt. Execution time 0.07 seconds
+
+2026-06-14 20:07:27.771201
+PDF loaded. Processing 270/433 [Nepal in 2014 from: ../../data/original_report/usgs_asia/Nepal_2014.pdf]
+
+2026-06-14 20:07:27.916206
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Nepal_2014_policy.txt. Execution time 0.15 seconds
+
+2026-06-14 20:07:27.918548
+PDF loaded. Processing 271/433 [Nepal in 2015 from: ../../data/original_report/usgs_asia/Nepal_2015.pdf]
+
+2026-06-14 20:07:28.088562
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Nepal_2015_policy.txt. Execution time 0.17 seconds
+
+2026-06-14 20:07:28.090660
+PDF loaded. Processing 272/433 [Nepal in 2016 from: ../../data/original_report/usgs_asia/Nepal_2016.pdf]
+
+2026-06-14 20:07:28.172198
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Nepal_2016_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 20:07:28.173575
+PDF loaded. Processing 273/433 [Nepal in 2018 from: ../../data/original_report/usgs_asia/Nepal_2018.pdf]
+
+2026-06-14 20:07:28.247869
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Nepal_2018_policy.txt. Execution time 0.07 seconds
+
+2026-06-14 20:07:28.248856
+PDF loaded. Processing 274/433 [Nepal in 2019 from: ../../data/original_report/usgs_asia/Nepal_2019.pdf]
+
+2026-06-14 20:07:28.386400
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Nepal_2019_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 20:07:28.388711
+PDF loaded. Processing 275/433 [Nepal in 2021 from: ../../data/original_report/usgs_asia/Nepal_2021.pdf]
+
+2026-06-14 20:07:28.590272
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Nepal_2021_policy.txt. Execution time 0.20 seconds
+
+2026-06-14 20:07:28.591596
+PDF loaded. Processing 276/433 [New Caledonia in 2005 from: ../../data/original_report/usgs_asia/New Caledonia_2005.pdf]
+
+2026-06-14 20:07:28.653569
+Successfully saved to ../../data/policy_section_txt/usgs_asia/New Caledonia_2005_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 20:07:28.655917
+PDF loaded. Processing 277/433 [New Caledonia in 2006 from: ../../data/original_report/usgs_asia/New Caledonia_2006.pdf]
+
+2026-06-14 20:07:28.715220
+Successfully saved to ../../data/policy_section_txt/usgs_asia/New Caledonia_2006_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 20:07:28.716203
+PDF loaded. Processing 278/433 [New Caledonia in 2007 from: ../../data/original_report/usgs_asia/New Caledonia_2007.pdf]
+
+2026-06-14 20:07:28.790026
+Successfully saved to ../../data/policy_section_txt/usgs_asia/New Caledonia_2007_policy.txt. Execution time 0.07 seconds
+
+2026-06-14 20:07:28.791514
+PDF loaded. Processing 279/433 [New Caledonia in 2008 from: ../../data/original_report/usgs_asia/New Caledonia_2008.pdf]
+
+2026-06-14 20:07:28.882682
+Successfully saved to ../../data/policy_section_txt/usgs_asia/New Caledonia_2008_policy.txt. Execution time 0.09 seconds
+
+2026-06-14 20:07:28.884510
+PDF loaded. Processing 280/433 [New Caledonia in 2009 from: ../../data/original_report/usgs_asia/New Caledonia_2009.pdf]
+
+2026-06-14 20:07:28.962754
+Successfully saved to ../../data/policy_section_txt/usgs_asia/New Caledonia_2009_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 20:07:28.963709
+PDF loaded. Processing 281/433 [New Caledonia in 2010 from: ../../data/original_report/usgs_asia/New Caledonia_2010.pdf]
+
+2026-06-14 20:07:29.004969
+Successfully saved to ../../data/policy_section_txt/usgs_asia/New Caledonia_2010_policy.txt. Execution time 0.04 seconds
+
+2026-06-14 20:07:29.005892
+PDF loaded. Processing 282/433 [New Caledonia in 2011 from: ../../data/original_report/usgs_asia/New Caledonia_2011.pdf]
+
+2026-06-14 20:07:29.048507
+Successfully saved to ../../data/policy_section_txt/usgs_asia/New Caledonia_2011_policy.txt. Execution time 0.04 seconds
+
+2026-06-14 20:07:29.049880
+PDF loaded. Processing 283/433 [New Caledonia in 2012 from: ../../data/original_report/usgs_asia/New Caledonia_2012.pdf]
+
+2026-06-14 20:07:29.191369
+Successfully saved to ../../data/policy_section_txt/usgs_asia/New Caledonia_2012_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 20:07:29.192730
+PDF loaded. Processing 284/433 [New Caledonia in 2013 from: ../../data/original_report/usgs_asia/New Caledonia_2013.pdf]
+
+2026-06-14 20:07:29.286664
+Successfully saved to ../../data/policy_section_txt/usgs_asia/New Caledonia_2013_policy.txt. Execution time 0.09 seconds
+
+2026-06-14 20:07:29.287919
+PDF loaded. Processing 285/433 [New Caledonia in 2014 from: ../../data/original_report/usgs_asia/New Caledonia_2014.pdf]
+
+2026-06-14 20:07:29.388769
+Successfully saved to ../../data/policy_section_txt/usgs_asia/New Caledonia_2014_policy.txt. Execution time 0.10 seconds
+
+2026-06-14 20:07:29.389777
+PDF loaded. Processing 286/433 [New Caledonia in 2015 from: ../../data/original_report/usgs_asia/New Caledonia_2015.pdf]
+
+2026-06-14 20:07:29.489659
+Successfully saved to ../../data/policy_section_txt/usgs_asia/New Caledonia_2015_policy.txt. Execution time 0.10 seconds
+
+2026-06-14 20:07:29.492782
+PDF loaded. Processing 287/433 [New Caledonia in 2016 from: ../../data/original_report/usgs_asia/New Caledonia_2016.pdf]
+
+2026-06-14 20:07:29.591653
+Successfully saved to ../../data/policy_section_txt/usgs_asia/New Caledonia_2016_policy.txt. Execution time 0.10 seconds
+
+2026-06-14 20:07:29.593243
+PDF loaded. Processing 288/433 [New Caledonia in 2018 from: ../../data/original_report/usgs_asia/New Caledonia_2018.pdf]
+
+2026-06-14 20:07:29.726681
+Successfully saved to ../../data/policy_section_txt/usgs_asia/New Caledonia_2018_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 20:07:29.728481
+PDF loaded. Processing 289/433 [New Caledonia in 2019 from: ../../data/original_report/usgs_asia/New Caledonia_2019.pdf]
+
+2026-06-14 20:07:29.884794
+Successfully saved to ../../data/policy_section_txt/usgs_asia/New Caledonia_2019_policy.txt. Execution time 0.16 seconds
+
+2026-06-14 20:07:29.885811
+PDF loaded. Processing 290/433 [New Caledonia in 2021 from: ../../data/original_report/usgs_asia/New Caledonia_2021.pdf]
+
+2026-06-14 20:07:30.008752
+Successfully saved to ../../data/policy_section_txt/usgs_asia/New Caledonia_2021_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 20:07:30.011191
+PDF loaded. Processing 291/433 [New Zealand in 2005 from: ../../data/original_report/usgs_asia/New Zealand_2005.pdf]
+
+2026-06-14 20:07:30.072604
+Successfully saved to ../../data/policy_section_txt/usgs_asia/New Zealand_2005_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 20:07:30.074627
+PDF loaded. Processing 292/433 [New Zealand in 2006 from: ../../data/original_report/usgs_asia/New Zealand_2006.pdf]
+
+2026-06-14 20:07:30.184578
+Successfully saved to ../../data/policy_section_txt/usgs_asia/New Zealand_2006_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 20:07:30.187010
+PDF loaded. Processing 293/433 [New Zealand in 2007 from: ../../data/original_report/usgs_asia/New Zealand_2007.pdf]
+
+2026-06-14 20:07:30.291085
+Successfully saved to ../../data/policy_section_txt/usgs_asia/New Zealand_2007_policy.txt. Execution time 0.10 seconds
+
+2026-06-14 20:07:30.292438
+PDF loaded. Processing 294/433 [New Zealand in 2008 from: ../../data/original_report/usgs_asia/New Zealand_2008.pdf]
+
+2026-06-14 20:07:30.397361
+Successfully saved to ../../data/policy_section_txt/usgs_asia/New Zealand_2008_policy.txt. Execution time 0.10 seconds
+
+2026-06-14 20:07:30.398391
+PDF loaded. Processing 295/433 [New Zealand in 2009 from: ../../data/original_report/usgs_asia/New Zealand_2009.pdf]
+
+2026-06-14 20:07:30.490874
+Successfully saved to ../../data/policy_section_txt/usgs_asia/New Zealand_2009_policy.txt. Execution time 0.09 seconds
+
+2026-06-14 20:07:30.492281
+PDF loaded. Processing 296/433 [New Zealand in 2010 from: ../../data/original_report/usgs_asia/New Zealand_2010.pdf]
+
+2026-06-14 20:07:30.639143
+Successfully saved to ../../data/policy_section_txt/usgs_asia/New Zealand_2010_policy.txt. Execution time 0.15 seconds
+
+2026-06-14 20:07:30.640509
+PDF loaded. Processing 297/433 [New Zealand in 2011 from: ../../data/original_report/usgs_asia/New Zealand_2011.pdf]
+
+2026-06-14 20:07:30.763266
+Successfully saved to ../../data/policy_section_txt/usgs_asia/New Zealand_2011_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 20:07:30.765048
+PDF loaded. Processing 298/433 [New Zealand in 2012 from: ../../data/original_report/usgs_asia/New Zealand_2012.pdf]
+
+2026-06-14 20:07:30.906778
+Successfully saved to ../../data/policy_section_txt/usgs_asia/New Zealand_2012_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 20:07:30.908979
+PDF loaded. Processing 299/433 [New Zealand in 2013 from: ../../data/original_report/usgs_asia/New Zealand_2013.pdf]
+
+2026-06-14 20:07:31.089122
+Successfully saved to ../../data/policy_section_txt/usgs_asia/New Zealand_2013_policy.txt. Execution time 0.18 seconds
+
+2026-06-14 20:07:31.090260
+PDF loaded. Processing 300/433 [New Zealand in 2014 from: ../../data/original_report/usgs_asia/New Zealand_2014.pdf]
+
+2026-06-14 20:07:31.267265
+Successfully saved to ../../data/policy_section_txt/usgs_asia/New Zealand_2014_policy.txt. Execution time 0.18 seconds
+
+2026-06-14 20:07:31.269541
+PDF loaded. Processing 301/433 [New Zealand in 2015 from: ../../data/original_report/usgs_asia/New Zealand_2015.pdf]
+
+2026-06-14 20:07:31.386149
+Successfully saved to ../../data/policy_section_txt/usgs_asia/New Zealand_2015_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 20:07:31.387142
+PDF loaded. Processing 302/433 [New Zealand in 2016 from: ../../data/original_report/usgs_asia/New Zealand_2016.pdf]
+
+2026-06-14 20:07:31.417847
+Successfully saved to ../../data/policy_section_txt/usgs_asia/New Zealand_2016_policy.txt. Execution time 0.03 seconds
+
+2026-06-14 20:07:31.418794
+PDF loaded. Processing 303/433 [New Zealand in 2018 from: ../../data/original_report/usgs_asia/New Zealand_2018.pdf]
+
+2026-06-14 20:07:31.451375
+Successfully saved to ../../data/policy_section_txt/usgs_asia/New Zealand_2018_policy.txt. Execution time 0.03 seconds
+
+2026-06-14 20:07:31.452869
+PDF loaded. Processing 304/433 [New Zealand in 2019 from: ../../data/original_report/usgs_asia/New Zealand_2019.pdf]
+
+2026-06-14 20:07:31.510804
+Successfully saved to ../../data/policy_section_txt/usgs_asia/New Zealand_2019_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 20:07:31.513516
+PDF loaded. Processing 305/433 [New Zealand in 2021 from: ../../data/original_report/usgs_asia/New Zealand_2021.pdf]
+
+2026-06-14 20:07:31.585901
+Successfully saved to ../../data/policy_section_txt/usgs_asia/New Zealand_2021_policy.txt. Execution time 0.07 seconds
+
+2026-06-14 20:07:31.587406
+PDF loaded. Processing 306/433 [Pakistan in 2005 from: ../../data/original_report/usgs_asia/Pakistan_2005.pdf]
+
+2026-06-14 20:07:31.669388
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Pakistan_2005_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 20:07:31.670367
+PDF loaded. Processing 307/433 [Pakistan in 2006 from: ../../data/original_report/usgs_asia/Pakistan_2006.pdf]
+
+2026-06-14 20:07:31.787580
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Pakistan_2006_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 20:07:31.789163
+PDF loaded. Processing 308/433 [Pakistan in 2007 from: ../../data/original_report/usgs_asia/Pakistan_2007.pdf]
+
+2026-06-14 20:07:31.892193
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Pakistan_2007_policy.txt. Execution time 0.10 seconds
+
+2026-06-14 20:07:31.893671
+PDF loaded. Processing 309/433 [Pakistan in 2008 from: ../../data/original_report/usgs_asia/Pakistan_2008.pdf]
+
+2026-06-14 20:07:32.019274
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Pakistan_2008_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 20:07:32.021682
+PDF loaded. Processing 310/433 [Pakistan in 2009 from: ../../data/original_report/usgs_asia/Pakistan_2009.pdf]
+
+2026-06-14 20:07:32.167457
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Pakistan_2009_policy.txt. Execution time 0.15 seconds
+
+2026-06-14 20:07:32.168759
+PDF loaded. Processing 311/433 [Pakistan in 2010 from: ../../data/original_report/usgs_asia/Pakistan_2010.pdf]
+
+2026-06-14 20:07:32.316586
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Pakistan_2010_policy.txt. Execution time 0.15 seconds
+
+2026-06-14 20:07:32.319651
+PDF loaded. Processing 312/433 [Pakistan in 2011 from: ../../data/original_report/usgs_asia/Pakistan_2011.pdf]
+
+2026-06-14 20:07:32.414909
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Pakistan_2011_policy.txt. Execution time 0.10 seconds
+
+2026-06-14 20:07:32.415828
+PDF loaded. Processing 313/433 [Pakistan in 2012 from: ../../data/original_report/usgs_asia/Pakistan_2012.pdf]
+
+2026-06-14 20:07:32.514869
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Pakistan_2012_policy.txt. Execution time 0.10 seconds
+
+2026-06-14 20:07:32.515834
+PDF loaded. Processing 314/433 [Pakistan in 2013 from: ../../data/original_report/usgs_asia/Pakistan_2013.pdf]
+
+2026-06-14 20:07:32.700060
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Pakistan_2013_policy.txt. Execution time 0.18 seconds
+
+2026-06-14 20:07:32.701527
+PDF loaded. Processing 315/433 [Pakistan in 2014 from: ../../data/original_report/usgs_asia/Pakistan_2014.pdf]
+
+2026-06-14 20:07:32.895018
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Pakistan_2014_policy.txt. Execution time 0.19 seconds
+
+2026-06-14 20:07:32.896281
+PDF loaded. Processing 316/433 [Pakistan in 2015 from: ../../data/original_report/usgs_asia/Pakistan_2015.pdf]
+
+2026-06-14 20:07:33.052665
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Pakistan_2015_policy.txt. Execution time 0.16 seconds
+
+2026-06-14 20:07:33.054241
+PDF loaded. Processing 317/433 [Pakistan in 2016 from: ../../data/original_report/usgs_asia/Pakistan_2016.pdf]
+
+2026-06-14 20:07:33.114823
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Pakistan_2016_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 20:07:33.116414
+PDF loaded. Processing 318/433 [Pakistan in 2018 from: ../../data/original_report/usgs_asia/Pakistan_2018.pdf]
+
+2026-06-14 20:07:33.308532
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Pakistan_2018_policy.txt. Execution time 0.19 seconds
+
+2026-06-14 20:07:33.310479
+PDF loaded. Processing 319/433 [Pakistan in 2019 from: ../../data/original_report/usgs_asia/Pakistan_2019.pdf]
+
+2026-06-14 20:07:33.449792
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Pakistan_2019_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 20:07:33.453204
+PDF loaded. Processing 320/433 [Pakistan in 2021 from: ../../data/original_report/usgs_asia/Pakistan_2021.pdf]
+
+2026-06-14 20:07:33.668041
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Pakistan_2021_policy.txt. Execution time 0.21 seconds
+
+2026-06-14 20:07:33.670159
+PDF loaded. Processing 321/433 [Papua New Guinea in 2005 from: ../../data/original_report/usgs_asia/Papua New Guinea_2005.pdf]
+
+2026-06-14 20:07:33.720214
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Papua New Guinea_2005_policy.txt. Execution time 0.05 seconds
+
+2026-06-14 20:07:33.721189
+PDF loaded. Processing 322/433 [Papua New Guinea in 2006 from: ../../data/original_report/usgs_asia/Papua New Guinea_2006.pdf]
+
+2026-06-14 20:07:33.801016
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Papua New Guinea_2006_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 20:07:33.802089
+PDF loaded. Processing 323/433 [Papua New Guinea in 2007 from: ../../data/original_report/usgs_asia/Papua New Guinea_2007.pdf]
+
+2026-06-14 20:07:33.915084
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Papua New Guinea_2007_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 20:07:33.917087
+PDF loaded. Processing 324/433 [Papua New Guinea in 2008 from: ../../data/original_report/usgs_asia/Papua New Guinea_2008.pdf]
+
+2026-06-14 20:07:34.116907
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Papua New Guinea_2008_policy.txt. Execution time 0.20 seconds
+
+2026-06-14 20:07:34.119846
+PDF loaded. Processing 325/433 [Papua New Guinea in 2009 from: ../../data/original_report/usgs_asia/Papua New Guinea_2009.pdf]
+
+2026-06-14 20:07:34.299137
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Papua New Guinea_2009_policy.txt. Execution time 0.18 seconds
+
+2026-06-14 20:07:34.300630
+PDF loaded. Processing 326/433 [Papua New Guinea in 2010 from: ../../data/original_report/usgs_asia/Papua New Guinea_2010.pdf]
+
+2026-06-14 20:07:34.384406
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Papua New Guinea_2010_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 20:07:34.385395
+PDF loaded. Processing 327/433 [Papua New Guinea in 2011 from: ../../data/original_report/usgs_asia/Papua New Guinea_2011.pdf]
+
+2026-06-14 20:07:34.464449
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Papua New Guinea_2011_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 20:07:34.465925
+PDF loaded. Processing 328/433 [Papua New Guinea in 2012 from: ../../data/original_report/usgs_asia/Papua New Guinea_2012.pdf]
+
+2026-06-14 20:07:34.586883
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Papua New Guinea_2012_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 20:07:34.589240
+PDF loaded. Processing 329/433 [Papua New Guinea in 2013 from: ../../data/original_report/usgs_asia/Papua New Guinea_2013.pdf]
+
+2026-06-14 20:07:34.727718
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Papua New Guinea_2013_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 20:07:34.729471
+PDF loaded. Processing 330/433 [Papua New Guinea in 2014 from: ../../data/original_report/usgs_asia/Papua New Guinea_2014.pdf]
+
+2026-06-14 20:07:34.913606
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Papua New Guinea_2014_policy.txt. Execution time 0.18 seconds
+
+2026-06-14 20:07:34.915682
+PDF loaded. Processing 331/433 [Papua New Guinea in 2015 from: ../../data/original_report/usgs_asia/Papua New Guinea_2015.pdf]
+
+2026-06-14 20:07:35.047929
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Papua New Guinea_2015_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 20:07:35.049441
+PDF loaded. Processing 332/433 [Papua New Guinea in 2016 from: ../../data/original_report/usgs_asia/Papua New Guinea_2016.pdf]
+
+2026-06-14 20:07:35.064940
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 20:07:35.066201
+PDF loaded. Processing 333/433 [Papua New Guinea in 2018 from: ../../data/original_report/usgs_asia/Papua New Guinea_2018.pdf]
+
+2026-06-14 20:07:35.081243
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 20:07:35.082417
+PDF loaded. Processing 334/433 [Papua New Guinea in 2019 from: ../../data/original_report/usgs_asia/Papua New Guinea_2019.pdf]
+
+2026-06-14 20:07:35.095366
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.01 seconds
+
+2026-06-14 20:07:35.096245
+PDF loaded. Processing 335/433 [Papua New Guinea in 2021 from: ../../data/original_report/usgs_asia/Papua New Guinea_2021.pdf]
+
+2026-06-14 20:07:35.169264
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Papua New Guinea_2021_policy.txt. Execution time 0.07 seconds
+
+2026-06-14 20:07:35.171948
+PDF loaded. Processing 336/433 [Philippines in 2005 from: ../../data/original_report/usgs_asia/Philippines_2005.pdf]
+
+2026-06-14 20:07:35.244705
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Philippines_2005_policy.txt. Execution time 0.07 seconds
+
+2026-06-14 20:07:35.246592
+PDF loaded. Processing 337/433 [Philippines in 2006 from: ../../data/original_report/usgs_asia/Philippines_2006.pdf]
+
+2026-06-14 20:07:35.385017
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Philippines_2006_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 20:07:35.386567
+PDF loaded. Processing 338/433 [Philippines in 2007 from: ../../data/original_report/usgs_asia/Philippines_2007.pdf]
+
+2026-06-14 20:07:35.473961
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Philippines_2007_policy.txt. Execution time 0.09 seconds
+
+2026-06-14 20:07:35.474971
+PDF loaded. Processing 339/433 [Philippines in 2008 from: ../../data/original_report/usgs_asia/Philippines_2008.pdf]
+
+2026-06-14 20:07:35.564693
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Philippines_2008_policy.txt. Execution time 0.09 seconds
+
+2026-06-14 20:07:35.566103
+PDF loaded. Processing 340/433 [Philippines in 2009 from: ../../data/original_report/usgs_asia/Philippines_2009.pdf]
+
+2026-06-14 20:07:35.709372
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Philippines_2009_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 20:07:35.711105
+PDF loaded. Processing 341/433 [Philippines in 2010 from: ../../data/original_report/usgs_asia/Philippines_2010.pdf]
+
+2026-06-14 20:07:35.871333
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Philippines_2010_policy.txt. Execution time 0.16 seconds
+
+2026-06-14 20:07:35.872805
+PDF loaded. Processing 342/433 [Philippines in 2011 from: ../../data/original_report/usgs_asia/Philippines_2011.pdf]
+
+2026-06-14 20:07:36.087507
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Philippines_2011_policy.txt. Execution time 0.21 seconds
+
+2026-06-14 20:07:36.090362
+PDF loaded. Processing 343/433 [Philippines in 2012 from: ../../data/original_report/usgs_asia/Philippines_2012.pdf]
+
+2026-06-14 20:07:36.263253
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Philippines_2012_policy.txt. Execution time 0.17 seconds
+
+2026-06-14 20:07:36.265288
+PDF loaded. Processing 344/433 [Philippines in 2013 from: ../../data/original_report/usgs_asia/Philippines_2013.pdf]
+
+2026-06-14 20:07:36.480537
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Philippines_2013_policy.txt. Execution time 0.22 seconds
+
+2026-06-14 20:07:36.482453
+PDF loaded. Processing 345/433 [Philippines in 2014 from: ../../data/original_report/usgs_asia/Philippines_2014.pdf]
+
+2026-06-14 20:07:36.665251
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Philippines_2014_policy.txt. Execution time 0.18 seconds
+
+2026-06-14 20:07:36.666736
+PDF loaded. Processing 346/433 [Philippines in 2015 from: ../../data/original_report/usgs_asia/Philippines_2015.pdf]
+
+2026-06-14 20:07:36.805683
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Philippines_2015_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 20:07:36.807305
+PDF loaded. Processing 347/433 [Philippines in 2016 from: ../../data/original_report/usgs_asia/Philippines_2016.pdf]
+
+2026-06-14 20:07:36.926567
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Philippines_2016_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 20:07:36.927580
+PDF loaded. Processing 348/433 [Philippines in 2018 from: ../../data/original_report/usgs_asia/Philippines_2018.pdf]
+
+2026-06-14 20:07:37.161898
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Philippines_2018_policy.txt. Execution time 0.23 seconds
+
+2026-06-14 20:07:37.164543
+PDF loaded. Processing 349/433 [Philippines in 2019 from: ../../data/original_report/usgs_asia/Philippines_2019.pdf]
+
+2026-06-14 20:07:37.363419
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Philippines_2019_policy.txt. Execution time 0.20 seconds
+
+2026-06-14 20:07:37.364898
+PDF loaded. Processing 350/433 [Philippines in 2021 from: ../../data/original_report/usgs_asia/Philippines_2021.pdf]
+
+2026-06-14 20:07:37.680857
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Philippines_2021_policy.txt. Execution time 0.32 seconds
+
+2026-06-14 20:07:37.683392
+PDF loaded. Processing 351/433 [Philippines in 2022 from: ../../data/original_report/usgs_asia/Philippines_2022.pdf]
+
+2026-06-14 20:07:37.953215
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Philippines_2022_policy.txt. Execution time 0.27 seconds
+
+2026-06-14 20:07:37.954899
+PDF loaded. Processing 352/433 [Singapore in 2005 from: ../../data/original_report/usgs_asia/Singapore_2005.pdf]
+
+2026-06-14 20:07:38.018802
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Singapore_2005_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 20:07:38.019729
+PDF loaded. Processing 353/433 [Singapore in 2007 from: ../../data/original_report/usgs_asia/Singapore_2007.pdf]
+
+2026-06-14 20:07:38.035260
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 20:07:38.036171
+PDF loaded. Processing 354/433 [Singapore in 2009 from: ../../data/original_report/usgs_asia/Singapore_2009.pdf]
+
+2026-06-14 20:07:38.088259
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Singapore_2009_policy.txt. Execution time 0.05 seconds
+
+2026-06-14 20:07:38.090184
+PDF loaded. Processing 355/433 [Singapore in 2011 from: ../../data/original_report/usgs_asia/Singapore_2011.pdf]
+
+2026-06-14 20:07:38.144919
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Singapore_2011_policy.txt. Execution time 0.05 seconds
+
+2026-06-14 20:07:38.146537
+PDF loaded. Processing 356/433 [Singapore in 2013 from: ../../data/original_report/usgs_asia/Singapore_2013.pdf]
+
+2026-06-14 20:07:38.216852
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Singapore_2013_policy.txt. Execution time 0.07 seconds
+
+2026-06-14 20:07:38.218693
+PDF loaded. Processing 357/433 [Singapore in 2015 from: ../../data/original_report/usgs_asia/Singapore_2015.pdf]
+
+2026-06-14 20:07:38.265516
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Singapore_2015_policy.txt. Execution time 0.05 seconds
+
+2026-06-14 20:07:38.266408
+PDF loaded. Processing 358/433 [Singapore in 2018 from: ../../data/original_report/usgs_asia/Singapore_2018.pdf]
+
+2026-06-14 20:07:38.277384
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.01 seconds
+
+2026-06-14 20:07:38.278261
+PDF loaded. Processing 359/433 [Singapore in 2019 from: ../../data/original_report/usgs_asia/Singapore_2019.pdf]
+
+2026-06-14 20:07:38.290230
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.01 seconds
+
+2026-06-14 20:07:38.291097
+PDF loaded. Processing 360/433 [Singapore in 2021 from: ../../data/original_report/usgs_asia/Singapore_2021.pdf]
+
+2026-06-14 20:07:38.332981
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Singapore_2021_policy.txt. Execution time 0.04 seconds
+
+2026-06-14 20:07:38.334225
+PDF loaded. Processing 361/433 [Solomon Islands in 2013 from: ../../data/original_report/usgs_asia/Solomon Islands_2013.pdf]
+
+2026-06-14 20:07:38.406137
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Solomon Islands_2013_policy.txt. Execution time 0.07 seconds
+
+2026-06-14 20:07:38.407361
+PDF loaded. Processing 362/433 [Solomon Islands in 2014 from: ../../data/original_report/usgs_asia/Solomon Islands_2014.pdf]
+
+2026-06-14 20:07:38.561635
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Solomon Islands_2014_policy.txt. Execution time 0.15 seconds
+
+2026-06-14 20:07:38.563523
+PDF loaded. Processing 363/433 [Solomon Islands in 2015 from: ../../data/original_report/usgs_asia/Solomon Islands_2015.pdf]
+
+2026-06-14 20:07:38.693354
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Solomon Islands_2015_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 20:07:38.694396
+PDF loaded. Processing 364/433 [Solomon Islands in 2016 from: ../../data/original_report/usgs_asia/Solomon Islands_2016.pdf]
+
+2026-06-14 20:07:38.703423
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.01 seconds
+
+2026-06-14 20:07:38.704577
+PDF loaded. Processing 365/433 [Solomon Islands in 2018 from: ../../data/original_report/usgs_asia/Solomon Islands_2018.pdf]
+
+2026-06-14 20:07:38.719794
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 20:07:38.721885
+PDF loaded. Processing 366/433 [Solomon Islands in 2019 from: ../../data/original_report/usgs_asia/Solomon Islands_2019.pdf]
+
+2026-06-14 20:07:38.743500
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 20:07:38.745522
+PDF loaded. Processing 367/433 [Solomon Islands in 2021 from: ../../data/original_report/usgs_asia/Solomon Islands_2021.pdf]
+
+2026-06-14 20:07:38.805432
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Solomon Islands_2021_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 20:07:38.807770
+PDF loaded. Processing 368/433 [Sri Lanka in 2005 from: ../../data/original_report/usgs_asia/Sri Lanka_2005.pdf]
+
+2026-06-14 20:07:38.852394
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Sri Lanka_2005_policy.txt. Execution time 0.04 seconds
+
+2026-06-14 20:07:38.854368
+PDF loaded. Processing 369/433 [Sri Lanka in 2006 from: ../../data/original_report/usgs_asia/Sri Lanka_2006.pdf]
+
+2026-06-14 20:07:38.929576
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Sri Lanka_2006_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 20:07:38.931392
+PDF loaded. Processing 370/433 [Sri Lanka in 2007 from: ../../data/original_report/usgs_asia/Sri Lanka_2007.pdf]
+
+2026-06-14 20:07:39.007725
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Sri Lanka_2007_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 20:07:39.009644
+PDF loaded. Processing 371/433 [Sri Lanka in 2008 from: ../../data/original_report/usgs_asia/Sri Lanka_2008.pdf]
+
+2026-06-14 20:07:39.081394
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Sri Lanka_2008_policy.txt. Execution time 0.07 seconds
+
+2026-06-14 20:07:39.083197
+PDF loaded. Processing 372/433 [Sri Lanka in 2009 from: ../../data/original_report/usgs_asia/Sri Lanka_2009.pdf]
+
+2026-06-14 20:07:39.167203
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Sri Lanka_2009_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 20:07:39.168201
+PDF loaded. Processing 373/433 [Sri Lanka in 2010 from: ../../data/original_report/usgs_asia/Sri Lanka_2010.pdf]
+
+2026-06-14 20:07:39.250378
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Sri Lanka_2010_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 20:07:39.251636
+PDF loaded. Processing 374/433 [Sri Lanka in 2011 from: ../../data/original_report/usgs_asia/Sri Lanka_2011.pdf]
+
+2026-06-14 20:07:39.364327
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Sri Lanka_2011_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 20:07:39.365983
+PDF loaded. Processing 375/433 [Sri Lanka in 2012 from: ../../data/original_report/usgs_asia/Sri Lanka_2012.pdf]
+
+2026-06-14 20:07:39.438314
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Sri Lanka_2012_policy.txt. Execution time 0.07 seconds
+
+2026-06-14 20:07:39.439350
+PDF loaded. Processing 376/433 [Sri Lanka in 2013 from: ../../data/original_report/usgs_asia/Sri Lanka_2013.pdf]
+
+2026-06-14 20:07:39.615681
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Sri Lanka_2013_policy.txt. Execution time 0.18 seconds
+
+2026-06-14 20:07:39.618277
+PDF loaded. Processing 377/433 [Sri Lanka in 2014 from: ../../data/original_report/usgs_asia/Sri Lanka_2014.pdf]
+
+2026-06-14 20:07:39.883466
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Sri Lanka_2014_policy.txt. Execution time 0.27 seconds
+
+2026-06-14 20:07:39.885741
+PDF loaded. Processing 378/433 [Sri Lanka in 2015 from: ../../data/original_report/usgs_asia/Sri Lanka_2015.pdf]
+
+2026-06-14 20:07:40.013236
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Sri Lanka_2015_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 20:07:40.014843
+PDF loaded. Processing 379/433 [Sri Lanka in 2016 from: ../../data/original_report/usgs_asia/Sri Lanka_2016.pdf]
+
+2026-06-14 20:07:40.059785
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Sri Lanka_2016_policy.txt. Execution time 0.04 seconds
+
+2026-06-14 20:07:40.060799
+PDF loaded. Processing 380/433 [Sri Lanka in 2018 from: ../../data/original_report/usgs_asia/Sri Lanka_2018.pdf]
+
+2026-06-14 20:07:40.169884
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Sri Lanka_2018_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 20:07:40.172251
+PDF loaded. Processing 381/433 [Sri Lanka in 2019 from: ../../data/original_report/usgs_asia/Sri Lanka_2019.pdf]
+
+2026-06-14 20:07:40.213615
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Sri Lanka_2019_policy.txt. Execution time 0.04 seconds
+
+2026-06-14 20:07:40.214607
+PDF loaded. Processing 382/433 [Sri Lanka in 2021 from: ../../data/original_report/usgs_asia/Sri Lanka_2021.pdf]
+
+2026-06-14 20:07:40.351526
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Sri Lanka_2021_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 20:07:40.354267
+PDF loaded. Processing 383/433 [Taiwan in 2005 from: ../../data/original_report/usgs_asia/Taiwan_2005.pdf]
+
+2026-06-14 20:07:40.515208
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Taiwan_2005_policy.txt. Execution time 0.16 seconds
+
+2026-06-14 20:07:40.517865
+PDF loaded. Processing 384/433 [Taiwan in 2006 from: ../../data/original_report/usgs_asia/Taiwan_2006.pdf]
+
+2026-06-14 20:07:40.693056
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Taiwan_2006_policy.txt. Execution time 0.18 seconds
+
+2026-06-14 20:07:40.694111
+PDF loaded. Processing 385/433 [Taiwan in 2007 from: ../../data/original_report/usgs_asia/Taiwan_2007.pdf]
+
+2026-06-14 20:07:40.777276
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Taiwan_2007_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 20:07:40.779390
+PDF loaded. Processing 386/433 [Taiwan in 2008 from: ../../data/original_report/usgs_asia/Taiwan_2008.pdf]
+
+2026-06-14 20:07:40.923490
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Taiwan_2008_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 20:07:40.925129
+PDF loaded. Processing 387/433 [Taiwan in 2009 from: ../../data/original_report/usgs_asia/Taiwan_2009.pdf]
+
+2026-06-14 20:07:41.027702
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Taiwan_2009_policy.txt. Execution time 0.10 seconds
+
+2026-06-14 20:07:41.029701
+PDF loaded. Processing 388/433 [Taiwan in 2010 from: ../../data/original_report/usgs_asia/Taiwan_2010.pdf]
+
+2026-06-14 20:07:41.135719
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Taiwan_2010_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 20:07:41.136841
+PDF loaded. Processing 389/433 [Taiwan in 2011 from: ../../data/original_report/usgs_asia/Taiwan_2011.pdf]
+
+2026-06-14 20:07:41.249076
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Taiwan_2011_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 20:07:41.252123
+PDF loaded. Processing 390/433 [Taiwan in 2012 from: ../../data/original_report/usgs_asia/Taiwan_2012.pdf]
+
+2026-06-14 20:07:41.320770
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Taiwan_2012_policy.txt. Execution time 0.07 seconds
+
+2026-06-14 20:07:41.321706
+PDF loaded. Processing 391/433 [Taiwan in 2013 from: ../../data/original_report/usgs_asia/Taiwan_2013.pdf]
+
+2026-06-14 20:07:41.384999
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Taiwan_2013_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 20:07:41.386097
+PDF loaded. Processing 392/433 [Taiwan in 2014 from: ../../data/original_report/usgs_asia/Taiwan_2014.pdf]
+
+2026-06-14 20:07:41.456446
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Taiwan_2014_policy.txt. Execution time 0.07 seconds
+
+2026-06-14 20:07:41.457686
+PDF loaded. Processing 393/433 [Taiwan in 2015 from: ../../data/original_report/usgs_asia/Taiwan_2015.pdf]
+
+2026-06-14 20:07:41.550921
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Taiwan_2015_policy.txt. Execution time 0.09 seconds
+
+2026-06-14 20:07:41.552508
+PDF loaded. Processing 394/433 [Taiwan in 2016 from: ../../data/original_report/usgs_asia/Taiwan_2016.pdf]
+
+2026-06-14 20:07:41.574064
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 20:07:41.575629
+PDF loaded. Processing 395/433 [Taiwan in 2018 from: ../../data/original_report/usgs_asia/Taiwan_2018.pdf]
+
+2026-06-14 20:07:41.597604
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 20:07:41.599168
+PDF loaded. Processing 396/433 [Taiwan in 2019 from: ../../data/original_report/usgs_asia/Taiwan_2019.pdf]
+
+2026-06-14 20:07:41.662591
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Taiwan_2019_policy.txt. Execution time 0.06 seconds
+
+2026-06-14 20:07:41.664674
+PDF loaded. Processing 397/433 [Taiwan in 2021 from: ../../data/original_report/usgs_asia/Taiwan_2021.pdf]
+
+2026-06-14 20:07:41.778814
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Taiwan_2021_policy.txt. Execution time 0.11 seconds
+
+2026-06-14 20:07:41.779825
+PDF loaded. Processing 398/433 [Thailand in 2005 from: ../../data/original_report/usgs_asia/Thailand_2005.pdf]
+
+2026-06-14 20:07:42.216785
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Thailand_2005_policy.txt. Execution time 0.44 seconds
+
+2026-06-14 20:07:42.219309
+PDF loaded. Processing 399/433 [Thailand in 2006 from: ../../data/original_report/usgs_asia/Thailand_2006.pdf]
+
+2026-06-14 20:07:42.582367
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Thailand_2006_policy.txt. Execution time 0.36 seconds
+
+2026-06-14 20:07:42.584049
+PDF loaded. Processing 400/433 [Thailand in 2007 from: ../../data/original_report/usgs_asia/Thailand_2007.pdf]
+
+2026-06-14 20:07:42.726130
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Thailand_2007_policy.txt. Execution time 0.14 seconds
+
+2026-06-14 20:07:42.727355
+PDF loaded. Processing 401/433 [Thailand in 2008 from: ../../data/original_report/usgs_asia/Thailand_2008.pdf]
+
+2026-06-14 20:07:42.886300
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Thailand_2008_policy.txt. Execution time 0.16 seconds
+
+2026-06-14 20:07:42.888291
+PDF loaded. Processing 402/433 [Thailand in 2009 from: ../../data/original_report/usgs_asia/Thailand_2009.pdf]
+
+2026-06-14 20:07:43.004546
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Thailand_2009_policy.txt. Execution time 0.12 seconds
+
+2026-06-14 20:07:43.005922
+PDF loaded. Processing 403/433 [Thailand in 2010 from: ../../data/original_report/usgs_asia/Thailand_2010.pdf]
+
+2026-06-14 20:07:43.198695
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Thailand_2010_policy.txt. Execution time 0.19 seconds
+
+2026-06-14 20:07:43.200506
+PDF loaded. Processing 404/433 [Thailand in 2011 from: ../../data/original_report/usgs_asia/Thailand_2011.pdf]
+
+2026-06-14 20:07:43.304666
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Thailand_2011_policy.txt. Execution time 0.10 seconds
+
+2026-06-14 20:07:43.306313
+PDF loaded. Processing 405/433 [Thailand in 2012 from: ../../data/original_report/usgs_asia/Thailand_2012.pdf]
+
+2026-06-14 20:07:43.434682
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Thailand_2012_policy.txt. Execution time 0.13 seconds
+
+2026-06-14 20:07:43.437748
+PDF loaded. Processing 406/433 [Thailand in 2013 from: ../../data/original_report/usgs_asia/Thailand_2013.pdf]
+
+2026-06-14 20:07:43.452094
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.01 seconds
+
+2026-06-14 20:07:43.453111
+PDF loaded. Processing 407/433 [Thailand in 2014 from: ../../data/original_report/usgs_asia/Thailand_2014.pdf]
+
+2026-06-14 20:07:43.629701
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Thailand_2014_policy.txt. Execution time 0.18 seconds
+
+2026-06-14 20:07:43.631372
+PDF loaded. Processing 408/433 [Thailand in 2015 from: ../../data/original_report/usgs_asia/Thailand_2015.pdf]
+
+2026-06-14 20:07:43.710304
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Thailand_2015_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 20:07:43.712861
+PDF loaded. Processing 409/433 [Thailand in 2016 from: ../../data/original_report/usgs_asia/Thailand_2016.pdf]
+
+2026-06-14 20:07:43.788072
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Thailand_2016_policy.txt. Execution time 0.08 seconds
+
+2026-06-14 20:07:43.789162
+PDF loaded. Processing 410/433 [Thailand in 2018 from: ../../data/original_report/usgs_asia/Thailand_2018.pdf]
+
+2026-06-14 20:07:43.981933
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Thailand_2018_policy.txt. Execution time 0.19 seconds
+
+2026-06-14 20:07:43.983949
+PDF loaded. Processing 411/433 [Thailand in 2019 from: ../../data/original_report/usgs_asia/Thailand_2019.pdf]
+
+2026-06-14 20:07:44.147792
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Thailand_2019_policy.txt. Execution time 0.16 seconds
+
+2026-06-14 20:07:44.149439
+PDF loaded. Processing 412/433 [Thailand in 2021 from: ../../data/original_report/usgs_asia/Thailand_2021.pdf]
+
+2026-06-14 20:07:44.450167
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Thailand_2021_policy.txt. Execution time 0.30 seconds
+
+2026-06-14 20:07:44.451892
+PDF loaded. Processing 413/433 [Timor-Leste in 2005 from: ../../data/original_report/usgs_asia/Timor-Leste_2005.pdf]
+
+2026-06-14 20:07:44.487666
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Timor-Leste_2005_policy.txt. Execution time 0.04 seconds
+
+2026-06-14 20:07:44.488787
+PDF loaded. Processing 414/433 [Timor-Leste in 2015 from: ../../data/original_report/usgs_asia/Timor-Leste_2015.pdf]
+
+2026-06-14 20:07:44.561137
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Timor-Leste_2015_policy.txt. Execution time 0.07 seconds
+
+2026-06-14 20:07:44.562605
+PDF loaded. Processing 415/433 [Timor-Leste in 2018 from: ../../data/original_report/usgs_asia/Timor-Leste_2018.pdf]
+
+2026-06-14 20:07:44.581224
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 20:07:44.582386
+PDF loaded. Processing 416/433 [Timor-Leste in 2019 from: ../../data/original_report/usgs_asia/Timor-Leste_2019.pdf]
+
+2026-06-14 20:07:44.598988
+Bizarre format! Annexed table is embedded in the 1st page of the main body. Execution time 0.02 seconds
+
+2026-06-14 20:07:44.600632
+PDF loaded. Processing 417/433 [Timor-Leste in 2021 from: ../../data/original_report/usgs_asia/Timor-Leste_2021.pdf]
+
+2026-06-14 20:07:44.668219
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Timor-Leste_2021_policy.txt. Execution time 0.07 seconds
+
+2026-06-14 20:07:44.671049
+PDF loaded. Processing 418/433 [Vietnam in 2005 from: ../../data/original_report/usgs_asia/Vietnam_2005.pdf]
+
+2026-06-14 20:07:45.109801
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Vietnam_2005_policy.txt. Execution time 0.44 seconds
+
+2026-06-14 20:07:45.112116
+PDF loaded. Processing 419/433 [Vietnam in 2006 from: ../../data/original_report/usgs_asia/Vietnam_2006.pdf]
+
+2026-06-14 20:07:45.517163
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Vietnam_2006_policy.txt. Execution time 0.41 seconds
+
+2026-06-14 20:07:45.518841
+PDF loaded. Processing 420/433 [Vietnam in 2007 from: ../../data/original_report/usgs_asia/Vietnam_2007.pdf]
+
+2026-06-14 20:07:45.820700
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Vietnam_2007_policy.txt. Execution time 0.30 seconds
+
+2026-06-14 20:07:45.822619
+PDF loaded. Processing 421/433 [Vietnam in 2008 from: ../../data/original_report/usgs_asia/Vietnam_2008.pdf]
+
+2026-06-14 20:07:45.996316
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Vietnam_2008_policy.txt. Execution time 0.17 seconds
+
+2026-06-14 20:07:45.997899
+PDF loaded. Processing 422/433 [Vietnam in 2009 from: ../../data/original_report/usgs_asia/Vietnam_2009.pdf]
+
+2026-06-14 20:07:46.221719
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Vietnam_2009_policy.txt. Execution time 0.22 seconds
+
+2026-06-14 20:07:46.224158
+PDF loaded. Processing 423/433 [Vietnam in 2010 from: ../../data/original_report/usgs_asia/Vietnam_2010.pdf]
+
+2026-06-14 20:07:46.275735
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Vietnam_2010_policy.txt. Execution time 0.05 seconds
+
+2026-06-14 20:07:46.277054
+PDF loaded. Processing 424/433 [Vietnam in 2011 from: ../../data/original_report/usgs_asia/Vietnam_2011.pdf]
+
+2026-06-14 20:07:46.565413
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Vietnam_2011_policy.txt. Execution time 0.29 seconds
+
+2026-06-14 20:07:46.566938
+PDF loaded. Processing 425/433 [Vietnam in 2012 from: ../../data/original_report/usgs_asia/Vietnam_2012.pdf]
+
+2026-06-14 20:07:46.775057
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Vietnam_2012_policy.txt. Execution time 0.21 seconds
+
+2026-06-14 20:07:46.776507
+PDF loaded. Processing 426/433 [Vietnam in 2013 from: ../../data/original_report/usgs_asia/Vietnam_2013.pdf]
+
+2026-06-14 20:07:46.990198
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Vietnam_2013_policy.txt. Execution time 0.21 seconds
+
+2026-06-14 20:07:46.992328
+PDF loaded. Processing 427/433 [Vietnam in 2014 from: ../../data/original_report/usgs_asia/Vietnam_2014.pdf]
+
+2026-06-14 20:07:47.205063
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Vietnam_2014_policy.txt. Execution time 0.21 seconds
+
+2026-06-14 20:07:47.206429
+PDF loaded. Processing 428/433 [Vietnam in 2015 from: ../../data/original_report/usgs_asia/Vietnam_2015.pdf]
+
+2026-06-14 20:07:47.447514
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Vietnam_2015_policy.txt. Execution time 0.24 seconds
+
+2026-06-14 20:07:47.450248
+PDF loaded. Processing 429/433 [Vietnam in 2016 from: ../../data/original_report/usgs_asia/Vietnam_2016.pdf]
+
+2026-06-14 20:07:47.634868
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Vietnam_2016_policy.txt. Execution time 0.18 seconds
+
+2026-06-14 20:07:47.635931
+PDF loaded. Processing 430/433 [Vietnam in 2018 from: ../../data/original_report/usgs_asia/Vietnam_2018.pdf]
+
+2026-06-14 20:07:47.904122
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Vietnam_2018_policy.txt. Execution time 0.27 seconds
+
+2026-06-14 20:07:47.905738
+PDF loaded. Processing 431/433 [Vietnam in 2019 from: ../../data/original_report/usgs_asia/Vietnam_2019.pdf]
+
+2026-06-14 20:07:48.121535
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Vietnam_2019_policy.txt. Execution time 0.22 seconds
+
+2026-06-14 20:07:48.123054
+PDF loaded. Processing 432/433 [Vietnam in 2021 from: ../../data/original_report/usgs_asia/Vietnam_2021.pdf]
+
+2026-06-14 20:07:48.428730
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Vietnam_2021_policy.txt. Execution time 0.31 seconds
+
+2026-06-14 20:07:48.431241
+PDF loaded. Processing 433/433 [Vietnam in 2022 from: ../../data/original_report/usgs_asia/Vietnam_2022.pdf]
+
+2026-06-14 20:07:48.590764
+Successfully saved to ../../data/policy_section_txt/usgs_asia/Vietnam_2022_policy.txt. Execution time 0.16 seconds
+

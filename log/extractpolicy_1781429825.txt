@@ -1,0 +1,27 @@
+2026-06-14 18:37:05.736825
+PDF loaded. Processing 1/159 [Argentina in 2005 from: ../../data/original_report/usgs_southamerica/Argentina_2005.pdf]
+
+2026-06-14 18:37:06.065113
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Argentina_2005_policy.txt. Execution time 0.33 seconds
+
+2026-06-14 18:37:06.102937
+PDF loaded. Processing 2/159 [Argentina in 2006 from: ../../data/original_report/usgs_southamerica/Argentina_2006.pdf]
+
+2026-06-14 18:37:06.280023
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Argentina_2006_policy.txt. Execution time 0.18 seconds
+
+2026-06-14 18:37:06.302042
+PDF loaded. Processing 3/159 [Argentina in 2007 from: ../../data/original_report/usgs_southamerica/Argentina_2007.pdf]
+
+2026-06-14 18:37:06.512020
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Argentina_2007_policy.txt. Execution time 0.21 seconds
+
+2026-06-14 18:37:06.541504
+PDF loaded. Processing 4/159 [Argentina in 2008 from: ../../data/original_report/usgs_southamerica/Argentina_2008.pdf]
+
+2026-06-14 18:37:06.731232
+Successfully saved to ../../data/policy_section_txt/usgs_southamerica/Argentina_2008_policy.txt. Execution time 0.19 seconds
+
+2026-06-14 18:37:06.762482
+PDF loaded. Processing 5/159 [Argentina in 2009 from: ../../data/original_report/usgs_southamerica/Argentina_2009.pdf]
+
