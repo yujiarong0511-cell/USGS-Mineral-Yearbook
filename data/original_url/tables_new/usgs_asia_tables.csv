@@ -1,0 +1,514 @@
+year,country,table_url
+2003,Afghanistan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/afmyb03.xls
+2008,Afghanistan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-af.xls
+2009,Afghanistan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-af.xls
+2010,Afghanistan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-af.xls
+2011,Afghanistan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-af.xls
+2012,Afghanistan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-af.xls
+2013,Afghanistan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-af.xls
+2014,Afghanistan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2014-afghanistan.xls
+2015,Afghanistan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/atoms/files/myb3-2015-af.xls
+2016,Afghanistan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/atoms/files/myb3-2016-af.xls
+2018,Afghanistan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/atoms/files/myb3-2017_18-af.xlsx
+2019,Afghanistan,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-afghanistan.xlsx
+2021,Afghanistan,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-afghanistan.xlsx
+2022,Afghanistan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-Afghanistan-adv.xlsx
+2002,Australia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/asmyb02.xls
+2003,Australia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/asmyb03.xls
+2004,Australia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/asmyb04.xls
+2005,Australia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/asmyb05.xls
+2006,Australia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-as.xls
+2007,Australia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-as.xls
+2008,Australia,https://s3-us-west-2.amazonaws.com/prd-wret/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-as.xls
+2009,Australia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-as.xls
+2010,Australia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-as.xls
+2011,Australia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-as.xls
+2012,Australia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-as.xls
+2013,Australia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-as.xls
+2014,Australia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-as.xls
+2015,Australia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-as.xls
+2016,Australia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-as.xlsx
+2018,Australia,https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-australia.xlsx
+2019,Australia,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-australia.xls
+2021,Australia,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-australia.xlsx
+2022,Australia,https://pubs.usgs.gov/myb/vol3/2022/myb3-2022-australia.xlsx
+2023,Australia,https://pubs.usgs.gov/myb/vol3/2023/myb3-2023-australia.xlsx
+2002,Bangladesh,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/bgmyb02.xls
+2003,Bangladesh,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/bgmyb03.xls
+2004,Bangladesh,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/bgmyb04.xls
+2005,Bangladesh,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/bgmyb05.xls
+2006,Bangladesh,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-bg.xls
+2007,Bangladesh,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-bg.xls
+2008,Bangladesh,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-bg.xls
+2009,Bangladesh,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-bg.xls
+2010,Bangladesh,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-bg.xls
+2011,Bangladesh,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-bg.xls
+2012,Bangladesh,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-bg.xls
+2013,Bangladesh,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-bg.xls
+2014,Bangladesh,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-bg.xls
+2015,Bangladesh,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2015/myb3-2015-bg.xls
+2016,Bangladesh,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-bg.xlsx
+2018,Bangladesh,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-bg.xlsx
+2019,Bangladesh,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-bangladesh.xlsx
+2021,Bangladesh,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-bangladesh.xlsx
+2022,Bangladesh,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-Bangladesh-adv.xlsx
+2002,Bhutan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/btnpmyb02.xls
+2003,Bhutan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/btnpmyb03.xls
+2004,Bhutan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/btnpmyb04.xls
+2005,Bhutan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/btnpmyb05.xls
+2006,Bhutan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-bt-np.xls
+2007,Bhutan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-bt-np.xls
+2008,Bhutan,https://d9-wret.s3.us-west-2.amazonaws.com/assetspalladium/production/mineral-pubs/country/2008/myb3-2008-bt-np.xls
+2009,Bhutan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-bt-np.xls
+2010,Bhutan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-bt-np.xls
+2011,Bhutan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-bt-np.xls
+2012,Bhutan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-bt-np.xls
+2013,Bhutan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-bt-np.xls
+2014,Bhutan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-bt-np.xls
+2015,Bhutan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2015/myb3-2015-bt-np.xls
+2016,Bhutan,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-bt-np.xlsx
+2018,Bhutan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2017-18-bhutan-nepal.xlsx
+2019,Bhutan,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-bhutan-nepal.xlsx
+2021,Bhutan,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-bhutan-nepal.xlsx
+2002,Brunei,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/bxmyb02.xls
+2003,Brunei,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/bxmyb03.xls
+2005,Brunei,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/bxmyb05.xls
+2007,Brunei,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-bx.xls
+2009,Brunei,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-bx.xls
+2011,Brunei,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-bx.xls
+2013,Brunei,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-bx.xls
+2015,Brunei,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-bx.xls
+2016,Brunei,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-bx.xlsx
+2018,Brunei,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-bx.xls
+2019,Brunei,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-brunei.xlsx
+2021,Brunei,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-brunei.xlsx
+2002,Burma(Myanmar),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/bmmyb02.xls
+2003,Burma(Myanmar),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/bmmyb03.xls
+2004,Burma(Myanmar),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/bmmyb04.xls
+2005,Burma(Myanmar),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/bmmyb05.xls
+2006,Burma(Myanmar),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-bm.xls
+2007,Burma(Myanmar),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-bm.xls
+2008,Burma(Myanmar),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-bm.xls
+2009,Burma(Myanmar),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-bm.xls
+2010,Burma(Myanmar),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-bm.xls
+2011,Burma(Myanmar),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-bm.xls
+2012,Burma(Myanmar),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-bm.xls
+2013,Burma(Myanmar),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-bm.xls
+2014,Burma(Myanmar),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-bm.xls
+2015,Burma(Myanmar),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2015/myb3-2015-bm.xls
+2016,Burma(Myanmar),https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-bm.xlsx
+2018,Burma(Myanmar),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-bm.xls
+2019,Burma(Myanmar),https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-burma.xlsx
+2021,Burma(Myanmar),https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-burma.xlsx
+2022,Burma(Myanmar),https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-Burma-ert.xlsx
+2006,Cambodia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-cb.xls
+2007,Cambodia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-cb.xls
+2008,Cambodia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-cb.xls
+2009,Cambodia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-cb.xls
+2010,Cambodia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-cb.xls
+2011,Cambodia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-cb.xls
+2012,Cambodia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-cb.xls
+2013,Cambodia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-cb.xls
+2014,Cambodia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-cb.xls
+2015,Cambodia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2015/myb3-2015-cb.xls
+2016,Cambodia,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-cb.xlsx
+2018,Cambodia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-cb.xlsx
+2019,Cambodia,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-cambodia.xlsx
+2021,Cambodia,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-cambodia.xlsx
+2002,China,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/chmyb02.xls
+2003,China,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/chmyb03.xls
+2004,China,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/chmyb04.xls
+2005,China,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/chmyb05.xls
+2006,China,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-ch.xls
+2007,China,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-ch.xls
+2008,China,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-ch.xls
+2009,China,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-ch.xls
+2010,China,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-ch.xls
+2011,China,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-ch.xls
+2012,China,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-ch.xls
+2013,China,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-ch.xls
+2014,China,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-ch.xls
+2015,China,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2015/myb3-2015-ch.xlsx
+2016,China,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-chn.xlsx
+2018,China,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-ch.xls
+2019,China,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-china.xlsx
+2021,China,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-china.xlsx
+2022,China,https://pubs.usgs.gov/myb/vol3/2022/myb3-2022-china.xlsx
+2023,China,https://pubs.usgs.gov/myb/vol3/2023/myb3-2023-china.xlsx
+2002,Fiji,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/fjmyb02.xls
+2003,Fiji,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/fjmyb03.xls
+2004,Fiji,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/fjmyb04.xls
+2005,Fiji,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/fjmyb05.xls
+2006,Fiji,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-fj.xls
+2007,Fiji,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-fj.xls
+2008,Fiji,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-fj.xls
+2009,Fiji,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-fj.xls
+2010,Fiji,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-fj.xls
+2011,Fiji,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-fj.xls
+2012,Fiji,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-fj.xls
+2013,Fiji,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-fj.xls
+2014,Fiji,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-fj.xls
+2015,Fiji,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2015/myb3-2015-fj.xlsx
+2016,Fiji,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-fj.xlsx
+2018,Fiji,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-fj.xls
+2019,Fiji,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-fiji.xlsx
+2021,Fiji,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-fiji.xlsx
+2002,India,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/inmyb02.xls
+2003,India,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/inmyb03.xls
+2004,India,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/inmyb04.xls
+2005,India,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/inmyb05.xls
+2006,India,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-in.xls
+2007,India,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-in.xls
+2008,India,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-in.xls
+2009,India,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-in.xls
+2010,India,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-in.xls
+2011,India,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-in.xls
+2012,India,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-in.xls
+2013,India,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-in.xls
+2014,India,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-in.xlsx
+2015,India,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2015/myb3-2015-in.xls
+2016,India,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-in.xlsx
+2018,India,https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-India.xlsx
+2019,India,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-india.xlsx
+2021,India,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-india.xlsx
+2022,India,https://pubs.usgs.gov/myb/vol3/2022/myb3-2022-india.xlsx
+2023,India,https://pubs.usgs.gov/myb/vol3/2023/myb3-2023-india.xlsx
+,Indonesia,https://prd-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-idn-advrel.xlsx
+2004,Indonesia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/idmyb04.xls
+2005,Indonesia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/idmyb05.xls
+2006,Indonesia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-id.xls
+2007,Indonesia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-id.xls
+2008,Indonesia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-id.xls
+2009,Indonesia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-id.xls
+2010,Indonesia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-id.xls
+2011,Indonesia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-id.xls
+2012,Indonesia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-id.xls
+2013,Indonesia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-id.xls
+2014,Indonesia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-id.xls
+2015,Indonesia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2015/myb3-2015-id.xlsx
+2016,Indonesia,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-id.xlsx
+2018,Indonesia,https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-indonesia.xlsx
+2019,Indonesia,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-indonesia.xlsx
+2021,Indonesia,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-indonesia.xlsx
+2022,Indonesia,https://pubs.usgs.gov/myb/vol3/2022/myb3-2022-indonesia.xlsx
+2023,Indonesia,https://pubs.usgs.gov/myb/vol3/2023/myb3-2023-indonesia.xlsx
+2002,Indonesia and East Timor,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/myb3-2002-id-tt.xls
+2003,Indonesia and East Timor,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/myb3-2003-id-tt.xls
+2002,Japan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/jamyb02.xls
+2003,Japan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/jamyb03.xls
+2004,Japan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/jamyb04.xls
+2005,Japan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/jamyb05.xls
+2006,Japan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-ja.xls
+2007,Japan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-ja.xls
+2008,Japan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-ja.xls
+2009,Japan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-ja.xls
+2010,Japan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-ja.xls
+2011,Japan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-ja.xls
+2012,Japan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-ja.xls
+2013,Japan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-ja.xls
+2014,Japan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-ja.xlsx
+2015,Japan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-ja.xlsx
+2016,Japan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-ja.xlsx
+2018,Japan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-ja.xls
+2019,Japan,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-japan.xlsx
+2021,Japan,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-japan.xlsx
+2022,Japan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-Japan-ert.xlsx
+2002,"Korea, North",https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/knmyb02.xls
+2003,"Korea, North",https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/knmyb03.xls
+2004,"Korea, North",https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/knmyb04.xls
+2005,"Korea, North",https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/knmyb05.xls
+2006,"Korea, North",https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-kn.xls
+2007,"Korea, North",https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-kn.xls
+2008,"Korea, North",https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-kn.xls
+2009,"Korea, North",https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-kn.xls
+2010,"Korea, North",https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-kn.xls
+2011,"Korea, North",https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-kn.xls
+2012,"Korea, North",https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-kn.xls
+2013,"Korea, North",https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-kn.xls
+2014,"Korea, North",https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-kn.xls
+2015,"Korea, North",https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2015/myb3-2015-kn.xlsx
+2016,"Korea, North",https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-kn.xlsx
+2018,"Korea, North",https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-north-korea.xlsx
+2019,"Korea, North",https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-north-korea.xlsx
+2021,"Korea, North",https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-north-korea.xlsx
+2022,"Korea, North",https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-North_Korea-ert.xlsx
+2002,"Korea, Republic of",https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/ksmyb02.xls
+2003,"Korea, Republic of",https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/ksmyb03.xls
+2004,"Korea, Republic of",https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/ksmyb04.xls
+2005,"Korea, Republic of",https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/ksmyb05.xls
+2006,"Korea, Republic of",https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-ks.xls
+2007,"Korea, Republic of",https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-ks.xls
+2008,"Korea, Republic of",https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-ks.xls
+2009,"Korea, Republic of",https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-ks.xls
+2010,"Korea, Republic of",https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-ks.xls
+2011,"Korea, Republic of",https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-ks.xlsx
+2012,"Korea, Republic of",https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-ks.xls
+2013,"Korea, Republic of",https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-ks.xls
+2014,"Korea, Republic of",https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-ks.xls
+2015,"Korea, Republic of",https://prd-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-ks.xlsx
+2016,"Korea, Republic of",https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-ks.xlsx
+2018,"Korea, Republic of",https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-korea-south.xlsx
+2019,"Korea, Republic of",https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-south-korea.xlsx
+2021,"Korea, Republic of",https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-republic-korea.xlsx
+2022,"Korea, Republic of",https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-Republic_Korea-ert.xlsx
+2007,Laos,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-la.xls
+2008,Laos,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-la.xls
+2009,Laos,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-la.xls
+2010,Laos,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-la.xls
+2011,Laos,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-la.xls
+2012,Laos,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-la.xls
+2013,Laos,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-la.xls
+2014,Laos,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-la.xls
+2015,Laos,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2015/myb3-2015-la.xls
+2016,Laos,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-la.xlsx
+2018,Laos,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-217-18-la.xls
+2019,Laos,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-laos.xlsx
+2021,Laos,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-laos.xlsx
+2022,Laos,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-Laos-ert.xlsx
+2002,Malaysia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/mymyb02.xls
+2003,Malaysia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/mymyb03.xls
+2004,Malaysia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/mymyb04.xls
+2005,Malaysia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/mymyb05.xls
+2006,Malaysia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-my.xls
+2007,Malaysia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-my.xls
+2008,Malaysia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-my.xls
+2009,Malaysia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-my.xls
+2010,Malaysia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-my.xls
+2011,Malaysia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-my.xls
+2012,Malaysia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-my.xls
+2013,Malaysia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-my.xls
+2014,Malaysia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-my.xls
+2015,Malaysia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2015/myb3-2015-my.xlsx
+2016,Malaysia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-my.xlsx
+2018,Malaysia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2017-18-malaysia.xls
+2019,Malaysia,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-malaysia.xlsx
+2021,Malaysia,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-malaysia.xlsx
+2022,Malaysia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-Malaysia-adv.xlsx
+2002,Mongolia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/mgmyb02.xls
+2003,Mongolia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/mgmyb03.xls
+2004,Mongolia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/mgmyb04.xls
+2005,Mongolia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/mgmyb05.xls
+2006,Mongolia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-mg.xls
+2007,Mongolia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-mg.xls
+2008,Mongolia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-mg.xls
+2009,Mongolia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-mg.xls
+2010,Mongolia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-mg.xls
+2011,Mongolia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-mg.xls
+2012,Mongolia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-mg.xls
+2013,Mongolia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-mg.xlsx
+2014,Mongolia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-mg.xlsx
+2015,Mongolia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-mg.xlsx
+2016,Mongolia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-mg.xls
+2018,Mongolia,https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-mongolia.xlsx
+2019,Mongolia,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-mongolia.xlsx
+2021,Mongolia,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-mongolia.xlsx
+2022,Mongolia,https://pubs.usgs.gov/myb/vol3/2022/myb3-2022-mongolia.xlsx
+2023,Mongolia,https://pubs.usgs.gov/myb/vol3/2023/myb3-2023-mongolia.xlsx
+2018,Nauru,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-nauru.xls
+2019,Nauru,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-nauru.xlsx
+2021,Nauru,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-nauru.xlsx
+2022,Nauru,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-Nauru-ert.xlsx
+2002,Nepal,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/btnpmyb02.xls
+2003,Nepal,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/btnpmyb03.xls
+2004,Nepal,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/btnpmyb04.xls
+2005,Nepal,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/btnpmyb05.xls
+2006,Nepal,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-bt-np.xls
+2007,Nepal,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-bt-np.xls
+2008,Nepal,https://d9-wret.s3.us-west-2.amazonaws.com/assetspalladium/production/mineral-pubs/country/2008/myb3-2008-bt-np.xls
+2009,Nepal,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-bt-np.xls
+2010,Nepal,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-bt-np.xls
+2011,Nepal,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-bt-np.xls
+2012,Nepal,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-bt-np.xls
+2013,Nepal,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-bt-np.xls
+2014,Nepal,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-bt-np.xls
+2015,Nepal,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2015/myb3-2015-bt-np.xls
+2016,Nepal,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-bt-np.xlsx
+2018,Nepal,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2017-18-bhutan-nepal.xlsx
+2019,Nepal,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-bhutan-nepal.xlsx
+2021,Nepal,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-bhutan-nepal.xlsx
+2002,New Caledonia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/ncmyb02.xls
+2003,New Caledonia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/ncmyb03.xls
+2004,New Caledonia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/ncmyb04.xls
+2005,New Caledonia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/ncmyb05.xls
+2006,New Caledonia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-nc.xls
+2007,New Caledonia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-nc.xls
+2008,New Caledonia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-nc.xls
+2009,New Caledonia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-nc.xls
+2010,New Caledonia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-nc.xls
+2011,New Caledonia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-nc.xls
+2012,New Caledonia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-nc.xls
+2013,New Caledonia,https://s3-us-west-2.amazonaws.com/prd-wret/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-nc.xls
+2014,New Caledonia,https://s3-us-west-2.amazonaws.com/prd-wret/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-nc.xlsx
+2015,New Caledonia,https://s3-us-west-2.amazonaws.com/prd-wret/assets/palladium/production/mineral-pubs/country/2015/myb3-2015-nc.xls
+2016,New Caledonia,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-nc.xlsx
+2018,New Caledonia,https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-new-caledonia.xlsx
+2019,New Caledonia,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-new-caledonia.xlsx
+2021,New Caledonia,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-new-caledonia.xlsx
+2022,New Caledonia,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-New-Caledonia-ert.xlsx
+2002,New Zealand,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/nzmyb02.xls
+2003,New Zealand,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/nzmyb03.xls
+2004,New Zealand,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/nzmyb04.xls
+2005,New Zealand,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/nzmyb05.xls
+2006,New Zealand,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-nz.xls
+2007,New Zealand,https://d9-wret.s3-us-west-2.amazonaws.com/assetspalladium/production/mineral-pubs/country/2007/myb3-2007-nz.xls
+2008,New Zealand,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-nz.xls
+2009,New Zealand,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-nz.xls
+2010,New Zealand,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-nz.xls
+2011,New Zealand,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-nz.xls
+2012,New Zealand,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-nz.xls
+2013,New Zealand,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-nz.xls
+2014,New Zealand,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-nz.xls
+2015,New Zealand,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-nz.xlsx
+2016,New Zealand,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-nz.xlsx
+2018,New Zealand,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-new-zealand.xls
+2019,New Zealand,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-new-zealand.xlsx
+2021,New Zealand,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-new-zealand.xlsx
+2022,New Zealand,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-New_Zealand-ert.xlsx
+2003,Pakistan,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/pkmyb03.xls
+2004,Pakistan,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/pkmyb04.xls
+2005,Pakistan,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/pkmyb05.xls
+2006,Pakistan,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-pk.xls
+2007,Pakistan,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-pk.xls
+2008,Pakistan,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-pk.xls
+2009,Pakistan,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-pk.xls
+2010,Pakistan,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-pk.xls
+2011,Pakistan,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-pk.xls
+2012,Pakistan,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-pk.xls
+2013,Pakistan,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-pk.xls
+2014,Pakistan,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-pk.xls
+2015,Pakistan,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-pk.xls
+2016,Pakistan,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-pk.xlsx
+2018,Pakistan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-pk.xls
+2019,Pakistan,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-pakistan.xlsx
+2021,Pakistan,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-pakistan.xlsx
+2022,Pakistan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-Pakistan-ert.xlsx
+2002,Papua New Guinea,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/ppmyb02.xls
+2003,Papua New Guinea,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/ppmyb03.xls
+2004,Papua New Guinea,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/ppmyb04.xls
+2006,Papua New Guinea,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-pp.xls
+2007,Papua New Guinea,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-pp.xls
+2008,Papua New Guinea,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-pp.xls
+2009,Papua New Guinea,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-pp.xls
+2010,Papua New Guinea,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-pp.xls
+2011,Papua New Guinea,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-pp.xls
+2012,Papua New Guinea,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-pp.xls
+2013,Papua New Guinea,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-pp.xlsx
+2014,Papua New Guinea,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-pp.xlsx
+2015,Papua New Guinea,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2015/myb3-2015-pp.xlsx
+2016,Papua New Guinea,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-pp.xlsx
+2018,Papua New Guinea,https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-papua-new-guinea.xlsx
+2019,Papua New Guinea,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-papua-new-guinea.xlsx
+2021,Papua New Guinea,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-papua-new-guinea.xlsx
+2022,Papua New Guinea,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-Papua%20New%20Guinea-ert.xlsx
+,Philippines,https://s3-us-west-2.amazonaws.com/prd-wret/assets/palladium/production/mineral-pubs/country/2015/myb3-2015-rp-adv.xlsx
+2002,Philippines,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/rpmyb02.xls
+2003,Philippines,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/rpmyb03.xls
+2004,Philippines,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/rpmyb04.xls
+2005,Philippines,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/rpmyb05.xls
+2006,Philippines,https://d9-wret.s3-us-west-2.amazonaws.com/assetss/palladium/production/mineral-pubs/country/2006/myb3-2006-rp.xls
+2007,Philippines,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-rp.xls
+2008,Philippines,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-rp.xls
+2009,Philippines,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-rp.xls
+2010,Philippines,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-rp.xls
+2011,Philippines,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-rp.xls
+2012,Philippines,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-rp.xls
+2013,Philippines,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-rp.xls
+2014,Philippines,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-rp.xls
+2015,Philippines,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-rp.xls
+2016,Philippines,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-rp.xls
+2018,Philippines,https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-philippines.xlsx
+2019,Philippines,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2019-philippines.xlsx
+2021,Philippines,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-philippines.xlsx
+2022,Philippines,https://pubs.usgs.gov/myb/vol3/2022/myb3-2022-philippines.xlsx
+2007,Singapore,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-sn.xls
+2018,Singapore,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-singapore.xls
+2019,Singapore,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-singapore.xlsx
+2021,Singapore,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-singapore.xlsx
+2022,Singapore,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-Singapore-adv.xlsx
+2013,Solomon Islands,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-bp.xls
+2014,Solomon Islands,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-bp.xls
+2015,Solomon Islands,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-bp.xls
+2016,Solomon Islands,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-bp.xlsx
+2018,Solomon Islands,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-bp.xlsx
+2019,Solomon Islands,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-solomon-islands.xlsx
+2021,Solomon Islands,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-solomon-islands.xlsx
+2002,Sri Lanka,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/cemyb02.xls
+2003,Sri Lanka,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/cemyb03.xls
+2004,Sri Lanka,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/cemyb04.xls
+2005,Sri Lanka,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/cemyb05.xls
+2006,Sri Lanka,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-ce.xls
+2007,Sri Lanka,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-ce.xls
+2008,Sri Lanka,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-ce.xls
+2009,Sri Lanka,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-ce.xls
+2010,Sri Lanka,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-ce.xls
+2011,Sri Lanka,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-ce.xls
+2012,Sri Lanka,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-ce.xls
+2013,Sri Lanka,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-ce.xls
+2014,Sri Lanka,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-ce.xls
+2015,Sri Lanka,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2015/myb3-2015-ce.xls
+2016,Sri Lanka,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-ce.xlsx
+2018,Sri Lanka,https://prd-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-Sri%20Lanka.xls
+2019,Sri Lanka,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-sri-lanka.xlsx
+2021,Sri Lanka,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-sri-lanka.xlsx
+2022,Sri Lanka,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-Sri_Lanka-adv.xlsx
+2002,Taiwan,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/twmyb02.xls
+2003,Taiwan,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/twmyb03.xls
+2004,Taiwan,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/twmyb04.xls
+2005,Taiwan,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/twmyb05.xls
+2006,Taiwan,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-tw.xls
+2007,Taiwan,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-tw.xls
+2008,Taiwan,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-tw.xls
+2009,Taiwan,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-tw.xls
+2010,Taiwan,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-tw.xls
+2011,Taiwan,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-tw.xls
+2012,Taiwan,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-tw.xls
+2013,Taiwan,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-tw.xls
+2014,Taiwan,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-tw.xls
+2015,Taiwan,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-tw.xlsx
+2016,Taiwan,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-tw.xlsx
+2018,Taiwan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-tw.xlsx
+2019,Taiwan,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-taiwan.xlsx
+2021,Taiwan,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-taiwan.xlsx
+2022,Taiwan,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-Taiwan-advrel.xlsx
+2002,Thailand,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/thmyb02.xls
+2003,Thailand,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/thmyb03.xls
+2004,Thailand,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/thmyb04.xls
+2005,Thailand,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/thmyb05.xls
+2006,Thailand,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-th.xls
+2007,Thailand,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-th.xls
+2008,Thailand,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-th.xls
+2009,Thailand,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-th.xls
+2010,Thailand,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-th.xls
+2011,Thailand,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-th.xls
+2012,Thailand,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-th.xls
+2013,Thailand,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-th.xls
+2014,Thailand,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-th.xls
+2015,Thailand,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-th.xlsx
+2016,Thailand,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-th.xls
+2018,Thailand,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-th.xls
+2019,Thailand,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-thailand.xlsx
+2021,Thailand,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-thailand.xlsx
+2022,Thailand,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-Thailand-ert.xlsx
+2018,Timor-Leste,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017_18-tt.xls
+2019,Timor-Leste,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-timor-leste.xlsx
+2021,Timor-Leste,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-timor-leste.xlsx
+2022,Timor-Leste,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-Timor-Leste-ert.xlsx
+2002,Vietnam,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/vmmyb02.xls
+2003,Vietnam,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/vmmyb03.xls
+2004,Vietnam,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/vmmyb04.xls
+2005,Vietnam,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/vmmyb05.xls
+2006,Vietnam,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-vn.xls
+2007,Vietnam,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-vn.xls
+2008,Vietnam,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-vn.xls
+2009,Vietnam,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-vn.xls
+2010,Vietnam,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-vn.xls
+2011,Vietnam,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-vn.xls
+2012,Vietnam,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-vn.xls
+2013,Vietnam,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-vn.xls
+2014,Vietnam,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-vn.xls
+2015,Vietnam,https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-vn.xlsx
+2016,Vietnam,https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-vn.xlsx
+2018,Vietnam,https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-vietnam.xlsx
+2019,Vietnam,https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-vietnam.xlsx
+2021,Vietnam,https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-vietnam.xlsx
+2022,Vietnam,https://pubs.usgs.gov/myb/vol3/2022/myb3-2022-vietnam.xlsx

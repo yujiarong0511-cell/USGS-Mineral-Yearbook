@@ -1,4 +1,5 @@
 /data/original_report/
 /data/policy_section_txt
+/data/policy_parsing_json
 
 __pycache__/
