@@ -1,0 +1,3078 @@
+2026-07-09 17:07:57.975158
+Downloading 1/513 [Afghanistan in 2003 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/afmyb03.xls]
+
+2026-07-09 17:07:59.169250
+Successfully saved to ../../data/original_table/usgs_asia/Afghanistan_2003.xls. Execution time 1.19 seconds
+
+2026-07-09 17:08:01.785230
+Downloading 2/513 [Afghanistan in 2008 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-af.xls]
+
+2026-07-09 17:08:02.221371
+Successfully saved to ../../data/original_table/usgs_asia/Afghanistan_2008.xls. Execution time 0.44 seconds
+
+2026-07-09 17:08:05.302834
+Downloading 3/513 [Afghanistan in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-af.xls]
+
+2026-07-09 17:08:05.498314
+Successfully saved to ../../data/original_table/usgs_asia/Afghanistan_2009.xls. Execution time 0.20 seconds
+
+2026-07-09 17:08:08.980386
+Downloading 4/513 [Afghanistan in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-af.xls]
+
+2026-07-09 17:08:09.180653
+Successfully saved to ../../data/original_table/usgs_asia/Afghanistan_2010.xls. Execution time 0.20 seconds
+
+2026-07-09 17:08:11.704948
+Downloading 5/513 [Afghanistan in 2011 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-af.xls]
+
+2026-07-09 17:08:11.882988
+Successfully saved to ../../data/original_table/usgs_asia/Afghanistan_2011.xls. Execution time 0.18 seconds
+
+2026-07-09 17:08:14.998147
+Downloading 6/513 [Afghanistan in 2012 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-af.xls]
+
+2026-07-09 17:08:15.242539
+Successfully saved to ../../data/original_table/usgs_asia/Afghanistan_2012.xls. Execution time 0.24 seconds
+
+2026-07-09 17:08:19.104893
+Downloading 7/513 [Afghanistan in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-af.xls]
+
+2026-07-09 17:08:19.296435
+Successfully saved to ../../data/original_table/usgs_asia/Afghanistan_2013.xls. Execution time 0.19 seconds
+
+2026-07-09 17:08:22.150241
+Downloading 8/513 [Afghanistan in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2014-afghanistan.xls]
+
+2026-07-09 17:08:22.351328
+Successfully saved to ../../data/original_table/usgs_asia/Afghanistan_2014.xls. Execution time 0.20 seconds
+
+2026-07-09 17:08:24.841279
+Downloading 9/513 [Afghanistan in 2015 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/atoms/files/myb3-2015-af.xls]
+
+2026-07-09 17:08:25.109031
+Successfully saved to ../../data/original_table/usgs_asia/Afghanistan_2015.xls. Execution time 0.27 seconds
+
+2026-07-09 17:08:29.006585
+Downloading 10/513 [Afghanistan in 2016 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/atoms/files/myb3-2016-af.xls]
+
+2026-07-09 17:08:29.266526
+Successfully saved to ../../data/original_table/usgs_asia/Afghanistan_2016.xls. Execution time 0.26 seconds
+
+2026-07-09 17:08:32.648308
+Downloading 11/513 [Afghanistan in 2018 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/atoms/files/myb3-2017_18-af.xlsx]
+
+2026-07-09 17:08:33.490572
+Successfully saved to ../../data/original_table/usgs_asia/Afghanistan_2018.xlsx. Execution time 0.84 seconds
+
+2026-07-09 17:08:35.958934
+Downloading 12/513 [Afghanistan in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-afghanistan.xlsx]
+
+2026-07-09 17:08:37.986653
+Successfully saved to ../../data/original_table/usgs_asia/Afghanistan_2019.xlsx. Execution time 2.03 seconds
+
+2026-07-09 17:08:40.538524
+Downloading 13/513 [Afghanistan in 2021 from: https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-afghanistan.xlsx]
+
+2026-07-09 17:08:41.259966
+Successfully saved to ../../data/original_table/usgs_asia/Afghanistan_2021.xlsx. Execution time 0.72 seconds
+
+2026-07-09 17:08:44.137078
+Downloading 14/513 [Afghanistan in 2022 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-Afghanistan-adv.xlsx]
+
+2026-07-09 17:08:45.447924
+Successfully saved to ../../data/original_table/usgs_asia/Afghanistan_2022.xlsx. Execution time 1.31 seconds
+
+2026-07-09 17:08:48.148380
+Downloading 15/513 [Australia in 2002 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/asmyb02.xls]
+
+2026-07-09 17:08:48.728100
+Successfully saved to ../../data/original_table/usgs_asia/Australia_2002.xls. Execution time 0.58 seconds
+
+2026-07-09 17:08:52.167905
+Downloading 16/513 [Australia in 2003 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/asmyb03.xls]
+
+2026-07-09 17:08:52.640548
+Successfully saved to ../../data/original_table/usgs_asia/Australia_2003.xls. Execution time 0.47 seconds
+
+2026-07-09 17:08:54.760975
+Downloading 17/513 [Australia in 2004 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/asmyb04.xls]
+
+2026-07-09 17:08:55.023188
+Successfully saved to ../../data/original_table/usgs_asia/Australia_2004.xls. Execution time 0.26 seconds
+
+2026-07-09 17:08:57.910109
+Downloading 18/513 [Australia in 2005 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/asmyb05.xls]
+
+2026-07-09 17:08:58.208813
+Successfully saved to ../../data/original_table/usgs_asia/Australia_2005.xls. Execution time 0.30 seconds
+
+2026-07-09 17:09:01.879895
+Downloading 19/513 [Australia in 2006 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-as.xls]
+
+2026-07-09 17:09:02.150172
+Successfully saved to ../../data/original_table/usgs_asia/Australia_2006.xls. Execution time 0.27 seconds
+
+2026-07-09 17:09:04.330282
+Downloading 20/513 [Australia in 2007 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-as.xls]
+
+2026-07-09 17:09:04.519993
+Successfully saved to ../../data/original_table/usgs_asia/Australia_2007.xls. Execution time 0.19 seconds
+
+2026-07-09 17:09:07.230215
+Downloading 21/513 [Australia in 2008 from: https://s3-us-west-2.amazonaws.com/prd-wret/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-as.xls]
+
+2026-07-09 17:09:08.644216
+Failed to download https://s3-us-west-2.amazonaws.com/prd-wret/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-as.xls. Error: 403 Client Error: Forbidden for url: https://s3-us-west-2.amazonaws.com/prd-wret/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-as.xls. Execution time 1.41 seconds
+
+2026-07-09 17:09:14.931534
+Downloading 22/513 [Australia in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-as.xls]
+
+2026-07-09 17:09:16.595109
+Successfully saved to ../../data/original_table/usgs_asia/Australia_2009.xls. Execution time 1.66 seconds
+
+2026-07-09 17:09:19.727429
+Downloading 23/513 [Australia in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-as.xls]
+
+2026-07-09 17:09:20.005280
+Successfully saved to ../../data/original_table/usgs_asia/Australia_2010.xls. Execution time 0.28 seconds
+
+2026-07-09 17:09:22.213902
+Downloading 24/513 [Australia in 2011 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-as.xls]
+
+2026-07-09 17:09:22.448833
+Successfully saved to ../../data/original_table/usgs_asia/Australia_2011.xls. Execution time 0.23 seconds
+
+2026-07-09 17:09:25.795841
+Downloading 25/513 [Australia in 2012 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-as.xls]
+
+2026-07-09 17:09:26.009258
+Successfully saved to ../../data/original_table/usgs_asia/Australia_2012.xls. Execution time 0.21 seconds
+
+2026-07-09 17:09:28.620293
+Downloading 26/513 [Australia in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-as.xls]
+
+2026-07-09 17:09:28.818543
+Successfully saved to ../../data/original_table/usgs_asia/Australia_2013.xls. Execution time 0.20 seconds
+
+2026-07-09 17:09:31.085613
+Downloading 27/513 [Australia in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-as.xls]
+
+2026-07-09 17:09:31.268406
+Successfully saved to ../../data/original_table/usgs_asia/Australia_2014.xls. Execution time 0.18 seconds
+
+2026-07-09 17:09:33.491446
+Downloading 28/513 [Australia in 2015 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-as.xls]
+
+2026-07-09 17:09:33.668118
+Successfully saved to ../../data/original_table/usgs_asia/Australia_2015.xls. Execution time 0.18 seconds
+
+2026-07-09 17:09:37.612641
+Downloading 29/513 [Australia in 2016 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-as.xlsx]
+
+2026-07-09 17:09:37.819046
+Successfully saved to ../../data/original_table/usgs_asia/Australia_2016.xlsx. Execution time 0.21 seconds
+
+2026-07-09 17:09:41.413185
+Downloading 30/513 [Australia in 2018 from: https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-australia.xlsx]
+
+2026-07-09 17:09:42.284870
+Successfully saved to ../../data/original_table/usgs_asia/Australia_2018.xlsx. Execution time 0.87 seconds
+
+2026-07-09 17:09:45.362768
+Downloading 31/513 [Australia in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-australia.xls]
+
+2026-07-09 17:09:46.797521
+Successfully saved to ../../data/original_table/usgs_asia/Australia_2019.xls. Execution time 1.43 seconds
+
+2026-07-09 17:09:50.641143
+Downloading 32/513 [Australia in 2021 from: https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-australia.xlsx]
+
+2026-07-09 17:09:51.815943
+Successfully saved to ../../data/original_table/usgs_asia/Australia_2021.xlsx. Execution time 1.17 seconds
+
+2026-07-09 17:09:54.217572
+Downloading 33/513 [Australia in 2022 from: https://pubs.usgs.gov/myb/vol3/2022/myb3-2022-australia.xlsx]
+
+2026-07-09 17:09:55.453305
+Successfully saved to ../../data/original_table/usgs_asia/Australia_2022.xlsx. Execution time 1.24 seconds
+
+2026-07-09 17:09:58.284214
+Downloading 34/513 [Australia in 2023 from: https://pubs.usgs.gov/myb/vol3/2023/myb3-2023-australia.xlsx]
+
+2026-07-09 17:09:59.298805
+Successfully saved to ../../data/original_table/usgs_asia/Australia_2023.xlsx. Execution time 1.01 seconds
+
+2026-07-09 17:10:01.956056
+Downloading 35/513 [Bangladesh in 2002 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/bgmyb02.xls]
+
+2026-07-09 17:10:02.890819
+Successfully saved to ../../data/original_table/usgs_asia/Bangladesh_2002.xls. Execution time 0.93 seconds
+
+2026-07-09 17:10:05.977748
+Downloading 36/513 [Bangladesh in 2003 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/bgmyb03.xls]
+
+2026-07-09 17:10:06.139456
+Successfully saved to ../../data/original_table/usgs_asia/Bangladesh_2003.xls. Execution time 0.16 seconds
+
+2026-07-09 17:10:08.255800
+Downloading 37/513 [Bangladesh in 2004 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/bgmyb04.xls]
+
+2026-07-09 17:10:08.535476
+Successfully saved to ../../data/original_table/usgs_asia/Bangladesh_2004.xls. Execution time 0.28 seconds
+
+2026-07-09 17:10:12.336895
+Downloading 38/513 [Bangladesh in 2005 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/bgmyb05.xls]
+
+2026-07-09 17:10:12.762374
+Successfully saved to ../../data/original_table/usgs_asia/Bangladesh_2005.xls. Execution time 0.43 seconds
+
+2026-07-09 17:10:15.490690
+Downloading 39/513 [Bangladesh in 2006 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-bg.xls]
+
+2026-07-09 17:10:15.722779
+Successfully saved to ../../data/original_table/usgs_asia/Bangladesh_2006.xls. Execution time 0.23 seconds
+
+2026-07-09 17:10:18.549115
+Downloading 40/513 [Bangladesh in 2007 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-bg.xls]
+
+2026-07-09 17:10:18.951034
+Successfully saved to ../../data/original_table/usgs_asia/Bangladesh_2007.xls. Execution time 0.40 seconds
+
+2026-07-09 17:10:21.935429
+Downloading 41/513 [Bangladesh in 2008 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-bg.xls]
+
+2026-07-09 17:10:22.220098
+Successfully saved to ../../data/original_table/usgs_asia/Bangladesh_2008.xls. Execution time 0.28 seconds
+
+2026-07-09 17:10:25.857424
+Downloading 42/513 [Bangladesh in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-bg.xls]
+
+2026-07-09 17:10:26.053639
+Successfully saved to ../../data/original_table/usgs_asia/Bangladesh_2009.xls. Execution time 0.20 seconds
+
+2026-07-09 17:10:29.436159
+Downloading 43/513 [Bangladesh in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-bg.xls]
+
+2026-07-09 17:10:29.630752
+Successfully saved to ../../data/original_table/usgs_asia/Bangladesh_2010.xls. Execution time 0.19 seconds
+
+2026-07-09 17:10:33.055880
+Downloading 44/513 [Bangladesh in 2011 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-bg.xls]
+
+2026-07-09 17:10:33.428777
+Successfully saved to ../../data/original_table/usgs_asia/Bangladesh_2011.xls. Execution time 0.37 seconds
+
+2026-07-09 17:10:36.449601
+Downloading 45/513 [Bangladesh in 2012 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-bg.xls]
+
+2026-07-09 17:10:36.660096
+Successfully saved to ../../data/original_table/usgs_asia/Bangladesh_2012.xls. Execution time 0.21 seconds
+
+2026-07-09 17:10:40.528333
+Downloading 46/513 [Bangladesh in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-bg.xls]
+
+2026-07-09 17:10:40.769992
+Successfully saved to ../../data/original_table/usgs_asia/Bangladesh_2013.xls. Execution time 0.24 seconds
+
+2026-07-09 17:10:42.916052
+Downloading 47/513 [Bangladesh in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-bg.xls]
+
+2026-07-09 17:10:43.140589
+Successfully saved to ../../data/original_table/usgs_asia/Bangladesh_2014.xls. Execution time 0.22 seconds
+
+2026-07-09 17:10:45.478645
+Downloading 48/513 [Bangladesh in 2015 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2015/myb3-2015-bg.xls]
+
+2026-07-09 17:10:45.682184
+Successfully saved to ../../data/original_table/usgs_asia/Bangladesh_2015.xls. Execution time 0.20 seconds
+
+2026-07-09 17:10:48.594445
+Downloading 49/513 [Bangladesh in 2016 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-bg.xlsx]
+
+2026-07-09 17:10:55.079727
+Successfully saved to ../../data/original_table/usgs_asia/Bangladesh_2016.xlsx. Execution time 6.49 seconds
+
+2026-07-09 17:10:58.181553
+Downloading 50/513 [Bangladesh in 2018 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-bg.xlsx]
+
+2026-07-09 17:10:59.326019
+Successfully saved to ../../data/original_table/usgs_asia/Bangladesh_2018.xlsx. Execution time 1.14 seconds
+
+2026-07-09 17:11:01.574062
+Downloading 51/513 [Bangladesh in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-bangladesh.xlsx]
+
+2026-07-09 17:11:02.735918
+Successfully saved to ../../data/original_table/usgs_asia/Bangladesh_2019.xlsx. Execution time 1.16 seconds
+
+2026-07-09 17:11:05.689892
+Downloading 52/513 [Bangladesh in 2021 from: https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-bangladesh.xlsx]
+
+2026-07-09 17:11:06.826399
+Successfully saved to ../../data/original_table/usgs_asia/Bangladesh_2021.xlsx. Execution time 1.14 seconds
+
+2026-07-09 17:11:09.059950
+Downloading 53/513 [Bangladesh in 2022 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-Bangladesh-adv.xlsx]
+
+2026-07-09 17:11:10.547604
+Successfully saved to ../../data/original_table/usgs_asia/Bangladesh_2022.xlsx. Execution time 1.49 seconds
+
+2026-07-09 17:11:13.712049
+Downloading 54/513 [Bhutan in 2002 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/btnpmyb02.xls]
+
+2026-07-09 17:11:13.928700
+Successfully saved to ../../data/original_table/usgs_asia/Bhutan_2002.xls. Execution time 0.22 seconds
+
+2026-07-09 17:11:17.131457
+Downloading 55/513 [Bhutan in 2003 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/btnpmyb03.xls]
+
+2026-07-09 17:11:17.310455
+Successfully saved to ../../data/original_table/usgs_asia/Bhutan_2003.xls. Execution time 0.18 seconds
+
+2026-07-09 17:11:19.842169
+Downloading 56/513 [Bhutan in 2004 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/btnpmyb04.xls]
+
+2026-07-09 17:11:20.172988
+Successfully saved to ../../data/original_table/usgs_asia/Bhutan_2004.xls. Execution time 0.33 seconds
+
+2026-07-09 17:11:23.481676
+Downloading 57/513 [Bhutan in 2005 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/btnpmyb05.xls]
+
+2026-07-09 17:11:23.863479
+Successfully saved to ../../data/original_table/usgs_asia/Bhutan_2005.xls. Execution time 0.38 seconds
+
+2026-07-09 17:11:26.278266
+Downloading 58/513 [Bhutan in 2006 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-bt-np.xls]
+
+2026-07-09 17:11:26.647413
+Successfully saved to ../../data/original_table/usgs_asia/Bhutan_2006.xls. Execution time 0.37 seconds
+
+2026-07-09 17:11:30.541793
+Downloading 59/513 [Bhutan in 2007 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-bt-np.xls]
+
+2026-07-09 17:11:30.811253
+Successfully saved to ../../data/original_table/usgs_asia/Bhutan_2007.xls. Execution time 0.27 seconds
+
+2026-07-09 17:11:34.044924
+Downloading 60/513 [Bhutan in 2008 from: https://d9-wret.s3.us-west-2.amazonaws.com/assetspalladium/production/mineral-pubs/country/2008/myb3-2008-bt-np.xls]
+
+2026-07-09 17:11:34.318500
+Failed to download https://d9-wret.s3.us-west-2.amazonaws.com/assetspalladium/production/mineral-pubs/country/2008/myb3-2008-bt-np.xls. Error: 403 Client Error: Forbidden for url: https://d9-wret.s3.us-west-2.amazonaws.com/assetspalladium/production/mineral-pubs/country/2008/myb3-2008-bt-np.xls. Execution time 0.27 seconds
+
+2026-07-09 17:11:40.005368
+Downloading 61/513 [Bhutan in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-bt-np.xls]
+
+2026-07-09 17:11:41.579551
+Successfully saved to ../../data/original_table/usgs_asia/Bhutan_2009.xls. Execution time 1.57 seconds
+
+2026-07-09 17:11:45.440015
+Downloading 62/513 [Bhutan in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-bt-np.xls]
+
+2026-07-09 17:11:45.787990
+Successfully saved to ../../data/original_table/usgs_asia/Bhutan_2010.xls. Execution time 0.35 seconds
+
+2026-07-09 17:11:48.896353
+Downloading 63/513 [Bhutan in 2011 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-bt-np.xls]
+
+2026-07-09 17:11:49.113896
+Successfully saved to ../../data/original_table/usgs_asia/Bhutan_2011.xls. Execution time 0.22 seconds
+
+2026-07-09 17:11:52.348495
+Downloading 64/513 [Bhutan in 2012 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-bt-np.xls]
+
+2026-07-09 17:11:52.587389
+Successfully saved to ../../data/original_table/usgs_asia/Bhutan_2012.xls. Execution time 0.24 seconds
+
+2026-07-09 17:11:54.695585
+Downloading 65/513 [Bhutan in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-bt-np.xls]
+
+2026-07-09 17:11:54.992905
+Successfully saved to ../../data/original_table/usgs_asia/Bhutan_2013.xls. Execution time 0.30 seconds
+
+2026-07-09 17:11:58.579017
+Downloading 66/513 [Bhutan in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-bt-np.xls]
+
+2026-07-09 17:11:58.787325
+Successfully saved to ../../data/original_table/usgs_asia/Bhutan_2014.xls. Execution time 0.21 seconds
+
+2026-07-09 17:12:02.689001
+Downloading 67/513 [Bhutan in 2015 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2015/myb3-2015-bt-np.xls]
+
+2026-07-09 17:12:02.927806
+Successfully saved to ../../data/original_table/usgs_asia/Bhutan_2015.xls. Execution time 0.24 seconds
+
+2026-07-09 17:12:04.962736
+Downloading 68/513 [Bhutan in 2016 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-bt-np.xlsx]
+
+2026-07-09 17:12:06.113440
+Successfully saved to ../../data/original_table/usgs_asia/Bhutan_2016.xlsx. Execution time 1.15 seconds
+
+2026-07-09 17:12:08.287909
+Downloading 69/513 [Bhutan in 2018 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2017-18-bhutan-nepal.xlsx]
+
+2026-07-09 17:12:08.507259
+Successfully saved to ../../data/original_table/usgs_asia/Bhutan_2018.xlsx. Execution time 0.22 seconds
+
+2026-07-09 17:12:10.600893
+Downloading 70/513 [Bhutan in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-bhutan-nepal.xlsx]
+
+2026-07-09 17:12:11.376651
+Successfully saved to ../../data/original_table/usgs_asia/Bhutan_2019.xlsx. Execution time 0.78 seconds
+
+2026-07-09 17:12:13.721234
+Downloading 71/513 [Bhutan in 2021 from: https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-bhutan-nepal.xlsx]
+
+2026-07-09 17:12:14.488793
+Successfully saved to ../../data/original_table/usgs_asia/Bhutan_2021.xlsx. Execution time 0.77 seconds
+
+2026-07-09 17:12:16.805968
+Downloading 72/513 [Brunei in 2002 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/bxmyb02.xls]
+
+2026-07-09 17:12:17.826900
+Successfully saved to ../../data/original_table/usgs_asia/Brunei_2002.xls. Execution time 1.02 seconds
+
+2026-07-09 17:12:21.236713
+Downloading 73/513 [Brunei in 2003 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/bxmyb03.xls]
+
+2026-07-09 17:12:21.403692
+Successfully saved to ../../data/original_table/usgs_asia/Brunei_2003.xls. Execution time 0.17 seconds
+
+2026-07-09 17:12:25.141166
+Downloading 74/513 [Brunei in 2005 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/bxmyb05.xls]
+
+2026-07-09 17:12:25.822785
+Successfully saved to ../../data/original_table/usgs_asia/Brunei_2005.xls. Execution time 0.68 seconds
+
+2026-07-09 17:12:28.751291
+Downloading 75/513 [Brunei in 2007 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-bx.xls]
+
+2026-07-09 17:12:29.194570
+Successfully saved to ../../data/original_table/usgs_asia/Brunei_2007.xls. Execution time 0.44 seconds
+
+2026-07-09 17:12:31.715664
+Downloading 76/513 [Brunei in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-bx.xls]
+
+2026-07-09 17:12:31.937517
+Successfully saved to ../../data/original_table/usgs_asia/Brunei_2009.xls. Execution time 0.22 seconds
+
+2026-07-09 17:12:34.105201
+Downloading 77/513 [Brunei in 2011 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-bx.xls]
+
+2026-07-09 17:12:34.313265
+Successfully saved to ../../data/original_table/usgs_asia/Brunei_2011.xls. Execution time 0.21 seconds
+
+2026-07-09 17:12:36.915134
+Downloading 78/513 [Brunei in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-bx.xls]
+
+2026-07-09 17:12:37.181068
+Successfully saved to ../../data/original_table/usgs_asia/Brunei_2013.xls. Execution time 0.27 seconds
+
+2026-07-09 17:12:39.207612
+Downloading 79/513 [Brunei in 2015 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-bx.xls]
+
+2026-07-09 17:12:39.408738
+Successfully saved to ../../data/original_table/usgs_asia/Brunei_2015.xls. Execution time 0.20 seconds
+
+2026-07-09 17:12:42.738125
+Downloading 80/513 [Brunei in 2016 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-bx.xlsx]
+
+2026-07-09 17:12:43.937009
+Successfully saved to ../../data/original_table/usgs_asia/Brunei_2016.xlsx. Execution time 1.20 seconds
+
+2026-07-09 17:12:47.918214
+Downloading 81/513 [Brunei in 2018 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-bx.xls]
+
+2026-07-09 17:12:49.775704
+Successfully saved to ../../data/original_table/usgs_asia/Brunei_2018.xls. Execution time 1.86 seconds
+
+2026-07-09 17:12:52.493523
+Downloading 82/513 [Brunei in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-brunei.xlsx]
+
+2026-07-09 17:12:53.710256
+Successfully saved to ../../data/original_table/usgs_asia/Brunei_2019.xlsx. Execution time 1.22 seconds
+
+2026-07-09 17:12:55.802255
+Downloading 83/513 [Brunei in 2021 from: https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-brunei.xlsx]
+
+2026-07-09 17:12:56.849153
+Successfully saved to ../../data/original_table/usgs_asia/Brunei_2021.xlsx. Execution time 1.05 seconds
+
+2026-07-09 17:12:58.889202
+Downloading 84/513 [Burma(Myanmar) in 2002 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/bmmyb02.xls]
+
+2026-07-09 17:13:00.007200
+Successfully saved to ../../data/original_table/usgs_asia/Burma(Myanmar)_2002.xls. Execution time 1.12 seconds
+
+2026-07-09 17:13:03.666909
+Downloading 85/513 [Burma(Myanmar) in 2003 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/bmmyb03.xls]
+
+2026-07-09 17:13:03.856084
+Successfully saved to ../../data/original_table/usgs_asia/Burma(Myanmar)_2003.xls. Execution time 0.19 seconds
+
+2026-07-09 17:13:07.439302
+Downloading 86/513 [Burma(Myanmar) in 2004 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/bmmyb04.xls]
+
+2026-07-09 17:13:07.720868
+Successfully saved to ../../data/original_table/usgs_asia/Burma(Myanmar)_2004.xls. Execution time 0.28 seconds
+
+2026-07-09 17:13:10.817288
+Downloading 87/513 [Burma(Myanmar) in 2005 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/bmmyb05.xls]
+
+2026-07-09 17:13:11.169396
+Successfully saved to ../../data/original_table/usgs_asia/Burma(Myanmar)_2005.xls. Execution time 0.35 seconds
+
+2026-07-09 17:13:13.754851
+Downloading 88/513 [Burma(Myanmar) in 2006 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-bm.xls]
+
+2026-07-09 17:13:13.953182
+Successfully saved to ../../data/original_table/usgs_asia/Burma(Myanmar)_2006.xls. Execution time 0.20 seconds
+
+2026-07-09 17:13:17.015559
+Downloading 89/513 [Burma(Myanmar) in 2007 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-bm.xls]
+
+2026-07-09 17:13:17.210032
+Successfully saved to ../../data/original_table/usgs_asia/Burma(Myanmar)_2007.xls. Execution time 0.19 seconds
+
+2026-07-09 17:13:19.959003
+Downloading 90/513 [Burma(Myanmar) in 2008 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-bm.xls]
+
+2026-07-09 17:13:20.149280
+Successfully saved to ../../data/original_table/usgs_asia/Burma(Myanmar)_2008.xls. Execution time 0.19 seconds
+
+2026-07-09 17:13:22.600187
+Downloading 91/513 [Burma(Myanmar) in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-bm.xls]
+
+2026-07-09 17:13:22.855891
+Successfully saved to ../../data/original_table/usgs_asia/Burma(Myanmar)_2009.xls. Execution time 0.26 seconds
+
+2026-07-09 17:13:25.105450
+Downloading 92/513 [Burma(Myanmar) in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-bm.xls]
+
+2026-07-09 17:13:25.300693
+Successfully saved to ../../data/original_table/usgs_asia/Burma(Myanmar)_2010.xls. Execution time 0.20 seconds
+
+2026-07-09 17:13:28.845272
+Downloading 93/513 [Burma(Myanmar) in 2011 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-bm.xls]
+
+2026-07-09 17:13:29.104629
+Successfully saved to ../../data/original_table/usgs_asia/Burma(Myanmar)_2011.xls. Execution time 0.26 seconds
+
+2026-07-09 17:13:32.883941
+Downloading 94/513 [Burma(Myanmar) in 2012 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-bm.xls]
+
+2026-07-09 17:13:33.096284
+Successfully saved to ../../data/original_table/usgs_asia/Burma(Myanmar)_2012.xls. Execution time 0.21 seconds
+
+2026-07-09 17:13:36.074443
+Downloading 95/513 [Burma(Myanmar) in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-bm.xls]
+
+2026-07-09 17:13:36.278867
+Successfully saved to ../../data/original_table/usgs_asia/Burma(Myanmar)_2013.xls. Execution time 0.20 seconds
+
+2026-07-09 17:13:38.407123
+Downloading 96/513 [Burma(Myanmar) in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-bm.xls]
+
+2026-07-09 17:13:38.584081
+Successfully saved to ../../data/original_table/usgs_asia/Burma(Myanmar)_2014.xls. Execution time 0.18 seconds
+
+2026-07-09 17:13:40.883000
+Downloading 97/513 [Burma(Myanmar) in 2015 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2015/myb3-2015-bm.xls]
+
+2026-07-09 17:13:41.065719
+Successfully saved to ../../data/original_table/usgs_asia/Burma(Myanmar)_2015.xls. Execution time 0.18 seconds
+
+2026-07-09 17:13:44.667643
+Downloading 98/513 [Burma(Myanmar) in 2016 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-bm.xlsx]
+
+2026-07-09 17:13:46.122710
+Successfully saved to ../../data/original_table/usgs_asia/Burma(Myanmar)_2016.xlsx. Execution time 1.46 seconds
+
+2026-07-09 17:13:48.855341
+Downloading 99/513 [Burma(Myanmar) in 2018 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-bm.xls]
+
+2026-07-09 17:13:50.601844
+Successfully saved to ../../data/original_table/usgs_asia/Burma(Myanmar)_2018.xls. Execution time 1.75 seconds
+
+2026-07-09 17:13:53.003143
+Downloading 100/513 [Burma(Myanmar) in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-burma.xlsx]
+
+2026-07-09 17:13:53.729269
+Successfully saved to ../../data/original_table/usgs_asia/Burma(Myanmar)_2019.xlsx. Execution time 0.73 seconds
+
+2026-07-09 17:13:57.585529
+Downloading 101/513 [Burma(Myanmar) in 2021 from: https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-burma.xlsx]
+
+2026-07-09 17:13:58.345496
+Successfully saved to ../../data/original_table/usgs_asia/Burma(Myanmar)_2021.xlsx. Execution time 0.76 seconds
+
+2026-07-09 17:14:01.713343
+Downloading 102/513 [Burma(Myanmar) in 2022 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-Burma-ert.xlsx]
+
+2026-07-09 17:14:03.400087
+Successfully saved to ../../data/original_table/usgs_asia/Burma(Myanmar)_2022.xlsx. Execution time 1.69 seconds
+
+2026-07-09 17:14:05.826554
+Downloading 103/513 [Cambodia in 2006 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-cb.xls]
+
+2026-07-09 17:14:06.262221
+Successfully saved to ../../data/original_table/usgs_asia/Cambodia_2006.xls. Execution time 0.44 seconds
+
+2026-07-09 17:14:10.166555
+Downloading 104/513 [Cambodia in 2007 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-cb.xls]
+
+2026-07-09 17:14:10.499696
+Successfully saved to ../../data/original_table/usgs_asia/Cambodia_2007.xls. Execution time 0.33 seconds
+
+2026-07-09 17:14:14.142982
+Downloading 105/513 [Cambodia in 2008 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-cb.xls]
+
+2026-07-09 17:14:14.408661
+Successfully saved to ../../data/original_table/usgs_asia/Cambodia_2008.xls. Execution time 0.27 seconds
+
+2026-07-09 17:14:17.747171
+Downloading 106/513 [Cambodia in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-cb.xls]
+
+2026-07-09 17:14:17.983717
+Successfully saved to ../../data/original_table/usgs_asia/Cambodia_2009.xls. Execution time 0.24 seconds
+
+2026-07-09 17:14:20.926905
+Downloading 107/513 [Cambodia in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-cb.xls]
+
+2026-07-09 17:14:21.221348
+Successfully saved to ../../data/original_table/usgs_asia/Cambodia_2010.xls. Execution time 0.29 seconds
+
+2026-07-09 17:14:23.984963
+Downloading 108/513 [Cambodia in 2011 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-cb.xls]
+
+2026-07-09 17:14:24.193509
+Successfully saved to ../../data/original_table/usgs_asia/Cambodia_2011.xls. Execution time 0.21 seconds
+
+2026-07-09 17:14:26.418582
+Downloading 109/513 [Cambodia in 2012 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-cb.xls]
+
+2026-07-09 17:14:26.662551
+Successfully saved to ../../data/original_table/usgs_asia/Cambodia_2012.xls. Execution time 0.24 seconds
+
+2026-07-09 17:14:29.654478
+Downloading 110/513 [Cambodia in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-cb.xls]
+
+2026-07-09 17:14:30.240708
+Successfully saved to ../../data/original_table/usgs_asia/Cambodia_2013.xls. Execution time 0.59 seconds
+
+2026-07-09 17:14:32.626902
+Downloading 111/513 [Cambodia in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-cb.xls]
+
+2026-07-09 17:14:32.856287
+Successfully saved to ../../data/original_table/usgs_asia/Cambodia_2014.xls. Execution time 0.23 seconds
+
+2026-07-09 17:14:35.471261
+Downloading 112/513 [Cambodia in 2015 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2015/myb3-2015-cb.xls]
+
+2026-07-09 17:14:35.683074
+Successfully saved to ../../data/original_table/usgs_asia/Cambodia_2015.xls. Execution time 0.21 seconds
+
+2026-07-09 17:14:38.767262
+Downloading 113/513 [Cambodia in 2016 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-cb.xlsx]
+
+2026-07-09 17:14:40.376247
+Successfully saved to ../../data/original_table/usgs_asia/Cambodia_2016.xlsx. Execution time 1.61 seconds
+
+2026-07-09 17:14:44.086887
+Downloading 114/513 [Cambodia in 2018 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-cb.xlsx]
+
+2026-07-09 17:14:45.997487
+Successfully saved to ../../data/original_table/usgs_asia/Cambodia_2018.xlsx. Execution time 1.91 seconds
+
+2026-07-09 17:14:49.143008
+Downloading 115/513 [Cambodia in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-cambodia.xlsx]
+
+2026-07-09 17:14:49.898013
+Successfully saved to ../../data/original_table/usgs_asia/Cambodia_2019.xlsx. Execution time 0.76 seconds
+
+2026-07-09 17:14:53.546502
+Downloading 116/513 [Cambodia in 2021 from: https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-cambodia.xlsx]
+
+2026-07-09 17:14:54.725047
+Successfully saved to ../../data/original_table/usgs_asia/Cambodia_2021.xlsx. Execution time 1.18 seconds
+
+2026-07-09 17:14:58.553446
+Downloading 117/513 [China in 2002 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/chmyb02.xls]
+
+2026-07-09 17:15:00.238657
+Successfully saved to ../../data/original_table/usgs_asia/China_2002.xls. Execution time 1.69 seconds
+
+2026-07-09 17:15:04.238433
+Downloading 118/513 [China in 2003 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/chmyb03.xls]
+
+2026-07-09 17:15:04.582349
+Successfully saved to ../../data/original_table/usgs_asia/China_2003.xls. Execution time 0.34 seconds
+
+2026-07-09 17:15:06.893441
+Downloading 119/513 [China in 2004 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/chmyb04.xls]
+
+2026-07-09 17:15:07.212382
+Successfully saved to ../../data/original_table/usgs_asia/China_2004.xls. Execution time 0.32 seconds
+
+2026-07-09 17:15:09.728784
+Downloading 120/513 [China in 2005 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/chmyb05.xls]
+
+2026-07-09 17:15:10.061650
+Successfully saved to ../../data/original_table/usgs_asia/China_2005.xls. Execution time 0.33 seconds
+
+2026-07-09 17:15:12.516607
+Downloading 121/513 [China in 2006 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-ch.xls]
+
+2026-07-09 17:15:12.746873
+Successfully saved to ../../data/original_table/usgs_asia/China_2006.xls. Execution time 0.23 seconds
+
+2026-07-09 17:15:16.449544
+Downloading 122/513 [China in 2007 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-ch.xls]
+
+2026-07-09 17:15:16.651368
+Successfully saved to ../../data/original_table/usgs_asia/China_2007.xls. Execution time 0.20 seconds
+
+2026-07-09 17:15:19.482573
+Downloading 123/513 [China in 2008 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-ch.xls]
+
+2026-07-09 17:15:19.716713
+Successfully saved to ../../data/original_table/usgs_asia/China_2008.xls. Execution time 0.23 seconds
+
+2026-07-09 17:15:22.030004
+Downloading 124/513 [China in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-ch.xls]
+
+2026-07-09 17:15:22.272039
+Successfully saved to ../../data/original_table/usgs_asia/China_2009.xls. Execution time 0.24 seconds
+
+2026-07-09 17:15:25.593251
+Downloading 125/513 [China in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-ch.xls]
+
+2026-07-09 17:15:25.842346
+Successfully saved to ../../data/original_table/usgs_asia/China_2010.xls. Execution time 0.25 seconds
+
+2026-07-09 17:15:27.951585
+Downloading 126/513 [China in 2011 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-ch.xls]
+
+2026-07-09 17:15:28.174224
+Successfully saved to ../../data/original_table/usgs_asia/China_2011.xls. Execution time 0.22 seconds
+
+2026-07-09 17:15:31.567519
+Downloading 127/513 [China in 2012 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-ch.xls]
+
+2026-07-09 17:15:31.815572
+Successfully saved to ../../data/original_table/usgs_asia/China_2012.xls. Execution time 0.25 seconds
+
+2026-07-09 17:15:34.496185
+Downloading 128/513 [China in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-ch.xls]
+
+2026-07-09 17:15:34.713716
+Successfully saved to ../../data/original_table/usgs_asia/China_2013.xls. Execution time 0.22 seconds
+
+2026-07-09 17:15:37.504805
+Downloading 129/513 [China in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-ch.xls]
+
+2026-07-09 17:15:37.745077
+Successfully saved to ../../data/original_table/usgs_asia/China_2014.xls. Execution time 0.24 seconds
+
+2026-07-09 17:15:40.112255
+Downloading 130/513 [China in 2015 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2015/myb3-2015-ch.xlsx]
+
+2026-07-09 17:15:40.403141
+Successfully saved to ../../data/original_table/usgs_asia/China_2015.xlsx. Execution time 0.29 seconds
+
+2026-07-09 17:15:42.759618
+Downloading 131/513 [China in 2016 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-chn.xlsx]
+
+2026-07-09 17:15:49.545987
+Successfully saved to ../../data/original_table/usgs_asia/China_2016.xlsx. Execution time 6.79 seconds
+
+2026-07-09 17:15:51.754648
+Downloading 132/513 [China in 2018 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-ch.xls]
+
+2026-07-09 17:15:53.694881
+Successfully saved to ../../data/original_table/usgs_asia/China_2018.xls. Execution time 1.94 seconds
+
+2026-07-09 17:15:56.613853
+Downloading 133/513 [China in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-china.xlsx]
+
+2026-07-09 17:15:57.473547
+Successfully saved to ../../data/original_table/usgs_asia/China_2019.xlsx. Execution time 0.86 seconds
+
+2026-07-09 17:16:00.508705
+Downloading 134/513 [China in 2021 from: https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-china.xlsx]
+
+2026-07-09 17:16:01.831926
+Successfully saved to ../../data/original_table/usgs_asia/China_2021.xlsx. Execution time 1.32 seconds
+
+2026-07-09 17:16:04.797628
+Downloading 135/513 [China in 2022 from: https://pubs.usgs.gov/myb/vol3/2022/myb3-2022-china.xlsx]
+
+2026-07-09 17:16:05.486662
+Successfully saved to ../../data/original_table/usgs_asia/China_2022.xlsx. Execution time 0.69 seconds
+
+2026-07-09 17:16:07.856289
+Downloading 136/513 [China in 2023 from: https://pubs.usgs.gov/myb/vol3/2023/myb3-2023-china.xlsx]
+
+2026-07-09 17:16:08.841406
+Successfully saved to ../../data/original_table/usgs_asia/China_2023.xlsx. Execution time 0.99 seconds
+
+2026-07-09 17:16:11.006880
+Downloading 137/513 [Fiji in 2002 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/fjmyb02.xls]
+
+2026-07-09 17:16:12.333984
+Successfully saved to ../../data/original_table/usgs_asia/Fiji_2002.xls. Execution time 1.33 seconds
+
+2026-07-09 17:16:16.103374
+Downloading 138/513 [Fiji in 2003 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/fjmyb03.xls]
+
+2026-07-09 17:16:16.271669
+Successfully saved to ../../data/original_table/usgs_asia/Fiji_2003.xls. Execution time 0.17 seconds
+
+2026-07-09 17:16:19.307781
+Downloading 139/513 [Fiji in 2004 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/fjmyb04.xls]
+
+2026-07-09 17:16:19.597077
+Successfully saved to ../../data/original_table/usgs_asia/Fiji_2004.xls. Execution time 0.29 seconds
+
+2026-07-09 17:16:22.873494
+Downloading 140/513 [Fiji in 2005 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/fjmyb05.xls]
+
+2026-07-09 17:16:23.268256
+Successfully saved to ../../data/original_table/usgs_asia/Fiji_2005.xls. Execution time 0.39 seconds
+
+2026-07-09 17:16:26.187478
+Downloading 141/513 [Fiji in 2006 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-fj.xls]
+
+2026-07-09 17:16:26.558861
+Successfully saved to ../../data/original_table/usgs_asia/Fiji_2006.xls. Execution time 0.37 seconds
+
+2026-07-09 17:16:30.223646
+Downloading 142/513 [Fiji in 2007 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-fj.xls]
+
+2026-07-09 17:16:30.416948
+Successfully saved to ../../data/original_table/usgs_asia/Fiji_2007.xls. Execution time 0.19 seconds
+
+2026-07-09 17:16:33.038656
+Downloading 143/513 [Fiji in 2008 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-fj.xls]
+
+2026-07-09 17:16:33.233740
+Successfully saved to ../../data/original_table/usgs_asia/Fiji_2008.xls. Execution time 0.20 seconds
+
+2026-07-09 17:16:36.627529
+Downloading 144/513 [Fiji in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-fj.xls]
+
+2026-07-09 17:16:36.810708
+Successfully saved to ../../data/original_table/usgs_asia/Fiji_2009.xls. Execution time 0.18 seconds
+
+2026-07-09 17:16:40.503752
+Downloading 145/513 [Fiji in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-fj.xls]
+
+2026-07-09 17:16:40.896629
+Successfully saved to ../../data/original_table/usgs_asia/Fiji_2010.xls. Execution time 0.39 seconds
+
+2026-07-09 17:16:44.711832
+Downloading 146/513 [Fiji in 2011 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-fj.xls]
+
+2026-07-09 17:16:44.888715
+Successfully saved to ../../data/original_table/usgs_asia/Fiji_2011.xls. Execution time 0.18 seconds
+
+2026-07-09 17:16:48.633078
+Downloading 147/513 [Fiji in 2012 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-fj.xls]
+
+2026-07-09 17:16:48.836452
+Successfully saved to ../../data/original_table/usgs_asia/Fiji_2012.xls. Execution time 0.20 seconds
+
+2026-07-09 17:16:51.087205
+Downloading 148/513 [Fiji in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-fj.xls]
+
+2026-07-09 17:16:51.339884
+Successfully saved to ../../data/original_table/usgs_asia/Fiji_2013.xls. Execution time 0.25 seconds
+
+2026-07-09 17:16:54.285281
+Downloading 149/513 [Fiji in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-fj.xls]
+
+2026-07-09 17:16:54.471791
+Successfully saved to ../../data/original_table/usgs_asia/Fiji_2014.xls. Execution time 0.19 seconds
+
+2026-07-09 17:16:58.134783
+Downloading 150/513 [Fiji in 2015 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2015/myb3-2015-fj.xlsx]
+
+2026-07-09 17:16:58.298753
+Successfully saved to ../../data/original_table/usgs_asia/Fiji_2015.xlsx. Execution time 0.16 seconds
+
+2026-07-09 17:17:00.817131
+Downloading 151/513 [Fiji in 2016 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-fj.xlsx]
+
+2026-07-09 17:17:02.259927
+Successfully saved to ../../data/original_table/usgs_asia/Fiji_2016.xlsx. Execution time 1.44 seconds
+
+2026-07-09 17:17:04.300007
+Downloading 152/513 [Fiji in 2018 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-fj.xls]
+
+2026-07-09 17:17:05.994751
+Successfully saved to ../../data/original_table/usgs_asia/Fiji_2018.xls. Execution time 1.69 seconds
+
+2026-07-09 17:17:08.599342
+Downloading 153/513 [Fiji in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-fiji.xlsx]
+
+2026-07-09 17:17:09.760536
+Successfully saved to ../../data/original_table/usgs_asia/Fiji_2019.xlsx. Execution time 1.16 seconds
+
+2026-07-09 17:17:12.321707
+Downloading 154/513 [Fiji in 2021 from: https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-fiji.xlsx]
+
+2026-07-09 17:17:13.480921
+Successfully saved to ../../data/original_table/usgs_asia/Fiji_2021.xlsx. Execution time 1.16 seconds
+
+2026-07-09 17:17:17.376906
+Downloading 155/513 [India in 2002 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/inmyb02.xls]
+
+2026-07-09 17:17:18.978347
+Successfully saved to ../../data/original_table/usgs_asia/India_2002.xls. Execution time 1.60 seconds
+
+2026-07-09 17:17:22.643352
+Downloading 156/513 [India in 2003 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/inmyb03.xls]
+
+2026-07-09 17:17:22.836200
+Successfully saved to ../../data/original_table/usgs_asia/India_2003.xls. Execution time 0.19 seconds
+
+2026-07-09 17:17:25.924822
+Downloading 157/513 [India in 2004 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/inmyb04.xls]
+
+2026-07-09 17:17:26.208719
+Successfully saved to ../../data/original_table/usgs_asia/India_2004.xls. Execution time 0.28 seconds
+
+2026-07-09 17:17:29.153024
+Downloading 158/513 [India in 2005 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/inmyb05.xls]
+
+2026-07-09 17:17:29.475636
+Successfully saved to ../../data/original_table/usgs_asia/India_2005.xls. Execution time 0.32 seconds
+
+2026-07-09 17:17:33.410493
+Downloading 159/513 [India in 2006 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-in.xls]
+
+2026-07-09 17:17:33.833652
+Successfully saved to ../../data/original_table/usgs_asia/India_2006.xls. Execution time 0.42 seconds
+
+2026-07-09 17:17:37.772670
+Downloading 160/513 [India in 2007 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-in.xls]
+
+2026-07-09 17:17:37.981717
+Successfully saved to ../../data/original_table/usgs_asia/India_2007.xls. Execution time 0.21 seconds
+
+2026-07-09 17:17:42.884226
+Downloading 161/513 [India in 2008 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-in.xls]
+
+2026-07-09 17:17:43.269789
+Successfully saved to ../../data/original_table/usgs_asia/India_2008.xls. Execution time 0.39 seconds
+
+2026-07-09 17:17:46.325985
+Downloading 162/513 [India in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-in.xls]
+
+2026-07-09 17:17:46.559575
+Successfully saved to ../../data/original_table/usgs_asia/India_2009.xls. Execution time 0.23 seconds
+
+2026-07-09 17:17:50.259659
+Downloading 163/513 [India in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-in.xls]
+
+2026-07-09 17:17:50.473080
+Successfully saved to ../../data/original_table/usgs_asia/India_2010.xls. Execution time 0.21 seconds
+
+2026-07-09 17:17:52.951307
+Downloading 164/513 [India in 2011 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-in.xls]
+
+2026-07-09 17:17:53.132286
+Successfully saved to ../../data/original_table/usgs_asia/India_2011.xls. Execution time 0.18 seconds
+
+2026-07-09 17:17:58.131083
+Downloading 165/513 [India in 2012 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-in.xls]
+
+2026-07-09 17:18:10.185173
+Successfully saved to ../../data/original_table/usgs_asia/India_2012.xls. Execution time 12.05 seconds
+
+2026-07-09 17:18:13.549628
+Downloading 166/513 [India in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-in.xls]
+
+2026-07-09 17:18:14.371622
+Successfully saved to ../../data/original_table/usgs_asia/India_2013.xls. Execution time 0.82 seconds
+
+2026-07-09 17:18:16.986216
+Downloading 167/513 [India in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-in.xlsx]
+
+2026-07-09 17:18:17.333360
+Successfully saved to ../../data/original_table/usgs_asia/India_2014.xlsx. Execution time 0.35 seconds
+
+2026-07-09 17:18:20.665119
+Downloading 168/513 [India in 2015 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2015/myb3-2015-in.xls]
+
+2026-07-09 17:18:21.095437
+Successfully saved to ../../data/original_table/usgs_asia/India_2015.xls. Execution time 0.43 seconds
+
+2026-07-09 17:18:24.670062
+Downloading 169/513 [India in 2016 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-in.xlsx]
+
+2026-07-09 17:18:24.989039
+Successfully saved to ../../data/original_table/usgs_asia/India_2016.xlsx. Execution time 0.32 seconds
+
+2026-07-09 17:18:27.720757
+Downloading 170/513 [India in 2018 from: https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-India.xlsx]
+
+2026-07-09 17:18:29.133132
+Successfully saved to ../../data/original_table/usgs_asia/India_2018.xlsx. Execution time 1.41 seconds
+
+2026-07-09 17:18:31.833231
+Downloading 171/513 [India in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-india.xlsx]
+
+2026-07-09 17:18:32.733413
+Successfully saved to ../../data/original_table/usgs_asia/India_2019.xlsx. Execution time 0.90 seconds
+
+2026-07-09 17:18:36.126625
+Downloading 172/513 [India in 2021 from: https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-india.xlsx]
+
+2026-07-09 17:18:37.279817
+Successfully saved to ../../data/original_table/usgs_asia/India_2021.xlsx. Execution time 1.15 seconds
+
+2026-07-09 17:18:40.997426
+Downloading 173/513 [India in 2022 from: https://pubs.usgs.gov/myb/vol3/2022/myb3-2022-india.xlsx]
+
+2026-07-09 17:18:41.996201
+Successfully saved to ../../data/original_table/usgs_asia/India_2022.xlsx. Execution time 1.00 seconds
+
+2026-07-09 17:18:45.459652
+Downloading 174/513 [India in 2023 from: https://pubs.usgs.gov/myb/vol3/2023/myb3-2023-india.xlsx]
+
+2026-07-09 17:18:46.298582
+Successfully saved to ../../data/original_table/usgs_asia/India_2023.xlsx. Execution time 0.84 seconds
+
+2026-07-09 17:18:48.623296
+Downloading 175/513 [Indonesia in nan from: https://prd-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-idn-advrel.xlsx]
+
+2026-07-09 17:18:50.049135
+Failed to download https://prd-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-idn-advrel.xlsx. Error: 403 Client Error: Forbidden for url: https://prd-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-idn-advrel.xlsx. Execution time 1.43 seconds
+
+2026-07-09 17:18:55.616201
+Downloading 176/513 [Indonesia in 2004 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/idmyb04.xls]
+
+2026-07-09 17:18:57.210106
+Successfully saved to ../../data/original_table/usgs_asia/Indonesia_2004.xls. Execution time 1.59 seconds
+
+2026-07-09 17:18:59.510591
+Downloading 177/513 [Indonesia in 2005 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/idmyb05.xls]
+
+2026-07-09 17:18:59.784256
+Successfully saved to ../../data/original_table/usgs_asia/Indonesia_2005.xls. Execution time 0.27 seconds
+
+2026-07-09 17:19:01.871332
+Downloading 178/513 [Indonesia in 2006 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-id.xls]
+
+2026-07-09 17:19:02.083756
+Successfully saved to ../../data/original_table/usgs_asia/Indonesia_2006.xls. Execution time 0.21 seconds
+
+2026-07-09 17:19:04.230533
+Downloading 179/513 [Indonesia in 2007 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-id.xls]
+
+2026-07-09 17:19:04.443645
+Successfully saved to ../../data/original_table/usgs_asia/Indonesia_2007.xls. Execution time 0.21 seconds
+
+2026-07-09 17:19:07.879328
+Downloading 180/513 [Indonesia in 2008 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-id.xls]
+
+2026-07-09 17:19:08.065274
+Successfully saved to ../../data/original_table/usgs_asia/Indonesia_2008.xls. Execution time 0.19 seconds
+
+2026-07-09 17:19:11.379777
+Downloading 181/513 [Indonesia in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-id.xls]
+
+2026-07-09 17:19:11.586116
+Successfully saved to ../../data/original_table/usgs_asia/Indonesia_2009.xls. Execution time 0.21 seconds
+
+2026-07-09 17:19:14.553079
+Downloading 182/513 [Indonesia in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-id.xls]
+
+2026-07-09 17:19:14.755843
+Successfully saved to ../../data/original_table/usgs_asia/Indonesia_2010.xls. Execution time 0.20 seconds
+
+2026-07-09 17:19:16.795114
+Downloading 183/513 [Indonesia in 2011 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-id.xls]
+
+2026-07-09 17:19:16.983646
+Successfully saved to ../../data/original_table/usgs_asia/Indonesia_2011.xls. Execution time 0.19 seconds
+
+2026-07-09 17:19:20.529739
+Downloading 184/513 [Indonesia in 2012 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-id.xls]
+
+2026-07-09 17:19:20.745848
+Successfully saved to ../../data/original_table/usgs_asia/Indonesia_2012.xls. Execution time 0.22 seconds
+
+2026-07-09 17:19:24.293343
+Downloading 185/513 [Indonesia in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-id.xls]
+
+2026-07-09 17:19:24.464630
+Successfully saved to ../../data/original_table/usgs_asia/Indonesia_2013.xls. Execution time 0.17 seconds
+
+2026-07-09 17:19:26.926688
+Downloading 186/513 [Indonesia in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-id.xls]
+
+2026-07-09 17:19:27.141642
+Successfully saved to ../../data/original_table/usgs_asia/Indonesia_2014.xls. Execution time 0.21 seconds
+
+2026-07-09 17:19:29.968110
+Downloading 187/513 [Indonesia in 2015 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2015/myb3-2015-id.xlsx]
+
+2026-07-09 17:19:30.145881
+Successfully saved to ../../data/original_table/usgs_asia/Indonesia_2015.xlsx. Execution time 0.18 seconds
+
+2026-07-09 17:19:33.126198
+Downloading 188/513 [Indonesia in 2016 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-id.xlsx]
+
+2026-07-09 17:19:34.976069
+Successfully saved to ../../data/original_table/usgs_asia/Indonesia_2016.xlsx. Execution time 1.85 seconds
+
+2026-07-09 17:19:38.866166
+Downloading 189/513 [Indonesia in 2018 from: https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-indonesia.xlsx]
+
+2026-07-09 17:19:39.845289
+Successfully saved to ../../data/original_table/usgs_asia/Indonesia_2018.xlsx. Execution time 0.98 seconds
+
+2026-07-09 17:19:42.731364
+Downloading 190/513 [Indonesia in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-indonesia.xlsx]
+
+2026-07-09 17:19:43.512919
+Successfully saved to ../../data/original_table/usgs_asia/Indonesia_2019.xlsx. Execution time 0.78 seconds
+
+2026-07-09 17:19:45.541732
+Downloading 191/513 [Indonesia in 2021 from: https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-indonesia.xlsx]
+
+2026-07-09 17:19:46.444424
+Successfully saved to ../../data/original_table/usgs_asia/Indonesia_2021.xlsx. Execution time 0.90 seconds
+
+2026-07-09 17:19:49.851035
+Downloading 192/513 [Indonesia in 2022 from: https://pubs.usgs.gov/myb/vol3/2022/myb3-2022-indonesia.xlsx]
+
+2026-07-09 17:19:50.608158
+Successfully saved to ../../data/original_table/usgs_asia/Indonesia_2022.xlsx. Execution time 0.76 seconds
+
+2026-07-09 17:19:52.833916
+Downloading 193/513 [Indonesia in 2023 from: https://pubs.usgs.gov/myb/vol3/2023/myb3-2023-indonesia.xlsx]
+
+2026-07-09 17:19:53.654748
+Successfully saved to ../../data/original_table/usgs_asia/Indonesia_2023.xlsx. Execution time 0.82 seconds
+
+2026-07-09 17:19:57.535448
+Downloading 194/513 [Indonesia and East Timor in 2002 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/myb3-2002-id-tt.xls]
+
+2026-07-09 17:20:00.235460
+Successfully saved to ../../data/original_table/usgs_asia/Indonesia and East Timor_2002.xls. Execution time 2.70 seconds
+
+2026-07-09 17:20:03.978666
+Downloading 195/513 [Indonesia and East Timor in 2003 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/myb3-2003-id-tt.xls]
+
+2026-07-09 17:20:04.160809
+Successfully saved to ../../data/original_table/usgs_asia/Indonesia and East Timor_2003.xls. Execution time 0.18 seconds
+
+2026-07-09 17:20:07.732671
+Downloading 196/513 [Japan in 2002 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/jamyb02.xls]
+
+2026-07-09 17:20:20.083599
+Successfully saved to ../../data/original_table/usgs_asia/Japan_2002.xls. Execution time 12.35 seconds
+
+2026-07-09 17:20:23.711372
+Downloading 197/513 [Japan in 2003 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/jamyb03.xls]
+
+2026-07-09 17:20:24.154885
+Successfully saved to ../../data/original_table/usgs_asia/Japan_2003.xls. Execution time 0.44 seconds
+
+2026-07-09 17:20:26.447489
+Downloading 198/513 [Japan in 2004 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/jamyb04.xls]
+
+2026-07-09 17:20:26.732588
+Successfully saved to ../../data/original_table/usgs_asia/Japan_2004.xls. Execution time 0.29 seconds
+
+2026-07-09 17:20:28.966408
+Downloading 199/513 [Japan in 2005 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/jamyb05.xls]
+
+2026-07-09 17:20:29.273268
+Successfully saved to ../../data/original_table/usgs_asia/Japan_2005.xls. Execution time 0.31 seconds
+
+2026-07-09 17:20:32.407090
+Downloading 200/513 [Japan in 2006 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-ja.xls]
+
+2026-07-09 17:20:32.616097
+Successfully saved to ../../data/original_table/usgs_asia/Japan_2006.xls. Execution time 0.21 seconds
+
+2026-07-09 17:20:36.505686
+Downloading 201/513 [Japan in 2007 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-ja.xls]
+
+2026-07-09 17:20:36.715013
+Successfully saved to ../../data/original_table/usgs_asia/Japan_2007.xls. Execution time 0.21 seconds
+
+2026-07-09 17:20:40.336904
+Downloading 202/513 [Japan in 2008 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-ja.xls]
+
+2026-07-09 17:20:40.620240
+Successfully saved to ../../data/original_table/usgs_asia/Japan_2008.xls. Execution time 0.28 seconds
+
+2026-07-09 17:20:44.615716
+Downloading 203/513 [Japan in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-ja.xls]
+
+2026-07-09 17:20:44.802856
+Successfully saved to ../../data/original_table/usgs_asia/Japan_2009.xls. Execution time 0.19 seconds
+
+2026-07-09 17:20:47.510301
+Downloading 204/513 [Japan in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-ja.xls]
+
+2026-07-09 17:20:47.728119
+Successfully saved to ../../data/original_table/usgs_asia/Japan_2010.xls. Execution time 0.22 seconds
+
+2026-07-09 17:20:49.737556
+Downloading 205/513 [Japan in 2011 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-ja.xls]
+
+2026-07-09 17:20:49.922480
+Successfully saved to ../../data/original_table/usgs_asia/Japan_2011.xls. Execution time 0.18 seconds
+
+2026-07-09 17:20:53.808226
+Downloading 206/513 [Japan in 2012 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-ja.xls]
+
+2026-07-09 17:20:54.135815
+Successfully saved to ../../data/original_table/usgs_asia/Japan_2012.xls. Execution time 0.33 seconds
+
+2026-07-09 17:20:56.571028
+Downloading 207/513 [Japan in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-ja.xls]
+
+2026-07-09 17:20:56.800950
+Successfully saved to ../../data/original_table/usgs_asia/Japan_2013.xls. Execution time 0.23 seconds
+
+2026-07-09 17:21:00.186043
+Downloading 208/513 [Japan in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-ja.xlsx]
+
+2026-07-09 17:21:00.373562
+Successfully saved to ../../data/original_table/usgs_asia/Japan_2014.xlsx. Execution time 0.19 seconds
+
+2026-07-09 17:21:02.839942
+Downloading 209/513 [Japan in 2015 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-ja.xlsx]
+
+2026-07-09 17:21:03.173081
+Successfully saved to ../../data/original_table/usgs_asia/Japan_2015.xlsx. Execution time 0.33 seconds
+
+2026-07-09 17:21:05.277691
+Downloading 210/513 [Japan in 2016 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-ja.xlsx]
+
+2026-07-09 17:21:05.484689
+Successfully saved to ../../data/original_table/usgs_asia/Japan_2016.xlsx. Execution time 0.21 seconds
+
+2026-07-09 17:21:07.921759
+Downloading 211/513 [Japan in 2018 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-ja.xls]
+
+2026-07-09 17:21:08.104388
+Successfully saved to ../../data/original_table/usgs_asia/Japan_2018.xls. Execution time 0.18 seconds
+
+2026-07-09 17:21:11.840990
+Downloading 212/513 [Japan in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-japan.xlsx]
+
+2026-07-09 17:21:12.777764
+Successfully saved to ../../data/original_table/usgs_asia/Japan_2019.xlsx. Execution time 0.94 seconds
+
+2026-07-09 17:21:16.167881
+Downloading 213/513 [Japan in 2021 from: https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-japan.xlsx]
+
+2026-07-09 17:21:17.019128
+Successfully saved to ../../data/original_table/usgs_asia/Japan_2021.xlsx. Execution time 0.85 seconds
+
+2026-07-09 17:21:20.871895
+Downloading 214/513 [Japan in 2022 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-Japan-ert.xlsx]
+
+2026-07-09 17:21:22.474735
+Successfully saved to ../../data/original_table/usgs_asia/Japan_2022.xlsx. Execution time 1.60 seconds
+
+2026-07-09 17:21:24.647474
+Downloading 215/513 [Korea, North in 2002 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/knmyb02.xls]
+
+2026-07-09 17:21:24.847307
+Successfully saved to ../../data/original_table/usgs_asia/Korea, North_2002.xls. Execution time 0.20 seconds
+
+2026-07-09 17:21:28.829640
+Downloading 216/513 [Korea, North in 2003 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/knmyb03.xls]
+
+2026-07-09 17:21:28.996934
+Successfully saved to ../../data/original_table/usgs_asia/Korea, North_2003.xls. Execution time 0.17 seconds
+
+2026-07-09 17:21:32.165565
+Downloading 217/513 [Korea, North in 2004 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/knmyb04.xls]
+
+2026-07-09 17:21:32.456891
+Successfully saved to ../../data/original_table/usgs_asia/Korea, North_2004.xls. Execution time 0.29 seconds
+
+2026-07-09 17:21:35.637879
+Downloading 218/513 [Korea, North in 2005 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/knmyb05.xls]
+
+2026-07-09 17:21:35.899952
+Successfully saved to ../../data/original_table/usgs_asia/Korea, North_2005.xls. Execution time 0.26 seconds
+
+2026-07-09 17:21:39.675391
+Downloading 219/513 [Korea, North in 2006 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-kn.xls]
+
+2026-07-09 17:21:39.850869
+Successfully saved to ../../data/original_table/usgs_asia/Korea, North_2006.xls. Execution time 0.18 seconds
+
+2026-07-09 17:21:42.407801
+Downloading 220/513 [Korea, North in 2007 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-kn.xls]
+
+2026-07-09 17:21:42.574487
+Successfully saved to ../../data/original_table/usgs_asia/Korea, North_2007.xls. Execution time 0.17 seconds
+
+2026-07-09 17:21:46.083289
+Downloading 221/513 [Korea, North in 2008 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-kn.xls]
+
+2026-07-09 17:21:46.355881
+Successfully saved to ../../data/original_table/usgs_asia/Korea, North_2008.xls. Execution time 0.27 seconds
+
+2026-07-09 17:21:48.962741
+Downloading 222/513 [Korea, North in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-kn.xls]
+
+2026-07-09 17:21:49.149457
+Successfully saved to ../../data/original_table/usgs_asia/Korea, North_2009.xls. Execution time 0.19 seconds
+
+2026-07-09 17:21:52.206992
+Downloading 223/513 [Korea, North in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-kn.xls]
+
+2026-07-09 17:21:52.397346
+Successfully saved to ../../data/original_table/usgs_asia/Korea, North_2010.xls. Execution time 0.19 seconds
+
+2026-07-09 17:21:56.016233
+Downloading 224/513 [Korea, North in 2011 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-kn.xls]
+
+2026-07-09 17:21:56.193971
+Successfully saved to ../../data/original_table/usgs_asia/Korea, North_2011.xls. Execution time 0.18 seconds
+
+2026-07-09 17:21:59.800706
+Downloading 225/513 [Korea, North in 2012 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-kn.xls]
+
+2026-07-09 17:21:59.970295
+Successfully saved to ../../data/original_table/usgs_asia/Korea, North_2012.xls. Execution time 0.17 seconds
+
+2026-07-09 17:22:02.547498
+Downloading 226/513 [Korea, North in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-kn.xls]
+
+2026-07-09 17:22:02.743721
+Successfully saved to ../../data/original_table/usgs_asia/Korea, North_2013.xls. Execution time 0.20 seconds
+
+2026-07-09 17:22:05.764605
+Downloading 227/513 [Korea, North in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-kn.xls]
+
+2026-07-09 17:22:05.929923
+Successfully saved to ../../data/original_table/usgs_asia/Korea, North_2014.xls. Execution time 0.17 seconds
+
+2026-07-09 17:22:09.044773
+Downloading 228/513 [Korea, North in 2015 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2015/myb3-2015-kn.xlsx]
+
+2026-07-09 17:22:09.179799
+Successfully saved to ../../data/original_table/usgs_asia/Korea, North_2015.xlsx. Execution time 0.14 seconds
+
+2026-07-09 17:22:12.266568
+Downloading 229/513 [Korea, North in 2016 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-kn.xlsx]
+
+2026-07-09 17:22:13.198188
+Successfully saved to ../../data/original_table/usgs_asia/Korea, North_2016.xlsx. Execution time 0.93 seconds
+
+2026-07-09 17:22:16.809010
+Downloading 230/513 [Korea, North in 2018 from: https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-north-korea.xlsx]
+
+2026-07-09 17:22:17.576753
+Successfully saved to ../../data/original_table/usgs_asia/Korea, North_2018.xlsx. Execution time 0.77 seconds
+
+2026-07-09 17:22:20.884963
+Downloading 231/513 [Korea, North in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-north-korea.xlsx]
+
+2026-07-09 17:22:21.694414
+Successfully saved to ../../data/original_table/usgs_asia/Korea, North_2019.xlsx. Execution time 0.81 seconds
+
+2026-07-09 17:22:25.202202
+Downloading 232/513 [Korea, North in 2021 from: https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-north-korea.xlsx]
+
+2026-07-09 17:22:25.968457
+Successfully saved to ../../data/original_table/usgs_asia/Korea, North_2021.xlsx. Execution time 0.77 seconds
+
+2026-07-09 17:22:28.796095
+Downloading 233/513 [Korea, North in 2022 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-North_Korea-ert.xlsx]
+
+2026-07-09 17:22:29.875976
+Successfully saved to ../../data/original_table/usgs_asia/Korea, North_2022.xlsx. Execution time 1.08 seconds
+
+2026-07-09 17:22:32.437984
+Downloading 234/513 [Korea, Republic of in 2002 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/ksmyb02.xls]
+
+2026-07-09 17:22:32.635519
+Successfully saved to ../../data/original_table/usgs_asia/Korea, Republic of_2002.xls. Execution time 0.20 seconds
+
+2026-07-09 17:22:34.993990
+Downloading 235/513 [Korea, Republic of in 2003 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/ksmyb03.xls]
+
+2026-07-09 17:22:35.196301
+Successfully saved to ../../data/original_table/usgs_asia/Korea, Republic of_2003.xls. Execution time 0.20 seconds
+
+2026-07-09 17:22:38.690506
+Downloading 236/513 [Korea, Republic of in 2004 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/ksmyb04.xls]
+
+2026-07-09 17:22:38.994068
+Successfully saved to ../../data/original_table/usgs_asia/Korea, Republic of_2004.xls. Execution time 0.30 seconds
+
+2026-07-09 17:22:41.458777
+Downloading 237/513 [Korea, Republic of in 2005 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/ksmyb05.xls]
+
+2026-07-09 17:22:41.839042
+Successfully saved to ../../data/original_table/usgs_asia/Korea, Republic of_2005.xls. Execution time 0.38 seconds
+
+2026-07-09 17:22:44.140697
+Downloading 238/513 [Korea, Republic of in 2006 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-ks.xls]
+
+2026-07-09 17:22:44.321294
+Successfully saved to ../../data/original_table/usgs_asia/Korea, Republic of_2006.xls. Execution time 0.18 seconds
+
+2026-07-09 17:22:47.091939
+Downloading 239/513 [Korea, Republic of in 2007 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-ks.xls]
+
+2026-07-09 17:22:47.330553
+Successfully saved to ../../data/original_table/usgs_asia/Korea, Republic of_2007.xls. Execution time 0.24 seconds
+
+2026-07-09 17:22:50.454889
+Downloading 240/513 [Korea, Republic of in 2008 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-ks.xls]
+
+2026-07-09 17:22:50.870901
+Successfully saved to ../../data/original_table/usgs_asia/Korea, Republic of_2008.xls. Execution time 0.42 seconds
+
+2026-07-09 17:22:53.515833
+Downloading 241/513 [Korea, Republic of in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-ks.xls]
+
+2026-07-09 17:22:53.741598
+Successfully saved to ../../data/original_table/usgs_asia/Korea, Republic of_2009.xls. Execution time 0.23 seconds
+
+2026-07-09 17:22:56.487191
+Downloading 242/513 [Korea, Republic of in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-ks.xls]
+
+2026-07-09 17:22:56.706279
+Successfully saved to ../../data/original_table/usgs_asia/Korea, Republic of_2010.xls. Execution time 0.22 seconds
+
+2026-07-09 17:22:59.833931
+Downloading 243/513 [Korea, Republic of in 2011 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-ks.xlsx]
+
+2026-07-09 17:23:00.040747
+Successfully saved to ../../data/original_table/usgs_asia/Korea, Republic of_2011.xlsx. Execution time 0.21 seconds
+
+2026-07-09 17:23:02.393140
+Downloading 244/513 [Korea, Republic of in 2012 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-ks.xls]
+
+2026-07-09 17:23:02.611198
+Successfully saved to ../../data/original_table/usgs_asia/Korea, Republic of_2012.xls. Execution time 0.22 seconds
+
+2026-07-09 17:23:06.432882
+Downloading 245/513 [Korea, Republic of in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-ks.xls]
+
+2026-07-09 17:23:06.640911
+Successfully saved to ../../data/original_table/usgs_asia/Korea, Republic of_2013.xls. Execution time 0.21 seconds
+
+2026-07-09 17:23:08.904251
+Downloading 246/513 [Korea, Republic of in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-ks.xls]
+
+2026-07-09 17:23:09.100190
+Successfully saved to ../../data/original_table/usgs_asia/Korea, Republic of_2014.xls. Execution time 0.20 seconds
+
+2026-07-09 17:23:11.958730
+Downloading 247/513 [Korea, Republic of in 2015 from: https://prd-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-ks.xlsx]
+
+2026-07-09 17:23:13.082145
+Failed to download https://prd-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-ks.xlsx. Error: 403 Client Error: Forbidden for url: https://prd-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-ks.xlsx. Execution time 1.12 seconds
+
+2026-07-09 17:23:19.364465
+Downloading 248/513 [Korea, Republic of in 2016 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-ks.xlsx]
+
+2026-07-09 17:23:20.697367
+Successfully saved to ../../data/original_table/usgs_asia/Korea, Republic of_2016.xlsx. Execution time 1.33 seconds
+
+2026-07-09 17:23:24.224653
+Downloading 249/513 [Korea, Republic of in 2018 from: https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-korea-south.xlsx]
+
+2026-07-09 17:23:25.581137
+Successfully saved to ../../data/original_table/usgs_asia/Korea, Republic of_2018.xlsx. Execution time 1.36 seconds
+
+2026-07-09 17:23:29.128472
+Downloading 250/513 [Korea, Republic of in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-south-korea.xlsx]
+
+2026-07-09 17:23:30.368239
+Successfully saved to ../../data/original_table/usgs_asia/Korea, Republic of_2019.xlsx. Execution time 1.24 seconds
+
+2026-07-09 17:23:32.777805
+Downloading 251/513 [Korea, Republic of in 2021 from: https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-republic-korea.xlsx]
+
+2026-07-09 17:23:33.549777
+Successfully saved to ../../data/original_table/usgs_asia/Korea, Republic of_2021.xlsx. Execution time 0.77 seconds
+
+2026-07-09 17:23:36.667143
+Downloading 252/513 [Korea, Republic of in 2022 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-Republic_Korea-ert.xlsx]
+
+2026-07-09 17:23:37.729603
+Successfully saved to ../../data/original_table/usgs_asia/Korea, Republic of_2022.xlsx. Execution time 1.06 seconds
+
+2026-07-09 17:23:41.259488
+Downloading 253/513 [Laos in 2007 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-la.xls]
+
+2026-07-09 17:23:41.671495
+Successfully saved to ../../data/original_table/usgs_asia/Laos_2007.xls. Execution time 0.41 seconds
+
+2026-07-09 17:23:44.709182
+Downloading 254/513 [Laos in 2008 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-la.xls]
+
+2026-07-09 17:23:44.936992
+Successfully saved to ../../data/original_table/usgs_asia/Laos_2008.xls. Execution time 0.23 seconds
+
+2026-07-09 17:23:48.587508
+Downloading 255/513 [Laos in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-la.xls]
+
+2026-07-09 17:23:48.925233
+Successfully saved to ../../data/original_table/usgs_asia/Laos_2009.xls. Execution time 0.34 seconds
+
+2026-07-09 17:23:50.939213
+Downloading 256/513 [Laos in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-la.xls]
+
+2026-07-09 17:23:51.159120
+Successfully saved to ../../data/original_table/usgs_asia/Laos_2010.xls. Execution time 0.22 seconds
+
+2026-07-09 17:23:53.737135
+Downloading 257/513 [Laos in 2011 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-la.xls]
+
+2026-07-09 17:23:53.912300
+Successfully saved to ../../data/original_table/usgs_asia/Laos_2011.xls. Execution time 0.18 seconds
+
+2026-07-09 17:23:57.259320
+Downloading 258/513 [Laos in 2012 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-la.xls]
+
+2026-07-09 17:23:57.475608
+Successfully saved to ../../data/original_table/usgs_asia/Laos_2012.xls. Execution time 0.22 seconds
+
+2026-07-09 17:24:00.737806
+Downloading 259/513 [Laos in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-la.xls]
+
+2026-07-09 17:24:00.944132
+Successfully saved to ../../data/original_table/usgs_asia/Laos_2013.xls. Execution time 0.21 seconds
+
+2026-07-09 17:24:04.122779
+Downloading 260/513 [Laos in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-la.xls]
+
+2026-07-09 17:24:04.339981
+Successfully saved to ../../data/original_table/usgs_asia/Laos_2014.xls. Execution time 0.22 seconds
+
+2026-07-09 17:24:06.499653
+Downloading 261/513 [Laos in 2015 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2015/myb3-2015-la.xls]
+
+2026-07-09 17:24:06.814138
+Successfully saved to ../../data/original_table/usgs_asia/Laos_2015.xls. Execution time 0.31 seconds
+
+2026-07-09 17:24:10.788640
+Downloading 262/513 [Laos in 2016 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-la.xlsx]
+
+2026-07-09 17:24:11.890661
+Successfully saved to ../../data/original_table/usgs_asia/Laos_2016.xlsx. Execution time 1.10 seconds
+
+2026-07-09 17:24:14.412706
+Downloading 263/513 [Laos in 2018 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-217-18-la.xls]
+
+2026-07-09 17:24:15.885674
+Successfully saved to ../../data/original_table/usgs_asia/Laos_2018.xls. Execution time 1.47 seconds
+
+2026-07-09 17:24:17.946951
+Downloading 264/513 [Laos in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-laos.xlsx]
+
+2026-07-09 17:24:19.166638
+Successfully saved to ../../data/original_table/usgs_asia/Laos_2019.xlsx. Execution time 1.22 seconds
+
+2026-07-09 17:24:21.813689
+Downloading 265/513 [Laos in 2021 from: https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-laos.xlsx]
+
+2026-07-09 17:24:22.573047
+Successfully saved to ../../data/original_table/usgs_asia/Laos_2021.xlsx. Execution time 0.76 seconds
+
+2026-07-09 17:24:25.664632
+Downloading 266/513 [Laos in 2022 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-Laos-ert.xlsx]
+
+2026-07-09 17:24:26.671467
+Successfully saved to ../../data/original_table/usgs_asia/Laos_2022.xlsx. Execution time 1.01 seconds
+
+2026-07-09 17:24:28.993733
+Downloading 267/513 [Malaysia in 2002 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/mymyb02.xls]
+
+2026-07-09 17:24:29.132623
+Successfully saved to ../../data/original_table/usgs_asia/Malaysia_2002.xls. Execution time 0.14 seconds
+
+2026-07-09 17:24:32.652530
+Downloading 268/513 [Malaysia in 2003 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/mymyb03.xls]
+
+2026-07-09 17:24:32.891337
+Successfully saved to ../../data/original_table/usgs_asia/Malaysia_2003.xls. Execution time 0.24 seconds
+
+2026-07-09 17:24:35.541755
+Downloading 269/513 [Malaysia in 2004 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/mymyb04.xls]
+
+2026-07-09 17:24:35.745699
+Successfully saved to ../../data/original_table/usgs_asia/Malaysia_2004.xls. Execution time 0.20 seconds
+
+2026-07-09 17:24:39.665167
+Downloading 270/513 [Malaysia in 2005 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/mymyb05.xls]
+
+2026-07-09 17:24:39.968738
+Successfully saved to ../../data/original_table/usgs_asia/Malaysia_2005.xls. Execution time 0.30 seconds
+
+2026-07-09 17:24:43.534875
+Downloading 271/513 [Malaysia in 2006 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-my.xls]
+
+2026-07-09 17:24:43.725948
+Successfully saved to ../../data/original_table/usgs_asia/Malaysia_2006.xls. Execution time 0.19 seconds
+
+2026-07-09 17:24:46.016236
+Downloading 272/513 [Malaysia in 2007 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-my.xls]
+
+2026-07-09 17:24:46.278109
+Successfully saved to ../../data/original_table/usgs_asia/Malaysia_2007.xls. Execution time 0.26 seconds
+
+2026-07-09 17:24:48.990903
+Downloading 273/513 [Malaysia in 2008 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-my.xls]
+
+2026-07-09 17:24:49.245079
+Successfully saved to ../../data/original_table/usgs_asia/Malaysia_2008.xls. Execution time 0.25 seconds
+
+2026-07-09 17:24:51.755375
+Downloading 274/513 [Malaysia in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-my.xls]
+
+2026-07-09 17:24:51.954776
+Successfully saved to ../../data/original_table/usgs_asia/Malaysia_2009.xls. Execution time 0.20 seconds
+
+2026-07-09 17:24:54.400880
+Downloading 275/513 [Malaysia in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-my.xls]
+
+2026-07-09 17:24:54.567983
+Successfully saved to ../../data/original_table/usgs_asia/Malaysia_2010.xls. Execution time 0.17 seconds
+
+2026-07-09 17:24:58.436551
+Downloading 276/513 [Malaysia in 2011 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-my.xls]
+
+2026-07-09 17:24:58.619456
+Successfully saved to ../../data/original_table/usgs_asia/Malaysia_2011.xls. Execution time 0.18 seconds
+
+2026-07-09 17:25:01.047356
+Downloading 277/513 [Malaysia in 2012 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-my.xls]
+
+2026-07-09 17:25:01.246846
+Successfully saved to ../../data/original_table/usgs_asia/Malaysia_2012.xls. Execution time 0.20 seconds
+
+2026-07-09 17:25:04.319951
+Downloading 278/513 [Malaysia in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-my.xls]
+
+2026-07-09 17:25:04.578780
+Successfully saved to ../../data/original_table/usgs_asia/Malaysia_2013.xls. Execution time 0.26 seconds
+
+2026-07-09 17:25:07.071788
+Downloading 279/513 [Malaysia in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-my.xls]
+
+2026-07-09 17:25:07.263435
+Successfully saved to ../../data/original_table/usgs_asia/Malaysia_2014.xls. Execution time 0.19 seconds
+
+2026-07-09 17:25:10.989834
+Downloading 280/513 [Malaysia in 2015 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2015/myb3-2015-my.xlsx]
+
+2026-07-09 17:25:11.185019
+Successfully saved to ../../data/original_table/usgs_asia/Malaysia_2015.xlsx. Execution time 0.20 seconds
+
+2026-07-09 17:25:14.427894
+Downloading 281/513 [Malaysia in 2016 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-my.xlsx]
+
+2026-07-09 17:25:14.653875
+Successfully saved to ../../data/original_table/usgs_asia/Malaysia_2016.xlsx. Execution time 0.23 seconds
+
+2026-07-09 17:25:18.462875
+Downloading 282/513 [Malaysia in 2018 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2017-18-malaysia.xls]
+
+2026-07-09 17:25:18.663781
+Successfully saved to ../../data/original_table/usgs_asia/Malaysia_2018.xls. Execution time 0.20 seconds
+
+2026-07-09 17:25:21.266345
+Downloading 283/513 [Malaysia in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-malaysia.xlsx]
+
+2026-07-09 17:25:22.470454
+Successfully saved to ../../data/original_table/usgs_asia/Malaysia_2019.xlsx. Execution time 1.20 seconds
+
+2026-07-09 17:25:25.662474
+Downloading 284/513 [Malaysia in 2021 from: https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-malaysia.xlsx]
+
+2026-07-09 17:25:26.898879
+Successfully saved to ../../data/original_table/usgs_asia/Malaysia_2021.xlsx. Execution time 1.24 seconds
+
+2026-07-09 17:25:28.923352
+Downloading 285/513 [Malaysia in 2022 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-Malaysia-adv.xlsx]
+
+2026-07-09 17:25:30.216062
+Successfully saved to ../../data/original_table/usgs_asia/Malaysia_2022.xlsx. Execution time 1.29 seconds
+
+2026-07-09 17:25:32.554227
+Downloading 286/513 [Mongolia in 2002 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/mgmyb02.xls]
+
+2026-07-09 17:25:32.709214
+Successfully saved to ../../data/original_table/usgs_asia/Mongolia_2002.xls. Execution time 0.15 seconds
+
+2026-07-09 17:25:36.473969
+Downloading 287/513 [Mongolia in 2003 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/mgmyb03.xls]
+
+2026-07-09 17:25:36.631136
+Successfully saved to ../../data/original_table/usgs_asia/Mongolia_2003.xls. Execution time 0.16 seconds
+
+2026-07-09 17:25:39.935010
+Downloading 288/513 [Mongolia in 2004 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/mgmyb04.xls]
+
+2026-07-09 17:25:40.242056
+Successfully saved to ../../data/original_table/usgs_asia/Mongolia_2004.xls. Execution time 0.31 seconds
+
+2026-07-09 17:25:43.131645
+Downloading 289/513 [Mongolia in 2005 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/mgmyb05.xls]
+
+2026-07-09 17:25:43.471178
+Successfully saved to ../../data/original_table/usgs_asia/Mongolia_2005.xls. Execution time 0.34 seconds
+
+2026-07-09 17:25:45.945973
+Downloading 290/513 [Mongolia in 2006 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-mg.xls]
+
+2026-07-09 17:25:46.129486
+Successfully saved to ../../data/original_table/usgs_asia/Mongolia_2006.xls. Execution time 0.18 seconds
+
+2026-07-09 17:25:49.909874
+Downloading 291/513 [Mongolia in 2007 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-mg.xls]
+
+2026-07-09 17:25:50.109407
+Successfully saved to ../../data/original_table/usgs_asia/Mongolia_2007.xls. Execution time 0.20 seconds
+
+2026-07-09 17:25:52.674479
+Downloading 292/513 [Mongolia in 2008 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-mg.xls]
+
+2026-07-09 17:25:52.872217
+Successfully saved to ../../data/original_table/usgs_asia/Mongolia_2008.xls. Execution time 0.20 seconds
+
+2026-07-09 17:25:55.623355
+Downloading 293/513 [Mongolia in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-mg.xls]
+
+2026-07-09 17:25:55.853087
+Successfully saved to ../../data/original_table/usgs_asia/Mongolia_2009.xls. Execution time 0.23 seconds
+
+2026-07-09 17:25:58.793781
+Downloading 294/513 [Mongolia in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-mg.xls]
+
+2026-07-09 17:25:58.986206
+Successfully saved to ../../data/original_table/usgs_asia/Mongolia_2010.xls. Execution time 0.19 seconds
+
+2026-07-09 17:26:01.795049
+Downloading 295/513 [Mongolia in 2011 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-mg.xls]
+
+2026-07-09 17:26:01.979284
+Successfully saved to ../../data/original_table/usgs_asia/Mongolia_2011.xls. Execution time 0.18 seconds
+
+2026-07-09 17:26:04.118424
+Downloading 296/513 [Mongolia in 2012 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-mg.xls]
+
+2026-07-09 17:26:04.332856
+Successfully saved to ../../data/original_table/usgs_asia/Mongolia_2012.xls. Execution time 0.21 seconds
+
+2026-07-09 17:26:07.627118
+Downloading 297/513 [Mongolia in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-mg.xlsx]
+
+2026-07-09 17:26:07.812539
+Successfully saved to ../../data/original_table/usgs_asia/Mongolia_2013.xlsx. Execution time 0.19 seconds
+
+2026-07-09 17:26:09.959497
+Downloading 298/513 [Mongolia in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-mg.xlsx]
+
+2026-07-09 17:26:10.143632
+Successfully saved to ../../data/original_table/usgs_asia/Mongolia_2014.xlsx. Execution time 0.18 seconds
+
+2026-07-09 17:26:12.626065
+Downloading 299/513 [Mongolia in 2015 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-mg.xlsx]
+
+2026-07-09 17:26:12.836475
+Successfully saved to ../../data/original_table/usgs_asia/Mongolia_2015.xlsx. Execution time 0.21 seconds
+
+2026-07-09 17:26:16.327779
+Downloading 300/513 [Mongolia in 2016 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-mg.xls]
+
+2026-07-09 17:26:16.541338
+Successfully saved to ../../data/original_table/usgs_asia/Mongolia_2016.xls. Execution time 0.21 seconds
+
+2026-07-09 17:26:19.162829
+Downloading 301/513 [Mongolia in 2018 from: https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-mongolia.xlsx]
+
+2026-07-09 17:26:19.918396
+Successfully saved to ../../data/original_table/usgs_asia/Mongolia_2018.xlsx. Execution time 0.76 seconds
+
+2026-07-09 17:26:22.820560
+Downloading 302/513 [Mongolia in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-mongolia.xlsx]
+
+2026-07-09 17:26:24.034041
+Successfully saved to ../../data/original_table/usgs_asia/Mongolia_2019.xlsx. Execution time 1.21 seconds
+
+2026-07-09 17:26:26.344476
+Downloading 303/513 [Mongolia in 2021 from: https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-mongolia.xlsx]
+
+2026-07-09 17:26:27.082118
+Successfully saved to ../../data/original_table/usgs_asia/Mongolia_2021.xlsx. Execution time 0.74 seconds
+
+2026-07-09 17:26:30.748283
+Downloading 304/513 [Mongolia in 2022 from: https://pubs.usgs.gov/myb/vol3/2022/myb3-2022-mongolia.xlsx]
+
+2026-07-09 17:26:31.971205
+Successfully saved to ../../data/original_table/usgs_asia/Mongolia_2022.xlsx. Execution time 1.22 seconds
+
+2026-07-09 17:26:35.235226
+Downloading 305/513 [Mongolia in 2023 from: https://pubs.usgs.gov/myb/vol3/2023/myb3-2023-mongolia.xlsx]
+
+2026-07-09 17:26:35.982475
+Successfully saved to ../../data/original_table/usgs_asia/Mongolia_2023.xlsx. Execution time 0.75 seconds
+
+2026-07-09 17:26:38.793907
+Downloading 306/513 [Nauru in 2018 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-nauru.xls]
+
+2026-07-09 17:26:39.935553
+Successfully saved to ../../data/original_table/usgs_asia/Nauru_2018.xls. Execution time 1.14 seconds
+
+2026-07-09 17:26:42.250025
+Downloading 307/513 [Nauru in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-nauru.xlsx]
+
+2026-07-09 17:26:42.976061
+Successfully saved to ../../data/original_table/usgs_asia/Nauru_2019.xlsx. Execution time 0.73 seconds
+
+2026-07-09 17:26:46.725909
+Downloading 308/513 [Nauru in 2021 from: https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-nauru.xlsx]
+
+2026-07-09 17:26:47.884502
+Successfully saved to ../../data/original_table/usgs_asia/Nauru_2021.xlsx. Execution time 1.16 seconds
+
+2026-07-09 17:26:50.889960
+Downloading 309/513 [Nauru in 2022 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-Nauru-ert.xlsx]
+
+2026-07-09 17:26:51.783394
+Successfully saved to ../../data/original_table/usgs_asia/Nauru_2022.xlsx. Execution time 0.89 seconds
+
+2026-07-09 17:26:54.334793
+Downloading 310/513 [Nepal in 2002 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/btnpmyb02.xls]
+
+2026-07-09 17:26:54.458789
+Successfully saved to ../../data/original_table/usgs_asia/Nepal_2002.xls. Execution time 0.12 seconds
+
+2026-07-09 17:26:57.792268
+Downloading 311/513 [Nepal in 2003 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/btnpmyb03.xls]
+
+2026-07-09 17:26:57.954159
+Successfully saved to ../../data/original_table/usgs_asia/Nepal_2003.xls. Execution time 0.16 seconds
+
+2026-07-09 17:27:00.984582
+Downloading 312/513 [Nepal in 2004 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/btnpmyb04.xls]
+
+2026-07-09 17:27:01.133442
+Successfully saved to ../../data/original_table/usgs_asia/Nepal_2004.xls. Execution time 0.15 seconds
+
+2026-07-09 17:27:04.998883
+Downloading 313/513 [Nepal in 2005 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/btnpmyb05.xls]
+
+2026-07-09 17:27:05.285054
+Successfully saved to ../../data/original_table/usgs_asia/Nepal_2005.xls. Execution time 0.29 seconds
+
+2026-07-09 17:27:08.439513
+Downloading 314/513 [Nepal in 2006 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-bt-np.xls]
+
+2026-07-09 17:27:08.611250
+Successfully saved to ../../data/original_table/usgs_asia/Nepal_2006.xls. Execution time 0.17 seconds
+
+2026-07-09 17:27:12.606403
+Downloading 315/513 [Nepal in 2007 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-bt-np.xls]
+
+2026-07-09 17:27:12.796041
+Successfully saved to ../../data/original_table/usgs_asia/Nepal_2007.xls. Execution time 0.19 seconds
+
+2026-07-09 17:27:16.727069
+Downloading 316/513 [Nepal in 2008 from: https://d9-wret.s3.us-west-2.amazonaws.com/assetspalladium/production/mineral-pubs/country/2008/myb3-2008-bt-np.xls]
+
+2026-07-09 17:27:16.839613
+Failed to download https://d9-wret.s3.us-west-2.amazonaws.com/assetspalladium/production/mineral-pubs/country/2008/myb3-2008-bt-np.xls. Error: 403 Client Error: Forbidden for url: https://d9-wret.s3.us-west-2.amazonaws.com/assetspalladium/production/mineral-pubs/country/2008/myb3-2008-bt-np.xls. Execution time 0.11 seconds
+
+2026-07-09 17:27:23.544140
+Downloading 317/513 [Nepal in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-bt-np.xls]
+
+2026-07-09 17:27:24.792799
+Successfully saved to ../../data/original_table/usgs_asia/Nepal_2009.xls. Execution time 1.25 seconds
+
+2026-07-09 17:27:27.865752
+Downloading 318/513 [Nepal in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-bt-np.xls]
+
+2026-07-09 17:27:28.263165
+Successfully saved to ../../data/original_table/usgs_asia/Nepal_2010.xls. Execution time 0.40 seconds
+
+2026-07-09 17:27:31.940485
+Downloading 319/513 [Nepal in 2011 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-bt-np.xls]
+
+2026-07-09 17:27:32.166011
+Successfully saved to ../../data/original_table/usgs_asia/Nepal_2011.xls. Execution time 0.23 seconds
+
+2026-07-09 17:27:35.587144
+Downloading 320/513 [Nepal in 2012 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-bt-np.xls]
+
+2026-07-09 17:27:35.777268
+Successfully saved to ../../data/original_table/usgs_asia/Nepal_2012.xls. Execution time 0.19 seconds
+
+2026-07-09 17:27:39.162771
+Downloading 321/513 [Nepal in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-bt-np.xls]
+
+2026-07-09 17:27:39.346101
+Successfully saved to ../../data/original_table/usgs_asia/Nepal_2013.xls. Execution time 0.18 seconds
+
+2026-07-09 17:27:41.394283
+Downloading 322/513 [Nepal in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-bt-np.xls]
+
+2026-07-09 17:27:41.581546
+Successfully saved to ../../data/original_table/usgs_asia/Nepal_2014.xls. Execution time 0.19 seconds
+
+2026-07-09 17:27:44.397303
+Downloading 323/513 [Nepal in 2015 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2015/myb3-2015-bt-np.xls]
+
+2026-07-09 17:27:44.643673
+Successfully saved to ../../data/original_table/usgs_asia/Nepal_2015.xls. Execution time 0.25 seconds
+
+2026-07-09 17:27:46.982631
+Downloading 324/513 [Nepal in 2016 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-bt-np.xlsx]
+
+2026-07-09 17:27:48.436221
+Successfully saved to ../../data/original_table/usgs_asia/Nepal_2016.xlsx. Execution time 1.45 seconds
+
+2026-07-09 17:27:51.761514
+Downloading 325/513 [Nepal in 2018 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2017-18-bhutan-nepal.xlsx]
+
+2026-07-09 17:27:52.949302
+Successfully saved to ../../data/original_table/usgs_asia/Nepal_2018.xlsx. Execution time 1.19 seconds
+
+2026-07-09 17:27:55.861760
+Downloading 326/513 [Nepal in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-bhutan-nepal.xlsx]
+
+2026-07-09 17:27:56.998307
+Successfully saved to ../../data/original_table/usgs_asia/Nepal_2019.xlsx. Execution time 1.14 seconds
+
+2026-07-09 17:28:00.921895
+Downloading 327/513 [Nepal in 2021 from: https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-bhutan-nepal.xlsx]
+
+2026-07-09 17:28:02.095848
+Successfully saved to ../../data/original_table/usgs_asia/Nepal_2021.xlsx. Execution time 1.17 seconds
+
+2026-07-09 17:28:04.981334
+Downloading 328/513 [New Caledonia in 2002 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/ncmyb02.xls]
+
+2026-07-09 17:28:06.110242
+Successfully saved to ../../data/original_table/usgs_asia/New Caledonia_2002.xls. Execution time 1.13 seconds
+
+2026-07-09 17:28:09.069537
+Downloading 329/513 [New Caledonia in 2003 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/ncmyb03.xls]
+
+2026-07-09 17:28:09.289135
+Successfully saved to ../../data/original_table/usgs_asia/New Caledonia_2003.xls. Execution time 0.22 seconds
+
+2026-07-09 17:28:12.140627
+Downloading 330/513 [New Caledonia in 2004 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/ncmyb04.xls]
+
+2026-07-09 17:28:12.300154
+Successfully saved to ../../data/original_table/usgs_asia/New Caledonia_2004.xls. Execution time 0.16 seconds
+
+2026-07-09 17:28:14.740403
+Downloading 331/513 [New Caledonia in 2005 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/ncmyb05.xls]
+
+2026-07-09 17:28:15.195561
+Successfully saved to ../../data/original_table/usgs_asia/New Caledonia_2005.xls. Execution time 0.46 seconds
+
+2026-07-09 17:28:18.172954
+Downloading 332/513 [New Caledonia in 2006 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-nc.xls]
+
+2026-07-09 17:28:18.391144
+Successfully saved to ../../data/original_table/usgs_asia/New Caledonia_2006.xls. Execution time 0.22 seconds
+
+2026-07-09 17:28:22.358487
+Downloading 333/513 [New Caledonia in 2007 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-nc.xls]
+
+2026-07-09 17:28:22.575792
+Successfully saved to ../../data/original_table/usgs_asia/New Caledonia_2007.xls. Execution time 0.22 seconds
+
+2026-07-09 17:28:25.690139
+Downloading 334/513 [New Caledonia in 2008 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-nc.xls]
+
+2026-07-09 17:28:25.896240
+Successfully saved to ../../data/original_table/usgs_asia/New Caledonia_2008.xls. Execution time 0.21 seconds
+
+2026-07-09 17:28:28.502412
+Downloading 335/513 [New Caledonia in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-nc.xls]
+
+2026-07-09 17:28:28.762562
+Successfully saved to ../../data/original_table/usgs_asia/New Caledonia_2009.xls. Execution time 0.26 seconds
+
+2026-07-09 17:28:31.471449
+Downloading 336/513 [New Caledonia in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-nc.xls]
+
+2026-07-09 17:28:31.670417
+Successfully saved to ../../data/original_table/usgs_asia/New Caledonia_2010.xls. Execution time 0.20 seconds
+
+2026-07-09 17:28:34.808065
+Downloading 337/513 [New Caledonia in 2011 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-nc.xls]
+
+2026-07-09 17:28:35.031050
+Successfully saved to ../../data/original_table/usgs_asia/New Caledonia_2011.xls. Execution time 0.22 seconds
+
+2026-07-09 17:28:37.960729
+Downloading 338/513 [New Caledonia in 2012 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-nc.xls]
+
+2026-07-09 17:28:38.155357
+Successfully saved to ../../data/original_table/usgs_asia/New Caledonia_2012.xls. Execution time 0.19 seconds
+
+2026-07-09 17:28:41.127774
+Downloading 339/513 [New Caledonia in 2013 from: https://s3-us-west-2.amazonaws.com/prd-wret/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-nc.xls]
+
+2026-07-09 17:28:42.001912
+Failed to download https://s3-us-west-2.amazonaws.com/prd-wret/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-nc.xls. Error: 403 Client Error: Forbidden for url: https://s3-us-west-2.amazonaws.com/prd-wret/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-nc.xls. Execution time 0.87 seconds
+
+2026-07-09 17:28:47.346428
+Downloading 340/513 [New Caledonia in 2014 from: https://s3-us-west-2.amazonaws.com/prd-wret/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-nc.xlsx]
+
+2026-07-09 17:28:48.372266
+Failed to download https://s3-us-west-2.amazonaws.com/prd-wret/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-nc.xlsx. Error: 403 Client Error: Forbidden for url: https://s3-us-west-2.amazonaws.com/prd-wret/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-nc.xlsx. Execution time 1.03 seconds
+
+2026-07-09 17:28:54.089679
+Downloading 341/513 [New Caledonia in 2015 from: https://s3-us-west-2.amazonaws.com/prd-wret/assets/palladium/production/mineral-pubs/country/2015/myb3-2015-nc.xls]
+
+2026-07-09 17:28:54.993688
+Failed to download https://s3-us-west-2.amazonaws.com/prd-wret/assets/palladium/production/mineral-pubs/country/2015/myb3-2015-nc.xls. Error: 403 Client Error: Forbidden for url: https://s3-us-west-2.amazonaws.com/prd-wret/assets/palladium/production/mineral-pubs/country/2015/myb3-2015-nc.xls. Execution time 0.90 seconds
+
+2026-07-09 17:29:01.321001
+Downloading 342/513 [New Caledonia in 2016 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-nc.xlsx]
+
+2026-07-09 17:29:02.983456
+Successfully saved to ../../data/original_table/usgs_asia/New Caledonia_2016.xlsx. Execution time 1.66 seconds
+
+2026-07-09 17:29:06.834859
+Downloading 343/513 [New Caledonia in 2018 from: https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-new-caledonia.xlsx]
+
+2026-07-09 17:29:08.091759
+Successfully saved to ../../data/original_table/usgs_asia/New Caledonia_2018.xlsx. Execution time 1.26 seconds
+
+2026-07-09 17:29:10.431226
+Downloading 344/513 [New Caledonia in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-new-caledonia.xlsx]
+
+2026-07-09 17:29:11.630240
+Successfully saved to ../../data/original_table/usgs_asia/New Caledonia_2019.xlsx. Execution time 1.20 seconds
+
+2026-07-09 17:29:14.333256
+Downloading 345/513 [New Caledonia in 2021 from: https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-new-caledonia.xlsx]
+
+2026-07-09 17:29:15.535030
+Successfully saved to ../../data/original_table/usgs_asia/New Caledonia_2021.xlsx. Execution time 1.20 seconds
+
+2026-07-09 17:29:18.047129
+Downloading 346/513 [New Caledonia in 2022 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-New-Caledonia-ert.xlsx]
+
+2026-07-09 17:29:18.966387
+Successfully saved to ../../data/original_table/usgs_asia/New Caledonia_2022.xlsx. Execution time 0.92 seconds
+
+2026-07-09 17:29:21.635558
+Downloading 347/513 [New Zealand in 2002 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/nzmyb02.xls]
+
+2026-07-09 17:29:27.610457
+Successfully saved to ../../data/original_table/usgs_asia/New Zealand_2002.xls. Execution time 5.97 seconds
+
+2026-07-09 17:29:30.098487
+Downloading 348/513 [New Zealand in 2003 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/nzmyb03.xls]
+
+2026-07-09 17:29:30.835688
+Successfully saved to ../../data/original_table/usgs_asia/New Zealand_2003.xls. Execution time 0.74 seconds
+
+2026-07-09 17:29:33.319676
+Downloading 349/513 [New Zealand in 2004 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/nzmyb04.xls]
+
+2026-07-09 17:29:34.524151
+Successfully saved to ../../data/original_table/usgs_asia/New Zealand_2004.xls. Execution time 1.20 seconds
+
+2026-07-09 17:29:37.845210
+Downloading 350/513 [New Zealand in 2005 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/nzmyb05.xls]
+
+2026-07-09 17:29:39.073580
+Successfully saved to ../../data/original_table/usgs_asia/New Zealand_2005.xls. Execution time 1.23 seconds
+
+2026-07-09 17:29:41.681111
+Downloading 351/513 [New Zealand in 2006 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-nz.xls]
+
+2026-07-09 17:29:42.830086
+Successfully saved to ../../data/original_table/usgs_asia/New Zealand_2006.xls. Execution time 1.15 seconds
+
+2026-07-09 17:29:46.519048
+Downloading 352/513 [New Zealand in 2007 from: https://d9-wret.s3-us-west-2.amazonaws.com/assetspalladium/production/mineral-pubs/country/2007/myb3-2007-nz.xls]
+
+2026-07-09 17:29:46.707297
+Failed to download https://d9-wret.s3-us-west-2.amazonaws.com/assetspalladium/production/mineral-pubs/country/2007/myb3-2007-nz.xls. Error: 403 Client Error: Forbidden for url: https://d9-wret.s3-us-west-2.amazonaws.com/assetspalladium/production/mineral-pubs/country/2007/myb3-2007-nz.xls. Execution time 0.19 seconds
+
+2026-07-09 17:29:52.802170
+Downloading 353/513 [New Zealand in 2008 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-nz.xls]
+
+2026-07-09 17:29:54.058943
+Successfully saved to ../../data/original_table/usgs_asia/New Zealand_2008.xls. Execution time 1.26 seconds
+
+2026-07-09 17:29:57.798224
+Downloading 354/513 [New Zealand in 2009 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-nz.xls]
+
+2026-07-09 17:29:57.980305
+Successfully saved to ../../data/original_table/usgs_asia/New Zealand_2009.xls. Execution time 0.18 seconds
+
+2026-07-09 17:30:00.813368
+Downloading 355/513 [New Zealand in 2010 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-nz.xls]
+
+2026-07-09 17:30:01.152334
+Successfully saved to ../../data/original_table/usgs_asia/New Zealand_2010.xls. Execution time 0.34 seconds
+
+2026-07-09 17:30:03.333495
+Downloading 356/513 [New Zealand in 2011 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-nz.xls]
+
+2026-07-09 17:30:03.522134
+Successfully saved to ../../data/original_table/usgs_asia/New Zealand_2011.xls. Execution time 0.19 seconds
+
+2026-07-09 17:30:06.039226
+Downloading 357/513 [New Zealand in 2012 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-nz.xls]
+
+2026-07-09 17:30:06.373583
+Successfully saved to ../../data/original_table/usgs_asia/New Zealand_2012.xls. Execution time 0.33 seconds
+
+2026-07-09 17:30:09.882079
+Downloading 358/513 [New Zealand in 2013 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-nz.xls]
+
+2026-07-09 17:30:10.064308
+Successfully saved to ../../data/original_table/usgs_asia/New Zealand_2013.xls. Execution time 0.18 seconds
+
+2026-07-09 17:30:13.031450
+Downloading 359/513 [New Zealand in 2014 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-nz.xls]
+
+2026-07-09 17:30:13.331394
+Successfully saved to ../../data/original_table/usgs_asia/New Zealand_2014.xls. Execution time 0.30 seconds
+
+2026-07-09 17:30:17.769715
+Downloading 360/513 [New Zealand in 2015 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-nz.xlsx]
+
+2026-07-09 17:30:17.967408
+Successfully saved to ../../data/original_table/usgs_asia/New Zealand_2015.xlsx. Execution time 0.20 seconds
+
+2026-07-09 17:30:21.263643
+Downloading 361/513 [New Zealand in 2016 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-nz.xlsx]
+
+2026-07-09 17:30:21.459320
+Successfully saved to ../../data/original_table/usgs_asia/New Zealand_2016.xlsx. Execution time 0.20 seconds
+
+2026-07-09 17:30:24.135684
+Downloading 362/513 [New Zealand in 2018 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-new-zealand.xls]
+
+2026-07-09 17:30:26.133628
+Successfully saved to ../../data/original_table/usgs_asia/New Zealand_2018.xls. Execution time 2.00 seconds
+
+2026-07-09 17:30:29.444293
+Downloading 363/513 [New Zealand in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-new-zealand.xlsx]
+
+2026-07-09 17:30:30.335323
+Successfully saved to ../../data/original_table/usgs_asia/New Zealand_2019.xlsx. Execution time 0.89 seconds
+
+2026-07-09 17:30:33.249230
+Downloading 364/513 [New Zealand in 2021 from: https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-new-zealand.xlsx]
+
+2026-07-09 17:30:34.039871
+Successfully saved to ../../data/original_table/usgs_asia/New Zealand_2021.xlsx. Execution time 0.79 seconds
+
+2026-07-09 17:30:36.300742
+Downloading 365/513 [New Zealand in 2022 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-New_Zealand-ert.xlsx]
+
+2026-07-09 17:30:37.675863
+Successfully saved to ../../data/original_table/usgs_asia/New Zealand_2022.xlsx. Execution time 1.38 seconds
+
+2026-07-09 17:30:41.028465
+Downloading 366/513 [Pakistan in 2003 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/pkmyb03.xls]
+
+2026-07-09 17:30:42.535544
+Successfully saved to ../../data/original_table/usgs_asia/Pakistan_2003.xls. Execution time 1.51 seconds
+
+2026-07-09 17:30:45.549454
+Downloading 367/513 [Pakistan in 2004 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/pkmyb04.xls]
+
+2026-07-09 17:30:45.901490
+Successfully saved to ../../data/original_table/usgs_asia/Pakistan_2004.xls. Execution time 0.35 seconds
+
+2026-07-09 17:30:48.734569
+Downloading 368/513 [Pakistan in 2005 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/pkmyb05.xls]
+
+2026-07-09 17:30:49.165470
+Successfully saved to ../../data/original_table/usgs_asia/Pakistan_2005.xls. Execution time 0.43 seconds
+
+2026-07-09 17:30:52.419687
+Downloading 369/513 [Pakistan in 2006 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-pk.xls]
+
+2026-07-09 17:30:52.709712
+Successfully saved to ../../data/original_table/usgs_asia/Pakistan_2006.xls. Execution time 0.29 seconds
+
+2026-07-09 17:30:54.953475
+Downloading 370/513 [Pakistan in 2007 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-pk.xls]
+
+2026-07-09 17:30:55.180392
+Successfully saved to ../../data/original_table/usgs_asia/Pakistan_2007.xls. Execution time 0.23 seconds
+
+2026-07-09 17:30:58.197928
+Downloading 371/513 [Pakistan in 2008 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-pk.xls]
+
+2026-07-09 17:30:58.399653
+Successfully saved to ../../data/original_table/usgs_asia/Pakistan_2008.xls. Execution time 0.20 seconds
+
+2026-07-09 17:31:00.643220
+Downloading 372/513 [Pakistan in 2009 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-pk.xls]
+
+2026-07-09 17:31:00.859678
+Successfully saved to ../../data/original_table/usgs_asia/Pakistan_2009.xls. Execution time 0.22 seconds
+
+2026-07-09 17:31:04.328955
+Downloading 373/513 [Pakistan in 2010 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-pk.xls]
+
+2026-07-09 17:31:04.537914
+Successfully saved to ../../data/original_table/usgs_asia/Pakistan_2010.xls. Execution time 0.21 seconds
+
+2026-07-09 17:31:07.415478
+Downloading 374/513 [Pakistan in 2011 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-pk.xls]
+
+2026-07-09 17:31:07.673316
+Successfully saved to ../../data/original_table/usgs_asia/Pakistan_2011.xls. Execution time 0.26 seconds
+
+2026-07-09 17:31:11.631013
+Downloading 375/513 [Pakistan in 2012 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-pk.xls]
+
+2026-07-09 17:31:11.810785
+Successfully saved to ../../data/original_table/usgs_asia/Pakistan_2012.xls. Execution time 0.18 seconds
+
+2026-07-09 17:31:15.252136
+Downloading 376/513 [Pakistan in 2013 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-pk.xls]
+
+2026-07-09 17:31:15.453591
+Successfully saved to ../../data/original_table/usgs_asia/Pakistan_2013.xls. Execution time 0.20 seconds
+
+2026-07-09 17:31:18.248917
+Downloading 377/513 [Pakistan in 2014 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-pk.xls]
+
+2026-07-09 17:31:18.510301
+Successfully saved to ../../data/original_table/usgs_asia/Pakistan_2014.xls. Execution time 0.26 seconds
+
+2026-07-09 17:31:21.359935
+Downloading 378/513 [Pakistan in 2015 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-pk.xls]
+
+2026-07-09 17:31:21.612106
+Successfully saved to ../../data/original_table/usgs_asia/Pakistan_2015.xls. Execution time 0.25 seconds
+
+2026-07-09 17:31:24.416413
+Downloading 379/513 [Pakistan in 2016 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-pk.xlsx]
+
+2026-07-09 17:31:24.613228
+Successfully saved to ../../data/original_table/usgs_asia/Pakistan_2016.xlsx. Execution time 0.20 seconds
+
+2026-07-09 17:31:28.241801
+Downloading 380/513 [Pakistan in 2018 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-pk.xls]
+
+2026-07-09 17:31:30.146195
+Successfully saved to ../../data/original_table/usgs_asia/Pakistan_2018.xls. Execution time 1.90 seconds
+
+2026-07-09 17:31:32.882058
+Downloading 381/513 [Pakistan in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-pakistan.xlsx]
+
+2026-07-09 17:31:34.289614
+Successfully saved to ../../data/original_table/usgs_asia/Pakistan_2019.xlsx. Execution time 1.41 seconds
+
+2026-07-09 17:31:37.951950
+Downloading 382/513 [Pakistan in 2021 from: https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-pakistan.xlsx]
+
+2026-07-09 17:31:39.279030
+Successfully saved to ../../data/original_table/usgs_asia/Pakistan_2021.xlsx. Execution time 1.33 seconds
+
+2026-07-09 17:31:42.352847
+Downloading 383/513 [Pakistan in 2022 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-Pakistan-ert.xlsx]
+
+2026-07-09 17:31:43.761177
+Successfully saved to ../../data/original_table/usgs_asia/Pakistan_2022.xlsx. Execution time 1.41 seconds
+
+2026-07-09 17:31:47.640592
+Downloading 384/513 [Papua New Guinea in 2002 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/ppmyb02.xls]
+
+2026-07-09 17:31:49.123468
+Successfully saved to ../../data/original_table/usgs_asia/Papua New Guinea_2002.xls. Execution time 1.48 seconds
+
+2026-07-09 17:31:51.741278
+Downloading 385/513 [Papua New Guinea in 2003 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/ppmyb03.xls]
+
+2026-07-09 17:31:51.945632
+Successfully saved to ../../data/original_table/usgs_asia/Papua New Guinea_2003.xls. Execution time 0.20 seconds
+
+2026-07-09 17:31:55.675445
+Downloading 386/513 [Papua New Guinea in 2004 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/ppmyb04.xls]
+
+2026-07-09 17:31:55.839815
+Successfully saved to ../../data/original_table/usgs_asia/Papua New Guinea_2004.xls. Execution time 0.16 seconds
+
+2026-07-09 17:31:58.230128
+Downloading 387/513 [Papua New Guinea in 2006 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-pp.xls]
+
+2026-07-09 17:31:58.625023
+Successfully saved to ../../data/original_table/usgs_asia/Papua New Guinea_2006.xls. Execution time 0.39 seconds
+
+2026-07-09 17:32:00.680222
+Downloading 388/513 [Papua New Guinea in 2007 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-pp.xls]
+
+2026-07-09 17:32:00.990304
+Successfully saved to ../../data/original_table/usgs_asia/Papua New Guinea_2007.xls. Execution time 0.31 seconds
+
+2026-07-09 17:32:04.924334
+Downloading 389/513 [Papua New Guinea in 2008 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-pp.xls]
+
+2026-07-09 17:32:05.175080
+Successfully saved to ../../data/original_table/usgs_asia/Papua New Guinea_2008.xls. Execution time 0.25 seconds
+
+2026-07-09 17:32:08.425487
+Downloading 390/513 [Papua New Guinea in 2009 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-pp.xls]
+
+2026-07-09 17:32:08.610305
+Successfully saved to ../../data/original_table/usgs_asia/Papua New Guinea_2009.xls. Execution time 0.18 seconds
+
+2026-07-09 17:32:11.933377
+Downloading 391/513 [Papua New Guinea in 2010 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-pp.xls]
+
+2026-07-09 17:32:12.125197
+Successfully saved to ../../data/original_table/usgs_asia/Papua New Guinea_2010.xls. Execution time 0.19 seconds
+
+2026-07-09 17:32:14.459071
+Downloading 392/513 [Papua New Guinea in 2011 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-pp.xls]
+
+2026-07-09 17:32:14.637826
+Successfully saved to ../../data/original_table/usgs_asia/Papua New Guinea_2011.xls. Execution time 0.18 seconds
+
+2026-07-09 17:32:17.276505
+Downloading 393/513 [Papua New Guinea in 2012 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-pp.xls]
+
+2026-07-09 17:32:17.502599
+Successfully saved to ../../data/original_table/usgs_asia/Papua New Guinea_2012.xls. Execution time 0.23 seconds
+
+2026-07-09 17:32:20.177853
+Downloading 394/513 [Papua New Guinea in 2013 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-pp.xlsx]
+
+2026-07-09 17:32:20.376395
+Successfully saved to ../../data/original_table/usgs_asia/Papua New Guinea_2013.xlsx. Execution time 0.20 seconds
+
+2026-07-09 17:32:23.773992
+Downloading 395/513 [Papua New Guinea in 2014 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-pp.xlsx]
+
+2026-07-09 17:32:23.942464
+Successfully saved to ../../data/original_table/usgs_asia/Papua New Guinea_2014.xlsx. Execution time 0.17 seconds
+
+2026-07-09 17:32:26.205657
+Downloading 396/513 [Papua New Guinea in 2015 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2015/myb3-2015-pp.xlsx]
+
+2026-07-09 17:32:26.399084
+Successfully saved to ../../data/original_table/usgs_asia/Papua New Guinea_2015.xlsx. Execution time 0.19 seconds
+
+2026-07-09 17:32:29.239474
+Downloading 397/513 [Papua New Guinea in 2016 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-pp.xlsx]
+
+2026-07-09 17:32:29.445156
+Successfully saved to ../../data/original_table/usgs_asia/Papua New Guinea_2016.xlsx. Execution time 0.21 seconds
+
+2026-07-09 17:32:32.105195
+Downloading 398/513 [Papua New Guinea in 2018 from: https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-papua-new-guinea.xlsx]
+
+2026-07-09 17:32:33.305347
+Successfully saved to ../../data/original_table/usgs_asia/Papua New Guinea_2018.xlsx. Execution time 1.20 seconds
+
+2026-07-09 17:32:36.087072
+Downloading 399/513 [Papua New Guinea in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-papua-new-guinea.xlsx]
+
+2026-07-09 17:32:37.005257
+Successfully saved to ../../data/original_table/usgs_asia/Papua New Guinea_2019.xlsx. Execution time 0.92 seconds
+
+2026-07-09 17:32:40.908089
+Downloading 400/513 [Papua New Guinea in 2021 from: https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-papua-new-guinea.xlsx]
+
+2026-07-09 17:32:41.650966
+Successfully saved to ../../data/original_table/usgs_asia/Papua New Guinea_2021.xlsx. Execution time 0.74 seconds
+
+2026-07-09 17:32:45.577278
+Downloading 401/513 [Papua New Guinea in 2022 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-Papua%20New%20Guinea-ert.xlsx]
+
+2026-07-09 17:32:46.994682
+Successfully saved to ../../data/original_table/usgs_asia/Papua New Guinea_2022.xlsx. Execution time 1.42 seconds
+
+2026-07-09 17:32:50.556230
+Downloading 402/513 [Philippines in nan from: https://s3-us-west-2.amazonaws.com/prd-wret/assets/palladium/production/mineral-pubs/country/2015/myb3-2015-rp-adv.xlsx]
+
+2026-07-09 17:32:51.952680
+Failed to download https://s3-us-west-2.amazonaws.com/prd-wret/assets/palladium/production/mineral-pubs/country/2015/myb3-2015-rp-adv.xlsx. Error: 403 Client Error: Forbidden for url: https://s3-us-west-2.amazonaws.com/prd-wret/assets/palladium/production/mineral-pubs/country/2015/myb3-2015-rp-adv.xlsx. Execution time 1.40 seconds
+
+2026-07-09 17:32:58.020312
+Downloading 403/513 [Philippines in 2002 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/rpmyb02.xls]
+
+2026-07-09 17:32:59.654626
+Successfully saved to ../../data/original_table/usgs_asia/Philippines_2002.xls. Execution time 1.63 seconds
+
+2026-07-09 17:33:02.559690
+Downloading 404/513 [Philippines in 2003 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/rpmyb03.xls]
+
+2026-07-09 17:33:02.743631
+Successfully saved to ../../data/original_table/usgs_asia/Philippines_2003.xls. Execution time 0.18 seconds
+
+2026-07-09 17:33:05.427948
+Downloading 405/513 [Philippines in 2004 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/rpmyb04.xls]
+
+2026-07-09 17:33:05.837118
+Successfully saved to ../../data/original_table/usgs_asia/Philippines_2004.xls. Execution time 0.41 seconds
+
+2026-07-09 17:33:08.467431
+Downloading 406/513 [Philippines in 2005 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/rpmyb05.xls]
+
+2026-07-09 17:33:08.807179
+Successfully saved to ../../data/original_table/usgs_asia/Philippines_2005.xls. Execution time 0.34 seconds
+
+2026-07-09 17:33:12.193231
+Downloading 407/513 [Philippines in 2006 from: https://d9-wret.s3-us-west-2.amazonaws.com/assetss/palladium/production/mineral-pubs/country/2006/myb3-2006-rp.xls]
+
+2026-07-09 17:33:12.329116
+Failed to download https://d9-wret.s3-us-west-2.amazonaws.com/assetss/palladium/production/mineral-pubs/country/2006/myb3-2006-rp.xls. Error: 403 Client Error: Forbidden for url: https://d9-wret.s3-us-west-2.amazonaws.com/assetss/palladium/production/mineral-pubs/country/2006/myb3-2006-rp.xls. Execution time 0.14 seconds
+
+2026-07-09 17:33:18.734174
+Downloading 408/513 [Philippines in 2007 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-rp.xls]
+
+2026-07-09 17:33:22.502890
+Successfully saved to ../../data/original_table/usgs_asia/Philippines_2007.xls. Execution time 3.77 seconds
+
+2026-07-09 17:33:24.801489
+Downloading 409/513 [Philippines in 2008 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-rp.xls]
+
+2026-07-09 17:33:25.127662
+Successfully saved to ../../data/original_table/usgs_asia/Philippines_2008.xls. Execution time 0.33 seconds
+
+2026-07-09 17:33:28.493162
+Downloading 410/513 [Philippines in 2009 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-rp.xls]
+
+2026-07-09 17:33:28.721336
+Successfully saved to ../../data/original_table/usgs_asia/Philippines_2009.xls. Execution time 0.23 seconds
+
+2026-07-09 17:33:31.146559
+Downloading 411/513 [Philippines in 2010 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-rp.xls]
+
+2026-07-09 17:33:31.383896
+Successfully saved to ../../data/original_table/usgs_asia/Philippines_2010.xls. Execution time 0.24 seconds
+
+2026-07-09 17:33:34.920030
+Downloading 412/513 [Philippines in 2011 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-rp.xls]
+
+2026-07-09 17:33:35.120984
+Successfully saved to ../../data/original_table/usgs_asia/Philippines_2011.xls. Execution time 0.20 seconds
+
+2026-07-09 17:33:38.711136
+Downloading 413/513 [Philippines in 2012 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-rp.xls]
+
+2026-07-09 17:33:38.927376
+Successfully saved to ../../data/original_table/usgs_asia/Philippines_2012.xls. Execution time 0.22 seconds
+
+2026-07-09 17:33:42.584957
+Downloading 414/513 [Philippines in 2013 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-rp.xls]
+
+2026-07-09 17:33:42.792937
+Successfully saved to ../../data/original_table/usgs_asia/Philippines_2013.xls. Execution time 0.21 seconds
+
+2026-07-09 17:33:46.669814
+Downloading 415/513 [Philippines in 2014 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-rp.xls]
+
+2026-07-09 17:33:46.874183
+Successfully saved to ../../data/original_table/usgs_asia/Philippines_2014.xls. Execution time 0.20 seconds
+
+2026-07-09 17:33:49.074668
+Downloading 416/513 [Philippines in 2015 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-rp.xls]
+
+2026-07-09 17:33:49.306501
+Successfully saved to ../../data/original_table/usgs_asia/Philippines_2015.xls. Execution time 0.23 seconds
+
+2026-07-09 17:33:52.267242
+Downloading 417/513 [Philippines in 2016 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-rp.xls]
+
+2026-07-09 17:33:53.902855
+Successfully saved to ../../data/original_table/usgs_asia/Philippines_2016.xls. Execution time 1.64 seconds
+
+2026-07-09 17:33:55.981665
+Downloading 418/513 [Philippines in 2018 from: https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-philippines.xlsx]
+
+2026-07-09 17:33:56.831640
+Successfully saved to ../../data/original_table/usgs_asia/Philippines_2018.xlsx. Execution time 0.85 seconds
+
+2026-07-09 17:34:00.499579
+Downloading 419/513 [Philippines in 2019 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2019-philippines.xlsx]
+
+2026-07-09 17:34:02.016157
+Successfully saved to ../../data/original_table/usgs_asia/Philippines_2019.xlsx. Execution time 1.52 seconds
+
+2026-07-09 17:34:04.463803
+Downloading 420/513 [Philippines in 2021 from: https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-philippines.xlsx]
+
+2026-07-09 17:34:05.595940
+Successfully saved to ../../data/original_table/usgs_asia/Philippines_2021.xlsx. Execution time 1.13 seconds
+
+2026-07-09 17:34:07.768507
+Downloading 421/513 [Philippines in 2022 from: https://pubs.usgs.gov/myb/vol3/2022/myb3-2022-philippines.xlsx]
+
+2026-07-09 17:34:08.626488
+Successfully saved to ../../data/original_table/usgs_asia/Philippines_2022.xlsx. Execution time 0.86 seconds
+
+2026-07-09 17:34:12.160931
+Downloading 422/513 [Singapore in 2007 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-sn.xls]
+
+2026-07-09 17:34:13.717304
+Successfully saved to ../../data/original_table/usgs_asia/Singapore_2007.xls. Execution time 1.56 seconds
+
+2026-07-09 17:34:16.026976
+Downloading 423/513 [Singapore in 2018 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-singapore.xls]
+
+2026-07-09 17:34:17.764655
+Successfully saved to ../../data/original_table/usgs_asia/Singapore_2018.xls. Execution time 1.74 seconds
+
+2026-07-09 17:34:20.519823
+Downloading 424/513 [Singapore in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-singapore.xlsx]
+
+2026-07-09 17:34:21.259663
+Successfully saved to ../../data/original_table/usgs_asia/Singapore_2019.xlsx. Execution time 0.74 seconds
+
+2026-07-09 17:34:24.402429
+Downloading 425/513 [Singapore in 2021 from: https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-singapore.xlsx]
+
+2026-07-09 17:34:25.582256
+Successfully saved to ../../data/original_table/usgs_asia/Singapore_2021.xlsx. Execution time 1.18 seconds
+
+2026-07-09 17:34:28.867015
+Downloading 426/513 [Singapore in 2022 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-Singapore-adv.xlsx]
+
+2026-07-09 17:34:30.162112
+Successfully saved to ../../data/original_table/usgs_asia/Singapore_2022.xlsx. Execution time 1.30 seconds
+
+2026-07-09 17:34:33.388307
+Downloading 427/513 [Solomon Islands in 2013 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-bp.xls]
+
+2026-07-09 17:34:35.277790
+Successfully saved to ../../data/original_table/usgs_asia/Solomon Islands_2013.xls. Execution time 1.89 seconds
+
+2026-07-09 17:34:38.831889
+Downloading 428/513 [Solomon Islands in 2014 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-bp.xls]
+
+2026-07-09 17:34:39.164691
+Successfully saved to ../../data/original_table/usgs_asia/Solomon Islands_2014.xls. Execution time 0.33 seconds
+
+2026-07-09 17:34:42.980612
+Downloading 429/513 [Solomon Islands in 2015 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-bp.xls]
+
+2026-07-09 17:34:43.208775
+Successfully saved to ../../data/original_table/usgs_asia/Solomon Islands_2015.xls. Execution time 0.23 seconds
+
+2026-07-09 17:34:46.734662
+Downloading 430/513 [Solomon Islands in 2016 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-bp.xlsx]
+
+2026-07-09 17:34:46.950723
+Successfully saved to ../../data/original_table/usgs_asia/Solomon Islands_2016.xlsx. Execution time 0.22 seconds
+
+2026-07-09 17:34:49.432416
+Downloading 431/513 [Solomon Islands in 2018 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-bp.xlsx]
+
+2026-07-09 17:34:50.920477
+Successfully saved to ../../data/original_table/usgs_asia/Solomon Islands_2018.xlsx. Execution time 1.49 seconds
+
+2026-07-09 17:34:53.628517
+Downloading 432/513 [Solomon Islands in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-solomon-islands.xlsx]
+
+2026-07-09 17:34:54.380922
+Successfully saved to ../../data/original_table/usgs_asia/Solomon Islands_2019.xlsx. Execution time 0.75 seconds
+
+2026-07-09 17:34:57.365402
+Downloading 433/513 [Solomon Islands in 2021 from: https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-solomon-islands.xlsx]
+
+2026-07-09 17:34:58.503412
+Successfully saved to ../../data/original_table/usgs_asia/Solomon Islands_2021.xlsx. Execution time 1.14 seconds
+
+2026-07-09 17:35:01.431336
+Downloading 434/513 [Sri Lanka in 2002 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/cemyb02.xls]
+
+2026-07-09 17:35:02.922240
+Successfully saved to ../../data/original_table/usgs_asia/Sri Lanka_2002.xls. Execution time 1.49 seconds
+
+2026-07-09 17:35:05.428797
+Downloading 435/513 [Sri Lanka in 2003 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/cemyb03.xls]
+
+2026-07-09 17:35:05.563881
+Successfully saved to ../../data/original_table/usgs_asia/Sri Lanka_2003.xls. Execution time 0.14 seconds
+
+2026-07-09 17:35:08.827826
+Downloading 436/513 [Sri Lanka in 2004 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/cemyb04.xls]
+
+2026-07-09 17:35:09.129671
+Successfully saved to ../../data/original_table/usgs_asia/Sri Lanka_2004.xls. Execution time 0.30 seconds
+
+2026-07-09 17:35:12.449400
+Downloading 437/513 [Sri Lanka in 2005 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/cemyb05.xls]
+
+2026-07-09 17:35:12.836487
+Successfully saved to ../../data/original_table/usgs_asia/Sri Lanka_2005.xls. Execution time 0.39 seconds
+
+2026-07-09 17:35:16.362232
+Downloading 438/513 [Sri Lanka in 2006 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-ce.xls]
+
+2026-07-09 17:35:16.674183
+Successfully saved to ../../data/original_table/usgs_asia/Sri Lanka_2006.xls. Execution time 0.31 seconds
+
+2026-07-09 17:35:19.653239
+Downloading 439/513 [Sri Lanka in 2007 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-ce.xls]
+
+2026-07-09 17:35:19.954445
+Successfully saved to ../../data/original_table/usgs_asia/Sri Lanka_2007.xls. Execution time 0.30 seconds
+
+2026-07-09 17:35:22.187264
+Downloading 440/513 [Sri Lanka in 2008 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-ce.xls]
+
+2026-07-09 17:35:22.415976
+Successfully saved to ../../data/original_table/usgs_asia/Sri Lanka_2008.xls. Execution time 0.23 seconds
+
+2026-07-09 17:35:24.644957
+Downloading 441/513 [Sri Lanka in 2009 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-ce.xls]
+
+2026-07-09 17:35:24.845017
+Successfully saved to ../../data/original_table/usgs_asia/Sri Lanka_2009.xls. Execution time 0.20 seconds
+
+2026-07-09 17:35:27.198092
+Downloading 442/513 [Sri Lanka in 2010 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-ce.xls]
+
+2026-07-09 17:35:27.383557
+Successfully saved to ../../data/original_table/usgs_asia/Sri Lanka_2010.xls. Execution time 0.19 seconds
+
+2026-07-09 17:35:30.443305
+Downloading 443/513 [Sri Lanka in 2011 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-ce.xls]
+
+2026-07-09 17:35:30.636678
+Successfully saved to ../../data/original_table/usgs_asia/Sri Lanka_2011.xls. Execution time 0.19 seconds
+
+2026-07-09 17:35:34.348103
+Downloading 444/513 [Sri Lanka in 2012 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-ce.xls]
+
+2026-07-09 17:35:34.518330
+Successfully saved to ../../data/original_table/usgs_asia/Sri Lanka_2012.xls. Execution time 0.17 seconds
+
+2026-07-09 17:35:37.101164
+Downloading 445/513 [Sri Lanka in 2013 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-ce.xls]
+
+2026-07-09 17:35:37.301550
+Successfully saved to ../../data/original_table/usgs_asia/Sri Lanka_2013.xls. Execution time 0.20 seconds
+
+2026-07-09 17:35:39.946186
+Downloading 446/513 [Sri Lanka in 2014 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-ce.xls]
+
+2026-07-09 17:35:40.117277
+Successfully saved to ../../data/original_table/usgs_asia/Sri Lanka_2014.xls. Execution time 0.17 seconds
+
+2026-07-09 17:35:42.534236
+Downloading 447/513 [Sri Lanka in 2015 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2015/myb3-2015-ce.xls]
+
+2026-07-09 17:35:42.716579
+Successfully saved to ../../data/original_table/usgs_asia/Sri Lanka_2015.xls. Execution time 0.18 seconds
+
+2026-07-09 17:35:44.746149
+Downloading 448/513 [Sri Lanka in 2016 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-ce.xlsx]
+
+2026-07-09 17:35:44.958807
+Successfully saved to ../../data/original_table/usgs_asia/Sri Lanka_2016.xlsx. Execution time 0.21 seconds
+
+2026-07-09 17:35:47.853705
+Downloading 449/513 [Sri Lanka in 2018 from: https://prd-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-Sri%20Lanka.xls]
+
+2026-07-09 17:35:49.038386
+Failed to download https://prd-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-Sri%20Lanka.xls. Error: 403 Client Error: Forbidden for url: https://prd-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-Sri%20Lanka.xls. Execution time 1.18 seconds
+
+2026-07-09 17:35:54.471023
+Downloading 450/513 [Sri Lanka in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-sri-lanka.xlsx]
+
+2026-07-09 17:35:55.258156
+Successfully saved to ../../data/original_table/usgs_asia/Sri Lanka_2019.xlsx. Execution time 0.79 seconds
+
+2026-07-09 17:35:58.952283
+Downloading 451/513 [Sri Lanka in 2021 from: https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-sri-lanka.xlsx]
+
+2026-07-09 17:35:59.692317
+Successfully saved to ../../data/original_table/usgs_asia/Sri Lanka_2021.xlsx. Execution time 0.74 seconds
+
+2026-07-09 17:36:01.862699
+Downloading 452/513 [Sri Lanka in 2022 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-Sri_Lanka-adv.xlsx]
+
+2026-07-09 17:36:03.439848
+Successfully saved to ../../data/original_table/usgs_asia/Sri Lanka_2022.xlsx. Execution time 1.58 seconds
+
+2026-07-09 17:36:06.002046
+Downloading 453/513 [Taiwan in 2002 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/twmyb02.xls]
+
+2026-07-09 17:36:07.739697
+Successfully saved to ../../data/original_table/usgs_asia/Taiwan_2002.xls. Execution time 1.74 seconds
+
+2026-07-09 17:36:09.796390
+Downloading 454/513 [Taiwan in 2003 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/twmyb03.xls]
+
+2026-07-09 17:36:10.008381
+Successfully saved to ../../data/original_table/usgs_asia/Taiwan_2003.xls. Execution time 0.21 seconds
+
+2026-07-09 17:36:12.142436
+Downloading 455/513 [Taiwan in 2004 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/twmyb04.xls]
+
+2026-07-09 17:36:12.445050
+Successfully saved to ../../data/original_table/usgs_asia/Taiwan_2004.xls. Execution time 0.30 seconds
+
+2026-07-09 17:36:16.089741
+Downloading 456/513 [Taiwan in 2005 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/twmyb05.xls]
+
+2026-07-09 17:36:16.446710
+Successfully saved to ../../data/original_table/usgs_asia/Taiwan_2005.xls. Execution time 0.36 seconds
+
+2026-07-09 17:36:19.764252
+Downloading 457/513 [Taiwan in 2006 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-tw.xls]
+
+2026-07-09 17:36:19.959457
+Successfully saved to ../../data/original_table/usgs_asia/Taiwan_2006.xls. Execution time 0.20 seconds
+
+2026-07-09 17:36:23.757905
+Downloading 458/513 [Taiwan in 2007 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-tw.xls]
+
+2026-07-09 17:36:23.969613
+Successfully saved to ../../data/original_table/usgs_asia/Taiwan_2007.xls. Execution time 0.21 seconds
+
+2026-07-09 17:36:27.612745
+Downloading 459/513 [Taiwan in 2008 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-tw.xls]
+
+2026-07-09 17:36:27.843401
+Successfully saved to ../../data/original_table/usgs_asia/Taiwan_2008.xls. Execution time 0.23 seconds
+
+2026-07-09 17:36:31.215497
+Downloading 460/513 [Taiwan in 2009 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-tw.xls]
+
+2026-07-09 17:36:31.416105
+Successfully saved to ../../data/original_table/usgs_asia/Taiwan_2009.xls. Execution time 0.20 seconds
+
+2026-07-09 17:36:33.646688
+Downloading 461/513 [Taiwan in 2010 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-tw.xls]
+
+2026-07-09 17:36:33.860353
+Successfully saved to ../../data/original_table/usgs_asia/Taiwan_2010.xls. Execution time 0.21 seconds
+
+2026-07-09 17:36:37.145437
+Downloading 462/513 [Taiwan in 2011 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-tw.xls]
+
+2026-07-09 17:36:37.382382
+Successfully saved to ../../data/original_table/usgs_asia/Taiwan_2011.xls. Execution time 0.24 seconds
+
+2026-07-09 17:36:40.973181
+Downloading 463/513 [Taiwan in 2012 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-tw.xls]
+
+2026-07-09 17:36:41.161988
+Successfully saved to ../../data/original_table/usgs_asia/Taiwan_2012.xls. Execution time 0.19 seconds
+
+2026-07-09 17:36:44.585084
+Downloading 464/513 [Taiwan in 2013 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-tw.xls]
+
+2026-07-09 17:36:44.813500
+Successfully saved to ../../data/original_table/usgs_asia/Taiwan_2013.xls. Execution time 0.23 seconds
+
+2026-07-09 17:36:47.333966
+Downloading 465/513 [Taiwan in 2014 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-tw.xls]
+
+2026-07-09 17:36:47.545793
+Successfully saved to ../../data/original_table/usgs_asia/Taiwan_2014.xls. Execution time 0.21 seconds
+
+2026-07-09 17:36:50.082002
+Downloading 466/513 [Taiwan in 2015 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-tw.xlsx]
+
+2026-07-09 17:36:50.297569
+Successfully saved to ../../data/original_table/usgs_asia/Taiwan_2015.xlsx. Execution time 0.22 seconds
+
+2026-07-09 17:36:54.050625
+Downloading 467/513 [Taiwan in 2016 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-tw.xlsx]
+
+2026-07-09 17:36:54.255198
+Successfully saved to ../../data/original_table/usgs_asia/Taiwan_2016.xlsx. Execution time 0.20 seconds
+
+2026-07-09 17:36:57.239814
+Downloading 468/513 [Taiwan in 2018 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-tw.xlsx]
+
+2026-07-09 17:36:58.746008
+Successfully saved to ../../data/original_table/usgs_asia/Taiwan_2018.xlsx. Execution time 1.51 seconds
+
+2026-07-09 17:37:00.848105
+Downloading 469/513 [Taiwan in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-taiwan.xlsx]
+
+2026-07-09 17:37:01.606983
+Successfully saved to ../../data/original_table/usgs_asia/Taiwan_2019.xlsx. Execution time 0.76 seconds
+
+2026-07-09 17:37:04.293821
+Downloading 470/513 [Taiwan in 2021 from: https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-taiwan.xlsx]
+
+2026-07-09 17:37:05.124729
+Successfully saved to ../../data/original_table/usgs_asia/Taiwan_2021.xlsx. Execution time 0.83 seconds
+
+2026-07-09 17:37:08.488209
+Downloading 471/513 [Taiwan in 2022 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-Taiwan-advrel.xlsx]
+
+2026-07-09 17:37:10.108862
+Successfully saved to ../../data/original_table/usgs_asia/Taiwan_2022.xlsx. Execution time 1.62 seconds
+
+2026-07-09 17:37:13.171223
+Downloading 472/513 [Thailand in 2002 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/thmyb02.xls]
+
+2026-07-09 17:37:14.518759
+Successfully saved to ../../data/original_table/usgs_asia/Thailand_2002.xls. Execution time 1.35 seconds
+
+2026-07-09 17:37:17.156868
+Downloading 473/513 [Thailand in 2003 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/thmyb03.xls]
+
+2026-07-09 17:37:17.423582
+Successfully saved to ../../data/original_table/usgs_asia/Thailand_2003.xls. Execution time 0.27 seconds
+
+2026-07-09 17:37:19.603251
+Downloading 474/513 [Thailand in 2004 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/thmyb04.xls]
+
+2026-07-09 17:37:19.934324
+Successfully saved to ../../data/original_table/usgs_asia/Thailand_2004.xls. Execution time 0.33 seconds
+
+2026-07-09 17:37:23.810027
+Downloading 475/513 [Thailand in 2005 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/thmyb05.xls]
+
+2026-07-09 17:37:24.105274
+Successfully saved to ../../data/original_table/usgs_asia/Thailand_2005.xls. Execution time 0.30 seconds
+
+2026-07-09 17:37:26.677475
+Downloading 476/513 [Thailand in 2006 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-th.xls]
+
+2026-07-09 17:37:26.874647
+Successfully saved to ../../data/original_table/usgs_asia/Thailand_2006.xls. Execution time 0.20 seconds
+
+2026-07-09 17:37:29.894232
+Downloading 477/513 [Thailand in 2007 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-th.xls]
+
+2026-07-09 17:37:30.081790
+Successfully saved to ../../data/original_table/usgs_asia/Thailand_2007.xls. Execution time 0.19 seconds
+
+2026-07-09 17:37:32.131716
+Downloading 478/513 [Thailand in 2008 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-th.xls]
+
+2026-07-09 17:37:32.329614
+Successfully saved to ../../data/original_table/usgs_asia/Thailand_2008.xls. Execution time 0.20 seconds
+
+2026-07-09 17:37:36.055813
+Downloading 479/513 [Thailand in 2009 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-th.xls]
+
+2026-07-09 17:37:36.254463
+Successfully saved to ../../data/original_table/usgs_asia/Thailand_2009.xls. Execution time 0.20 seconds
+
+2026-07-09 17:37:38.984488
+Downloading 480/513 [Thailand in 2010 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-th.xls]
+
+2026-07-09 17:37:39.163511
+Successfully saved to ../../data/original_table/usgs_asia/Thailand_2010.xls. Execution time 0.18 seconds
+
+2026-07-09 17:37:41.478850
+Downloading 481/513 [Thailand in 2011 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-th.xls]
+
+2026-07-09 17:37:41.664339
+Successfully saved to ../../data/original_table/usgs_asia/Thailand_2011.xls. Execution time 0.19 seconds
+
+2026-07-09 17:37:44.969416
+Downloading 482/513 [Thailand in 2012 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-th.xls]
+
+2026-07-09 17:37:45.169999
+Successfully saved to ../../data/original_table/usgs_asia/Thailand_2012.xls. Execution time 0.20 seconds
+
+2026-07-09 17:37:47.537860
+Downloading 483/513 [Thailand in 2013 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-th.xls]
+
+2026-07-09 17:37:47.719960
+Successfully saved to ../../data/original_table/usgs_asia/Thailand_2013.xls. Execution time 0.18 seconds
+
+2026-07-09 17:37:50.534601
+Downloading 484/513 [Thailand in 2014 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-th.xls]
+
+2026-07-09 17:37:50.723584
+Successfully saved to ../../data/original_table/usgs_asia/Thailand_2014.xls. Execution time 0.19 seconds
+
+2026-07-09 17:37:54.718335
+Downloading 485/513 [Thailand in 2015 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-th.xlsx]
+
+2026-07-09 17:37:54.891020
+Successfully saved to ../../data/original_table/usgs_asia/Thailand_2015.xlsx. Execution time 0.17 seconds
+
+2026-07-09 17:37:57.069145
+Downloading 486/513 [Thailand in 2016 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-th.xls]
+
+2026-07-09 17:37:57.281140
+Successfully saved to ../../data/original_table/usgs_asia/Thailand_2016.xls. Execution time 0.21 seconds
+
+2026-07-09 17:38:00.808272
+Downloading 487/513 [Thailand in 2018 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-th.xls]
+
+2026-07-09 17:38:02.316120
+Successfully saved to ../../data/original_table/usgs_asia/Thailand_2018.xls. Execution time 1.51 seconds
+
+2026-07-09 17:38:06.284659
+Downloading 488/513 [Thailand in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-thailand.xlsx]
+
+2026-07-09 17:38:07.098558
+Successfully saved to ../../data/original_table/usgs_asia/Thailand_2019.xlsx. Execution time 0.81 seconds
+
+2026-07-09 17:38:09.711190
+Downloading 489/513 [Thailand in 2021 from: https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-thailand.xlsx]
+
+2026-07-09 17:38:10.529529
+Successfully saved to ../../data/original_table/usgs_asia/Thailand_2021.xlsx. Execution time 0.82 seconds
+
+2026-07-09 17:38:14.417444
+Downloading 490/513 [Thailand in 2022 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-Thailand-ert.xlsx]
+
+2026-07-09 17:38:16.254403
+Successfully saved to ../../data/original_table/usgs_asia/Thailand_2022.xlsx. Execution time 1.84 seconds
+
+2026-07-09 17:38:18.702567
+Downloading 491/513 [Timor-Leste in 2018 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017_18-tt.xls]
+
+2026-07-09 17:38:23.320312
+Successfully saved to ../../data/original_table/usgs_asia/Timor-Leste_2018.xls. Execution time 4.62 seconds
+
+2026-07-09 17:38:25.703802
+Downloading 492/513 [Timor-Leste in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-timor-leste.xlsx]
+
+2026-07-09 17:38:26.874948
+Successfully saved to ../../data/original_table/usgs_asia/Timor-Leste_2019.xlsx. Execution time 1.17 seconds
+
+2026-07-09 17:38:29.716942
+Downloading 493/513 [Timor-Leste in 2021 from: https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-timor-leste.xlsx]
+
+2026-07-09 17:38:30.861365
+Successfully saved to ../../data/original_table/usgs_asia/Timor-Leste_2021.xlsx. Execution time 1.14 seconds
+
+2026-07-09 17:38:34.680877
+Downloading 494/513 [Timor-Leste in 2022 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-Timor-Leste-ert.xlsx]
+
+2026-07-09 17:38:36.054553
+Successfully saved to ../../data/original_table/usgs_asia/Timor-Leste_2022.xlsx. Execution time 1.37 seconds
+
+2026-07-09 17:38:39.640105
+Downloading 495/513 [Vietnam in 2002 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/vmmyb02.xls]
+
+2026-07-09 17:38:40.976546
+Successfully saved to ../../data/original_table/usgs_asia/Vietnam_2002.xls. Execution time 1.34 seconds
+
+2026-07-09 17:38:43.353630
+Downloading 496/513 [Vietnam in 2003 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/vmmyb03.xls]
+
+2026-07-09 17:38:43.535837
+Successfully saved to ../../data/original_table/usgs_asia/Vietnam_2003.xls. Execution time 0.18 seconds
+
+2026-07-09 17:38:46.483545
+Downloading 497/513 [Vietnam in 2004 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/vmmyb04.xls]
+
+2026-07-09 17:38:46.871918
+Successfully saved to ../../data/original_table/usgs_asia/Vietnam_2004.xls. Execution time 0.39 seconds
+
+2026-07-09 17:38:50.516946
+Downloading 498/513 [Vietnam in 2005 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/vmmyb05.xls]
+
+2026-07-09 17:38:50.792961
+Successfully saved to ../../data/original_table/usgs_asia/Vietnam_2005.xls. Execution time 0.28 seconds
+
+2026-07-09 17:38:52.812959
+Downloading 499/513 [Vietnam in 2006 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-vn.xls]
+
+2026-07-09 17:38:53.027221
+Successfully saved to ../../data/original_table/usgs_asia/Vietnam_2006.xls. Execution time 0.21 seconds
+
+2026-07-09 17:38:55.797451
+Downloading 500/513 [Vietnam in 2007 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-vn.xls]
+
+2026-07-09 17:38:56.098916
+Successfully saved to ../../data/original_table/usgs_asia/Vietnam_2007.xls. Execution time 0.30 seconds
+
+2026-07-09 17:38:59.996790
+Downloading 501/513 [Vietnam in 2008 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-vn.xls]
+
+2026-07-09 17:39:00.196678
+Successfully saved to ../../data/original_table/usgs_asia/Vietnam_2008.xls. Execution time 0.20 seconds
+
+2026-07-09 17:39:03.638745
+Downloading 502/513 [Vietnam in 2009 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-vn.xls]
+
+2026-07-09 17:39:03.803921
+Successfully saved to ../../data/original_table/usgs_asia/Vietnam_2009.xls. Execution time 0.17 seconds
+
+2026-07-09 17:39:06.038434
+Downloading 503/513 [Vietnam in 2010 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-vn.xls]
+
+2026-07-09 17:39:06.330511
+Successfully saved to ../../data/original_table/usgs_asia/Vietnam_2010.xls. Execution time 0.29 seconds
+
+2026-07-09 17:39:08.681497
+Downloading 504/513 [Vietnam in 2011 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-vn.xls]
+
+2026-07-09 17:39:08.880079
+Successfully saved to ../../data/original_table/usgs_asia/Vietnam_2011.xls. Execution time 0.20 seconds
+
+2026-07-09 17:39:11.199257
+Downloading 505/513 [Vietnam in 2012 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-vn.xls]
+
+2026-07-09 17:39:11.403100
+Successfully saved to ../../data/original_table/usgs_asia/Vietnam_2012.xls. Execution time 0.20 seconds
+
+2026-07-09 17:39:15.058188
+Downloading 506/513 [Vietnam in 2013 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-vn.xls]
+
+2026-07-09 17:39:15.239348
+Successfully saved to ../../data/original_table/usgs_asia/Vietnam_2013.xls. Execution time 0.18 seconds
+
+2026-07-09 17:39:18.080057
+Downloading 507/513 [Vietnam in 2014 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-vn.xls]
+
+2026-07-09 17:39:18.292554
+Successfully saved to ../../data/original_table/usgs_asia/Vietnam_2014.xls. Execution time 0.21 seconds
+
+2026-07-09 17:39:21.642392
+Downloading 508/513 [Vietnam in 2015 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-vn.xlsx]
+
+2026-07-09 17:39:21.841746
+Successfully saved to ../../data/original_table/usgs_asia/Vietnam_2015.xlsx. Execution time 0.20 seconds
+
+2026-07-09 17:39:24.931135
+Downloading 509/513 [Vietnam in 2016 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-vn.xlsx]
+
+2026-07-09 17:39:27.016042
+Successfully saved to ../../data/original_table/usgs_asia/Vietnam_2016.xlsx. Execution time 2.08 seconds
+
+2026-07-09 17:39:30.979698
+Downloading 510/513 [Vietnam in 2018 from: https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-vietnam.xlsx]
+
+2026-07-09 17:39:31.886549
+Successfully saved to ../../data/original_table/usgs_asia/Vietnam_2018.xlsx. Execution time 0.91 seconds
+
+2026-07-09 17:39:34.818768
+Downloading 511/513 [Vietnam in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-vietnam.xlsx]
+
+2026-07-09 17:39:36.123323
+Successfully saved to ../../data/original_table/usgs_asia/Vietnam_2019.xlsx. Execution time 1.30 seconds
+
+2026-07-09 17:39:38.865312
+Downloading 512/513 [Vietnam in 2021 from: https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-vietnam.xlsx]
+
+2026-07-09 17:39:39.686693
+Successfully saved to ../../data/original_table/usgs_asia/Vietnam_2021.xlsx. Execution time 0.82 seconds
+
+2026-07-09 17:39:41.980384
+Downloading 513/513 [Vietnam in 2022 from: https://pubs.usgs.gov/myb/vol3/2022/myb3-2022-vietnam.xlsx]
+
+2026-07-09 17:39:43.140854
+Successfully saved to ../../data/original_table/usgs_asia/Vietnam_2022.xlsx. Execution time 1.16 seconds
+

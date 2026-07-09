@@ -1,0 +1,1965 @@
+2026-07-09 14:12:43.164109
+Downloading 1/987 [Algeria in 2002 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/agmyb02.xls]
+
+2026-07-09 14:12:44.153067
+Successfully saved to ../../data/original_table/usgs_africa/Algeria_2002.xls. Execution time 0.99 seconds
+
+2026-07-09 14:12:47.992427
+Downloading 2/987 [Algeria in 2003 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/agmyb03.xls]
+
+2026-07-09 14:12:48.143152
+Successfully saved to ../../data/original_table/usgs_africa/Algeria_2003.xls. Execution time 0.15 seconds
+
+2026-07-09 14:12:50.579098
+Downloading 3/987 [Algeria in 2004 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/agmyb04.xls]
+
+2026-07-09 14:12:50.901770
+Successfully saved to ../../data/original_table/usgs_africa/Algeria_2004.xls. Execution time 0.32 seconds
+
+2026-07-09 14:12:53.282747
+Downloading 4/987 [Algeria in 2005 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/agmyb05.xls]
+
+2026-07-09 14:12:53.682021
+Successfully saved to ../../data/original_table/usgs_africa/Algeria_2005.xls. Execution time 0.40 seconds
+
+2026-07-09 14:12:57.612942
+Downloading 5/987 [Algeria in 2006 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-ag.xls]
+
+2026-07-09 14:12:57.891775
+Successfully saved to ../../data/original_table/usgs_africa/Algeria_2006.xls. Execution time 0.28 seconds
+
+2026-07-09 14:13:00.249978
+Downloading 6/987 [Algeria in 2007 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-ag.xls]
+
+2026-07-09 14:13:00.477617
+Successfully saved to ../../data/original_table/usgs_africa/Algeria_2007.xls. Execution time 0.23 seconds
+
+2026-07-09 14:13:04.016484
+Downloading 7/987 [Algeria in 2008 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-ag.xls]
+
+2026-07-09 14:13:04.243541
+Successfully saved to ../../data/original_table/usgs_africa/Algeria_2008.xls. Execution time 0.23 seconds
+
+2026-07-09 14:13:08.110304
+Downloading 8/987 [Algeria in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-ag.xls]
+
+2026-07-09 14:13:08.326147
+Successfully saved to ../../data/original_table/usgs_africa/Algeria_2009.xls. Execution time 0.22 seconds
+
+2026-07-09 14:13:11.140497
+Downloading 9/987 [Algeria in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-ag.xls]
+
+2026-07-09 14:13:11.369342
+Successfully saved to ../../data/original_table/usgs_africa/Algeria_2010.xls. Execution time 0.23 seconds
+
+2026-07-09 14:13:15.069279
+Downloading 10/987 [Algeria in 2011 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-ag.xlsx]
+
+2026-07-09 14:13:15.357905
+Successfully saved to ../../data/original_table/usgs_africa/Algeria_2011.xlsx. Execution time 0.29 seconds
+
+2026-07-09 14:13:18.657450
+Downloading 11/987 [Algeria in 2012 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-ag.xls]
+
+2026-07-09 14:13:19.170166
+Successfully saved to ../../data/original_table/usgs_africa/Algeria_2012.xls. Execution time 0.51 seconds
+
+2026-07-09 14:13:22.957574
+Downloading 12/987 [Algeria in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assetspalladium/production/mineral-pubs/country/2013/myb3-2013-ag.xls]
+
+2026-07-09 14:13:23.069195
+Failed to download https://d9-wret.s3.us-west-2.amazonaws.com/assetspalladium/production/mineral-pubs/country/2013/myb3-2013-ag.xls. Error: 403 Client Error: Forbidden for url: https://d9-wret.s3.us-west-2.amazonaws.com/assetspalladium/production/mineral-pubs/country/2013/myb3-2013-ag.xls. Execution time 0.11 seconds
+
+2026-07-09 14:13:28.455493
+Downloading 13/987 [Algeria in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-ag.xls]
+
+2026-07-09 14:13:29.673605
+Successfully saved to ../../data/original_table/usgs_africa/Algeria_2014.xls. Execution time 1.22 seconds
+
+2026-07-09 14:13:33.098413
+Downloading 14/987 [Algeria in 2015 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-ag.xlsx]
+
+2026-07-09 14:13:33.324099
+Successfully saved to ../../data/original_table/usgs_africa/Algeria_2015.xlsx. Execution time 0.23 seconds
+
+2026-07-09 14:13:35.851615
+Downloading 15/987 [Algeria in 2016 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-ag.xlsx]
+
+2026-07-09 14:13:42.455570
+Successfully saved to ../../data/original_table/usgs_africa/Algeria_2016.xlsx. Execution time 6.60 seconds
+
+2026-07-09 14:13:44.468724
+Downloading 16/987 [Algeria in 2018 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-Algeria.xls]
+
+2026-07-09 14:13:45.636223
+Successfully saved to ../../data/original_table/usgs_africa/Algeria_2018.xls. Execution time 1.17 seconds
+
+2026-07-09 14:13:48.312749
+Downloading 17/987 [Algeria in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-algeria.xlsx]
+
+2026-07-09 14:13:50.014516
+Successfully saved to ../../data/original_table/usgs_africa/Algeria_2019.xlsx. Execution time 1.70 seconds
+
+2026-07-09 14:13:53.051934
+Downloading 18/987 [Algeria in 2021 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2020-21-Algeria-advrel.xlsx]
+
+2026-07-09 14:13:53.914929
+Successfully saved to ../../data/original_table/usgs_africa/Algeria_2021.xlsx. Execution time 0.86 seconds
+
+2026-07-09 14:13:57.502059
+Downloading 19/987 [Algeria in 2022 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-Algeria-advrel.xlsx]
+
+2026-07-09 14:13:57.651900
+Successfully saved to ../../data/original_table/usgs_africa/Algeria_2022.xlsx. Execution time 0.15 seconds
+
+2026-07-09 14:13:59.747366
+Downloading 20/987 [Angola in 2002 from: https://d9-wret.s3.us-west-2.amazonaws.com/assetspalladium/production/mineral-pubs/country/2002/aomyb02.xls]
+
+2026-07-09 14:13:59.856309
+Failed to download https://d9-wret.s3.us-west-2.amazonaws.com/assetspalladium/production/mineral-pubs/country/2002/aomyb02.xls. Error: 403 Client Error: Forbidden for url: https://d9-wret.s3.us-west-2.amazonaws.com/assetspalladium/production/mineral-pubs/country/2002/aomyb02.xls. Execution time 0.11 seconds
+
+2026-07-09 14:14:05.593701
+Downloading 21/987 [Angola in 2003 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/aomyb03.xls]
+
+2026-07-09 14:14:06.752547
+Successfully saved to ../../data/original_table/usgs_africa/Angola_2003.xls. Execution time 1.16 seconds
+
+2026-07-09 14:14:09.523638
+Downloading 22/987 [Angola in 2004 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/aomyb04.xls]
+
+2026-07-09 14:14:09.754388
+Successfully saved to ../../data/original_table/usgs_africa/Angola_2004.xls. Execution time 0.23 seconds
+
+2026-07-09 14:14:12.807356
+Downloading 23/987 [Angola in 2005 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/aomyb05.xls]
+
+2026-07-09 14:14:13.141856
+Successfully saved to ../../data/original_table/usgs_africa/Angola_2005.xls. Execution time 0.33 seconds
+
+2026-07-09 14:14:15.750440
+Downloading 24/987 [Angola in 2006 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-ao.xls]
+
+2026-07-09 14:14:15.986654
+Successfully saved to ../../data/original_table/usgs_africa/Angola_2006.xls. Execution time 0.24 seconds
+
+2026-07-09 14:14:19.263757
+Downloading 25/987 [Angola in 2007 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-ao.xls]
+
+2026-07-09 14:14:19.467116
+Successfully saved to ../../data/original_table/usgs_africa/Angola_2007.xls. Execution time 0.20 seconds
+
+2026-07-09 14:14:23.098750
+Downloading 26/987 [Angola in 2008 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-ao.xls]
+
+2026-07-09 14:14:23.301355
+Successfully saved to ../../data/original_table/usgs_africa/Angola_2008.xls. Execution time 0.20 seconds
+
+2026-07-09 14:14:25.667631
+Downloading 27/987 [Angola in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-ao.xls]
+
+2026-07-09 14:14:25.855591
+Successfully saved to ../../data/original_table/usgs_africa/Angola_2009.xls. Execution time 0.19 seconds
+
+2026-07-09 14:14:29.270393
+Downloading 28/987 [Angola in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-ao.xls]
+
+2026-07-09 14:14:29.456389
+Successfully saved to ../../data/original_table/usgs_africa/Angola_2010.xls. Execution time 0.19 seconds
+
+2026-07-09 14:14:32.958040
+Downloading 29/987 [Angola in 2011 from: https://d9-wret.s3.us-west-2.amazonaws.com/assetspalladium/production/mineral-pubs/country/2011/myb3-2011-ao.xls]
+
+2026-07-09 14:14:33.067743
+Failed to download https://d9-wret.s3.us-west-2.amazonaws.com/assetspalladium/production/mineral-pubs/country/2011/myb3-2011-ao.xls. Error: 403 Client Error: Forbidden for url: https://d9-wret.s3.us-west-2.amazonaws.com/assetspalladium/production/mineral-pubs/country/2011/myb3-2011-ao.xls. Execution time 0.11 seconds
+
+2026-07-09 14:14:38.644621
+Downloading 30/987 [Angola in 2012 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-ao.xls]
+
+2026-07-09 14:14:39.757490
+Successfully saved to ../../data/original_table/usgs_africa/Angola_2012.xls. Execution time 1.11 seconds
+
+2026-07-09 14:14:43.093026
+Downloading 31/987 [Angola in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-ao.xls]
+
+2026-07-09 14:14:43.286635
+Successfully saved to ../../data/original_table/usgs_africa/Angola_2013.xls. Execution time 0.19 seconds
+
+2026-07-09 14:14:45.348351
+Downloading 32/987 [Angola in 2016 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-ang.xlsx]
+
+2026-07-09 14:14:46.725139
+Successfully saved to ../../data/original_table/usgs_africa/Angola_2016.xlsx. Execution time 1.38 seconds
+
+2026-07-09 14:14:50.000073
+Downloading 33/987 [Angola in 2018 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-ao.xlsx]
+
+2026-07-09 14:14:51.295989
+Successfully saved to ../../data/original_table/usgs_africa/Angola_2018.xlsx. Execution time 1.30 seconds
+
+2026-07-09 14:14:54.700315
+Downloading 34/987 [Angola in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-angola.xlsx]
+
+2026-07-09 14:14:55.867072
+Successfully saved to ../../data/original_table/usgs_africa/Angola_2019.xlsx. Execution time 1.17 seconds
+
+2026-07-09 14:14:59.318849
+Downloading 35/987 [Angola in 2021 from: https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-angola.xlsx]
+
+2026-07-09 14:15:00.535494
+Successfully saved to ../../data/original_table/usgs_africa/Angola_2021.xlsx. Execution time 1.22 seconds
+
+2026-07-09 14:15:03.697027
+Downloading 36/987 [Angola in 2022 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-Angola-ert.xlsx]
+
+2026-07-09 14:15:04.650051
+Successfully saved to ../../data/original_table/usgs_africa/Angola_2022.xlsx. Execution time 0.95 seconds
+
+2026-07-09 14:15:07.387833
+Downloading 37/987 [Bahrain in 2003 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/bamyb03.xls]
+
+2026-07-09 14:15:07.552444
+Successfully saved to ../../data/original_table/usgs_africa/Bahrain_2003.xls. Execution time 0.16 seconds
+
+2026-07-09 14:15:10.231488
+Downloading 38/987 [Bahrain in 2004 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/bamyb04.xls]
+
+2026-07-09 14:15:10.569527
+Successfully saved to ../../data/original_table/usgs_africa/Bahrain_2004.xls. Execution time 0.34 seconds
+
+2026-07-09 14:15:13.720824
+Downloading 39/987 [Bahrain in 2005 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/bamyb05.xls]
+
+2026-07-09 14:15:14.048845
+Successfully saved to ../../data/original_table/usgs_africa/Bahrain_2005.xls. Execution time 0.33 seconds
+
+2026-07-09 14:15:16.332314
+Downloading 40/987 [Bahrain in 2006 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-ba.xls]
+
+2026-07-09 14:15:16.556399
+Successfully saved to ../../data/original_table/usgs_africa/Bahrain_2006.xls. Execution time 0.22 seconds
+
+2026-07-09 14:15:18.934280
+Downloading 41/987 [Bahrain in 2007 from: https://d9-wret.s3.us-west-2.amazonaws.com/assetspalladium/production/mineral-pubs/country/2007/myb3-2007-ba.xls]
+
+2026-07-09 14:15:19.368210
+Failed to download https://d9-wret.s3.us-west-2.amazonaws.com/assetspalladium/production/mineral-pubs/country/2007/myb3-2007-ba.xls. Error: 403 Client Error: Forbidden for url: https://d9-wret.s3.us-west-2.amazonaws.com/assetspalladium/production/mineral-pubs/country/2007/myb3-2007-ba.xls. Execution time 0.43 seconds
+
+2026-07-09 14:15:25.178334
+Downloading 42/987 [Bahrain in 2008 from: https://d9-wret.s3.us-west-2.amazonaws.com/assetss/palladium/production/mineral-pubs/country/2008/myb3-2008-ba.xls]
+
+2026-07-09 14:15:26.050916
+Failed to download https://d9-wret.s3.us-west-2.amazonaws.com/assetss/palladium/production/mineral-pubs/country/2008/myb3-2008-ba.xls. Error: 403 Client Error: Forbidden for url: https://d9-wret.s3.us-west-2.amazonaws.com/assetss/palladium/production/mineral-pubs/country/2008/myb3-2008-ba.xls. Execution time 0.87 seconds
+
+2026-07-09 14:15:32.689389
+Downloading 43/987 [Bahrain in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-ba.xls]
+
+2026-07-09 14:15:33.802518
+Successfully saved to ../../data/original_table/usgs_africa/Bahrain_2009.xls. Execution time 1.11 seconds
+
+2026-07-09 14:15:37.281906
+Downloading 44/987 [Bahrain in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-ba.xls]
+
+2026-07-09 14:15:39.491477
+Successfully saved to ../../data/original_table/usgs_africa/Bahrain_2010.xls. Execution time 2.21 seconds
+
+2026-07-09 14:15:43.429048
+Downloading 45/987 [Bahrain in 2011 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-ba.xls]
+
+2026-07-09 14:15:44.322194
+Successfully saved to ../../data/original_table/usgs_africa/Bahrain_2011.xls. Execution time 0.89 seconds
+
+2026-07-09 14:15:48.111177
+Downloading 46/987 [Bahrain in 2012 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-ba.xls]
+
+2026-07-09 14:15:48.756140
+Successfully saved to ../../data/original_table/usgs_africa/Bahrain_2012.xls. Execution time 0.64 seconds
+
+2026-07-09 14:15:51.328047
+Downloading 47/987 [Bahrain in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-ba.xls]
+
+2026-07-09 14:15:51.572892
+Successfully saved to ../../data/original_table/usgs_africa/Bahrain_2013.xls. Execution time 0.24 seconds
+
+2026-07-09 14:15:55.151337
+Downloading 48/987 [Bahrain in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-ba.xlsx]
+
+2026-07-09 14:15:55.397535
+Successfully saved to ../../data/original_table/usgs_africa/Bahrain_2014.xlsx. Execution time 0.25 seconds
+
+2026-07-09 14:15:57.629695
+Downloading 49/987 [Bahrain in 2015 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-bah.xls]
+
+2026-07-09 14:15:57.844616
+Successfully saved to ../../data/original_table/usgs_africa/Bahrain_2015.xls. Execution time 0.21 seconds
+
+2026-07-09 14:16:01.372076
+Downloading 50/987 [Bahrain in 2016 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-ba.xlsx]
+
+2026-07-09 14:16:02.749009
+Successfully saved to ../../data/original_table/usgs_africa/Bahrain_2016.xlsx. Execution time 1.38 seconds
+
+2026-07-09 14:16:05.361026
+Downloading 51/987 [Bahrain in 2018 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-ba.xlsx]
+
+2026-07-09 14:16:06.294118
+Successfully saved to ../../data/original_table/usgs_africa/Bahrain_2018.xlsx. Execution time 0.93 seconds
+
+2026-07-09 14:16:09.182202
+Downloading 52/987 [Bahrain in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-bahrain.xlsx]
+
+2026-07-09 14:16:09.913148
+Successfully saved to ../../data/original_table/usgs_africa/Bahrain_2019.xlsx. Execution time 0.73 seconds
+
+2026-07-09 14:16:13.408492
+Downloading 53/987 [Bahrain in 2021 from: https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-bahrain.xlsx]
+
+2026-07-09 14:16:14.263790
+Successfully saved to ../../data/original_table/usgs_africa/Bahrain_2021.xlsx. Execution time 0.86 seconds
+
+2026-07-09 14:16:16.584716
+Downloading 54/987 [Bahrain in 2022 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-Bahrain-advrel.xlsx]
+
+2026-07-09 14:16:17.587922
+Successfully saved to ../../data/original_table/usgs_africa/Bahrain_2022.xlsx. Execution time 1.00 seconds
+
+2026-07-09 14:16:20.224170
+Downloading 55/987 [Bahrain in 2023 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2023-Bahrain-ERT.xlsx]
+
+2026-07-09 14:16:20.385794
+Successfully saved to ../../data/original_table/usgs_africa/Bahrain_2023.xlsx. Execution time 0.16 seconds
+
+2026-07-09 14:16:23.782656
+Downloading 56/987 [Benin in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/assetsts/palladium/production/mineral-pubs/country/2014/myb3-2014-bn.xls]
+
+2026-07-09 14:16:23.904348
+Failed to download https://d9-wret.s3.us-west-2.amazonaws.com/assetsts/palladium/production/mineral-pubs/country/2014/myb3-2014-bn.xls. Error: 403 Client Error: Forbidden for url: https://d9-wret.s3.us-west-2.amazonaws.com/assetsts/palladium/production/mineral-pubs/country/2014/myb3-2014-bn.xls. Execution time 0.12 seconds
+
+2026-07-09 14:16:30.759241
+Downloading 57/987 [Benin in 2015 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2015/myb3-2015-bn.xls]
+
+2026-07-09 14:16:31.774725
+Successfully saved to ../../data/original_table/usgs_africa/Benin_2015.xls. Execution time 1.02 seconds
+
+2026-07-09 14:16:35.216158
+Downloading 58/987 [Benin in 2019 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2019-benin-advrelf.xlsx]
+
+2026-07-09 14:16:35.707448
+Successfully saved to ../../data/original_table/usgs_africa/Benin_2019.xlsx. Execution time 0.49 seconds
+
+2026-07-09 14:16:38.411692
+Downloading 59/987 [Benin in 2021 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2020-21-Benin-advrel.xlsx]
+
+2026-07-09 14:16:38.552480
+Successfully saved to ../../data/original_table/usgs_africa/Benin_2021.xlsx. Execution time 0.14 seconds
+
+2026-07-09 14:16:41.642868
+Downloading 60/987 [Benin in 2022 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-Benin-ert.xlsx]
+
+2026-07-09 14:16:41.817951
+Successfully saved to ../../data/original_table/usgs_africa/Benin_2022.xlsx. Execution time 0.18 seconds
+
+2026-07-09 14:16:44.829081
+Downloading 61/987 [Botswana in 2002 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/palladium/production/mineral-pubs/country/2002/bcmyb02.xls]
+
+2026-07-09 14:16:44.950051
+Failed to download https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/palladium/production/mineral-pubs/country/2002/bcmyb02.xls. Error: 403 Client Error: Forbidden for url: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/palladium/production/mineral-pubs/country/2002/bcmyb02.xls. Execution time 0.12 seconds
+
+2026-07-09 14:16:50.619663
+Downloading 62/987 [Botswana in 2003 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/palladium/production/mineral-pubs/country/2003/bcmyb03.xls]
+
+2026-07-09 14:16:51.475423
+Failed to download https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/palladium/production/mineral-pubs/country/2003/bcmyb03.xls. Error: 403 Client Error: Forbidden for url: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/palladium/production/mineral-pubs/country/2003/bcmyb03.xls. Execution time 0.86 seconds
+
+2026-07-09 14:16:58.184066
+Downloading 63/987 [Botswana in 2004 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/palladium/production/mineral-pubs/country/2004/bcmyb04.xls]
+
+2026-07-09 14:16:59.290250
+Failed to download https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/palladium/production/mineral-pubs/country/2004/bcmyb04.xls. Error: 403 Client Error: Forbidden for url: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/palladium/production/mineral-pubs/country/2004/bcmyb04.xls. Execution time 1.11 seconds
+
+2026-07-09 14:17:05.661317
+Downloading 64/987 [Botswana in 2005 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/bcmyb05.xls]
+
+2026-07-09 14:17:07.266332
+Successfully saved to ../../data/original_table/usgs_africa/Botswana_2005.xls. Execution time 1.61 seconds
+
+2026-07-09 14:17:10.996905
+Downloading 65/987 [Botswana in 2006 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-bc.xls]
+
+2026-07-09 14:17:11.302022
+Successfully saved to ../../data/original_table/usgs_africa/Botswana_2006.xls. Execution time 0.31 seconds
+
+2026-07-09 14:17:14.125072
+Downloading 66/987 [Botswana in 2007 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-bc.xls]
+
+2026-07-09 14:17:14.328488
+Successfully saved to ../../data/original_table/usgs_africa/Botswana_2007.xls. Execution time 0.20 seconds
+
+2026-07-09 14:17:17.647144
+Downloading 67/987 [Botswana in 2008 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-bc.xls]
+
+2026-07-09 14:17:18.477661
+Successfully saved to ../../data/original_table/usgs_africa/Botswana_2008.xls. Execution time 0.83 seconds
+
+2026-07-09 14:17:21.614919
+Downloading 68/987 [Botswana in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-bc.xls]
+
+2026-07-09 14:17:21.873961
+Successfully saved to ../../data/original_table/usgs_africa/Botswana_2009.xls. Execution time 0.26 seconds
+
+2026-07-09 14:17:24.300776
+Downloading 69/987 [Botswana in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-bc.xls]
+
+2026-07-09 14:17:24.563728
+Successfully saved to ../../data/original_table/usgs_africa/Botswana_2010.xls. Execution time 0.26 seconds
+
+2026-07-09 14:17:27.685223
+Downloading 70/987 [Botswana in 2011 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-bc.xls]
+
+2026-07-09 14:17:27.938351
+Successfully saved to ../../data/original_table/usgs_africa/Botswana_2011.xls. Execution time 0.25 seconds
+
+2026-07-09 14:17:30.553788
+Downloading 71/987 [Botswana in 2012 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-bc.xls]
+
+2026-07-09 14:17:30.788582
+Successfully saved to ../../data/original_table/usgs_africa/Botswana_2012.xls. Execution time 0.23 seconds
+
+2026-07-09 14:17:33.691227
+Downloading 72/987 [Botswana in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-bc.xls]
+
+2026-07-09 14:17:33.927834
+Successfully saved to ../../data/original_table/usgs_africa/Botswana_2013.xls. Execution time 0.24 seconds
+
+2026-07-09 14:17:36.954754
+Downloading 73/987 [Botswana in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/asset/palladium/production/mineral-pubs/country/2014/myb3-2014-bc.xls]
+
+2026-07-09 14:17:37.070612
+Failed to download https://d9-wret.s3.us-west-2.amazonaws.com/asset/palladium/production/mineral-pubs/country/2014/myb3-2014-bc.xls. Error: 403 Client Error: Forbidden for url: https://d9-wret.s3.us-west-2.amazonaws.com/asset/palladium/production/mineral-pubs/country/2014/myb3-2014-bc.xls. Execution time 0.12 seconds
+
+2026-07-09 14:17:42.508399
+Downloading 74/987 [Botswana in 2015 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-botswana.xlsx]
+
+2026-07-09 14:17:44.010115
+Successfully saved to ../../data/original_table/usgs_africa/Botswana_2015.xlsx. Execution time 1.50 seconds
+
+2026-07-09 14:17:47.358317
+Downloading 75/987 [Botswana in 2016 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-bc.xls]
+
+2026-07-09 14:17:49.029229
+Successfully saved to ../../data/original_table/usgs_africa/Botswana_2016.xls. Execution time 1.67 seconds
+
+2026-07-09 14:17:51.123529
+Downloading 76/987 [Botswana in 2018 from: https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-botswana.xlsx]
+
+2026-07-09 14:17:51.852091
+Successfully saved to ../../data/original_table/usgs_africa/Botswana_2018.xlsx. Execution time 0.73 seconds
+
+2026-07-09 14:17:55.237776
+Downloading 77/987 [Botswana in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-botswana.xlsx]
+
+2026-07-09 14:17:56.265509
+Successfully saved to ../../data/original_table/usgs_africa/Botswana_2019.xlsx. Execution time 1.03 seconds
+
+2026-07-09 14:17:59.157126
+Downloading 78/987 [Botswana in 2021 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2020-21-Botswana-advrel.xlsx]
+
+2026-07-09 14:18:00.446695
+Successfully saved to ../../data/original_table/usgs_africa/Botswana_2021.xlsx. Execution time 1.29 seconds
+
+2026-07-09 14:18:03.853203
+Downloading 79/987 [Botswana in 2022 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-Botswana-adv.xlsx]
+
+2026-07-09 14:18:04.188190
+Successfully saved to ../../data/original_table/usgs_africa/Botswana_2022.xlsx. Execution time 0.33 seconds
+
+2026-07-09 14:18:07.987207
+Downloading 80/987 [Burkina Faso in 2003 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/uvmyb03.xls]
+
+2026-07-09 14:18:08.126287
+Successfully saved to ../../data/original_table/usgs_africa/Burkina Faso_2003.xls. Execution time 0.14 seconds
+
+2026-07-09 14:18:11.340631
+Downloading 81/987 [Burkina Faso in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-uv.xls]
+
+2026-07-09 14:18:11.670716
+Successfully saved to ../../data/original_table/usgs_africa/Burkina Faso_2013.xls. Execution time 0.33 seconds
+
+2026-07-09 14:18:14.494053
+Downloading 82/987 [Burkina Faso in 2016 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-uv.xlsx]
+
+2026-07-09 14:18:16.049104
+Successfully saved to ../../data/original_table/usgs_africa/Burkina Faso_2016.xlsx. Execution time 1.56 seconds
+
+2026-07-09 14:18:18.977934
+Downloading 83/987 [Burkina Faso in 2018 from: https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-burkina-faso.xlsx]
+
+2026-07-09 14:18:20.127709
+Successfully saved to ../../data/original_table/usgs_africa/Burkina Faso_2018.xlsx. Execution time 1.15 seconds
+
+2026-07-09 14:18:22.276812
+Downloading 84/987 [Burkina Faso in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-burkina-faso.xlsx]
+
+2026-07-09 14:18:23.039396
+Successfully saved to ../../data/original_table/usgs_africa/Burkina Faso_2019.xlsx. Execution time 0.76 seconds
+
+2026-07-09 14:18:25.455023
+Downloading 85/987 [Burkina Faso in 2021 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2020-21-Burkina%20Faso-adv.xlsx]
+
+2026-07-09 14:18:26.826462
+Successfully saved to ../../data/original_table/usgs_africa/Burkina Faso_2021.xlsx. Execution time 1.37 seconds
+
+2026-07-09 14:18:30.710444
+Downloading 86/987 [Burkina Faso in 2022 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-Burkina-Faso-ert.xlsx]
+
+2026-07-09 14:18:30.909888
+Successfully saved to ../../data/original_table/usgs_africa/Burkina Faso_2022.xlsx. Execution time 0.20 seconds
+
+2026-07-09 14:18:34.728089
+Downloading 87/987 [Burundi in 2004 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/bymyb04.xls]
+
+2026-07-09 14:18:34.986785
+Successfully saved to ../../data/original_table/usgs_africa/Burundi_2004.xls. Execution time 0.26 seconds
+
+2026-07-09 14:18:37.798431
+Downloading 88/987 [Burundi in 2005 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/bymyb05.xls]
+
+2026-07-09 14:18:38.167700
+Successfully saved to ../../data/original_table/usgs_africa/Burundi_2005.xls. Execution time 0.37 seconds
+
+2026-07-09 14:18:40.613177
+Downloading 89/987 [Burundi in 2006 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-by.xls]
+
+2026-07-09 14:18:40.851324
+Successfully saved to ../../data/original_table/usgs_africa/Burundi_2006.xls. Execution time 0.24 seconds
+
+2026-07-09 14:18:43.119616
+Downloading 90/987 [Burundi in 2007 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-by.xls]
+
+2026-07-09 14:18:43.483968
+Successfully saved to ../../data/original_table/usgs_africa/Burundi_2007.xls. Execution time 0.36 seconds
+
+2026-07-09 14:18:45.566880
+Downloading 91/987 [Burundi in 2008 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-by.xls]
+
+2026-07-09 14:18:45.913339
+Successfully saved to ../../data/original_table/usgs_africa/Burundi_2008.xls. Execution time 0.35 seconds
+
+2026-07-09 14:18:48.476058
+Downloading 92/987 [Burundi in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-by.xls]
+
+2026-07-09 14:18:48.717209
+Successfully saved to ../../data/original_table/usgs_africa/Burundi_2009.xls. Execution time 0.24 seconds
+
+2026-07-09 14:18:52.153702
+Downloading 93/987 [Burundi in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assetspalladium/production/mineral-pubs/country/2010/myb3-2010-by.xls]
+
+2026-07-09 14:18:52.337020
+Failed to download https://d9-wret.s3.us-west-2.amazonaws.com/assetspalladium/production/mineral-pubs/country/2010/myb3-2010-by.xls. Error: 403 Client Error: Forbidden for url: https://d9-wret.s3.us-west-2.amazonaws.com/assetspalladium/production/mineral-pubs/country/2010/myb3-2010-by.xls. Execution time 0.18 seconds
+
+2026-07-09 14:18:58.394828
+Downloading 94/987 [Burundi in 2011 from: https://d9-wret.s3.us-west-2.amazonaws.com/assetss/palladium/production/mineral-pubs/country/2011/myb3-2011-by.xls]
+
+2026-07-09 14:18:59.229175
+Failed to download https://d9-wret.s3.us-west-2.amazonaws.com/assetss/palladium/production/mineral-pubs/country/2011/myb3-2011-by.xls. Error: 403 Client Error: Forbidden for url: https://d9-wret.s3.us-west-2.amazonaws.com/assetss/palladium/production/mineral-pubs/country/2011/myb3-2011-by.xls. Execution time 0.83 seconds
+
+2026-07-09 14:19:04.748507
+Downloading 95/987 [Burundi in 2012 from: https://d9-wret.s3.us-west-2.amazonaws.com/assetspalladium/production/mineral-pubs/country/2012/myb3-2012-by.xls]
+
+2026-07-09 14:19:05.433498
+Failed to download https://d9-wret.s3.us-west-2.amazonaws.com/assetspalladium/production/mineral-pubs/country/2012/myb3-2012-by.xls. Error: 403 Client Error: Forbidden for url: https://d9-wret.s3.us-west-2.amazonaws.com/assetspalladium/production/mineral-pubs/country/2012/myb3-2012-by.xls. Execution time 0.68 seconds
+
+2026-07-09 14:19:10.449540
+Downloading 96/987 [Burundi in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-by.xls]
+
+2026-07-09 14:19:11.599426
+Successfully saved to ../../data/original_table/usgs_africa/Burundi_2013.xls. Execution time 1.15 seconds
+
+2026-07-09 14:19:13.774035
+Downloading 97/987 [Burundi in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-by.xls]
+
+2026-07-09 14:19:13.969581
+Successfully saved to ../../data/original_table/usgs_africa/Burundi_2014.xls. Execution time 0.20 seconds
+
+2026-07-09 14:19:16.579868
+Downloading 98/987 [Burundi in 2015 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-by.xlsx]
+
+2026-07-09 14:19:16.738263
+Successfully saved to ../../data/original_table/usgs_africa/Burundi_2015.xlsx. Execution time 0.16 seconds
+
+2026-07-09 14:19:20.525848
+Downloading 99/987 [Burundi in 2016 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-by.xlsx]
+
+2026-07-09 14:19:21.719889
+Successfully saved to ../../data/original_table/usgs_africa/Burundi_2016.xlsx. Execution time 1.19 seconds
+
+2026-07-09 14:19:23.992109
+Downloading 100/987 [Burundi in 2018 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-by.xls]
+
+2026-07-09 14:19:25.117161
+Successfully saved to ../../data/original_table/usgs_africa/Burundi_2018.xls. Execution time 1.13 seconds
+
+2026-07-09 14:19:28.194674
+Downloading 101/987 [Burundi in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-burundi.xlsx]
+
+2026-07-09 14:19:28.938909
+Successfully saved to ../../data/original_table/usgs_africa/Burundi_2019.xlsx. Execution time 0.74 seconds
+
+2026-07-09 14:19:31.951030
+Downloading 102/987 [Burundi in 2022 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-Burundi-adv.xlsx]
+
+2026-07-09 14:19:32.931605
+Successfully saved to ../../data/original_table/usgs_africa/Burundi_2022.xlsx. Execution time 0.98 seconds
+
+2026-07-09 14:19:35.260781
+Downloading 103/987 [Cameroon in 2002 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/cmcdmyb02r.xls]
+
+2026-07-09 14:19:35.438411
+Successfully saved to ../../data/original_table/usgs_africa/Cameroon_2002.xls. Execution time 0.18 seconds
+
+2026-07-09 14:19:37.717149
+Downloading 104/987 [Cameroon in 2003 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/cmcdmyb03.xls]
+
+2026-07-09 14:19:37.886791
+Successfully saved to ../../data/original_table/usgs_africa/Cameroon_2003.xls. Execution time 0.17 seconds
+
+2026-07-09 14:19:39.902376
+Downloading 105/987 [Cameroon in 2004 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/cmcvmyb04.xls]
+
+2026-07-09 14:19:40.217560
+Successfully saved to ../../data/original_table/usgs_africa/Cameroon_2004.xls. Execution time 0.32 seconds
+
+2026-07-09 14:19:43.826775
+Downloading 106/987 [Cameroon in 2005 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/cmcvmyb05.xls]
+
+2026-07-09 14:19:44.503783
+Successfully saved to ../../data/original_table/usgs_africa/Cameroon_2005.xls. Execution time 0.68 seconds
+
+2026-07-09 14:19:48.217239
+Downloading 107/987 [Cameroon in 2006 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-cm-cv.xls]
+
+2026-07-09 14:19:48.758285
+Successfully saved to ../../data/original_table/usgs_africa/Cameroon_2006.xls. Execution time 0.54 seconds
+
+2026-07-09 14:19:52.448941
+Downloading 108/987 [Cameroon in 2007 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-cm-cv.xls]
+
+2026-07-09 14:19:52.877686
+Successfully saved to ../../data/original_table/usgs_africa/Cameroon_2007.xls. Execution time 0.43 seconds
+
+2026-07-09 14:19:55.008523
+Downloading 109/987 [Cameroon in 2008 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-cm-cv.xls]
+
+2026-07-09 14:19:55.460025
+Successfully saved to ../../data/original_table/usgs_africa/Cameroon_2008.xls. Execution time 0.45 seconds
+
+2026-07-09 14:19:57.850538
+Downloading 110/987 [Cameroon in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-cm-cv.xls]
+
+2026-07-09 14:19:58.164407
+Successfully saved to ../../data/original_table/usgs_africa/Cameroon_2009.xls. Execution time 0.31 seconds
+
+2026-07-09 14:20:01.973394
+Downloading 111/987 [Cameroon in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-cm-cv.xls]
+
+2026-07-09 14:20:02.374306
+Successfully saved to ../../data/original_table/usgs_africa/Cameroon_2010.xls. Execution time 0.40 seconds
+
+2026-07-09 14:20:05.214788
+Downloading 112/987 [Cameroon in 2011 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-cm-cv.xls]
+
+2026-07-09 14:20:05.523604
+Successfully saved to ../../data/original_table/usgs_africa/Cameroon_2011.xls. Execution time 0.31 seconds
+
+2026-07-09 14:20:08.426103
+Downloading 113/987 [Cameroon in 2012 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-cm-cv.xls]
+
+2026-07-09 14:20:08.651766
+Successfully saved to ../../data/original_table/usgs_africa/Cameroon_2012.xls. Execution time 0.23 seconds
+
+2026-07-09 14:20:12.094022
+Downloading 114/987 [Cameroon in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-cm.xls]
+
+2026-07-09 14:20:12.440327
+Successfully saved to ../../data/original_table/usgs_africa/Cameroon_2013.xls. Execution time 0.35 seconds
+
+2026-07-09 14:20:15.990932
+Downloading 115/987 [Cameroon in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-cm.xls]
+
+2026-07-09 14:20:20.470128
+Successfully saved to ../../data/original_table/usgs_africa/Cameroon_2014.xls. Execution time 4.48 seconds
+
+2026-07-09 14:20:22.937042
+Downloading 116/987 [Cameroon in 2015 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-cm.xlsx]
+
+2026-07-09 14:20:23.177474
+Successfully saved to ../../data/original_table/usgs_africa/Cameroon_2015.xlsx. Execution time 0.24 seconds
+
+2026-07-09 14:20:25.480042
+Downloading 117/987 [Cameroon in 2016 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-cm.xlsx]
+
+2026-07-09 14:20:27.152844
+Successfully saved to ../../data/original_table/usgs_africa/Cameroon_2016.xlsx. Execution time 1.67 seconds
+
+2026-07-09 14:20:30.355313
+Downloading 118/987 [Cameroon in 2018 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-cm.xlsx]
+
+2026-07-09 14:20:31.881810
+Successfully saved to ../../data/original_table/usgs_africa/Cameroon_2018.xlsx. Execution time 1.53 seconds
+
+2026-07-09 14:20:35.324414
+Downloading 119/987 [Cameroon in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-cameroon.xlsx]
+
+2026-07-09 14:20:36.169188
+Successfully saved to ../../data/original_table/usgs_africa/Cameroon_2019.xlsx. Execution time 0.84 seconds
+
+2026-07-09 14:20:38.486856
+Downloading 120/987 [Cameroon in 2021 from: https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-cameroon.xlsx]
+
+2026-07-09 14:20:39.238258
+Successfully saved to ../../data/original_table/usgs_africa/Cameroon_2021.xlsx. Execution time 0.75 seconds
+
+2026-07-09 14:20:42.880672
+Downloading 121/987 [Cameroon in 2022 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-Cameroon-advrel_0.xlsx]
+
+2026-07-09 14:20:44.338204
+Successfully saved to ../../data/original_table/usgs_africa/Cameroon_2022.xlsx. Execution time 1.46 seconds
+
+2026-07-09 14:20:46.810903
+Downloading 122/987 [Central African Republic in 2002 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/bncvctivtomyb02.xls]
+
+2026-07-09 14:20:46.971576
+Successfully saved to ../../data/original_table/usgs_africa/Central African Republic_2002.xls. Execution time 0.16 seconds
+
+2026-07-09 14:20:49.311497
+Downloading 123/987 [Central African Republic in 2003 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/bncvcttomyb03.xls]
+
+2026-07-09 14:20:49.480655
+Successfully saved to ../../data/original_table/usgs_africa/Central African Republic_2003.xls. Execution time 0.17 seconds
+
+2026-07-09 14:20:53.339422
+Downloading 124/987 [Central African Republic in 2004 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/ctivtomyb04.xls]
+
+2026-07-09 14:20:53.648646
+Successfully saved to ../../data/original_table/usgs_africa/Central African Republic_2004.xls. Execution time 0.31 seconds
+
+2026-07-09 14:20:56.225027
+Downloading 125/987 [Central African Republic in 2005 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/ctivtomyb05.xls]
+
+2026-07-09 14:20:56.399436
+Successfully saved to ../../data/original_table/usgs_africa/Central African Republic_2005.xls. Execution time 0.17 seconds
+
+2026-07-09 14:20:58.989645
+Downloading 126/987 [Central African Republic in 2006 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-ct-iv-to.xls]
+
+2026-07-09 14:20:59.363887
+Successfully saved to ../../data/original_table/usgs_africa/Central African Republic_2006.xls. Execution time 0.37 seconds
+
+2026-07-09 14:21:02.444667
+Downloading 127/987 [Central African Republic in 2007 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-ct-iv-to.xls]
+
+2026-07-09 14:21:02.695878
+Successfully saved to ../../data/original_table/usgs_africa/Central African Republic_2007.xls. Execution time 0.25 seconds
+
+2026-07-09 14:21:05.138539
+Downloading 128/987 [Central African Republic in 2008 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-ct-iv-to.xls]
+
+2026-07-09 14:21:05.386386
+Successfully saved to ../../data/original_table/usgs_africa/Central African Republic_2008.xls. Execution time 0.25 seconds
+
+2026-07-09 14:21:07.447048
+Downloading 129/987 [Central African Republic in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-ct-iv-to.xls]
+
+2026-07-09 14:21:07.698258
+Successfully saved to ../../data/original_table/usgs_africa/Central African Republic_2009.xls. Execution time 0.25 seconds
+
+2026-07-09 14:21:09.903108
+Downloading 130/987 [Central African Republic in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-ct-iv-to.xls]
+
+2026-07-09 14:21:10.111474
+Successfully saved to ../../data/original_table/usgs_africa/Central African Republic_2010.xls. Execution time 0.21 seconds
+
+2026-07-09 14:21:13.442979
+Downloading 131/987 [Central African Republic in 2011 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-ct-to.xls]
+
+2026-07-09 14:21:13.717202
+Successfully saved to ../../data/original_table/usgs_africa/Central African Republic_2011.xls. Execution time 0.27 seconds
+
+2026-07-09 14:21:16.151990
+Downloading 132/987 [Central African Republic in 2012 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-ct-to.xls]
+
+2026-07-09 14:21:16.377018
+Successfully saved to ../../data/original_table/usgs_africa/Central African Republic_2012.xls. Execution time 0.23 seconds
+
+2026-07-09 14:21:18.675232
+Downloading 133/987 [Central African Republic in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-ct.xls]
+
+2026-07-09 14:21:18.907438
+Successfully saved to ../../data/original_table/usgs_africa/Central African Republic_2014.xls. Execution time 0.23 seconds
+
+2026-07-09 14:21:21.019883
+Downloading 134/987 [Central African Republic in 2015 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-ct.xls]
+
+2026-07-09 14:21:21.215074
+Successfully saved to ../../data/original_table/usgs_africa/Central African Republic_2015.xls. Execution time 0.20 seconds
+
+2026-07-09 14:21:25.081167
+Downloading 135/987 [Central African Republic in 2016 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-ct.xlsx]
+
+2026-07-09 14:21:25.291532
+Successfully saved to ../../data/original_table/usgs_africa/Central African Republic_2016.xlsx. Execution time 0.21 seconds
+
+2026-07-09 14:21:28.840374
+Downloading 136/987 [Central African Republic in 2018 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-ct.xlsx]
+
+2026-07-09 14:21:29.009548
+Successfully saved to ../../data/original_table/usgs_africa/Central African Republic_2018.xlsx. Execution time 0.17 seconds
+
+2026-07-09 14:21:32.910149
+Downloading 137/987 [Central African Republic in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-central-african-republic.xlsx]
+
+2026-07-09 14:21:33.684519
+Successfully saved to ../../data/original_table/usgs_africa/Central African Republic_2019.xlsx. Execution time 0.77 seconds
+
+2026-07-09 14:21:35.945375
+Downloading 138/987 [Central African Republic in 2021 from: https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-central-african-republic.xlsx]
+
+2026-07-09 14:21:37.109545
+Successfully saved to ../../data/original_table/usgs_africa/Central African Republic_2021.xlsx. Execution time 1.16 seconds
+
+2026-07-09 14:21:39.126826
+Downloading 139/987 [Central African Republic in 2022 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-CentralAfricanRepublic-advrel_0.xlsx]
+
+2026-07-09 14:21:40.591553
+Successfully saved to ../../data/original_table/usgs_africa/Central African Republic_2022.xlsx. Execution time 1.46 seconds
+
+2026-07-09 14:21:44.368374
+Downloading 140/987 [Central African Republic in 2023 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2023-Central%20African%20Republic-ERT.xlsx]
+
+2026-07-09 14:21:44.504555
+Successfully saved to ../../data/original_table/usgs_africa/Central African Republic_2023.xlsx. Execution time 0.14 seconds
+
+2026-07-09 14:21:47.623865
+Downloading 141/987 [Chad in 2002 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/cmcdmyb02r.xls]
+
+2026-07-09 14:21:47.756468
+Successfully saved to ../../data/original_table/usgs_africa/Chad_2002.xls. Execution time 0.13 seconds
+
+2026-07-09 14:21:50.460851
+Downloading 142/987 [Chad in 2003 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/cmcdmyb03.xls]
+
+2026-07-09 14:21:50.618046
+Successfully saved to ../../data/original_table/usgs_africa/Chad_2003.xls. Execution time 0.16 seconds
+
+2026-07-09 14:21:53.087838
+Downloading 143/987 [Chad in 2004 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/cdmyb04.xls]
+
+2026-07-09 14:21:53.318757
+Successfully saved to ../../data/original_table/usgs_africa/Chad_2004.xls. Execution time 0.23 seconds
+
+2026-07-09 14:21:57.240999
+Downloading 144/987 [Chad in 2005 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/cdmyb05.xls]
+
+2026-07-09 14:21:57.542014
+Successfully saved to ../../data/original_table/usgs_africa/Chad_2005.xls. Execution time 0.30 seconds
+
+2026-07-09 14:22:00.115752
+Downloading 145/987 [Chad in 2006 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-cd.xls]
+
+2026-07-09 14:22:00.356713
+Successfully saved to ../../data/original_table/usgs_africa/Chad_2006.xls. Execution time 0.24 seconds
+
+2026-07-09 14:22:03.432377
+Downloading 146/987 [Chad in 2007 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-cd.xls]
+
+2026-07-09 14:22:03.704470
+Successfully saved to ../../data/original_table/usgs_africa/Chad_2007.xls. Execution time 0.27 seconds
+
+2026-07-09 14:22:06.018073
+Downloading 147/987 [Chad in 2008 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-cd.xls]
+
+2026-07-09 14:22:06.226569
+Successfully saved to ../../data/original_table/usgs_africa/Chad_2008.xls. Execution time 0.21 seconds
+
+2026-07-09 14:22:09.969189
+Downloading 148/987 [Chad in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-cd.xls]
+
+2026-07-09 14:22:10.149718
+Successfully saved to ../../data/original_table/usgs_africa/Chad_2009.xls. Execution time 0.18 seconds
+
+2026-07-09 14:22:13.357383
+Downloading 149/987 [Chad in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-cd.xls]
+
+2026-07-09 14:22:13.667902
+Successfully saved to ../../data/original_table/usgs_africa/Chad_2010.xls. Execution time 0.31 seconds
+
+2026-07-09 14:22:16.713567
+Downloading 150/987 [Chad in 2011 from: https://sd9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-cd.xls]
+
+2026-07-09 14:22:18.055520
+Failed to download https://sd9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-cd.xls. Error: 403 Client Error: Forbidden for url: https://sd9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-cd.xls. Execution time 1.34 seconds
+
+2026-07-09 14:22:24.610732
+Downloading 151/987 [Chad in 2012 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-cd.xls]
+
+2026-07-09 14:22:26.217790
+Successfully saved to ../../data/original_table/usgs_africa/Chad_2012.xls. Execution time 1.61 seconds
+
+2026-07-09 14:22:29.666628
+Downloading 152/987 [Chad in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-cd.xls]
+
+2026-07-09 14:22:29.902035
+Successfully saved to ../../data/original_table/usgs_africa/Chad_2013.xls. Execution time 0.24 seconds
+
+2026-07-09 14:22:33.248627
+Downloading 153/987 [Chad in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-cd.xls]
+
+2026-07-09 14:22:33.507368
+Successfully saved to ../../data/original_table/usgs_africa/Chad_2014.xls. Execution time 0.26 seconds
+
+2026-07-09 14:22:36.905589
+Downloading 154/987 [Chad in 2015 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-cd.xlsx]
+
+2026-07-09 14:22:37.097382
+Successfully saved to ../../data/original_table/usgs_africa/Chad_2015.xlsx. Execution time 0.19 seconds
+
+2026-07-09 14:22:39.282781
+Downloading 155/987 [Chad in 2016 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-cd.xlsx]
+
+2026-07-09 14:22:40.863312
+Successfully saved to ../../data/original_table/usgs_africa/Chad_2016.xlsx. Execution time 1.58 seconds
+
+2026-07-09 14:22:43.017236
+Downloading 156/987 [Chad in 2018 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-chad.xlsx]
+
+2026-07-09 14:22:44.592366
+Successfully saved to ../../data/original_table/usgs_africa/Chad_2018.xlsx. Execution time 1.58 seconds
+
+2026-07-09 14:22:48.284621
+Downloading 157/987 [Chad in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-chad.xlsx]
+
+2026-07-09 14:22:49.029139
+Successfully saved to ../../data/original_table/usgs_africa/Chad_2019.xlsx. Execution time 0.74 seconds
+
+2026-07-09 14:22:51.822840
+Downloading 158/987 [Chad in 2021 from: https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-chad.xlsx]
+
+2026-07-09 14:22:52.991275
+Successfully saved to ../../data/original_table/usgs_africa/Chad_2021.xlsx. Execution time 1.17 seconds
+
+2026-07-09 14:22:56.577031
+Downloading 159/987 [Chad in 2022 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-Chad-advrel_0.xlsx]
+
+2026-07-09 14:22:57.483502
+Successfully saved to ../../data/original_table/usgs_africa/Chad_2022.xlsx. Execution time 0.91 seconds
+
+2026-07-09 14:23:01.223809
+Downloading 160/987 [Chad in 2023 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2023-Chad-adv.xlsx]
+
+2026-07-09 14:23:01.390400
+Successfully saved to ../../data/original_table/usgs_africa/Chad_2023.xlsx. Execution time 0.17 seconds
+
+2026-07-09 14:23:04.276660
+Downloading 161/987 [Congo (Brazzaville) in 2002 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/cfmyb02.xls]
+
+2026-07-09 14:23:04.427072
+Successfully saved to ../../data/original_table/usgs_africa/Congo (Brazzaville)_2002.xls. Execution time 0.15 seconds
+
+2026-07-09 14:23:06.916539
+Downloading 162/987 [Congo (Brazzaville) in 2003 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/cfmyb03.xls]
+
+2026-07-09 14:23:07.062494
+Successfully saved to ../../data/original_table/usgs_africa/Congo (Brazzaville)_2003.xls. Execution time 0.15 seconds
+
+2026-07-09 14:23:10.817613
+Downloading 163/987 [Congo (Brazzaville) in 2004 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/cfmyb04.xls]
+
+2026-07-09 14:23:11.015245
+Successfully saved to ../../data/original_table/usgs_africa/Congo (Brazzaville)_2004.xls. Execution time 0.20 seconds
+
+2026-07-09 14:23:14.548032
+Downloading 164/987 [Congo (Brazzaville) in 2005 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/cfmyb05.xls]
+
+2026-07-09 14:23:14.857522
+Successfully saved to ../../data/original_table/usgs_africa/Congo (Brazzaville)_2005.xls. Execution time 0.31 seconds
+
+2026-07-09 14:23:17.030749
+Downloading 165/987 [Congo (Brazzaville) in 2006 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-cf.xls]
+
+2026-07-09 14:23:17.246386
+Successfully saved to ../../data/original_table/usgs_africa/Congo (Brazzaville)_2006.xls. Execution time 0.22 seconds
+
+2026-07-09 14:23:20.371646
+Downloading 166/987 [Congo (Brazzaville) in 2007 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-cf.xls]
+
+2026-07-09 14:23:20.584073
+Successfully saved to ../../data/original_table/usgs_africa/Congo (Brazzaville)_2007.xls. Execution time 0.21 seconds
+
+2026-07-09 14:23:23.093021
+Downloading 167/987 [Congo (Brazzaville) in 2008 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-cf.xls]
+
+2026-07-09 14:23:23.312824
+Successfully saved to ../../data/original_table/usgs_africa/Congo (Brazzaville)_2008.xls. Execution time 0.22 seconds
+
+2026-07-09 14:23:27.096230
+Downloading 168/987 [Congo (Brazzaville) in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-cf.xls]
+
+2026-07-09 14:23:27.299280
+Successfully saved to ../../data/original_table/usgs_africa/Congo (Brazzaville)_2009.xls. Execution time 0.20 seconds
+
+2026-07-09 14:23:29.884931
+Downloading 169/987 [Congo (Brazzaville) in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-cf.xls]
+
+2026-07-09 14:23:30.064386
+Successfully saved to ../../data/original_table/usgs_africa/Congo (Brazzaville)_2010.xls. Execution time 0.18 seconds
+
+2026-07-09 14:23:34.063358
+Downloading 170/987 [Congo (Brazzaville) in 2011 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-cf.xls]
+
+2026-07-09 14:23:34.280425
+Successfully saved to ../../data/original_table/usgs_africa/Congo (Brazzaville)_2011.xls. Execution time 0.22 seconds
+
+2026-07-09 14:23:36.480106
+Downloading 171/987 [Congo (Brazzaville) in 2012 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-cf.xls]
+
+2026-07-09 14:23:36.686701
+Successfully saved to ../../data/original_table/usgs_africa/Congo (Brazzaville)_2012.xls. Execution time 0.21 seconds
+
+2026-07-09 14:23:40.684478
+Downloading 172/987 [Congo (Brazzaville) in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-cf.xls]
+
+2026-07-09 14:23:40.861502
+Successfully saved to ../../data/original_table/usgs_africa/Congo (Brazzaville)_2013.xls. Execution time 0.18 seconds
+
+2026-07-09 14:23:43.401813
+Downloading 173/987 [Congo (Brazzaville) in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-cf.xls]
+
+2026-07-09 14:23:43.609638
+Successfully saved to ../../data/original_table/usgs_africa/Congo (Brazzaville)_2014.xls. Execution time 0.21 seconds
+
+2026-07-09 14:23:47.594378
+Downloading 174/987 [Congo (Brazzaville) in 2015 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-cf.xlsx]
+
+2026-07-09 14:23:47.770242
+Successfully saved to ../../data/original_table/usgs_africa/Congo (Brazzaville)_2015.xlsx. Execution time 0.18 seconds
+
+2026-07-09 14:23:50.278708
+Downloading 175/987 [Congo (Brazzaville) in 2016 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-cf.xlsx]
+
+2026-07-09 14:23:51.343290
+Successfully saved to ../../data/original_table/usgs_africa/Congo (Brazzaville)_2016.xlsx. Execution time 1.06 seconds
+
+2026-07-09 14:23:53.518713
+Downloading 176/987 [Congo (Brazzaville) in 2018 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-cf.xlsx]
+
+2026-07-09 14:23:53.664434
+Successfully saved to ../../data/original_table/usgs_africa/Congo (Brazzaville)_2018.xlsx. Execution time 0.15 seconds
+
+2026-07-09 14:23:57.068325
+Downloading 177/987 [Congo (Brazzaville) in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-congo-brazzaville.xlsx]
+
+2026-07-09 14:23:57.842344
+Successfully saved to ../../data/original_table/usgs_africa/Congo (Brazzaville)_2019.xlsx. Execution time 0.77 seconds
+
+2026-07-09 14:24:01.035754
+Downloading 178/987 [Congo (Brazzaville) in 2021 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2020-21-congo-brazzaville.xlsx]
+
+2026-07-09 14:24:01.987952
+Successfully saved to ../../data/original_table/usgs_africa/Congo (Brazzaville)_2021.xlsx. Execution time 0.95 seconds
+
+2026-07-09 14:24:04.720051
+Downloading 179/987 [Congo (Brazzaville) in 2022 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-congo-brazzaville.xlsx]
+
+2026-07-09 14:24:04.915272
+Successfully saved to ../../data/original_table/usgs_africa/Congo (Brazzaville)_2022.xlsx. Execution time 0.20 seconds
+
+2026-07-09 14:24:07.214329
+Downloading 180/987 [Congo (Kinshasa) in 2002 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/cgmyb02.xls]
+
+2026-07-09 14:24:07.365379
+Successfully saved to ../../data/original_table/usgs_africa/Congo (Kinshasa)_2002.xls. Execution time 0.15 seconds
+
+2026-07-09 14:24:10.442763
+Downloading 181/987 [Congo (Kinshasa) in 2003 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/cgmyb03.xls]
+
+2026-07-09 14:24:10.630629
+Successfully saved to ../../data/original_table/usgs_africa/Congo (Kinshasa)_2003.xls. Execution time 0.19 seconds
+
+2026-07-09 14:24:13.902732
+Downloading 182/987 [Congo (Kinshasa) in 2004 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/cgmyb04.xls]
+
+2026-07-09 14:24:14.124014
+Successfully saved to ../../data/original_table/usgs_africa/Congo (Kinshasa)_2004.xls. Execution time 0.22 seconds
+
+2026-07-09 14:24:17.397973
+Downloading 183/987 [Congo (Kinshasa) in 2005 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/cgmyb05.xls]
+
+2026-07-09 14:24:17.692573
+Successfully saved to ../../data/original_table/usgs_africa/Congo (Kinshasa)_2005.xls. Execution time 0.29 seconds
+
+2026-07-09 14:24:21.282534
+Downloading 184/987 [Congo (Kinshasa) in 2006 from: https://d9-wret.s3.us-west-2.amazonaws.com/assetspalladium/production/mineral-pubs/country/2006/myb3-2006-cg.xls]
+
+2026-07-09 14:24:21.627749
+Failed to download https://d9-wret.s3.us-west-2.amazonaws.com/assetspalladium/production/mineral-pubs/country/2006/myb3-2006-cg.xls. Error: 403 Client Error: Forbidden for url: https://d9-wret.s3.us-west-2.amazonaws.com/assetspalladium/production/mineral-pubs/country/2006/myb3-2006-cg.xls. Execution time 0.35 seconds
+
+2026-07-09 14:24:28.526435
+Downloading 185/987 [Congo (Kinshasa) in 2007 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-cg.xls]
+
+2026-07-09 14:24:34.762302
+Successfully saved to ../../data/original_table/usgs_africa/Congo (Kinshasa)_2007.xls. Execution time 6.24 seconds
+
+2026-07-09 14:24:38.601478
+Downloading 186/987 [Congo (Kinshasa) in 2008 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-cg.xls]
+
+2026-07-09 14:24:38.924325
+Successfully saved to ../../data/original_table/usgs_africa/Congo (Kinshasa)_2008.xls. Execution time 0.32 seconds
+
+2026-07-09 14:24:42.465736
+Downloading 187/987 [Congo (Kinshasa) in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-cg.xls]
+
+2026-07-09 14:24:42.674855
+Successfully saved to ../../data/original_table/usgs_africa/Congo (Kinshasa)_2009.xls. Execution time 0.21 seconds
+
+2026-07-09 14:24:46.559816
+Downloading 188/987 [Congo (Kinshasa) in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-cg.xls]
+
+2026-07-09 14:24:46.886559
+Successfully saved to ../../data/original_table/usgs_africa/Congo (Kinshasa)_2010.xls. Execution time 0.33 seconds
+
+2026-07-09 14:24:49.385699
+Downloading 189/987 [Congo (Kinshasa) in 2011 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-cg.xls]
+
+2026-07-09 14:24:49.590904
+Successfully saved to ../../data/original_table/usgs_africa/Congo (Kinshasa)_2011.xls. Execution time 0.21 seconds
+
+2026-07-09 14:24:52.689182
+Downloading 190/987 [Congo (Kinshasa) in 2012 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-cg.xls]
+
+2026-07-09 14:24:52.891956
+Successfully saved to ../../data/original_table/usgs_africa/Congo (Kinshasa)_2012.xls. Execution time 0.20 seconds
+
+2026-07-09 14:24:55.860637
+Downloading 191/987 [Congo (Kinshasa) in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-cg.xls]
+
+2026-07-09 14:24:56.097923
+Successfully saved to ../../data/original_table/usgs_africa/Congo (Kinshasa)_2013.xls. Execution time 0.24 seconds
+
+2026-07-09 14:24:58.510187
+Downloading 192/987 [Congo (Kinshasa) in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-cg.xls]
+
+2026-07-09 14:24:58.737488
+Successfully saved to ../../data/original_table/usgs_africa/Congo (Kinshasa)_2014.xls. Execution time 0.23 seconds
+
+2026-07-09 14:25:02.157612
+Downloading 193/987 [Congo (Kinshasa) in 2015 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-congo-kinshasha.xls]
+
+2026-07-09 14:25:02.362208
+Successfully saved to ../../data/original_table/usgs_africa/Congo (Kinshasa)_2015.xls. Execution time 0.20 seconds
+
+2026-07-09 14:25:05.220331
+Downloading 194/987 [Congo (Kinshasa) in 2016 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-Congo_Kinshasa.xls]
+
+2026-07-09 14:25:05.477320
+Successfully saved to ../../data/original_table/usgs_africa/Congo (Kinshasa)_2016.xls. Execution time 0.26 seconds
+
+2026-07-09 14:25:07.991077
+Downloading 195/987 [Congo (Kinshasa) in 2018 from: https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-congo-kinshasa.xlsx]
+
+2026-07-09 14:25:08.801682
+Successfully saved to ../../data/original_table/usgs_africa/Congo (Kinshasa)_2018.xlsx. Execution time 0.81 seconds
+
+2026-07-09 14:25:11.970972
+Downloading 196/987 [Congo (Kinshasa) in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-congo-kinshasa.xlsx]
+
+2026-07-09 14:25:12.769148
+Successfully saved to ../../data/original_table/usgs_africa/Congo (Kinshasa)_2019.xlsx. Execution time 0.80 seconds
+
+2026-07-09 14:25:16.187015
+Downloading 197/987 [Congo (Kinshasa) in 2021 from: https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-congo-kinshasa.xlsx]
+
+2026-07-09 14:25:17.026454
+Successfully saved to ../../data/original_table/usgs_africa/Congo (Kinshasa)_2021.xlsx. Execution time 0.84 seconds
+
+2026-07-09 14:25:20.897193
+Downloading 198/987 [Congo (Kinshasa) in 2022 from: https://pubs.usgs.gov/myb/vol3/2022/myb3-2022-congo-kinshasa.xlsx]
+
+2026-07-09 14:25:21.656519
+Successfully saved to ../../data/original_table/usgs_africa/Congo (Kinshasa)_2022.xlsx. Execution time 0.76 seconds
+
+2026-07-09 14:25:24.229657
+Downloading 199/987 [Cote d'Ivoire (Ivory Coast) in 2011 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-iv.xls]
+
+2026-07-09 14:25:25.376638
+Successfully saved to ../../data/original_table/usgs_africa/Cote d'Ivoire (Ivory Coast)_2011.xls. Execution time 1.15 seconds
+
+2026-07-09 14:25:28.555874
+Downloading 200/987 [Cote d'Ivoire (Ivory Coast) in 2012 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-iv.xls]
+
+2026-07-09 14:25:28.761183
+Successfully saved to ../../data/original_table/usgs_africa/Cote d'Ivoire (Ivory Coast)_2012.xls. Execution time 0.21 seconds
+
+2026-07-09 14:25:30.925291
+Downloading 201/987 [Cote d'Ivoire (Ivory Coast) in 2016 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-iv.xlsx]
+
+2026-07-09 14:25:31.955508
+Successfully saved to ../../data/original_table/usgs_africa/Cote d'Ivoire (Ivory Coast)_2016.xlsx. Execution time 1.03 seconds
+
+2026-07-09 14:25:34.717990
+Downloading 202/987 [Cote d'Ivoire (Ivory Coast) in 2018 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-Cote%20d%27Ivoire.xls]
+
+2026-07-09 14:25:35.935451
+Successfully saved to ../../data/original_table/usgs_africa/Cote d'Ivoire (Ivory Coast)_2018.xls. Execution time 1.22 seconds
+
+2026-07-09 14:25:38.820505
+Downloading 203/987 [Cote d'Ivoire (Ivory Coast) in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-cote-divoire.xlsx]
+
+2026-07-09 14:25:40.005547
+Successfully saved to ../../data/original_table/usgs_africa/Cote d'Ivoire (Ivory Coast)_2019.xlsx. Execution time 1.19 seconds
+
+2026-07-09 14:25:43.879114
+Downloading 204/987 [Cote d'Ivoire (Ivory Coast) in 2021 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2020-21-Cote%20d%27Ivoire-advrel.xlsx]
+
+2026-07-09 14:25:44.910720
+Successfully saved to ../../data/original_table/usgs_africa/Cote d'Ivoire (Ivory Coast)_2021.xlsx. Execution time 1.03 seconds
+
+2026-07-09 14:25:47.346039
+Downloading 205/987 [Djibouti in 2004 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/djmyb04.xls]
+
+2026-07-09 14:25:47.521397
+Successfully saved to ../../data/original_table/usgs_africa/Djibouti_2004.xls. Execution time 0.18 seconds
+
+2026-07-09 14:25:50.054151
+Downloading 206/987 [Djibouti in 2005 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/djmyb05.xls]
+
+2026-07-09 14:25:50.521671
+Successfully saved to ../../data/original_table/usgs_africa/Djibouti_2005.xls. Execution time 0.47 seconds
+
+2026-07-09 14:25:54.462135
+Downloading 207/987 [Djibouti in 2006 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-dj.xls]
+
+2026-07-09 14:25:54.783458
+Successfully saved to ../../data/original_table/usgs_africa/Djibouti_2006.xls. Execution time 0.32 seconds
+
+2026-07-09 14:25:57.687749
+Downloading 208/987 [Djibouti in 2007 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-dj.xls]
+
+2026-07-09 14:25:57.906964
+Successfully saved to ../../data/original_table/usgs_africa/Djibouti_2007.xls. Execution time 0.22 seconds
+
+2026-07-09 14:26:01.349868
+Downloading 209/987 [Djibouti in 2008 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-dj.xls]
+
+2026-07-09 14:26:01.619272
+Successfully saved to ../../data/original_table/usgs_africa/Djibouti_2008.xls. Execution time 0.27 seconds
+
+2026-07-09 14:26:05.149834
+Downloading 210/987 [Djibouti in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-dj.xls]
+
+2026-07-09 14:26:05.442531
+Successfully saved to ../../data/original_table/usgs_africa/Djibouti_2009.xls. Execution time 0.29 seconds
+
+2026-07-09 14:26:08.333110
+Downloading 211/987 [Djibouti in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-dj.xls]
+
+2026-07-09 14:26:08.669808
+Successfully saved to ../../data/original_table/usgs_africa/Djibouti_2010.xls. Execution time 0.34 seconds
+
+2026-07-09 14:26:11.913473
+Downloading 212/987 [Djibouti in 2011 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-dj.xls]
+
+2026-07-09 14:26:12.181015
+Successfully saved to ../../data/original_table/usgs_africa/Djibouti_2011.xls. Execution time 0.27 seconds
+
+2026-07-09 14:26:15.351384
+Downloading 213/987 [Djibouti in 2012 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-dj.xls]
+
+2026-07-09 14:26:15.605683
+Successfully saved to ../../data/original_table/usgs_africa/Djibouti_2012.xls. Execution time 0.25 seconds
+
+2026-07-09 14:26:18.516160
+Downloading 214/987 [Djibouti in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-dj.xls]
+
+2026-07-09 14:26:19.073919
+Successfully saved to ../../data/original_table/usgs_africa/Djibouti_2013.xls. Execution time 0.56 seconds
+
+2026-07-09 14:26:22.001487
+Downloading 215/987 [Djibouti in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-dj.xls]
+
+2026-07-09 14:26:22.248793
+Successfully saved to ../../data/original_table/usgs_africa/Djibouti_2014.xls. Execution time 0.25 seconds
+
+2026-07-09 14:26:25.664237
+Downloading 216/987 [Djibouti in 2015 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2015/myb3-2015-dj.xls]
+
+2026-07-09 14:26:25.851203
+Successfully saved to ../../data/original_table/usgs_africa/Djibouti_2015.xls. Execution time 0.19 seconds
+
+2026-07-09 14:26:28.828692
+Downloading 217/987 [Djibouti in 2016 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-dj.xlsx]
+
+2026-07-09 14:26:30.278893
+Successfully saved to ../../data/original_table/usgs_africa/Djibouti_2016.xlsx. Execution time 1.45 seconds
+
+2026-07-09 14:26:32.510369
+Downloading 218/987 [Djibouti in 2018 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-dj.xls]
+
+2026-07-09 14:26:34.087400
+Successfully saved to ../../data/original_table/usgs_africa/Djibouti_2018.xls. Execution time 1.58 seconds
+
+2026-07-09 14:26:37.806885
+Downloading 219/987 [Djibouti in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-djibouti.xlsx]
+
+2026-07-09 14:26:38.858871
+Successfully saved to ../../data/original_table/usgs_africa/Djibouti_2019.xlsx. Execution time 1.05 seconds
+
+2026-07-09 14:26:41.573170
+Downloading 220/987 [Djibouti in 2021 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2020-21-Djibouti-advrel.xlsx]
+
+2026-07-09 14:26:42.876663
+Successfully saved to ../../data/original_table/usgs_africa/Djibouti_2021.xlsx. Execution time 1.30 seconds
+
+2026-07-09 14:26:46.780120
+Downloading 221/987 [Djibouti in 2022 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-Djibouti-advrel.xlsx]
+
+2026-07-09 14:26:47.041564
+Successfully saved to ../../data/original_table/usgs_africa/Djibouti_2022.xlsx. Execution time 0.26 seconds
+
+2026-07-09 14:26:49.886155
+Downloading 222/987 [Djibouti in 2023 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2023-Djibouti-ert.xlsx]
+
+2026-07-09 14:26:50.042933
+Successfully saved to ../../data/original_table/usgs_africa/Djibouti_2023.xlsx. Execution time 0.16 seconds
+
+2026-07-09 14:26:53.298016
+Downloading 223/987 [Egypt in 2002 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/egmyb02.xls]
+
+2026-07-09 14:26:53.454831
+Successfully saved to ../../data/original_table/usgs_africa/Egypt_2002.xls. Execution time 0.16 seconds
+
+2026-07-09 14:26:56.286952
+Downloading 224/987 [Egypt in 2003 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/egmyb03.xls]
+
+2026-07-09 14:26:56.452473
+Successfully saved to ../../data/original_table/usgs_africa/Egypt_2003.xls. Execution time 0.17 seconds
+
+2026-07-09 14:27:00.214026
+Downloading 225/987 [Egypt in 2004 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/egmyb04.xls]
+
+2026-07-09 14:27:00.539139
+Successfully saved to ../../data/original_table/usgs_africa/Egypt_2004.xls. Execution time 0.33 seconds
+
+2026-07-09 14:27:02.879966
+Downloading 226/987 [Egypt in 2005 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/egmyb05.xls]
+
+2026-07-09 14:27:03.194823
+Successfully saved to ../../data/original_table/usgs_africa/Egypt_2005.xls. Execution time 0.31 seconds
+
+2026-07-09 14:27:06.676336
+Downloading 227/987 [Egypt in 2006 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-eg.xls]
+
+2026-07-09 14:27:06.864525
+Successfully saved to ../../data/original_table/usgs_africa/Egypt_2006.xls. Execution time 0.19 seconds
+
+2026-07-09 14:27:10.453293
+Downloading 228/987 [Egypt in 2007 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-eg.xls]
+
+2026-07-09 14:27:10.778078
+Successfully saved to ../../data/original_table/usgs_africa/Egypt_2007.xls. Execution time 0.32 seconds
+
+2026-07-09 14:27:13.786255
+Downloading 229/987 [Egypt in 2008 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-eg.xls]
+
+2026-07-09 14:27:14.025599
+Successfully saved to ../../data/original_table/usgs_africa/Egypt_2008.xls. Execution time 0.24 seconds
+
+2026-07-09 14:27:17.090087
+Downloading 230/987 [Egypt in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-eg.xls]
+
+2026-07-09 14:27:17.273747
+Successfully saved to ../../data/original_table/usgs_africa/Egypt_2009.xls. Execution time 0.18 seconds
+
+2026-07-09 14:27:20.489253
+Downloading 231/987 [Egypt in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-eg.xls]
+
+2026-07-09 14:27:20.693274
+Successfully saved to ../../data/original_table/usgs_africa/Egypt_2010.xls. Execution time 0.20 seconds
+
+2026-07-09 14:27:23.838397
+Downloading 232/987 [Egypt in 2011 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-eg.xls]
+
+2026-07-09 14:27:24.038601
+Successfully saved to ../../data/original_table/usgs_africa/Egypt_2011.xls. Execution time 0.20 seconds
+
+2026-07-09 14:27:26.871561
+Downloading 233/987 [Egypt in 2012 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-eg.xls]
+
+2026-07-09 14:27:27.081297
+Successfully saved to ../../data/original_table/usgs_africa/Egypt_2012.xls. Execution time 0.21 seconds
+
+2026-07-09 14:27:31.065094
+Downloading 234/987 [Egypt in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-eg.xls]
+
+2026-07-09 14:27:31.300955
+Successfully saved to ../../data/original_table/usgs_africa/Egypt_2013.xls. Execution time 0.24 seconds
+
+2026-07-09 14:27:34.909783
+Downloading 235/987 [Egypt in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-eg.xlsx]
+
+2026-07-09 14:27:35.102799
+Successfully saved to ../../data/original_table/usgs_africa/Egypt_2014.xlsx. Execution time 0.19 seconds
+
+2026-07-09 14:27:38.752021
+Downloading 236/987 [Egypt in 2015 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-eg.xlsx]
+
+2026-07-09 14:27:38.934868
+Successfully saved to ../../data/original_table/usgs_africa/Egypt_2015.xlsx. Execution time 0.18 seconds
+
+2026-07-09 14:27:42.253460
+Downloading 237/987 [Egypt in 2016 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-eg.xlsx]
+
+2026-07-09 14:27:42.477163
+Successfully saved to ../../data/original_table/usgs_africa/Egypt_2016.xlsx. Execution time 0.22 seconds
+
+2026-07-09 14:27:45.867260
+Downloading 238/987 [Egypt in 2018 from: https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-egypt.xlsx]
+
+2026-07-09 14:27:47.126500
+Successfully saved to ../../data/original_table/usgs_africa/Egypt_2018.xlsx. Execution time 1.26 seconds
+
+2026-07-09 14:27:49.655151
+Downloading 239/987 [Egypt in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-egypt.xlsx]
+
+2026-07-09 14:27:50.595523
+Successfully saved to ../../data/original_table/usgs_africa/Egypt_2019.xlsx. Execution time 0.94 seconds
+
+2026-07-09 14:27:52.944880
+Downloading 240/987 [Egypt in 2021 from: https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-egypt.xlsx]
+
+2026-07-09 14:27:53.783883
+Successfully saved to ../../data/original_table/usgs_africa/Egypt_2021.xlsx. Execution time 0.84 seconds
+
+2026-07-09 14:27:57.706905
+Downloading 241/987 [Egypt in 2022 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-Egypt-advrel.xlsx]
+
+2026-07-09 14:27:59.122249
+Successfully saved to ../../data/original_table/usgs_africa/Egypt_2022.xlsx. Execution time 1.42 seconds
+
+2026-07-09 14:28:02.204371
+Downloading 242/987 [Equatorial Guinea in 2004 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/ekmyb04.xls]
+
+2026-07-09 14:28:02.427895
+Successfully saved to ../../data/original_table/usgs_africa/Equatorial Guinea_2004.xls. Execution time 0.22 seconds
+
+2026-07-09 14:28:06.162734
+Downloading 243/987 [Equatorial Guinea in 2005 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/ekmyb05.xls]
+
+2026-07-09 14:28:06.528331
+Successfully saved to ../../data/original_table/usgs_africa/Equatorial Guinea_2005.xls. Execution time 0.37 seconds
+
+2026-07-09 14:28:09.317634
+Downloading 244/987 [Equatorial Guinea in 2006 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-ek.xls]
+
+2026-07-09 14:28:09.692531
+Successfully saved to ../../data/original_table/usgs_africa/Equatorial Guinea_2006.xls. Execution time 0.37 seconds
+
+2026-07-09 14:28:11.742216
+Downloading 245/987 [Equatorial Guinea in 2007 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-ek.xls]
+
+2026-07-09 14:28:11.947356
+Successfully saved to ../../data/original_table/usgs_africa/Equatorial Guinea_2007.xls. Execution time 0.21 seconds
+
+2026-07-09 14:28:14.895204
+Downloading 246/987 [Equatorial Guinea in 2008 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-ek.xls]
+
+2026-07-09 14:28:15.095608
+Successfully saved to ../../data/original_table/usgs_africa/Equatorial Guinea_2008.xls. Execution time 0.20 seconds
+
+2026-07-09 14:28:17.426731
+Downloading 247/987 [Equatorial Guinea in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-ek.xls]
+
+2026-07-09 14:28:17.669917
+Successfully saved to ../../data/original_table/usgs_africa/Equatorial Guinea_2009.xls. Execution time 0.24 seconds
+
+2026-07-09 14:28:21.059800
+Downloading 248/987 [Equatorial Guinea in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-ek.xls]
+
+2026-07-09 14:28:21.307992
+Successfully saved to ../../data/original_table/usgs_africa/Equatorial Guinea_2010.xls. Execution time 0.25 seconds
+
+2026-07-09 14:28:24.372959
+Downloading 249/987 [Equatorial Guinea in 2011 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-ek.xls]
+
+2026-07-09 14:28:24.564478
+Successfully saved to ../../data/original_table/usgs_africa/Equatorial Guinea_2011.xls. Execution time 0.19 seconds
+
+2026-07-09 14:28:27.899751
+Downloading 250/987 [Equatorial Guinea in 2012 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-ek.xls]
+
+2026-07-09 14:28:28.114097
+Successfully saved to ../../data/original_table/usgs_africa/Equatorial Guinea_2012.xls. Execution time 0.21 seconds
+
+2026-07-09 14:28:31.553528
+Downloading 251/987 [Equatorial Guinea in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-ek.xls]
+
+2026-07-09 14:28:31.724512
+Successfully saved to ../../data/original_table/usgs_africa/Equatorial Guinea_2013.xls. Execution time 0.17 seconds
+
+2026-07-09 14:28:34.498851
+Downloading 252/987 [Equatorial Guinea in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-ek.xls]
+
+2026-07-09 14:28:34.690654
+Successfully saved to ../../data/original_table/usgs_africa/Equatorial Guinea_2014.xls. Execution time 0.19 seconds
+
+2026-07-09 14:28:37.880578
+Downloading 253/987 [Equatorial Guinea in 2015 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2015/myb3-2015-ek.xls]
+
+2026-07-09 14:28:38.057142
+Successfully saved to ../../data/original_table/usgs_africa/Equatorial Guinea_2015.xls. Execution time 0.18 seconds
+
+2026-07-09 14:28:40.193094
+Downloading 254/987 [Equatorial Guinea in 2016 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-ek.xlsx]
+
+2026-07-09 14:28:40.376748
+Successfully saved to ../../data/original_table/usgs_africa/Equatorial Guinea_2016.xlsx. Execution time 0.18 seconds
+
+2026-07-09 14:28:44.108125
+Downloading 255/987 [Equatorial Guinea in 2018 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-ek.xls]
+
+2026-07-09 14:28:44.331906
+Successfully saved to ../../data/original_table/usgs_africa/Equatorial Guinea_2018.xls. Execution time 0.22 seconds
+
+2026-07-09 14:28:46.711780
+Downloading 256/987 [Equatorial Guinea in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-equatorial-guinea.xlsx]
+
+2026-07-09 14:28:47.502345
+Successfully saved to ../../data/original_table/usgs_africa/Equatorial Guinea_2019.xlsx. Execution time 0.79 seconds
+
+2026-07-09 14:28:49.857742
+Downloading 257/987 [Equatorial Guinea in 2021 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2020-21-Equatorial_Guinea-advrel.xlsx]
+
+2026-07-09 14:28:50.012182
+Successfully saved to ../../data/original_table/usgs_africa/Equatorial Guinea_2021.xlsx. Execution time 0.15 seconds
+
+2026-07-09 14:28:52.794397
+Downloading 258/987 [Equatorial Guinea in 2022 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-Equatorial-Guinea-advrel.xlsx]
+
+2026-07-09 14:28:52.935729
+Successfully saved to ../../data/original_table/usgs_africa/Equatorial Guinea_2022.xlsx. Execution time 0.14 seconds
+
+2026-07-09 14:28:56.538900
+Downloading 259/987 [Equatorial Guinea in 2023 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2023-Equatorial%20Guinea-ert.xlsx]
+
+2026-07-09 14:28:56.731192
+Successfully saved to ../../data/original_table/usgs_africa/Equatorial Guinea_2023.xlsx. Execution time 0.19 seconds
+
+2026-07-09 14:29:00.289180
+Downloading 260/987 [Eritrea in 2004 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/ermyb04.xls]
+
+2026-07-09 14:29:00.521327
+Successfully saved to ../../data/original_table/usgs_africa/Eritrea_2004.xls. Execution time 0.23 seconds
+
+2026-07-09 14:29:03.883487
+Downloading 261/987 [Eritrea in 2005 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/ermyb05.xls]
+
+2026-07-09 14:29:04.090580
+Successfully saved to ../../data/original_table/usgs_africa/Eritrea_2005.xls. Execution time 0.21 seconds
+
+2026-07-09 14:29:07.709572
+Downloading 262/987 [Eritrea in 2006 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-er.xls]
+
+2026-07-09 14:29:07.925808
+Successfully saved to ../../data/original_table/usgs_africa/Eritrea_2006.xls. Execution time 0.22 seconds
+
+2026-07-09 14:29:11.579888
+Downloading 263/987 [Eritrea in 2007 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-er.xls]
+
+2026-07-09 14:29:11.743380
+Successfully saved to ../../data/original_table/usgs_africa/Eritrea_2007.xls. Execution time 0.16 seconds
+
+2026-07-09 14:29:13.961568
+Downloading 264/987 [Eritrea in 2008 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-er.xls]
+
+2026-07-09 14:29:14.173522
+Successfully saved to ../../data/original_table/usgs_africa/Eritrea_2008.xls. Execution time 0.21 seconds
+
+2026-07-09 14:29:18.085073
+Downloading 265/987 [Eritrea in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-er.xls]
+
+2026-07-09 14:29:18.267375
+Successfully saved to ../../data/original_table/usgs_africa/Eritrea_2009.xls. Execution time 0.18 seconds
+
+2026-07-09 14:29:20.600856
+Downloading 266/987 [Eritrea in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-er.xls]
+
+2026-07-09 14:29:20.812438
+Successfully saved to ../../data/original_table/usgs_africa/Eritrea_2010.xls. Execution time 0.21 seconds
+
+2026-07-09 14:29:24.475240
+Downloading 267/987 [Eritrea in 2011 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-er.xls]
+
+2026-07-09 14:29:24.678751
+Successfully saved to ../../data/original_table/usgs_africa/Eritrea_2011.xls. Execution time 0.20 seconds
+
+2026-07-09 14:29:28.243218
+Downloading 268/987 [Eritrea in 2012 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-er.xls]
+
+2026-07-09 14:29:28.440513
+Successfully saved to ../../data/original_table/usgs_africa/Eritrea_2012.xls. Execution time 0.20 seconds
+
+2026-07-09 14:29:31.372921
+Downloading 269/987 [Eritrea in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-er.xls]
+
+2026-07-09 14:29:31.641838
+Successfully saved to ../../data/original_table/usgs_africa/Eritrea_2013.xls. Execution time 0.27 seconds
+
+2026-07-09 14:29:34.725170
+Downloading 270/987 [Eritrea in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-er.xls]
+
+2026-07-09 14:29:58.717618
+Successfully saved to ../../data/original_table/usgs_africa/Eritrea_2014.xls. Execution time 23.99 seconds
+
+2026-07-09 14:30:01.885669
+Downloading 271/987 [Eritrea in 2015 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-er.xlsx]
+
+2026-07-09 14:30:05.000822
+Successfully saved to ../../data/original_table/usgs_africa/Eritrea_2015.xlsx. Execution time 3.12 seconds
+
+2026-07-09 14:30:07.392941
+Downloading 272/987 [Eritrea in 2016 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-eri.xlsx]
+
+2026-07-09 14:30:08.717865
+Successfully saved to ../../data/original_table/usgs_africa/Eritrea_2016.xlsx. Execution time 1.32 seconds
+
+2026-07-09 14:30:11.868652
+Downloading 273/987 [Eritrea in 2018 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-er.xls]
+
+2026-07-09 14:30:15.118446
+Successfully saved to ../../data/original_table/usgs_africa/Eritrea_2018.xls. Execution time 3.25 seconds
+
+2026-07-09 14:30:19.098321
+Downloading 274/987 [Eritrea in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-eritrea.xlsx]
+
+2026-07-09 14:30:34.405604
+Successfully saved to ../../data/original_table/usgs_africa/Eritrea_2019.xlsx. Execution time 15.31 seconds
+
+2026-07-09 14:30:36.984466
+Downloading 275/987 [Eritrea in 2021 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2020-21-Eritrea-advrel.xlsx]
+
+2026-07-09 14:30:37.974566
+Successfully saved to ../../data/original_table/usgs_africa/Eritrea_2021.xlsx. Execution time 0.99 seconds
+
+2026-07-09 14:30:40.055479
+Downloading 276/987 [Eritrea in 2022 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-Eritrea-ert.xlsx]
+
+2026-07-09 14:30:40.833451
+Successfully saved to ../../data/original_table/usgs_africa/Eritrea_2022.xlsx. Execution time 0.78 seconds
+
+2026-07-09 14:30:43.669661
+Downloading 277/987 [Eritrea in 2023 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2023-Eritrea-ert.xlsx]
+
+2026-07-09 14:30:43.817172
+Successfully saved to ../../data/original_table/usgs_africa/Eritrea_2023.xlsx. Execution time 0.15 seconds
+
+2026-07-09 14:30:46.076663
+Downloading 278/987 [Eswatini (formerly Swaziland) in 2002 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/ltwzmyb02.xls]
+
+2026-07-09 14:30:46.216493
+Successfully saved to ../../data/original_table/usgs_africa/Eswatini (formerly Swaziland)_2002.xls. Execution time 0.14 seconds
+
+2026-07-09 14:30:48.837370
+Downloading 279/987 [Eswatini (formerly Swaziland) in 2003 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/ltwzmyb03.xls]
+
+2026-07-09 14:30:48.980684
+Successfully saved to ../../data/original_table/usgs_africa/Eswatini (formerly Swaziland)_2003.xls. Execution time 0.14 seconds
+
+2026-07-09 14:30:52.168149
+Downloading 280/987 [Eswatini (formerly Swaziland) in 2004 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/ltwzmyb04.xls]
+
+2026-07-09 14:30:52.353924
+Successfully saved to ../../data/original_table/usgs_africa/Eswatini (formerly Swaziland)_2004.xls. Execution time 0.19 seconds
+
+2026-07-09 14:30:55.533592
+Downloading 281/987 [Eswatini (formerly Swaziland) in 2005 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/wzmyb05.xls]
+
+2026-07-09 14:30:55.885567
+Successfully saved to ../../data/original_table/usgs_africa/Eswatini (formerly Swaziland)_2005.xls. Execution time 0.35 seconds
+
+2026-07-09 14:30:58.619418
+Downloading 282/987 [Eswatini (formerly Swaziland) in 2006 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-lt-wz.xls]
+
+2026-07-09 14:30:58.837027
+Successfully saved to ../../data/original_table/usgs_africa/Eswatini (formerly Swaziland)_2006.xls. Execution time 0.22 seconds
+
+2026-07-09 14:31:01.804500
+Downloading 283/987 [Eswatini (formerly Swaziland) in 2007 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-lt-wz.xls]
+
+2026-07-09 14:31:32.007617
+Failed to download https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-lt-wz.xls. Error: HTTPSConnectionPool(host='d9-wret.s3.us-west-2.amazonaws.com', port=443): Read timed out.. Execution time 30.20 seconds
+
+2026-07-09 14:31:38.985162
+Downloading 284/987 [Eswatini (formerly Swaziland) in 2008 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-lt-wz.xls]
+
+2026-07-09 14:31:40.318640
+Successfully saved to ../../data/original_table/usgs_africa/Eswatini (formerly Swaziland)_2008.xls. Execution time 1.33 seconds
+
+2026-07-09 14:31:43.738867
+Downloading 285/987 [Eswatini (formerly Swaziland) in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-lt-wz.xls]
+
+2026-07-09 14:31:43.978355
+Successfully saved to ../../data/original_table/usgs_africa/Eswatini (formerly Swaziland)_2009.xls. Execution time 0.24 seconds
+
+2026-07-09 14:31:47.870603
+Downloading 286/987 [Eswatini (formerly Swaziland) in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-lt-wz.xls]
+
+2026-07-09 14:31:48.101354
+Successfully saved to ../../data/original_table/usgs_africa/Eswatini (formerly Swaziland)_2010.xls. Execution time 0.23 seconds
+
+2026-07-09 14:31:50.158624
+Downloading 287/987 [Eswatini (formerly Swaziland) in 2011 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-lt-wz.xls]
+
+2026-07-09 14:31:50.357829
+Successfully saved to ../../data/original_table/usgs_africa/Eswatini (formerly Swaziland)_2011.xls. Execution time 0.20 seconds
+
+2026-07-09 14:31:53.848671
+Downloading 288/987 [Eswatini (formerly Swaziland) in 2012 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-lt-wz.xls]
+
+2026-07-09 14:31:54.088380
+Successfully saved to ../../data/original_table/usgs_africa/Eswatini (formerly Swaziland)_2012.xls. Execution time 0.24 seconds
+
+2026-07-09 14:31:56.229069
+Downloading 289/987 [Eswatini (formerly Swaziland) in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-lt-wz.xls]
+
+2026-07-09 14:31:56.462401
+Successfully saved to ../../data/original_table/usgs_africa/Eswatini (formerly Swaziland)_2013.xls. Execution time 0.23 seconds
+
+2026-07-09 14:31:59.673324
+Downloading 290/987 [Eswatini (formerly Swaziland) in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-wz.xls]
+
+2026-07-09 14:31:59.880040
+Successfully saved to ../../data/original_table/usgs_africa/Eswatini (formerly Swaziland)_2014.xls. Execution time 0.21 seconds
+
+2026-07-09 14:32:03.503702
+Downloading 291/987 [Eswatini (formerly Swaziland) in 2015 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2015/myb3-2015-wz.xls]
+
+2026-07-09 14:32:03.706980
+Successfully saved to ../../data/original_table/usgs_africa/Eswatini (formerly Swaziland)_2015.xls. Execution time 0.20 seconds
+
+2026-07-09 14:32:07.431509
+Downloading 292/987 [Eswatini (formerly Swaziland) in 2016 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-wz.xlsx]
+
+2026-07-09 14:32:07.673476
+Successfully saved to ../../data/original_table/usgs_africa/Eswatini (formerly Swaziland)_2016.xlsx. Execution time 0.24 seconds
+
+2026-07-09 14:32:10.842310
+Downloading 293/987 [Eswatini (formerly Swaziland) in 2018 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-wz.xlsx]
+
+2026-07-09 14:32:11.017542
+Successfully saved to ../../data/original_table/usgs_africa/Eswatini (formerly Swaziland)_2018.xlsx. Execution time 0.18 seconds
+
+2026-07-09 14:32:13.061919
+Downloading 294/987 [Eswatini (formerly Swaziland) in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-eswatini.xlsx]
+
+2026-07-09 14:32:14.262970
+Successfully saved to ../../data/original_table/usgs_africa/Eswatini (formerly Swaziland)_2019.xlsx. Execution time 1.20 seconds
+
+2026-07-09 14:32:16.916070
+Downloading 295/987 [Eswatini (formerly Swaziland) in 2021 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2020-21-Eswatini-advrel.xlsx]
+
+2026-07-09 14:32:18.112634
+Successfully saved to ../../data/original_table/usgs_africa/Eswatini (formerly Swaziland)_2021.xlsx. Execution time 1.20 seconds
+
+2026-07-09 14:32:21.800141
+Downloading 296/987 [Eswatini (formerly Swaziland) in 2022 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-Eswatini-advrel.xlsx]
+
+2026-07-09 14:32:22.010921
+Successfully saved to ../../data/original_table/usgs_africa/Eswatini (formerly Swaziland)_2022.xlsx. Execution time 0.21 seconds
+
+2026-07-09 14:32:25.662017
+Downloading 297/987 [Eswatini (formerly Swaziland) in 2023 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2023-Eswatini-ERT.xlsx]
+
+2026-07-09 14:32:25.885904
+Successfully saved to ../../data/original_table/usgs_africa/Eswatini (formerly Swaziland)_2023.xlsx. Execution time 0.22 seconds
+
+2026-07-09 14:32:28.378889
+Downloading 298/987 [Ethiopia in 2004 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/etmyb04.xls]
+
+2026-07-09 14:32:28.663352
+Successfully saved to ../../data/original_table/usgs_africa/Ethiopia_2004.xls. Execution time 0.28 seconds
+
+2026-07-09 14:32:30.716547
+Downloading 299/987 [Ethiopia in 2005 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/etmyb05.xls]
+
+2026-07-09 14:32:31.013285
+Successfully saved to ../../data/original_table/usgs_africa/Ethiopia_2005.xls. Execution time 0.30 seconds
+
+2026-07-09 14:32:33.513337
+Downloading 300/987 [Ethiopia in 2006 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-et.xls]
+
+2026-07-09 14:32:33.710638
+Successfully saved to ../../data/original_table/usgs_africa/Ethiopia_2006.xls. Execution time 0.20 seconds
+
+2026-07-09 14:32:35.937005
+Downloading 301/987 [Ethiopia in 2007 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-et.xls]
+
+2026-07-09 14:32:36.177390
+Successfully saved to ../../data/original_table/usgs_africa/Ethiopia_2007.xls. Execution time 0.24 seconds
+
+2026-07-09 14:32:38.596812
+Downloading 302/987 [Ethiopia in 2008 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-et.xls]
+
+2026-07-09 14:32:38.808229
+Successfully saved to ../../data/original_table/usgs_africa/Ethiopia_2008.xls. Execution time 0.21 seconds
+
+2026-07-09 14:32:41.050897
+Downloading 303/987 [Ethiopia in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-et.xls]
+
+2026-07-09 14:32:41.261653
+Successfully saved to ../../data/original_table/usgs_africa/Ethiopia_2009.xls. Execution time 0.21 seconds
+
+2026-07-09 14:32:44.730523
+Downloading 304/987 [Ethiopia in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-et.xls]
+
+2026-07-09 14:32:44.938423
+Successfully saved to ../../data/original_table/usgs_africa/Ethiopia_2010.xls. Execution time 0.21 seconds
+
+2026-07-09 14:32:48.376719
+Downloading 305/987 [Ethiopia in 2011 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-et.xls]
+
+2026-07-09 14:32:48.568580
+Successfully saved to ../../data/original_table/usgs_africa/Ethiopia_2011.xls. Execution time 0.19 seconds
+
+2026-07-09 14:32:51.227908
+Downloading 306/987 [Ethiopia in 2012 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-et.xls]
+
+2026-07-09 14:32:51.489851
+Successfully saved to ../../data/original_table/usgs_africa/Ethiopia_2012.xls. Execution time 0.26 seconds
+
+2026-07-09 14:32:54.610707
+Downloading 307/987 [Ethiopia in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-et.xls]
+
+2026-07-09 14:32:54.810467
+Successfully saved to ../../data/original_table/usgs_africa/Ethiopia_2013.xls. Execution time 0.20 seconds
+
+2026-07-09 14:32:57.811760
+Downloading 308/987 [Ethiopia in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-et.xls]
+
+2026-07-09 14:32:58.042238
+Successfully saved to ../../data/original_table/usgs_africa/Ethiopia_2014.xls. Execution time 0.23 seconds
+
+2026-07-09 14:33:00.090330
+Downloading 309/987 [Ethiopia in 2015 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2015-et.xls]
+
+2026-07-09 14:33:00.312799
+Successfully saved to ../../data/original_table/usgs_africa/Ethiopia_2015.xls. Execution time 0.22 seconds
+
+2026-07-09 14:33:02.858313
+Downloading 310/987 [Ethiopia in 2016 from: https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-et.xlsx]
+
+2026-07-09 14:33:04.387744
+Successfully saved to ../../data/original_table/usgs_africa/Ethiopia_2016.xlsx. Execution time 1.53 seconds
+
+2026-07-09 14:33:07.141845
+Downloading 311/987 [Ethiopia in 2018 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2017-18-et.xls]
+
+2026-07-09 14:33:08.383484
+Successfully saved to ../../data/original_table/usgs_africa/Ethiopia_2018.xls. Execution time 1.24 seconds
+
+2026-07-09 14:33:11.494048
+Downloading 312/987 [Ethiopia in 2019 from: https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-ethiopia.xlsx]
+
+2026-07-09 14:33:12.685146
+Successfully saved to ../../data/original_table/usgs_africa/Ethiopia_2019.xlsx. Execution time 1.19 seconds
+
+2026-07-09 14:33:15.148651
+Downloading 313/987 [Ethiopia in 2021 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2020-21-Ethiopia-advrel.xlsx]
+
+2026-07-09 14:33:16.192496
+Successfully saved to ../../data/original_table/usgs_africa/Ethiopia_2021.xlsx. Execution time 1.04 seconds
+
+2026-07-09 14:33:18.709745
+Downloading 314/987 [Ethiopia in 2022 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-Ethiopia-advrel.xlsx]
+
+2026-07-09 14:33:18.933580
+Successfully saved to ../../data/original_table/usgs_africa/Ethiopia_2022.xlsx. Execution time 0.22 seconds
+
+2026-07-09 14:33:22.801464
+Downloading 315/987 [Gabon in 2002 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2002/gbmyb02r.xls]
+
+2026-07-09 14:33:22.946076
+Successfully saved to ../../data/original_table/usgs_africa/Gabon_2002.xls. Execution time 0.14 seconds
+
+2026-07-09 14:33:25.693649
+Downloading 316/987 [Gabon in 2003 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2003/gbmyb03.xls]
+
+2026-07-09 14:33:25.889955
+Successfully saved to ../../data/original_table/usgs_africa/Gabon_2003.xls. Execution time 0.20 seconds
+
+2026-07-09 14:33:29.786905
+Downloading 317/987 [Gabon in 2004 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2004/gbmyb04.xls]
+
+2026-07-09 14:33:30.090657
+Successfully saved to ../../data/original_table/usgs_africa/Gabon_2004.xls. Execution time 0.30 seconds
+
+2026-07-09 14:33:32.960587
+Downloading 318/987 [Gabon in 2005 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/gbmyb05.xls]
+
+2026-07-09 14:33:33.370581
+Successfully saved to ../../data/original_table/usgs_africa/Gabon_2005.xls. Execution time 0.41 seconds
+
+2026-07-09 14:33:36.685866
+Downloading 319/987 [Gabon in 2006 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2006/myb3-2006-gb.xls]
+
+2026-07-09 14:33:36.994041
+Successfully saved to ../../data/original_table/usgs_africa/Gabon_2006.xls. Execution time 0.31 seconds
+
+2026-07-09 14:33:39.256418
+Downloading 320/987 [Gabon in 2007 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2007/myb3-2007-gb.xls]
+
+2026-07-09 14:33:39.518032
+Successfully saved to ../../data/original_table/usgs_africa/Gabon_2007.xls. Execution time 0.26 seconds
+
+2026-07-09 14:33:42.280093
+Downloading 321/987 [Gabon in 2008 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2008/myb3-2008-gb.xls]
+
+2026-07-09 14:33:42.633998
+Successfully saved to ../../data/original_table/usgs_africa/Gabon_2008.xls. Execution time 0.35 seconds
+
+2026-07-09 14:33:46.399266
+Downloading 322/987 [Gabon in 2009 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2009/myb3-2009-gb.xls]
+
+2026-07-09 14:33:46.595709
+Successfully saved to ../../data/original_table/usgs_africa/Gabon_2009.xls. Execution time 0.20 seconds
+
+2026-07-09 14:33:49.518290
+Downloading 323/987 [Gabon in 2010 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2010/myb3-2010-gb.xls]
+
+2026-07-09 14:33:49.708488
+Successfully saved to ../../data/original_table/usgs_africa/Gabon_2010.xls. Execution time 0.19 seconds
+
+2026-07-09 14:33:53.411854
+Downloading 324/987 [Gabon in 2011 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2011/myb3-2011-gb.xls]
+
+2026-07-09 14:33:53.600364
+Successfully saved to ../../data/original_table/usgs_africa/Gabon_2011.xls. Execution time 0.19 seconds
+
+2026-07-09 14:33:57.181823
+Downloading 325/987 [Gabon in 2012 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2012/myb3-2012-gb.xls]
+
+2026-07-09 14:33:57.382858
+Successfully saved to ../../data/original_table/usgs_africa/Gabon_2012.xls. Execution time 0.20 seconds
+
+2026-07-09 14:34:01.179494
+Downloading 326/987 [Gabon in 2013 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2013/myb3-2013-gb.xls]
+
+2026-07-09 14:34:01.364471
+Successfully saved to ../../data/original_table/usgs_africa/Gabon_2013.xls. Execution time 0.18 seconds
+
+2026-07-09 14:34:04.071835
+Downloading 327/987 [Gabon in 2014 from: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-gb.xls]
+
+2026-07-09 14:34:04.271744
+Successfully saved to ../../data/original_table/usgs_africa/Gabon_2014.xls. Execution time 0.20 seconds
+
+2026-07-09 14:34:07.460318
+Downloading 328/987 [Gabon in 2015 from: https://wait%20for%20G05%20to%20go%20live%20-%20per%20Beth%09%09%09%0912%09C15%20(M)%20-%20Chromite%20Ores%20and%20Products%09Bobby%09Kevin%09Rajitha%204/19/22%20=%20IT%20feedback%20to%20DV%09%09%09%095%09G08*%20(A),%20G36*%20(A)%20-%20Production%20Estimates%09Velvie%09Velvie%09Rajitha%20needs%20documentation/development%20for%20validation%20report%09%09%09%091%09C10%20(A-data),%20C11%20(Q-data),%20C11*%20(A)%20%E2%80%93%20Bismuth%09Pamela%09Pamela%09Rajitha%204/26/22%20=%20DV%20to%20make%20changes%20from%20last%20feedback,%20then%20mtg%09%09%09%097%09D37%20(S)%20-%20Potash%09%22Velvie%20&%20Pamela%22%09Bobby%09Yibelu%20(Yab)%204/26/22%20=%20never%20got%20SA%20feedback,%20send%20CS%20feedback%20to%20DV%20for%20mods,%20then%20mtg%09%09%09%094%09D66*%20(A)%20%E2%80%93%20Boron%09%22Velvie%20&%20Pamela%22%09Velvie%20(Morganai)%09Yibelu%20(Yab)%204/26/22%20=%20never%20got%20CS%20feedback,%20send%20SA%20feedback%20to%20DV%20for%20mods,%20then%20mtg%09%09%09%0921%09D03%20(QA),%20D04*%20(QA),%20D73%20(A)%20%E2%80%93%20Fluorspar%09%22Velvie%20&%20Pamela%22%09Bobby%09Rajitha%202/24/221%20=%20IT%20Testing%09%09%09%0919%09D06*%20(Q),%20D09%20(A),%20G06%20(Q),%20G07%20(A),%20G33%20(A),%20G39%20(A)%20-%20Abrasives,%20Tripoli,%20Garnet,%20Diamond%09Velvie%09Bobby%09Rajitha%20needs%20documentation/development%20-%20report%20added%20back%20after%20report%20review%20process%09%09%09%091%09A05,%20A11,%20A14,%20C69%20-%20Vanadium%20-%20VMYBT2%20report%20(CS/SA%20crossed%20off,%20asked%20add%20back%20(supv%20approved))%09Morganai%09Kevin%09Rajitha%20needs%20documentation/development%20-%20report%20added%20back%20after%20report%20review%20process%09%09%09%091%09C58%20-%20Lead%20-%20Standard%20Schedule%20%20-%20LWRKT1%20(CS/SA%20crossed%20off,%20asked%20add%20back%20(supv%20approved))%09Bobby%09Pamela%09Hadden%20As%20of%202/17/22%20-%20SA%20waiting%20to%20get%20with%20CS%20for%20their%20approval%09%09%09%09%09C55%20-%20Copper%20-%20generate%20LC%20140%09%09Velvie%09%20pending%20developer%20by%20contractor%09%09%09%09%09C52%20-%20Aluminum%20-%20Estimate%20specific%20resondents%09%09Velvie%09%20pending%20developer%20by%20contractor%09%09%09%09%09C52%20-%20Aluminum%20-%20Estimate%20non%20respones%09%09Velvie%09%20pending%20developer%20by%20contractor%09%09%09%09%09C58%20-%20Lead%20-%20Estimates%09%09Pamela%09%20Velvie%20confirming%20with%20raymond%20if%20really%20have/need%20or%20not%09%09%09%09%09C45%20-%20Moly%20-%20Estimates%09%09Kevin%09%20Velvie%20confirming%20with%20raymond%20if%20really%20have/need%20or%20not%09%09%09%09%09C45%20-%20Moly%20-%20estimates%09%09Kevin%09%20pending%20developer%20by%20contractor%09%09%09%09%09C85,%20C87,%20C88%20-%20Rare%20Earths%20%20-%20generate%20-%20C85,C87,C88.DATA.One%09%09Velvie%09%20pending%20developer%20by%20contractor%09%09%09%09%09All%20Responses%20Report%09%09Velvie%09/palladium/production/atoms/files/myb3-2015-gb.xlsx]
+
